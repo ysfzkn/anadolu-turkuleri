@@ -4,6 +4,8 @@ import { useMemo, useState } from "react";
 import { TurkuCard, type KartTurku } from "./TurkuCard";
 import { slugYap } from "@/lib/slug";
 
+type ArsivTurku = KartTurku & { sozMetni?: string };
+
 /** Yöre adını ("Muğla (Bodrum)" → "Muğla") ayıklar. */
 function ilAdi(yore: string): string {
   return yore.split(/[(/]/)[0].trim();
@@ -13,18 +15,28 @@ function normalize(s: string): string {
   return slugYap(s).replace(/-/g, " ");
 }
 
+function AramaIkonu({ className = "" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" aria-hidden>
+      <circle cx="11" cy="11" r="7" />
+      <path d="m21 21-4.3-4.3" strokeLinecap="round" />
+    </svg>
+  );
+}
+
 export function TurkuArsivi({
   turkuler,
   yoreler,
   etiketler,
 }: {
-  turkuler: KartTurku[];
+  turkuler: ArsivTurku[];
   yoreler: string[];
   etiketler: string[];
 }) {
   const [arama, setArama] = useState("");
-  const [seciliYore, setSeciliYore] = useState<string | null>(null);
+  const [seciliYore, setSeciliYore] = useState("");
   const [seciliEtiket, setSeciliEtiket] = useState<string | null>(null);
+  const [temaAcik, setTemaAcik] = useState(false);
 
   const sonuclar = useMemo(() => {
     const q = normalize(arama.trim());
@@ -34,7 +46,7 @@ export function TurkuArsivi({
         return false;
       if (q) {
         const havuz = normalize(
-          `${t.baslik} ${t.yore} ${(t.etiketler ?? []).join(" ")} ${t.ozet}`,
+          `${t.baslik} ${t.yore} ${(t.etiketler ?? []).join(" ")} ${t.ozet} ${t.sozMetni ?? ""}`,
         );
         if (!havuz.includes(q)) return false;
       }
@@ -43,91 +55,132 @@ export function TurkuArsivi({
   }, [turkuler, arama, seciliYore, seciliEtiket]);
 
   const filtreVar = arama || seciliYore || seciliEtiket;
+  const gorunenTemalar = temaAcik ? etiketler : etiketler.slice(0, 10);
+
+  function temizle() {
+    setArama("");
+    setSeciliYore("");
+    setSeciliEtiket(null);
+  }
 
   return (
     <div>
       {/* Arama */}
-      <div className="mb-4">
+      <div className="relative">
+        <AramaIkonu className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-ceviz-light/60" />
         <input
           type="search"
           value={arama}
           onChange={(e) => setArama(e.target.value)}
-          placeholder="Türkü, yöre ya da tema ara…"
-          className="w-full rounded-xl border border-toprak/40 bg-parsomen px-4 py-3 text-ceviz placeholder:text-ceviz-light/60 focus:border-kilim focus:outline-none focus:ring-2 focus:ring-kilim/20"
+          placeholder="Türkü, yöre, tema ya da söz ara…"
+          className="w-full rounded-2xl border border-toprak/40 bg-parsomen py-3.5 pl-12 pr-4 text-ceviz shadow-sm placeholder:text-ceviz-light/60 focus:border-kilim focus:outline-none focus:ring-2 focus:ring-kilim/20"
         />
       </div>
+      <p className="mt-1.5 px-1 text-xs text-ceviz-light/70">
+        Arama şarkı sözlerinde de eşleşir.
+      </p>
 
-      {/* Filtreler */}
-      <div className="mb-6 space-y-3">
-        <div className="flex flex-wrap items-center gap-1.5">
-          <span className="mr-1 text-xs font-medium uppercase tracking-wide text-cini-dark/70">
-            Yöre
+      {/* Filtre çubuğu */}
+      <div className="mt-4 flex flex-wrap items-center gap-2">
+        {/* Yöre seçimi */}
+        <div className="relative">
+          <select
+            value={seciliYore}
+            onChange={(e) => setSeciliYore(e.target.value)}
+            className="appearance-none rounded-full border border-kilim/40 bg-kilim/5 py-1.5 pl-3.5 pr-9 text-sm font-medium text-kilim-dark focus:border-kilim focus:outline-none"
+          >
+            <option value="">Tüm yöreler</option>
+            {yoreler.map((y) => (
+              <option key={y} value={y}>
+                {y}
+              </option>
+            ))}
+          </select>
+          <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-kilim-dark">
+            ▾
           </span>
-          {yoreler.map((y) => (
-            <button
-              key={y}
-              onClick={() => setSeciliYore(seciliYore === y ? null : y)}
-              className={`rounded-full border px-2.5 py-0.5 text-sm transition-colors ${
-                seciliYore === y
-                  ? "border-kilim bg-kilim text-parsomen"
-                  : "border-kilim/30 bg-kilim/5 text-kilim-dark hover:bg-kilim/10"
-              }`}
-            >
-              {y}
-            </button>
-          ))}
         </div>
-        <div className="flex flex-wrap items-center gap-1.5">
-          <span className="mr-1 text-xs font-medium uppercase tracking-wide text-cini-dark/70">
-            Tema
-          </span>
-          {etiketler.map((e) => (
-            <button
-              key={e}
-              onClick={() => setSeciliEtiket(seciliEtiket === e ? null : e)}
-              className={`rounded-full border px-2.5 py-0.5 text-sm transition-colors ${
-                seciliEtiket === e
-                  ? "border-cini bg-cini text-parsomen"
-                  : "border-cini/30 bg-cini/5 text-cini-dark hover:bg-cini/10"
-              }`}
-            >
-              {e}
-            </button>
-          ))}
-        </div>
+
+        {/* Tema çipleri */}
+        {gorunenTemalar.map((e) => (
+          <button
+            key={e}
+            onClick={() => setSeciliEtiket(seciliEtiket === e ? null : e)}
+            className={`rounded-full border px-3 py-1.5 text-sm transition-colors ${
+              seciliEtiket === e
+                ? "border-cini bg-cini text-parsomen"
+                : "border-cini/30 bg-cini/5 text-cini-dark hover:bg-cini/10"
+            }`}
+          >
+            {e}
+          </button>
+        ))}
+        {etiketler.length > 10 && (
+          <button
+            onClick={() => setTemaAcik((a) => !a)}
+            className="rounded-full px-2 py-1.5 text-sm text-ceviz-light hover:text-kilim"
+          >
+            {temaAcik ? "− daha az" : `+${etiketler.length - 10} tema`}
+          </button>
+        )}
       </div>
 
-      {/* Sonuç başlığı */}
-      <div className="mb-4 flex items-center justify-between">
-        <span className="text-sm text-ceviz-light">
+      {/* Aktif filtreler + sonuç */}
+      <div className="mt-5 flex flex-wrap items-center gap-2 border-t border-toprak/20 pt-4">
+        <span className="text-sm font-medium text-ceviz">
           {sonuclar.length} türkü
         </span>
+        {seciliYore && (
+          <FiltrePili etiket={seciliYore} onSil={() => setSeciliYore("")} />
+        )}
+        {seciliEtiket && (
+          <FiltrePili
+            etiket={seciliEtiket}
+            onSil={() => setSeciliEtiket(null)}
+          />
+        )}
+        {arama && (
+          <FiltrePili etiket={`"${arama}"`} onSil={() => setArama("")} />
+        )}
         {filtreVar && (
           <button
-            onClick={() => {
-              setArama("");
-              setSeciliYore(null);
-              setSeciliEtiket(null);
-            }}
-            className="text-sm text-kilim hover:text-kilim-dark"
+            onClick={temizle}
+            className="ml-auto text-sm text-kilim hover:text-kilim-dark"
           >
-            Filtreleri temizle
+            Tümünü temizle
           </button>
         )}
       </div>
 
       {/* Izgara */}
-      {sonuclar.length > 0 ? (
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {sonuclar.map((t) => (
-            <TurkuCard key={t.slug} turku={t} />
-          ))}
-        </div>
-      ) : (
-        <p className="rounded-2xl border border-toprak/30 bg-parsomen-dark/40 p-8 text-center text-ceviz-light">
-          Aramanıza uygun türkü bulunamadı.
-        </p>
-      )}
+      <div className="mt-6">
+        {sonuclar.length > 0 ? (
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {sonuclar.map((t) => (
+              <TurkuCard key={t.slug} turku={t} />
+            ))}
+          </div>
+        ) : (
+          <p className="rounded-2xl border border-toprak/30 bg-parsomen-dark/40 p-8 text-center text-ceviz-light">
+            Aramanıza uygun türkü bulunamadı.
+          </p>
+        )}
+      </div>
     </div>
+  );
+}
+
+function FiltrePili({ etiket, onSil }: { etiket: string; onSil: () => void }) {
+  return (
+    <span className="inline-flex items-center gap-1 rounded-full bg-toprak/10 py-1 pl-3 pr-1.5 text-sm text-ceviz">
+      {etiket}
+      <button
+        onClick={onSil}
+        className="flex h-5 w-5 items-center justify-center rounded-full text-ceviz-light hover:bg-toprak/20 hover:text-kilim"
+        aria-label="Kaldır"
+      >
+        ×
+      </button>
+    </span>
   );
 }

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { tarayiciSupabase } from "@/lib/supabase/client";
+import { GoogleIkon, SpotifyIkon } from "./MarkaIkonlari";
 
 const SPOTIFY_SCOPES =
   "playlist-modify-public playlist-modify-private user-read-email";
@@ -40,19 +41,15 @@ export function GirisPaneli() {
         disabled={durum === "yonleniyor"}
         className="flex w-full items-center justify-center gap-3 rounded-xl border border-toprak/40 bg-parsomen px-4 py-3 font-medium text-ceviz transition-colors hover:border-kilim/50 hover:bg-kilim/5 disabled:opacity-60"
       >
-        <span className="text-lg" aria-hidden>
-          G
-        </span>
+        <GoogleIkon className="h-5 w-5" />
         Google ile giriş
       </button>
       <button
         onClick={() => giris("spotify")}
         disabled={durum === "yonleniyor"}
-        className="flex w-full items-center justify-center gap-3 rounded-xl bg-cini px-4 py-3 font-medium text-parsomen transition-colors hover:bg-cini-dark disabled:opacity-60"
+        className="flex w-full items-center justify-center gap-3 rounded-xl bg-[#1DB954] px-4 py-3 font-medium text-white transition-colors hover:bg-[#1aa34a] disabled:opacity-60"
       >
-        <span className="text-lg" aria-hidden>
-          ♫
-        </span>
+        <SpotifyIkon className="h-5 w-5" />
         Spotify ile giriş
       </button>
 

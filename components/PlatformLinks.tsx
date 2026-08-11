@@ -1,18 +1,31 @@
 import type { PlatformBaglantisi } from "@/lib/types";
+import {
+  SpotifyIkon,
+  YouTubeIkon,
+  AppleMusicIkon,
+} from "./MarkaIkonlari";
 
 const ETIKET: Record<PlatformBaglantisi["platform"], string> = {
-  youtube: "YouTube'da dinle",
-  spotify: "Spotify'da dinle",
+  youtube: "YouTube",
+  spotify: "Spotify",
   "apple-music": "Apple Music",
   diger: "Dinle",
 };
 
 const RENK: Record<PlatformBaglantisi["platform"], string> = {
-  youtube: "border-kilim/40 text-kilim-dark hover:bg-kilim hover:text-parsomen",
-  spotify: "border-cini/40 text-cini-dark hover:bg-cini hover:text-parsomen",
-  "apple-music": "border-ceviz/30 text-ceviz hover:bg-ceviz hover:text-parsomen",
+  youtube: "border-[#FF0000]/30 text-[#c4302b] hover:bg-[#FF0000] hover:text-white",
+  spotify: "border-[#1DB954]/40 text-[#1a9e49] hover:bg-[#1DB954] hover:text-white",
+  "apple-music": "border-[#FA243C]/30 text-[#d81f34] hover:bg-[#FA243C] hover:text-white",
   diger: "border-toprak/40 text-toprak-dark hover:bg-toprak hover:text-parsomen",
 };
+
+function Ikon({ platform }: { platform: PlatformBaglantisi["platform"] }) {
+  const c = "h-4 w-4 shrink-0";
+  if (platform === "youtube") return <YouTubeIkon className={c} />;
+  if (platform === "spotify") return <SpotifyIkon className={c} />;
+  if (platform === "apple-music") return <AppleMusicIkon className={c} />;
+  return null;
+}
 
 export function PlatformLinks({
   baglantilar,
@@ -28,8 +41,9 @@ export function PlatformLinks({
           href={b.url}
           target="_blank"
           rel="noopener noreferrer"
-          className={`inline-flex items-center gap-2 rounded-xl border px-4 py-2 text-sm font-medium transition-colors ${RENK[b.platform]}`}
+          className={`inline-flex items-center gap-2 rounded-xl border bg-parsomen px-4 py-2 text-sm font-medium transition-colors ${RENK[b.platform]}`}
         >
+          <Ikon platform={b.platform} />
           {ETIKET[b.platform]}
           {b.icra ? ` · ${b.icra}` : ""}
           {!b.dogrulandi && (

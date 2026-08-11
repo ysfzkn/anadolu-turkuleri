@@ -100,7 +100,7 @@ export function ilTurkuleri(ilSlugu: string): Turku[] {
   return tumTurkuler().filter((t) => ilSlug(t.yore) === ilSlugu);
 }
 
-/** Kart/liste görünümleri için hafif alt küme (hikâye/sözler taşımaz). */
+/** Kart/liste görünümleri için hafif alt küme + arama için söz metni. */
 export function kartlar() {
   return tumTurkuler().map((t) => ({
     slug: t.slug,
@@ -108,6 +108,11 @@ export function kartlar() {
     yore: t.yore,
     ozet: t.ozet,
     etiketler: t.etiketler,
+    // Yalnızca aramada kullanılır; kartta gösterilmez.
+    sozMetni: (t.sozler ?? [])
+      .flatMap((k) => k.satirlar)
+      .join(" ")
+      .toLowerCase(),
   }));
 }
 
