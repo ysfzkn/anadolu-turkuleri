@@ -207,3 +207,11 @@ dikkatli paylaş); ben şunları kurayım:
 - Kişisel liste oluşturma/kaydetme + herkese açık paylaşım sayfası (Anadolu
   desenli liste görünümü, PNG/PDF dışa aktarma)
 - "Spotify listeme ekle" butonu ve türkü sayfalarında 30sn önizleme
+
+## 4) Canlı oyunlar ve liderlik tablosu
+
+Supabase Dashboard → **SQL Editor** ekranında ayrıca
+`supabase/migrations/20260811_oyunlar.sql` dosyasının tamamını çalıştır.
+Bu migration davet kodlu iki kişilik odaları, Realtime yayınını ve kullanıcı
+adıyla görünen liderlik tablosunu kurar. Tek kişilik oyunlar bu migration
+olmadan da çalışır; yalnızca “Canlı Meydan Okuma” veritabanını bekler.

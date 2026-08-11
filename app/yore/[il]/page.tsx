@@ -6,6 +6,7 @@ import { bolgeBul, BOLGE_ADI } from "@/lib/yore-bolge";
 import { TurkuCard } from "@/components/TurkuCard";
 import { YoreMotifi } from "@/components/YoreMotifi";
 import { KonserAra } from "@/components/KonserAra";
+import { YoreVitrini } from "@/components/YoreVitrini";
 
 export function generateStaticParams() {
   return iller().map((il) => ({ il: il.slug }));
@@ -50,6 +51,8 @@ export default function YoreSayfasi({ params }: { params: { il: string } }) {
       </header>
 
       <YoreMotifi bolge={bolge} className="mb-8 opacity-80" />
+
+      <YoreVitrini il={il.ad} bolge={bolge} />
 
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {turkuler.map((t) => (

@@ -1,113 +1,155 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 
 interface Veri {
+  id?: string | null;
   ad?: string;
   sanatci?: string;
   onizlemeUrl?: string | null;
   spotifyUrl?: string | null;
   gorsel?: string | null;
+  guven?: number;
 }
 
-export function OnizlemeCalar({ sorgu }: { sorgu: string }) {
-  const [durum, setDurum] = useState<
-    "hazir" | "yukleniyor" | "acik" | "yok"
-  >("hazir");
+const SES_IZNI = "anadolu-sesli-onizleme";
+
+export function OnizlemeCalar({
+  sorgu,
+  baslik,
+  yore,
+  ozan,
+  kompakt = false,
+}: {
+  sorgu: string;
+  baslik?: string;
+  yore?: string;
+  ozan?: string;
+  kompakt?: boolean;
+}) {
+  const [durum, setDurum] = useState<"yukleniyor" | "izin" | "acik" | "yok">("yukleniyor");
   const [veri, setVeri] = useState<Veri | null>(null);
   const [caliyor, setCaliyor] = useState(false);
+  const [engellendi, setEngellendi] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  async function getir() {
-    setDurum("yukleniyor");
+  const oynat = useCallback(async () => {
+    const audio = audioRef.current;
+    if (!audio) return;
     try {
-      const res = await fetch(`/api/onizleme?q=${encodeURIComponent(sorgu)}`);
-      const d: Veri = await res.json();
-      if (!d || (!d.onizlemeUrl && !d.spotifyUrl)) {
-        setDurum("yok");
-        return;
-      }
-      setVeri(d);
-      setDurum("acik");
+      await audio.play();
+      setCaliyor(true);
+      setEngellendi(false);
     } catch {
-      setDurum("yok");
+      setCaliyor(false);
+      setEngellendi(true);
     }
+  }, []);
+
+  useEffect(() => {
+    let iptal = false;
+    async function getir() {
+      setDurum("yukleniyor");
+      try {
+        const params = new URLSearchParams({ q: sorgu });
+        if (baslik) params.set("baslik", baslik);
+        if (yore) params.set("yore", yore);
+        if (ozan) params.set("ozan", ozan);
+        const res = await fetch(`/api/onizleme?${params}`);
+        const data: Veri = await res.json();
+        if (iptal) return;
+        if (!data?.onizlemeUrl && !data?.spotifyUrl) {
+          setDurum("yok");
+          return;
+        }
+        setVeri(data);
+        const izinli = window.sessionStorage.getItem(SES_IZNI) === "1";
+        setDurum(izinli ? "acik" : "izin");
+      } catch {
+        if (!iptal) setDurum("yok");
+      }
+    }
+    void getir();
+    return () => { iptal = true; };
+  }, [sorgu, baslik, yore, ozan]);
+
+  useEffect(() => {
+    if (durum === "acik" && veri?.onizlemeUrl && window.sessionStorage.getItem(SES_IZNI) === "1") {
+      void oynat();
+    }
+  }, [durum, veri?.onizlemeUrl, oynat]);
+
+  async function izinVer() {
+    window.sessionStorage.setItem(SES_IZNI, "1");
+    setDurum("acik");
+    setTimeout(() => void oynat(), 0);
   }
 
   function calDurdur() {
-    const a = audioRef.current;
-    if (!a) return;
+    const audio = audioRef.current;
+    if (!audio) return;
     if (caliyor) {
-      a.pause();
+      audio.pause();
       setCaliyor(false);
-    } else {
-      a.play();
-      setCaliyor(true);
-    }
+    } else void oynat();
   }
 
-  if (durum === "hazir" || durum === "yukleniyor") {
+  if (durum === "yukleniyor") {
+    return <span className="inline-flex min-h-11 animate-pulse items-center rounded-xl border border-cini/20 bg-cini/5 px-4 text-sm text-cini-dark">Spotify eşleşmesi aranıyor…</span>;
+  }
+
+  if (durum === "yok") {
+    return <span className="inline-flex min-h-11 items-center rounded-xl border border-toprak/25 px-4 text-sm text-ceviz-light">Önizleme bulunamadı</span>;
+  }
+
+  if (durum === "izin") {
     return (
-      <button
-        onClick={getir}
-        disabled={durum === "yukleniyor"}
-        className="inline-flex items-center gap-2 rounded-xl border border-cini/40 bg-cini/5 px-4 py-2 text-sm font-medium text-cini-dark transition-colors hover:bg-cini hover:text-parsomen disabled:opacity-60"
-      >
-        {durum === "yukleniyor" ? "Aranıyor…" : "♫ 30sn önizleme"}
+      <button onClick={izinVer} className="group inline-flex min-h-12 items-center gap-3 rounded-2xl border border-[#1DB954]/35 bg-[#1DB954]/10 px-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:bg-[#1DB954]/15 hover:shadow-md">
+        <span className="grid h-8 w-8 place-items-center rounded-full bg-[#1DB954] text-white" aria-hidden>▶</span>
+        <span>
+          <span className="block text-sm font-semibold text-ceviz">30 sn önizlemeyi otomatik çal</span>
+          {!kompakt && <span className="block text-xs text-ceviz-light">Bu sekme için ses izni ver</span>}
+        </span>
       </button>
     );
   }
 
-  if (durum === "yok") {
+  if (!veri?.onizlemeUrl && veri?.id) {
     return (
-      <span className="inline-flex items-center gap-2 rounded-xl border border-toprak/30 px-4 py-2 text-sm text-ceviz-light">
-        Önizleme bulunamadı
-      </span>
+      <div className="w-full max-w-xl overflow-hidden rounded-2xl border border-[#1DB954]/35 bg-white/55 shadow-sm">
+        <div className="flex items-center gap-3 px-4 py-3">
+          {veri.gorsel && <img src={veri.gorsel} alt="" className="h-10 w-10 rounded-xl object-cover" />}
+          <div className="min-w-0 flex-1"><p className="truncate text-sm font-semibold text-ceviz">En olası Spotify eşleşmesi · {veri.ad}</p><p className="truncate text-xs text-ceviz-light">{veri.sanatci} · Spotify oynatıcısı</p></div>
+        </div>
+        <iframe
+          title={`${veri.ad} Spotify oynatıcısı`}
+          src={`https://open.spotify.com/embed/track/${veri.id}?utm_source=generator&theme=0&autoplay=1`}
+          width="100%"
+          height="152"
+          loading="lazy"
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          className="block border-0"
+        />
+      </div>
     );
   }
 
-  // durum === "acik"
   return (
-    <div className="inline-flex items-center gap-3 rounded-xl border border-cini/40 bg-cini/5 px-3 py-2">
-      {veri?.gorsel && (
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={veri.gorsel}
-          alt=""
-          className="h-10 w-10 rounded object-cover"
-        />
-      )}
-      <div className="min-w-0 text-sm">
-        <div className="truncate font-medium text-ceviz">{veri?.ad}</div>
+    <div className={`flex items-center gap-3 rounded-2xl border border-[#1DB954]/35 bg-white/55 p-2.5 shadow-sm ${kompakt ? "max-w-sm" : "min-w-[280px]"}`}>
+      {veri?.gorsel ? <img src={veri.gorsel} alt="" className="h-11 w-11 shrink-0 rounded-xl object-cover" /> : <span className="grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-[#1DB954] text-white">♫</span>}
+      <div className="min-w-0 flex-1">
+        <div className="truncate text-sm font-semibold text-ceviz">{veri?.ad}</div>
         <div className="truncate text-xs text-ceviz-light">{veri?.sanatci}</div>
+        {engellendi && <div className="text-[11px] text-kilim">Tarayıcı engelledi · oynat’a dokun</div>}
       </div>
       {veri?.onizlemeUrl ? (
         <>
-          <button
-            onClick={calDurdur}
-            className="rounded-lg bg-cini px-3 py-1.5 text-sm font-medium text-parsomen hover:bg-cini-dark"
-          >
-            {caliyor ? "❚❚" : "▶"}
+          <button onClick={calDurdur} aria-label={caliyor ? "Önizlemeyi duraklat" : "Önizlemeyi oynat"} className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-[#1DB954] font-semibold text-white transition hover:scale-105">
+            {caliyor ? "Ⅱ" : "▶"}
           </button>
-          <audio
-            ref={audioRef}
-            src={veri.onizlemeUrl}
-            onEnded={() => setCaliyor(false)}
-            preload="none"
-          />
+          <audio ref={audioRef} src={veri.onizlemeUrl} onEnded={() => setCaliyor(false)} onPause={() => setCaliyor(false)} preload="auto" />
         </>
-      ) : (
-        veri?.spotifyUrl && (
-          <a
-            href={veri.spotifyUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="rounded-lg bg-cini px-3 py-1.5 text-sm font-medium text-parsomen hover:bg-cini-dark"
-          >
-            Spotify'da aç
-          </a>
-        )
-      )}
+      ) : null}
     </div>
   );
 }

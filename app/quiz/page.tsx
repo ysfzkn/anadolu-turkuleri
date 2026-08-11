@@ -1,35 +1,21 @@
 import type { Metadata } from "next";
 import { tumTurkuler, ilAdi } from "@/lib/data";
-import { Quiz } from "@/components/Quiz";
-import { StarMotif } from "@/components/Motif";
+import { OyunMerkezi } from "@/components/OyunMerkezi";
 
 export const metadata: Metadata = {
-  title: "Türkü Bilgi Oyunu",
-  description:
-    "Türküleri yörelerine göre bil, seri yap, rozet topla. Eğlenceli bir türkü bilgi oyunu.",
+  title: "Anadolu Oyunları",
+  description: "Türküleri, yöreleri, ozanları ve hikâyeleri interaktif oyunlarla keşfet; arkadaşına canlı meydan oku.",
 };
 
-export default function QuizSayfasi() {
+export default function OyunSayfasi() {
   const veri = tumTurkuler().map((t) => ({
     slug: t.slug,
     baslik: t.baslik,
     il: ilAdi(t.yore),
+    ozet: t.ozet,
+    ozan: t.ozan ?? t.sozYazari ?? null,
+    etiketler: t.etiketler ?? [],
+    sozler: t.sozler.flatMap((kita) => kita.satirlar),
   }));
-
-  return (
-    <div className="mx-auto max-w-3xl px-4 py-10">
-      <div className="mb-8 text-center">
-        <span className="mx-auto mb-3 flex w-fit text-toprak">
-          <StarMotif size={40} />
-        </span>
-        <h1 className="font-serif text-3xl font-semibold text-ceviz">
-          Türkü Bilgi Oyunu
-        </h1>
-        <p className="mt-2 text-ceviz-light">
-          Türkünün adından yöresini bul; seri yap, rozet topla.
-        </p>
-      </div>
-      <Quiz turkuler={veri} />
-    </div>
-  );
+  return <main className="mx-auto max-w-6xl px-4 py-8 sm:py-10"><OyunMerkezi turkuler={veri} /></main>;
 }

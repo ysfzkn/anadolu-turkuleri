@@ -13,6 +13,7 @@ import { OnizlemeCalar } from "@/components/OnizlemeCalar";
 import { RepertuvaraEkle } from "@/components/RepertuvaraEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
+import { YoreVitrini } from "@/components/YoreVitrini";
 
 export function generateStaticParams() {
   return tumSluglar().map((slug) => ({ slug }));
@@ -93,10 +94,17 @@ export default function TurkuSayfasi({
         </dl>
       </header>
 
+      <div className="mb-7"><YoreVitrini il={turku.yore} bolge={bolge} kompakt /></div>
+
       {/* Dinle + Önizleme + Listeye ekle */}
       <section className="mb-8 flex flex-wrap items-center gap-3">
         <PlatformLinks baglantilar={turku.baglantilar} />
-        <OnizlemeCalar sorgu={`${turku.baslik} ${turku.yore}`} />
+        <OnizlemeCalar
+          sorgu={`${turku.baslik} ${turku.ozan ?? turku.sozYazari ?? "türkü"}`}
+          baslik={turku.baslik}
+          yore={turku.yore}
+          ozan={turku.ozan ?? turku.sozYazari}
+        />
         <ListeyeEkle turkuSlug={turku.slug} />
         <RepertuvaraEkle turkuSlug={turku.slug} />
       </section>
