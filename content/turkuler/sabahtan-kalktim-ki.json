@@ -1,0 +1,71 @@
+{
+  "slug": "sabahtan-kalktim-ki",
+  "baslik": "Sabahtan Kalktım ki",
+  "yore": "Tokat",
+  "hikaye": "Sabahtan Kalktım ki, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan kalktım ki ezen sesi var",
+        "Ezen de sesi değil (yâr yâr) burçak yası var",
+        "Bakın şu adamın kaç tarlası var",
+        ":Aman da kızlar ne zorumuş burçak yolması",
+        ":Burçak tarlasında yâr yâr gelin olması",
+        ":Eğdirme fesini yâr yâr gahar da giderim",
+        ":Evini başına yıhar da giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan kalktım da sütü pişirdim",
+        "Sütün (de) köpüğünü (yâr yâr) yere taşırdım",
+        "Burçak tarlasında aklım şaşırdım",
+        ":Aman da kızlar ne zorumuş burçak yolması",
+        ":Burçak tarlasında yâr yâr gelin olması",
+        ":Eğdirme fesini yâr yâr gahar da giderim",
+        ":Evini başına yıhar da giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elimi salladım değdi dikene",
+        "İntizar eyledim yâr yâr burçak ekene",
+        "İlahi kaynana ömrün tükene",
+        ":Aman da kızlar ne zorumuş burçak yolması",
+        ":Burçak tarlasında yâr yâr gelin olması",
+        ":Eğdirme fesini yâr yâr gahar da giderim",
+        ":Evini başına yıhar da giderim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabahtan%20Kalkt%C4%B1m%20ki%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabahtan%20Kalkt%C4%B1m%20ki",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahtan Kalktım ki",
+      "url": "https://tr.wikisource.org/wiki/Sabahtan_Kalkt%C4%B1m_ki",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

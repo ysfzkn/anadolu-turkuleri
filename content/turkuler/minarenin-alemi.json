@@ -1,0 +1,64 @@
+{
+  "slug": "minarenin-alemi",
+  "baslik": "Minarenin Alemi",
+  "yore": "Niğde",
+  "hikaye": "Minarenin Alemi, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Minarenin alemi",
+        "Kara kaşın kalemi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalem alıp kaşlarını yazdırayım amman",
+        "Gerdanına liraları dizdireyim amman",
+        "Seni alıp diyar diyar gezdireyim amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Minare ince ince",
+        "Ölürüm görmeyince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gerdanına liraları dizdireyim amman",
+        "Seni alıp diyar diyar gezdireyim amman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Minarenin%20Alemi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Minarenin%20Alemi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Minarenin Alemi",
+      "url": "https://tr.wikisource.org/wiki/Minarenin_Alemi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

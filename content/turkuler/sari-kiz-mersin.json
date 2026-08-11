@@ -1,0 +1,62 @@
+{
+  "slug": "sari-kiz-mersin",
+  "baslik": "Sarı Kız",
+  "yore": "Mersin",
+  "hikaye": "Sarı Kız, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağ ayrı bostan ayrı",
+        "Ayrıldım dosttan gayrı",
+        "Geliver geliver",
+        "Aslan yarim gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı kızın sarı saçı sallansın",
+        "Öptük sıra şeker dudak ballansın",
+        "Geliver geliver",
+        "Gostak yarim gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu avludan şu avluya yol gider",
+        "Hanımlara deste deste gül gider",
+        "Geliver geliver",
+        "Aslan yarim gel gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20K%C4%B1z%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20K%C4%B1z",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarı Kız",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1_K%C4%B1z",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

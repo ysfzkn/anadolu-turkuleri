@@ -1,0 +1,77 @@
+{
+  "slug": "degirmen-basinda-vurdular-beni",
+  "baslik": "Değirmen Başında Vurdular Beni",
+  "yore": "Erzurum",
+  "hikaye": "Değirmen Başında Vurdular Beni, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmen başında vurdular beni vuy",
+        "Kirli tütünlüğe (oğul oğul oğul) sardılar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurma Ragıp vurma nar danesiyem vuy",
+        "Anamın babamın (oğul oğul oğul ) bir danesiyem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmen başında vuy ana tepem vuy",
+        "Gaytan bıyıhlaran (oğul oğul oğul) gül suyi serpem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurma Ragıp vurma nar danesiyem vuy",
+        "Anamın babamın (oğul oğul oğul) bir danesiyem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım nar ağacına vuy",
+        "Perçemim dolaştı (oğul oğul oğul) gül ağacına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurma Ragıp vurma nar danesiyem vuy",
+        "Anamın babamın (oğul oğul oğul) bir danesiyem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=De%C4%9Firmen%20Ba%C5%9F%C4%B1nda%20Vurdular%20Beni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/De%C4%9Firmen%20Ba%C5%9F%C4%B1nda%20Vurdular%20Beni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Değirmen Başında Vurdular Beni",
+      "url": "https://tr.wikisource.org/wiki/De%C4%9Firmen_Ba%C5%9F%C4%B1nda_Vurdular_Beni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "aglama-gelinim-aglama",
+  "baslik": "Ağlama Gelinim Ağlama",
+  "yore": "Konya",
+  "hikaye": "Ağlama Gelinim Ağlama, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama gelinim ağlama",
+        "Mor yemeniler de bağlama",
+        "Yolcuyum yolumuzdan eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelini bindirin ata",
+        "Atlardan inerek basar",
+        "Güveyi de Allah’ tan korkmaz",
+        "Ağlama gelinim ağlama",
+        "Mor yemeniler de bağlama",
+        "Yolcuyum yolumuzdan eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama gelinim ağlama",
+        "Mor yemeniler de bağlama",
+        "Yolcuyum yolumuzdan eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelini bindirin ata",
+        "Atlardan inerek basar",
+        "Güveyi de Allah’ tan korkmaz",
+        "Ağlama gelinim ağlama",
+        "Mor yemeniler de bağlama",
+        "Yolcuyum yolumuzdan eyleme"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Flama%20Gelinim%20A%C4%9Flama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Flama%20Gelinim%20A%C4%9Flama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağlama Gelinim Ağlama",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Flama_Gelinim_A%C4%9Flama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

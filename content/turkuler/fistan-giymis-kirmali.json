@@ -1,0 +1,89 @@
+{
+  "slug": "fistan-giymis-kirmali",
+  "baslik": "Fistan Giymiş Kırmalı",
+  "yore": "Çorum",
+  "hikaye": "Fistan Giymiş Kırmalı, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fistan giymiş kırmalı",
+        "Göğsü çapraz düğmeli",
+        "Şu Çorum'un kızları",
+        "Hep anadan sürmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim mini mini güzel fındığım",
+        "Bilmiyon mu benim sana yandığım",
+        "Niçin bize bazı bazı gelmiyon",
+        "Küskün müsün hiç yüzüme gülmüyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerin güllüdür",
+        "Bağrımız bir türlüdür",
+        "Bizim elin kızları",
+        "Hep de ince bellidir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim mini mini güzel fındığım",
+        "Bilmiyon mu benim sana yandığım",
+        "Niçin bize bazı bazı gelmiyon",
+        "Küskün müsün hiç yüzüme gülmüyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Penceresi perdeli",
+        "Çiçek açtı zerdali",
+        "Yenile bir yar sevdim",
+        "Şu diyarda bir tane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim mini mini güzel fındığım",
+        "Bilmiyon mu benim sana yandığım",
+        "Niçin bize bazı bazı gelmiyon",
+        "Küskün müsün hiç yüzüme gülmüyon"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fistan%20Giymi%C5%9F%20K%C4%B1rmal%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fistan%20Giymi%C5%9F%20K%C4%B1rmal%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fistan Giymiş Kırmalı",
+      "url": "https://tr.wikisource.org/wiki/Fistan_Giymi%C5%9F_K%C4%B1rmal%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

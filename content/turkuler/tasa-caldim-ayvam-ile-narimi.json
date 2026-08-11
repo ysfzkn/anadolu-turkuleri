@@ -1,0 +1,69 @@
+{
+  "slug": "tasa-caldim-ayvam-ile-narimi",
+  "baslik": "Taşa Çaldım Ayvam ile Narımı",
+  "yore": "Nevşehir",
+  "hikaye": "Taşa Çaldım Ayvam ile Narımı, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taşa çaldım ayva ile narımı,",
+        "Hep harcadım elde olan malımı.",
+        "Eğer yarim ben gider de gelmezsem,",
+        "Kırmızı güllerde ara rengimi."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yar hele hele hele hele yandım yar,",
+        "Bu sene de gurbet elde kaldım yar,",
+        "Bir kötüye nasıl meyil verdim yar."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul’dan ayva gelir nar gelir,",
+        "Gömlek giymiş etekleri dar gelir.",
+        "Döndüm baktım sevdiceğim yar gelir.",
+        "Ellerinde deste deste gül gelir."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yar hele hele hele hele yandım yar,",
+        "Bu sene de gurbet elde kaldım yar,",
+        "Bir kötüye nasıl meyil verdim yar."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ta%C5%9Fa%20%C3%87ald%C4%B1m%20Ayvam%20ile%20Nar%C4%B1m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ta%C5%9Fa%20%C3%87ald%C4%B1m%20Ayvam%20ile%20Nar%C4%B1m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Taşa Çaldım Ayvam ile Narımı",
+      "url": "https://tr.wikisource.org/wiki/Ta%C5%9Fa_%C3%87ald%C4%B1m_Ayvam_ile_Nar%C4%B1m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Nevşehir",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

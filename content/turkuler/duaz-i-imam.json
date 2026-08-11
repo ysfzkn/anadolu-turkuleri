@@ -1,0 +1,89 @@
+{
+  "slug": "duaz-i-imam",
+  "baslik": "Duaz-ı İmam",
+  "yore": "Erzurum",
+  "hikaye": "Duaz-ı İmam, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kudret kandilinde balkıyıp duran",
+        "Muhammet Ali'nin nurudur billah",
+        "Zuhur edip kuffarın meskenin yıkan",
+        "Elinde zülfikar Ali'dir billah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde zülfikar altında düldül",
+        "Önünce kamberin dilleri bülbül",
+        "Hz. Fatma anam cennette bir gül",
+        "Ona sırrım dedi hak resulullah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fatma anadan geldi hasan hüseyin",
+        "Onların nuruyla ziyalandı din",
+        "Kırklara erişti zeynel abidin",
+        "Çekeriz yasını hasbeten billah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muhammet bakırdan Cafer-i Sadık",
+        "Musa-i Kazım İrıza'dan bin yadip durduk",
+        "Tarikat abıyla cesedi yuduk",
+        "Hak buyurdu müminin kalbi beytullah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taki, Naki imamların şivani",
+        "Hasan-ul Askeri cismin sultanı",
+        "Elinde zülfikar sahip zamanı",
+        "Vakit tamam oldu göndere Allah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Noksaniyem niyazımız ustada",
+        "Elinde zülfikar hem ehli kanda",
+        "Bin bir donda baş gösterdi",
+        "Aliyel Murtaza mürşidimiz bülbülümüz eyvallah"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Duaz-%C4%B1%20%C4%B0mam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Duaz-%C4%B1%20%C4%B0mam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Duaz-ı İmam (Erzurum)",
+      "url": "https://tr.wikisource.org/wiki/Duaz-%C4%B1_%C4%B0mam_(Erzurum)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

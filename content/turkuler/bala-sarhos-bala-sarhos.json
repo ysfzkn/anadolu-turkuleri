@@ -1,0 +1,55 @@
+{
+  "slug": "bala-sarhos-bala-sarhos",
+  "baslik": "Bala Sarhoş Bala Sarhoş",
+  "yore": "Erzurum",
+  "hikaye": "Bala Sarhoş Bala Sarhoş, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Oğul oğul) bala sarhoş bala sarhoş",
+        "(Yavrum) beşikte bala sarhoş",
+        "(Oğul oğul)",
+        "Hana bir nalbant gelmiş (ey)",
+        "Mıh vurur nala sarhoş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Oğul oğul) bu haber ne haberdir",
+        "(Yavrum) sinem gabar gabardır",
+        "(Oğul oğul)",
+        "Bir yanım kurt kuş yemiş (ey)",
+        "Bir yanım bi haberdir"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bala%20Sarho%C5%9F%20Bala%20Sarho%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bala%20Sarho%C5%9F%20Bala%20Sarho%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bala Sarhoş Bala Sarhoş",
+      "url": "https://tr.wikisource.org/wiki/Bala_Sarho%C5%9F_Bala_Sarho%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "harman-yeri-duz-duze",
+  "baslik": "Harman Yeri Düz Düze",
+  "yore": "Uşak",
+  "hikaye": "Harman Yeri Düz Düze, Vikikaynak'ın Uşak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Uşak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri düz düze",
+        "Oturalım diz dize",
+        "Selam söylen o kıza",
+        "Ayrılık düştü bize"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Emine'm Allanıver",
+        "Konaklarda dilleniver"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yerine hopladım",
+        "Fişeğimi topladım",
+        "Selam söylen Emine'ye",
+        "Düşmanını hakladım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Emine'm Allanıver",
+        "Konaklarda dilleniver"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Goca gapı sürgülü",
+        "Yün basmalar dürgülü",
+        "Emine'yi sorarsan",
+        "Şu gürleğin gül gülü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Emine'm Allanıver",
+        "Konaklarda dilleniver"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harman%20Yeri%20D%C3%BCz%20D%C3%BCze%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harman%20Yeri%20D%C3%BCz%20D%C3%BCze",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Harman Yeri Düz Düze",
+      "url": "https://tr.wikisource.org/wiki/Harman_Yeri_D%C3%BCz_D%C3%BCze",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Uşak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

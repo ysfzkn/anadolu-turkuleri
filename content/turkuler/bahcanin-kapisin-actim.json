@@ -1,0 +1,71 @@
+{
+  "slug": "bahcanin-kapisin-actim",
+  "baslik": "Bahçanın Kapısın Açtım",
+  "yore": "Erzincan",
+  "hikaye": "Bahçanın Kapısın Açtım, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçanın kapısın açtım",
+        "Sanırsın cennete düştüm",
+        "Yâr ilen tenha buluştum",
+        "Öldüm yalvarı yalvarı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman şimdi yaman şimdi",
+        "Dağlar başı duman şimdi",
+        "Kavuşmamız ne hoş olur",
+        "Ayrılmamız yaman şimdi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördek çalkanır göllerde",
+        "İsmim söylenir dillerde",
+        "Kalmışım gurbet ellerde",
+        "Halin nedir diyenim yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman şimdi yaman şimdi",
+        "Dağlar başı duman şimdi",
+        "Kavuşmamız ne hoş olur",
+        "Ayrılmamız yaman şimdi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7an%C4%B1n%20Kap%C4%B1s%C4%B1n%20A%C3%A7t%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7an%C4%B1n%20Kap%C4%B1s%C4%B1n%20A%C3%A7t%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçanın Kapısın Açtım",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7an%C4%B1n_Kap%C4%B1s%C4%B1n_A%C3%A7t%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

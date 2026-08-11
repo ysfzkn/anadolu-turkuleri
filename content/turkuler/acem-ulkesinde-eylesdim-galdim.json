@@ -1,0 +1,67 @@
+{
+  "slug": "acem-ulkesinde-eylesdim-galdim",
+  "baslik": "Acem Ülkesinde Eyleşdim Galdım",
+  "yore": "Erzurum",
+  "hikaye": "Acem Ülkesinde Eyleşdim Galdım, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acem ülkesinde (uy amman amman yar amman amman)",
+        "Eyleşdim galdım sene gurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel hele hele gel",
+        "Gel gel yavaş gel",
+        "Aman allah ölürem gel",
+        "Aman allah yanaram gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acem ülkesinde (uy amman amman yar amman amman)",
+        "Bir güzel gördüm sene gurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel hele hele gel",
+        "Gel gel yavaş gel",
+        "Aman allah ölürem gel",
+        "Aman allah yanaram gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Acem%20%C3%9Clkesinde%20Eyle%C5%9Fdim%20Gald%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Acem%20%C3%9Clkesinde%20Eyle%C5%9Fdim%20Gald%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Acem Ülkesinde Eyleşdim Galdım",
+      "url": "https://tr.wikisource.org/wiki/Acem_%C3%9Clkesinde_Eyle%C5%9Fdim_Gald%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "maninin-evlerine",
+  "baslik": "Mani'nin Evlerine",
+  "yore": "Giresun",
+  "hikaye": "Mani'nin Evlerine, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mani'nin evlerine",
+        "Tumaydım göllerine",
+        "Zedef düğme olaydım",
+        "(Gümüş düğme olaydım)",
+        "O yarin gollarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maniye bak maniye",
+        "İçi dolu kağnıya",
+        "Ben de gurban olayım",
+        "Fidan boylu gani'ye"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mani'nin%20Evlerine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mani'nin%20Evlerine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mani'nin Evlerine",
+      "url": "https://tr.wikisource.org/wiki/Mani'nin_Evlerine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

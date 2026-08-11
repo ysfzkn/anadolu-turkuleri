@@ -1,0 +1,52 @@
+{
+  "slug": "maden-dagi-dumandir",
+  "baslik": "Maden Dağı Dumandır",
+  "yore": "Diyarbakır",
+  "hikaye": "Maden Dağı Dumandır, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maden dağı dumandır",
+        "Yolu dolan dolandır",
+        "Yarim gitti gelmedi",
+        "Yaş gözüme dolandı.De loy loy, deloy loy di gel yarim",
+        "Bu dağın ardı meşe",
+        "Gün kalka gölge düşe",
+        "Beni yardan ayıran",
+        "Evine şivan düşeDe loy loy, deloy loy di gel yarim",
+        "Bu dağlar meşe dağlar",
+        "Vermiş baş başa dağlar",
+        "O yar dönüp gelende",
+        "Yol verin aşa dağlar.. De loy loy, deloy loy di gel yarim."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Maden%20Da%C4%9F%C4%B1%20Dumand%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Maden%20Da%C4%9F%C4%B1%20Dumand%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Maden Dağı Dumandır",
+      "url": "https://tr.wikisource.org/wiki/Maden_Da%C4%9F%C4%B1_Dumand%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

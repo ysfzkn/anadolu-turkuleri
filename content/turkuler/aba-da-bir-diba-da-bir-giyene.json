@@ -1,0 +1,91 @@
+{
+  "slug": "aba-da-bir-diba-da-bir-giyene",
+  "baslik": "Aba da Bir Dîbâ da bir Giyene",
+  "yore": "Konya",
+  "hikaye": "Aba da Bir Dîbâ da bir Giyene, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aba da bir diba da da bir giyene",
+        "Güzel de bir çirkin de bir sevene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşillim yeşillim yeşillim aman",
+        "Yeşil yaprak altında üşüdüm aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur gemilerin direği",
+        "Çatal olur efelerin yüreği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşillim yeşillim yeşillim aman",
+        "Aç yorganı gireyim üşüdüm aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damdan dama uzatırlar eleği",
+        "Benim yarim şu Konya'nın meleği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşillim yeşillim yeşillim aman",
+        "Yeşil yaprak altında üşüdüm aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damdan dama uzatırlar kalbırı",
+        "Bekarları haydi yatağından kaldırı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşillim yeşillim yeşillim aman",
+        "Aç yorganı gireyim üşüdüm aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aba%20da%20Bir%20D%C3%AEb%C3%A2%20da%20bir%20Giyene%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aba%20da%20Bir%20D%C3%AEb%C3%A2%20da%20bir%20Giyene",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aba da Bir Dîbâ da bir Giyene",
+      "url": "https://tr.wikisource.org/wiki/Aba_da_Bir_D%C3%AEb%C3%A2_da_bir_Giyene",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

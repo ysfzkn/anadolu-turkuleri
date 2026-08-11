@@ -1,0 +1,71 @@
+{
+  "slug": "garardi-garadeniz",
+  "baslik": "Garardı Garadeniz",
+  "yore": "Rize",
+  "hikaye": "Garardı Garadeniz, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Garardı Garadeniz (de yar yâr oy)",
+        "Sardı dört yanimuzu (da yâr aman yavrum aman)",
+        "Bu gaybana sevdaluk (da yar yâr oy)",
+        "Alacak canimuzu (da yâr aman yavrum aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şişurduk fogaları (da yar yâr oy)",
+        "Gayuğum yatti yana (da yâr aman yavrum aman)",
+        "Eziyet etme uşak (da yar yâr oy)",
+        "Ha bu yanginlı cana (da yâr aman yavrum aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemiciyim gemici (da yar yâr oy)",
+        "Yaşayamam garaya (da yâr aman yavrum aman)",
+        "Ne zaman geleceksun (da yar yâr oy)",
+        "Canum çıktı burıya (da yâr aman yavrum aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gideyrum oy ay gız (da yâr oy)",
+        "İstanbul seferina (da yâr aman yavrum aman)",
+        "Allah bizi gayira (da yâr aman)",
+        "Tez celesun yeruna (da yâr aman yavrum aman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Garard%C4%B1%20Garadeniz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Garard%C4%B1%20Garadeniz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Garardı Garadeniz",
+      "url": "https://tr.wikisource.org/wiki/Garard%C4%B1_Garadeniz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "ah-bir-atas-ver",
+  "baslik": "Ah Bir Ataş Ver",
+  "yore": "İzmir",
+  "hikaye": "Ah Bir Ataş Ver, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah bir ataş ver cigaramı yakayım",
+        "Sen sallan gel ben boyuna bakayım",
+        "::Uzun olur gemilerin direği",
+        "::Çatal olur efelerin yüreği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah vur ataşı gavur sinem ko yansın",
+        "Arkadaşlar uykulardan uyansı",
+        "::Uzun olur gemilerin direği",
+        "::Çatal olur efelerin yüreği"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Bir%20Ata%C5%9F%20Ver%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Bir%20Ata%C5%9F%20Ver",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Bir Ataş Ver",
+      "url": "https://tr.wikisource.org/wiki/Ah_Bir_Ata%C5%9F_Ver",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

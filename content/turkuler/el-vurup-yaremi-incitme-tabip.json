@@ -1,0 +1,66 @@
+{
+  "slug": "el-vurup-yaremi-incitme-tabip",
+  "baslik": "El Vurup Yaremi İncitme Tabip",
+  "yore": "Tokat",
+  "hikaye": "El Vurup Yaremi İncitme Tabip, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El vurup yaremi incitme tabip",
+        "Bir dem sıhhat bulmaz hicraneler var",
+        "Dest vurup da yarem eylersin derman",
+        "Her can kabul etmez viraneler var",
+        "::Vay dünya dünya fanisin dünya",
+        "::Vay dünya dünya yalansın dünya",
+        "::Can ile cananı alansın dünya",
+        "::Aşk ile pervane dönersin dünya yalansın dünya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dert ehli olanlar dermana gelir",
+        "Elbette arayan dermanı bulur",
+        "Sadık der ki kimde ne var kim bilir",
+        "Geçt-i güzar ettim elde neler var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "::Vay dünya dünya fanisin dünya",
+        "::Vay dünya dünya yalansın dünya",
+        "::Can ile cananı alansın dünya",
+        "::Aşk ile pervane dönersin dünya yalansın dünya"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=El%20Vurup%20Yaremi%20%C4%B0ncitme%20Tabip%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/El%20Vurup%20Yaremi%20%C4%B0ncitme%20Tabip",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — El Vurup Yaremi İncitme Tabip",
+      "url": "https://tr.wikisource.org/wiki/El_Vurup_Yaremi_%C4%B0ncitme_Tabip",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

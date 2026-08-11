@@ -1,0 +1,80 @@
+{
+  "slug": "bizim-eller-ne-guzel-eller",
+  "baslik": "Bizim Eller Ne Güzel Eller",
+  "yore": "Van",
+  "hikaye": "Bizim Eller Ne Güzel Eller, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim eller ne güzel eller",
+        "Söylesin şirin diller",
+        "Oynasın koç yiğitler",
+        "Oh bizim eller ne güzel eller"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağda maral gezer",
+        "Zülfünü darar gezer",
+        "Dağ bizim maral bizim",
+        "Avcı burda ne gezer."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim eller ne güzel eller",
+        "Söylesin şirin diller",
+        "Oynasın koç yiğitler",
+        "Oh bizim eller ne güzel eller"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al giyer al allanırsan",
+        "Şekerlenir ballanırsan",
+        "Geyinmiş guşanmışsan",
+        "Garşımda sallanırsan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim eller ne güzel eller",
+        "Söylesin şirin diller",
+        "Oynasın koç yiğitler",
+        "Oh bizim eller ne güzel eller"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bizim%20Eller%20Ne%20G%C3%BCzel%20Eller%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bizim%20Eller%20Ne%20G%C3%BCzel%20Eller",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bizim Eller Ne Güzel Eller",
+      "url": "https://tr.wikisource.org/wiki/Bizim_Eller_Ne_G%C3%BCzel_Eller",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "anonim",
+    "açık arşiv"
+  ]
+}

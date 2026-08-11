@@ -1,0 +1,89 @@
+{
+  "slug": "kaleden-indirdiler",
+  "baslik": "Kaleden İndirdiler",
+  "yore": "Hatay",
+  "hikaye": "Kaleden İndirdiler, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indirdiler",
+        "Trene bindirdiler",
+        "O benim nazlı yâri",
+        "Askere gönderdiler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelim nenni nenni",
+        "Civanım nenni nenni",
+        "Vat dizimin üstüne",
+        "Sana söyleyim nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım trene",
+        "Treni aşırmaya",
+        "Çok mektuplar yolladım",
+        "O yâri kaçırmaya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelim nenni nenni",
+        "Civanım nenni nenni",
+        "Vat dizimin üstüne",
+        "Sana söyleyim nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağları aşam dedim",
+        "Aşam ulaşam dedim",
+        "Bir hayırsız yar için",
+        "Herkese paşam dedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelim nenni nenni",
+        "Civanım nenni nenni",
+        "Vat dizimin üstüne",
+        "Sana söyleyim nenni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaleden%20%C4%B0ndirdiler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaleden%20%C4%B0ndirdiler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaleden İndirdiler",
+      "url": "https://tr.wikisource.org/wiki/Kaleden_%C4%B0ndirdiler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

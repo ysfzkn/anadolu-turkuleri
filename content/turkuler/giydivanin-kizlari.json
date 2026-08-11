@@ -1,0 +1,62 @@
+{
+  "slug": "giydivanin-kizlari",
+  "baslik": "Gıydıvanın Kızları",
+  "yore": "Kastamonu",
+  "hikaye": "Gıydıvanın Kızları, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gıydıvanın kızları (Huriyem)",
+        "Birer gonca gül olmuş (Huriyem)",
+        "Ufak ufak basta gel (Huriyem)",
+        "Tahtalar oynamasın (Huriyem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şamama da güzelim (Huriyem)",
+        "Her gün gider hamama (Huriyem)",
+        "Delikanlılar dururken (Huriyem)",
+        "Niçin vardın imama (Huriyem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gıydıvanın gızları (Huriyem)",
+        "Birer salkım leylaktır (Huriyem)",
+        "Usul usul basta gel (Huriyem)",
+        "Bizim mehle dillektir (Huriyem)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C4%B1yd%C4%B1van%C4%B1n%20K%C4%B1zlar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C4%B1yd%C4%B1van%C4%B1n%20K%C4%B1zlar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gıydıvanın Kızları",
+      "url": "https://tr.wikisource.org/wiki/G%C4%B1yd%C4%B1van%C4%B1n_K%C4%B1zlar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

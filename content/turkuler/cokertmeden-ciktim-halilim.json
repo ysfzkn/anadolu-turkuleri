@@ -1,0 +1,64 @@
+{
+  "slug": "cokertmeden-ciktim-halilim",
+  "baslik": "Çökertme'den Çıktım Halil'im",
+  "yore": "Muğla",
+  "hikaye": "Çökertme'den Çıktım Halil'im, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çökertmeden çıktım da Halil’im,",
+        "Aman başım selamet,",
+        "Bitez de yalısına varmadan Halil’im,",
+        "Aman koptu kıyamet.",
+        "Arkadaşım İbram Çavuş Allah’ına emanet",
+        "Burası da Aspat değil Halil’im aman Bitez yalısı,Ciğerime ateş saldı aman kurşun yarası,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidelim gidelim Halil’im Çökertmeye varalım",
+        "Kolcular gelirse Halil’im nerelere kaçalım",
+        "Teslim olmayalım Halil’im aman kurşun saçalım.",
+        "Burası da Aspat değil Halil’im aman Bitez yalısı,Ciğerime ateş saldı aman kurşun yarası,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güvertede gezer iken aman kunduram kaydı,",
+        "İpeklide mandilimi aman örüzger aldı,",
+        "Çakır da gözlü Gülsüm’ümü Çerkes Kaymakam aldı.",
+        "Burası da Aspat değil Halil’im aman Bitez yalısı,Ciğerime ateş saldı aman kurşun yarası."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87%C3%B6kertme'den%20%C3%87%C4%B1kt%C4%B1m%20Halil'im%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87%C3%B6kertme'den%20%C3%87%C4%B1kt%C4%B1m%20Halil'im",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çökertme'den Çıktım Halil'im",
+      "url": "https://tr.wikisource.org/wiki/%C3%87%C3%B6kertme'den_%C3%87%C4%B1kt%C4%B1m_Halil'im",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

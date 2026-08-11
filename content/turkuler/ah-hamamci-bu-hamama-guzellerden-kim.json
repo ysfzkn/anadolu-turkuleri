@@ -1,0 +1,45 @@
+{
+  "slug": "ah-hamamci-bu-hamama-guzellerden-kim",
+  "baslik": "Ah Hamamcı Bu Hamama Güzellerden Kim...",
+  "yore": "Kütahya",
+  "hikaye": "Ah Hamamcı Bu Hamama Güzellerden Kim..., Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah hamamcı bu hamama güzellerden kim gelir",
+        "Ah ne bileyim ay efendim günde yüz bin can gelir",
+        "Ardında cariyesiyle aman önünde sultan gelir",
+        "Yağma yağmur esme rüzgar yolda yolcum var benim",
+        "Serimi sevdaya salan yar ile cengim var benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Hamamc%C4%B1%20Bu%20Hamama%20G%C3%BCzellerden%20Kim...%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Hamamc%C4%B1%20Bu%20Hamama%20G%C3%BCzellerden%20Kim...",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Hamamcı Bu Hamama Güzellerden Kim...",
+      "url": "https://tr.wikisource.org/wiki/Ah_Hamamc%C4%B1_Bu_Hamama_G%C3%BCzellerden_Kim...",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

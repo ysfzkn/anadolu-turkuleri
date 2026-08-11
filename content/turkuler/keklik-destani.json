@@ -1,0 +1,80 @@
+{
+  "slug": "keklik-destani",
+  "baslik": "Keklik Destanı",
+  "yore": "Mersin",
+  "hikaye": "Keklik Destanı, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül müpteladır bilmem nesinden",
+        "Misli görülmedi,palaz olmalı",
+        "Üç dirhem od yakan tüfenk sesinden",
+        "Aklı ayrılmadık palaz olmalı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Barçın yaylasından olmalı nesli ,",
+        "Çifte hıncırıklı, kabaca sesli .",
+        "Gedik Paş(a) ünlü, devlet nefesli;",
+        "Gönlü yorulmadık palaz olmalı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bozdoğan mıdıklı şahin suratlı,",
+        "İngiliz marifetli, Moskof inatlı,",
+        "Seyrecik alalı, sarkık kanatlı,",
+        "Eşi bulunmadık palaz olmalı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Palazın gerdanı yassıca olsun",
+        "On beşten fazlaca benler bulunsun",
+        "Her ayakta çifte topuk görülsün",
+        "Akıp durulmadık palaz olmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemali'nin derdi cümleden aşkın",
+        "Hem çatal imanlı, kaşları düşkün,",
+        "Gözleri gücücük, kendisi coşkun,",
+        "Keklik vurulmadık palaz olmalı."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Keklik%20Destan%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Keklik%20Destan%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Keklik Destanı",
+      "url": "https://tr.wikisource.org/wiki/Keklik_Destan%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

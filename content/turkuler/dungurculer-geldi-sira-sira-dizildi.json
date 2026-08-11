@@ -1,0 +1,80 @@
+{
+  "slug": "dungurculer-geldi-sira-sira-dizildi",
+  "baslik": "Düngürcüler Geldi Sıra Sıra Dizildi",
+  "yore": "Erzurum",
+  "hikaye": "Düngürcüler Geldi Sıra Sıra Dizildi, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düngürcüler sıra sıra dizildi",
+        "Altun tas için gınam ezildi",
+        "Alnımıza böyle yazı yazıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşte ben giderim sen olsun evüz",
+        "Ben gittikten sonra gen olsun evüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çegile taş atma batar da gider",
+        "Uzağa kız verme yiter de gider",
+        "Anayı babayı atar da gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşte ben giderim sen olsun evüz",
+        "Ben gittikten sonra gen olsun evüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elimi attığım asma terekler",
+        "Belim yasladığım yüce direkler",
+        "Ahırda iniler çifte medekler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşte ben giderim sen olsun evüz",
+        "Ben gittikten sonra gen olsun evüz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=D%C3%BCng%C3%BCrc%C3%BCler%20Geldi%20S%C4%B1ra%20S%C4%B1ra%20Dizildi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/D%C3%BCng%C3%BCrc%C3%BCler%20Geldi%20S%C4%B1ra%20S%C4%B1ra%20Dizildi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Düngürcüler Geldi Sıra Sıra Dizildi",
+      "url": "https://tr.wikisource.org/wiki/D%C3%BCng%C3%BCrc%C3%BCler_Geldi_S%C4%B1ra_S%C4%B1ra_Dizildi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "a-gizim-sana-fotin-alayim-mi",
+  "baslik": "A Gızım Sana Fotin Alayım mı",
+  "yore": "Mersin",
+  "hikaye": "A Gızım Sana Fotin Alayım mı, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana fotin alayım mı",
+        "A çocuk sana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen deli m'oldun a ellerin yari",
+        "Aman nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana fistan alayım mı",
+        "A çocuk sana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen deli m'oldun a ellerin yari",
+        "Aman nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana guşşağ alayım mı",
+        "A çocuk sana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen deli m'oldun a ellerin yari",
+        "Aman nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana çember alayım mı",
+        "A çocuk sana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen deli m'oldun a ellerin yari",
+        "Aman nerelerine de işte şuralarına"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20G%C4%B1z%C4%B1m%20Sana%20Fotin%20Alay%C4%B1m%20m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20G%C4%B1z%C4%B1m%20Sana%20Fotin%20Alay%C4%B1m%20m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Gızım Sana Fotin Alayım mı",
+      "url": "https://tr.wikisource.org/wiki/A_G%C4%B1z%C4%B1m_Sana_Fotin_Alay%C4%B1m_m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

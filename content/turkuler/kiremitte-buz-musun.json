@@ -1,0 +1,65 @@
+{
+  "slug": "kiremitte-buz-musun",
+  "baslik": "Kiremitte Buz musun",
+  "yore": "Uşak",
+  "hikaye": "Kiremitte Buz musun, Vikikaynak'ın Uşak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Uşak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kiremitte buz musun?",
+        "Gelin misin kız mısın?",
+        "Yarın size varacam",
+        "Evde de yalınız mısın.",
+        "Yan Osman’ım yan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz üstünde biber,",
+        "Kayıklar gelir gider.",
+        "Ne mektup var ne haber,",
+        "Yüreğim yanar gider.",
+        "Yan Osman’ım yan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu binanın üst yanı",
+        "Altı da berber dükkanı",
+        "Teskereli geliyor",
+        "Hacıların Osmanı",
+        "Yan Osman’ım yan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kiremitte%20Buz%20musun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kiremitte%20Buz%20musun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kiremitte Buz musun",
+      "url": "https://tr.wikisource.org/wiki/Kiremitte_Buz_musun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Uşak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "on-yedi-tek-duz-mastika-ictim",
+  "baslik": "On Yedi Tek Düz Mastika İçtim",
+  "yore": "İstanbul",
+  "hikaye": "On Yedi Tek Düz Mastika İçtim, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On yedi tek düz mastika içtim",
+        "Sekiz tanecik konyak",
+        "Altı yedi vermut bira",
+        "Elli tanecik şarap"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana sarhoşsun diyorlar",
+        "Var mı bende böyle bir hal",
+        "Doğrusunu söyleyiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kabadayı mabadayı",
+        "Hovardayı movardayı saymıyorlar",
+        "Parasıyla değilmi be kardeşim",
+        "Niçin sazlar çalmıyorlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karakaşlı karagözlü",
+        "Mini mini çıtı pıtı yâr isterim",
+        "Vallah sarhoş değilim ah",
+        "Niçin kızlar varmıyorlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=On%20Yedi%20Tek%20D%C3%BCz%20Mastika%20%C4%B0%C3%A7tim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/On%20Yedi%20Tek%20D%C3%BCz%20Mastika%20%C4%B0%C3%A7tim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — On Yedi Tek Düz Mastika İçtim",
+      "url": "https://tr.wikisource.org/wiki/On_Yedi_Tek_D%C3%BCz_Mastika_%C4%B0%C3%A7tim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

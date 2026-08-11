@@ -1,0 +1,67 @@
+{
+  "slug": "sarayburnunun-ufak-tefek-taslari",
+  "baslik": "Sarayburnu'nun Ufak Tefek Taşları",
+  "yore": "İstanbul",
+  "hikaye": "Sarayburnu'nun Ufak Tefek Taşları, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarayburnu'nun ufak tefek taşları",
+        "Vak vak ötüyor da martı kuşları",
+        "Kalem olmuş bir tanem o yarimin kaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çil çil liralar mecidiye paralar",
+        "O beyaz gerdana taksak olmaz mı",
+        "A canım dizsek olmaz mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarayburnu'ndan o gelip geçerken",
+        "Sırmalı burmalı yelken açarken",
+        "O yar doldurup civanım ben içerken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şişeler bir yana kızlar meydana",
+        "Sazlar divana doldur içelim bir tanem",
+        "Doldur içelim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sarayburnu'nun%20Ufak%20Tefek%20Ta%C5%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sarayburnu'nun%20Ufak%20Tefek%20Ta%C5%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarayburnu'nun Ufak Tefek Taşları (İstanbul)",
+      "url": "https://tr.wikisource.org/wiki/Sarayburnu'nun_Ufak_Tefek_Ta%C5%9Flar%C4%B1_(%C4%B0stanbul)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

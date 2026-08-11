@@ -1,0 +1,91 @@
+{
+  "slug": "suzan-suzi",
+  "baslik": "Suzan Suzi",
+  "yore": "Niğde",
+  "hikaye": "Suzan Suzi, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derman arardım derdime derdim bana derman imiş.",
+        "Burhan arardım aslıma aslım bana bürhan imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağu solu gözler idim dost yüzünü görsem deyü.",
+        "Ben taşrada arar idim ol can içinde can imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyle sanurdum ayrıyım dost gayridir ben gayriyim",
+        "Benden görüp işiteni bildim ki ol canan imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Savmu-u salat u hacc ile sanma biter zahid işin",
+        "İnsan-ı kamil olmağa lazım olan irfan imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kanden gelir yolun senin ya kande varır menzilin",
+        "Nerden gelip gittiğini anlamayan hayvan imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mürşid gerektir bildire Hakk'a sana hakk-al-yakın",
+        "Mürşidi olmayanların bildikleri güman imiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anla hemen bir sözdürür yokuş değildir düzdürür.",
+        "Alem kamu bir yüzdürür görem anı hayran imiş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşit Niyazi'nin sözün bir nesne örtmez Hak yüzün.",
+        "Hak'dan ıyan bir nesne yok gözsüzlere pünhan imiş."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Suzan%20Suzi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Suzan%20Suzi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Suzan Suzi",
+      "url": "https://tr.wikisource.org/wiki/Suzan_Suzi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

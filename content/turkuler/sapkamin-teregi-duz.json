@@ -1,0 +1,71 @@
+{
+  "slug": "sapkamin-teregi-duz",
+  "baslik": "Şapkamın Tereği Düz",
+  "yore": "Trabzon",
+  "hikaye": "Şapkamın Tereği Düz, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şapkamın tereği düz",
+        "Var onda ayla yıldız",
+        "Çıkmayasun aklımdan",
+        "Ne gece ne de gündüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemalin düğümü",
+        "Gerüdendir gerüden",
+        "Seni hainin kızı",
+        "Sensin beni erüden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden bak beni",
+        "Beğenirsen al beni",
+        "Beğenmezsen beğenme",
+        "Beğenenler var beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağ başında kestane",
+        "Dökülür tane tane",
+        "Dünya dolu yâr olsa",
+        "Bir tanemsin bir tane"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eapkam%C4%B1n%20Tere%C4%9Fi%20D%C3%BCz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eapkam%C4%B1n%20Tere%C4%9Fi%20D%C3%BCz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şapkamın Tereği Düz",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eapkam%C4%B1n_Tere%C4%9Fi_D%C3%BCz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

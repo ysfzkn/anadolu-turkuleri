@@ -1,0 +1,80 @@
+{
+  "slug": "bana-yanaktan-seftali",
+  "baslik": "Bana Yanaktan Şeftali",
+  "yore": "Kars",
+  "hikaye": "Bana Yanaktan Şeftali, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanaktan şeftali dudaktan buse",
+        "Sevdiğim ikramın az gelir bana",
+        "Açsam kollarımı sarsam boynuna",
+        "Bütün kış ayları yaz gelir bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnan şu sözüme ey şems ü mahım",
+        "Buluta dayandı feryadım ahım",
+        "Yıllardır çekerim nedir günahım",
+        "Bütün ahbaplardan söz gelir bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dün gece rüyayı ben gördüm yordur",
+        "Banan inanmazsan birine sordur",
+        "Ayrılık mı acı ölüm mü zordur",
+        "Sağlıkta bu acı köz gelir bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaradan her zaman sevdiği kulla",
+        "Gönül postasında mektubun yolla",
+        "Dudağında ıslat elinle pulla",
+        "Göz açıp yummadın tez gelir bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dert ile gam biraradayım",
+        "Nerde aşık varsa ben oradayım",
+        "Üç beşli bir iki numaradayım",
+        "Mevlüt İhsani de düz gelir bana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bana%20Yanaktan%20%C5%9Eeftali%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bana%20Yanaktan%20%C5%9Eeftali",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bana Yanaktan Şeftali",
+      "url": "https://tr.wikisource.org/wiki/Bana_Yanaktan_%C5%9Eeftali",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

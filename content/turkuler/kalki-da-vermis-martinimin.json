@@ -1,0 +1,57 @@
+{
+  "slug": "kalki-da-vermis-martinimin",
+  "baslik": "Kalkı da Vermiş Martinimin",
+  "yore": "Eskişehir",
+  "hikaye": "Kalkı da Vermiş Martinimin, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Galkı da vermiş (aman aman) martinimin galeyi",
+        "(Yar yar yar aman)",
+        "Bozulur mu zeybeklerin (had'efem de) aleyi (hey)",
+        "Düşmanları (aman aman) öldürmenin goleyi",
+        "(Yar yar yar aman)",
+        "Dalgın uykulardan uyanamadım (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnce Mehmet (aman aman) iner gelir inişten",
+        "(Yar yar yar aman)",
+        "Her yanları görünmüyor (had'efem de) gümüşten (hey)",
+        "Benim yarim aman aman şimdi gelir döğüşten",
+        "(Yar yar yar aman)",
+        "Dalgın uykulardan uyanamadım (hey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kalk%C4%B1%20da%20Vermi%C5%9F%20Martinimin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kalk%C4%B1%20da%20Vermi%C5%9F%20Martinimin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kalkı da Vermiş Martinimin",
+      "url": "https://tr.wikisource.org/wiki/Kalk%C4%B1_da_Vermi%C5%9F_Martinimin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

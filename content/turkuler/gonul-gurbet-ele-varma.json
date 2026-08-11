@@ -1,0 +1,110 @@
+{
+  "slug": "gonul-gurbet-ele-varma",
+  "baslik": "Gönül Gurbet Ele Varma",
+  "yore": "Gaziantep",
+  "hikaye": "Gönül Gurbet Ele Varma, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül gurbet ele varma,",
+        "Ya gelinir ya gelinmez.",
+        "Her güzele meyil verme,",
+        "Ya sevilir ya sevilmez."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel ey, gel ey ey.",
+        "Her güzele gönül verme,",
+        "Ya sevilir ya sevilmez.",
+        "Gel Güllü'm gel, gel tellim gel, gel nazlım gel,",
+        "Gel ey gel ey, gel ey gel ey, ey."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Has bahçenin nar ağacı,",
+        "Kimi tatlı kimi acı.",
+        "Zalim derdimin ilâcı,",
+        "Ya bulunur ya bulunmaz."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel ey, gel ey ey.",
+        "Zalim derdimin ilâcı ya bulunur ya bulunmaz.",
+        "Gel Güllü'm gel, gel tellim gel, gel nazlım gel,",
+        "Gel ey gel ey, gel ey gel ey, ey."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deryalarda yüzer bahri,",
+        "Doldur ver içeyim zehri.",
+        "Zalim gurbet elin kahrı,",
+        "Ya çekilir ya çekilmez."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel ey, gel ey ey.",
+        "Zalim gurbet elin kahrı,",
+        "Ya çekilir ya çekilmez.",
+        "Gel Güllü'm gel, gel tellim gel, gel nazlım gel,",
+        "Gel ey gel ey, gel ey gel ey, ey."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karacaoğlan düşse yola,",
+        "Bülbül figan eder güle.",
+        "Güzel sevmek sarp bir kale,",
+        "Ya çekilir ya çekilmez."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel ey, gel ey ey.",
+        "Güzel sevmek sarp bir kale,",
+        "Ya alınır ya alınmaz.",
+        "Gel Güllü'm gel, gel tellim gel, gel nazlım gel,",
+        "Gel ey gel ey, gel ey gel ey, ey."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6n%C3%BCl%20Gurbet%20Ele%20Varma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6n%C3%BCl%20Gurbet%20Ele%20Varma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gönül Gurbet Ele Varma",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6n%C3%BCl_Gurbet_Ele_Varma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

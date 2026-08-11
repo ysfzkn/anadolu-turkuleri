@@ -1,0 +1,89 @@
+{
+  "slug": "pinar-basi-burma-burma",
+  "baslik": "Pınar Başı Burma Burma",
+  "yore": "Kastamonu",
+  "hikaye": "Pınar Başı Burma Burma, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey...",
+        "Yar yar yar yar yar yar aman.",
+        "Yaz gelince öter durna,",
+        "Leylim leylim leylim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırda buldun beni",
+        "Ellere verdin beni",
+        "Kendine aldın beni",
+        "Sineme sardın beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey... Çıktım pınarın başına,",
+        "Yar yar yar yar yar yar aman.",
+        "El ettim avşar kuşuna,",
+        "Leylim leylim leylim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırda buldum seni,",
+        "Ellere vermem seni.",
+        "Kendime aldım seni,",
+        "Sineme sardım seni."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey... Pınar başı ben olayım,",
+        "Yar yar yar yar yar yar aman.",
+        "Bulanırsam bulanayım,",
+        "Leylim leylim leylim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynam düştü yerlere,",
+        "Karıştı gazellere.",
+        "Tabiyatım kurusun,",
+        "Bakarım güzellere."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=P%C4%B1nar%20Ba%C5%9F%C4%B1%20Burma%20Burma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/P%C4%B1nar%20Ba%C5%9F%C4%B1%20Burma%20Burma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pınar Başı Burma Burma",
+      "url": "https://tr.wikisource.org/wiki/P%C4%B1nar_Ba%C5%9F%C4%B1_Burma_Burma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

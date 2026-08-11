@@ -1,0 +1,53 @@
+{
+  "slug": "das-ustune-das-koydum-ben",
+  "baslik": "Daş Üstüne Daş Koydum Ben",
+  "yore": "Denizli",
+  "hikaye": "Daş Üstüne Daş Koydum Ben, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daş üstüne daş goydum ben",
+        "Gül yastığa baş goydum ben",
+        "Gız seni gelcesin (aman) deye",
+        "Sol yanıma boş koydum ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daş üstüne daş durur mu",
+        "Yar üstüne yar olur mu",
+        "Yar üstüne yar sevenin",
+        "İki yakası bir olur mu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Da%C5%9F%20%C3%9Cst%C3%BCne%20Da%C5%9F%20Koydum%20Ben%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Da%C5%9F%20%C3%9Cst%C3%BCne%20Da%C5%9F%20Koydum%20Ben",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Daş Üstüne Daş Koydum Ben",
+      "url": "https://tr.wikisource.org/wiki/Da%C5%9F_%C3%9Cst%C3%BCne_Da%C5%9F_Koydum_Ben",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

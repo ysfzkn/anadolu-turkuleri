@@ -1,0 +1,71 @@
+{
+  "slug": "vardim-ki-yurdundan-ayag-gocurmus",
+  "baslik": "Vardım ki Yurdundan Ayağ Göçürmüş",
+  "yore": "Bayburt",
+  "hikaye": "Vardım ki Yurdundan Ayağ Göçürmüş, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım ki yurdundan ayağ göçürmüş",
+        "Yavru uçmuş ıssız kalmış otağı",
+        "Camlar şikest olmuş meyler dökülmüş",
+        "Sakiler meclisten çekmiş ayağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sümbülü şebboyu gülü har almış",
+        "Süleyman tahtını şimdi mar almış",
+        "Zevk-i şevk ehlini ah-u zar almış",
+        "Gama tebdil olmuş ülfetin çağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hangi dağda bulsam ben o maralı",
+        "Hangi ele sorsam çeşm-i gazali",
+        "Leyla'sın yitirmiş mecnun misali",
+        "Gezmiş dağdan dağ yoktur durağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zihni dert elinden her zaman ağlar",
+        "Vardım ki bağ ağlar bağ(ı)ban ağlar",
+        "Sümbüller pireşan güller kan ağlar",
+        "Şeyda bülbül terk edeli o bağı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vard%C4%B1m%20ki%20Yurdundan%20Aya%C4%9F%20G%C3%B6%C3%A7%C3%BCrm%C3%BC%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vard%C4%B1m%20ki%20Yurdundan%20Aya%C4%9F%20G%C3%B6%C3%A7%C3%BCrm%C3%BC%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vardım ki Yurdundan Ayağ Göçürmüş",
+      "url": "https://tr.wikisource.org/wiki/Vard%C4%B1m_ki_Yurdundan_Aya%C4%9F_G%C3%B6%C3%A7%C3%BCrm%C3%BC%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "anonim",
+    "açık arşiv"
+  ]
+}

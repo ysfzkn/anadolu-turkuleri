@@ -1,0 +1,53 @@
+{
+  "slug": "surme-beni",
+  "baslik": "Sürme Beni",
+  "yore": "Diyarbakır",
+  "hikaye": "Sürme Beni, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Oğul anam) sürme beni",
+        "(Oğul) çek gözen sürme beni",
+        "(Oğul) kul olum kapan gelim",
+        "(Vallah) kerem et sürme beni (felek ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Oğul) ben senin hayranınam",
+        "Gel etme üzme beni (felek ey)",
+        "(Oğul) anam vallah ben senin hayranınam",
+        "(Oğul) gel etme ey üzme beni (felek ey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C3%BCrme%20Beni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C3%BCrme%20Beni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sürme Beni",
+      "url": "https://tr.wikisource.org/wiki/S%C3%BCrme_Beni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

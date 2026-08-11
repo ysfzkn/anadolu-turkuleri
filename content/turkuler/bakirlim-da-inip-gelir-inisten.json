@@ -1,0 +1,48 @@
+{
+  "slug": "bakirlim-da-inip-gelir-inisten",
+  "baslik": "Bakırlım da İnip Gelir İnişten",
+  "yore": "İzmir",
+  "hikaye": "Bakırlım da İnip Gelir İnişten, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bakırlım da (aman) inip gelir (yar) inişten",
+        "Görünmüyor sırmalı cepken (aman) gümüşten",
+        "Haber m'aldı (aman) dün geceki (yar) cümbüşten",
+        "Hayd' efem Bakırlım zeybek (zeybek aman) Bakırlı",
+        "Gizli gizli (aman) dost bağına (yar) girmedim",
+        "El uzatıp gonca (da) gülüm (aman) dermedim",
+        "Ben senin Bakırlı olduğunu (yar) bilmedim",
+        "Hayd' efem Bakırlım zeybek (zeybek aman) Bakırlı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bak%C4%B1rl%C4%B1m%20da%20%C4%B0nip%20Gelir%20%C4%B0ni%C5%9Ften%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bak%C4%B1rl%C4%B1m%20da%20%C4%B0nip%20Gelir%20%C4%B0ni%C5%9Ften",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bakırlım da İnip Gelir İnişten",
+      "url": "https://tr.wikisource.org/wiki/Bak%C4%B1rl%C4%B1m_da_%C4%B0nip_Gelir_%C4%B0ni%C5%9Ften",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

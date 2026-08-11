@@ -1,0 +1,34 @@
+{
+  "slug": "zuluf-dokulmus-yuze",
+  "baslik": "Zülüf Dökülmüş Yüze",
+  "yore": "Kırşehir",
+  "hikaye": "Zülüf Dökülmüş Yüze, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Z%C3%BCl%C3%BCf%20D%C3%B6k%C3%BClm%C3%BC%C5%9F%20Y%C3%BCze%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Z%C3%BCl%C3%BCf%20D%C3%B6k%C3%BClm%C3%BC%C5%9F%20Y%C3%BCze",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zülüf Dökülmüş Yüze",
+      "url": "https://tr.wikisource.org/wiki/Z%C3%BCl%C3%BCf_D%C3%B6k%C3%BClm%C3%BC%C5%9F_Y%C3%BCze",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

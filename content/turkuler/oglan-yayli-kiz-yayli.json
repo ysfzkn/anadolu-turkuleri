@@ -1,0 +1,78 @@
+{
+  "slug": "oglan-yayli-kiz-yayli",
+  "baslik": "Oğlan Yaylı Kız Yaylı",
+  "yore": "Kastamonu",
+  "hikaye": "Oğlan Yaylı Kız Yaylı, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan yaylı kız yaylı",
+        "Ben dayanamıyorum gayrı",
+        "Asker oldum gidiyom",
+        "Helalleşelim gayrı",
+        "Oğlan yaylı kız yaylı",
+        "Ben dayanamıyorum gayrı",
+        "Asker oldum gidiyom",
+        "Helalleşelim gayrı",
+        "Asker oldum gidiyom",
+        "Helalleşelim gayrı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Soğan biber sarımsak",
+        "Sarım sarım sarılsak",
+        "Ak gerdanın üstünde",
+        "Sarhoş olsak uyusak",
+        "Soğan biber sarımsak",
+        "Sarım sarım sarılsak",
+        "Ak gerdanın üstünde",
+        "Sarhoş olsak uyusak",
+        "Ak gerdanın üstünde",
+        "Sarhoş olsak uyusak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan döne döne kız döne",
+        "Gelin mi oldun yine",
+        "Gelin olduğun gece oynarsın döne döne",
+        "Oğlan döne döne kız döne",
+        "Gelin mi oldun yine",
+        "Gelin olduğun gece oynarsın döne döne",
+        "Ah gelin mi oldun yine",
+        "Gelin olduğun gece oynarsın döne döne"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=O%C4%9Flan%20Yayl%C4%B1%20K%C4%B1z%20Yayl%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/O%C4%9Flan%20Yayl%C4%B1%20K%C4%B1z%20Yayl%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oğlan Yaylı Kız Yaylı",
+      "url": "https://tr.wikisource.org/wiki/O%C4%9Flan_Yayl%C4%B1_K%C4%B1z_Yayl%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

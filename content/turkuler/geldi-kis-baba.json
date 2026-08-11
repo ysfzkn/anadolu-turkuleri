@@ -1,0 +1,109 @@
+{
+  "slug": "geldi-kis-baba",
+  "baslik": "Geldi Kış Baba",
+  "yore": "İstanbul",
+  "hikaye": "Geldi Kış Baba, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi kış baba",
+        "Geldi kış baba",
+        "Bir karış kar yerde",
+        "Dondurdu bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi kış baba",
+        "Geldi kış baba",
+        "Bir karış kar yerde",
+        "Dondurdu bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aaaaaaaaaa",
+        "Sırtında paltosu",
+        "Üstünde abası",
+        "Elinde sopası",
+        "Ayağında çizmesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kış baba",
+        "Kar yerde",
+        "Dondurdun bizi",
+        "Sırtımda palto"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi kış baba",
+        "Geldi kış baba",
+        "Bir karış kar yerde",
+        "Dondurdu bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi kış baba",
+        "Geldi kış baba",
+        "Bir karış kar yerde",
+        "Dondurdu bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aaaaaaaaaa",
+        "Sırtında paltosu",
+        "Üstünde abası",
+        "Elinde sopası",
+        "Ayağında çizmesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kış baba",
+        "Kar yerde",
+        "Dondurdun bizi",
+        "Sırtımda palto"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Geldi%20K%C4%B1%C5%9F%20Baba%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Geldi%20K%C4%B1%C5%9F%20Baba",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Geldi Kış Baba",
+      "url": "https://tr.wikisource.org/wiki/Geldi_K%C4%B1%C5%9F_Baba",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

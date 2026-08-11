@@ -1,0 +1,57 @@
+{
+  "slug": "uzun-olur-efelerin-bicagi",
+  "baslik": "Uzun Olur Efelerin Bıçağı",
+  "yore": "Aydın",
+  "hikaye": "Uzun Olur Efelerin Bıçağı, Vikikaynak'ın Aydın türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur efelerin bıçağı",
+        "Beşyüz dirhem Şam Trabulus kuşağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Serbest olur aman Anadolu uşağı",
+        "Aşırdılar karlıda dağdan keşişten",
+        "Bilmiş ol ki geçmiş oldu iş işten"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Silahı da elinde kaması da belinde",
+        "Yavrum İzmir yolunda ben bir güzele vuruldum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Uzun%20Olur%20Efelerin%20B%C4%B1%C3%A7a%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Uzun%20Olur%20Efelerin%20B%C4%B1%C3%A7a%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Uzun Olur Efelerin Bıçağı (Aydın)",
+      "url": "https://tr.wikisource.org/wiki/Uzun_Olur_Efelerin_B%C4%B1%C3%A7a%C4%9F%C4%B1_(Ayd%C4%B1n)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aydın",
+    "anonim",
+    "açık arşiv"
+  ]
+}

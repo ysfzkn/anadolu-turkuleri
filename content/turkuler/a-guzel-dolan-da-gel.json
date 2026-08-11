@@ -1,0 +1,67 @@
+{
+  "slug": "a-guzel-dolan-da-gel",
+  "baslik": "A Güzel Dolan da Gel",
+  "yore": "Erzurum",
+  "hikaye": "A Güzel Dolan da Gel, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A güzel dolan da gel",
+        "Çevreni saran da gel",
+        "Ben mayil oldum sana",
+        "Yaramı saran da gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gurbanam gurbanam gül endama",
+        "İnci diş galem gaş mah cemala"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy beni beni beni",
+        "Keşke sevmeseydim seni",
+        "Ay ışığında gelme",
+        "Komşular görer seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gurbanam gurbanam gül endama",
+        "İnci diş galem gaş mah cemala"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20G%C3%BCzel%20Dolan%20da%20Gel%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20G%C3%BCzel%20Dolan%20da%20Gel",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Güzel Dolan da Gel",
+      "url": "https://tr.wikisource.org/wiki/A_G%C3%BCzel_Dolan_da_Gel",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

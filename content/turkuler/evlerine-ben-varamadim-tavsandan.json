@@ -1,0 +1,63 @@
+{
+  "slug": "evlerine-ben-varamadim-tavsandan",
+  "baslik": "Evlerine Ben Varamadım Tavşandan",
+  "yore": "Denizli",
+  "hikaye": "Evlerine Ben Varamadım Tavşandan, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine de ben varamadım da tavşandan",
+        "Oğlumuz güçcücük uyumuş da galmış da akşamdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine de ben varamadım da köpekten",
+        "Cavırın gızı fistan da geymiş de ipekten"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine de ben varamadım da horozdan",
+        "Cavırın gızı uyumuş da galmış gurazdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine de ben varamadım da harımdan",
+        "Güçcücüğüdüm ayırdılar da yarımdan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Evlerine%20Ben%20Varamad%C4%B1m%20Tav%C5%9Fandan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Evlerine%20Ben%20Varamad%C4%B1m%20Tav%C5%9Fandan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Evlerine Ben Varamadım Tavşandan",
+      "url": "https://tr.wikisource.org/wiki/Evlerine_Ben_Varamad%C4%B1m_Tav%C5%9Fandan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

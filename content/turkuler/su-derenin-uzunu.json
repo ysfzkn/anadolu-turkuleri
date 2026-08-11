@@ -1,0 +1,67 @@
+{
+  "slug": "su-derenin-uzunu",
+  "baslik": "Şu Derenin Uzunu",
+  "yore": "Mersin",
+  "hikaye": "Şu Derenin Uzunu, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu derenin uzunu (ammanın aman)",
+        "(haydi) Kıramadım buzunu",
+        "Aldım köylü kızını (ammanın aman)",
+        "(haydi) Çekemedim nazını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi yingel tımbıllı tımbıllı",
+        "Gaşı gözü çektirmeli püsküllü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dere baştan başa (ammanın aman)",
+        "(haydi) Atlarım taştan taşa",
+        "Çıkar gelin şalvarı (ammanın aman)",
+        "(haydi) Yırtarım baştan başa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi yingel tımbıllı tımbıllı",
+        "Gaşı gözü çektirmeli püsküllü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Derenin%20Uzunu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Derenin%20Uzunu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Derenin Uzunu",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Derenin_Uzunu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

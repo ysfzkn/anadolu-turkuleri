@@ -1,0 +1,67 @@
+{
+  "slug": "kasimpasa-kiyilari-tersane",
+  "baslik": "Kasımpaşa Kıyıları Tersane",
+  "yore": "İstanbul",
+  "hikaye": "Kasımpaşa Kıyıları Tersane, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kasımpaşa kıyıları tersane",
+        "Bir kız sevdim alimallah bir tane",
+        "Herdem sevdalıya kız mız bahane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Top çiçeğim deste gülüm",
+        "Canım İstanbullum",
+        "Aman aman bahane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gittim baktım şıkır şıkır Balıkpazarı",
+        "Üç tek attım sarhoş oldum ayak üzeri",
+        "Üç doluya üç tanecik badem şekeri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Top çiçeğim deste gülüm",
+        "Canım İstanbullum",
+        "Aman aman badem şekeri"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kas%C4%B1mpa%C5%9Fa%20K%C4%B1y%C4%B1lar%C4%B1%20Tersane%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kas%C4%B1mpa%C5%9Fa%20K%C4%B1y%C4%B1lar%C4%B1%20Tersane",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kasımpaşa Kıyıları Tersane",
+      "url": "https://tr.wikisource.org/wiki/Kas%C4%B1mpa%C5%9Fa_K%C4%B1y%C4%B1lar%C4%B1_Tersane",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

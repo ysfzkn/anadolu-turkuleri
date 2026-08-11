@@ -1,0 +1,65 @@
+{
+  "slug": "pinar-senin-ne-sevdali-basin-var",
+  "baslik": "Pınar Senin Ne Sevdalı Başın Var",
+  "yore": "Nevşehir",
+  "hikaye": "Pınar Senin Ne Sevdalı Başın Var, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar senin ne sevdalı başın var",
+        "Baş ucunda elvan elvan taşın var",
+        "Yarenin var yoldaşın var eşin var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım gelin bir su doldur pınardan",
+        "Çeşmeden pınardan aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar senin sağ yanında sazlar var",
+        "Sazların içinde ufak kazlar var",
+        "Gizim sende gara gara gözler var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım gelin bir su doldur pınardan",
+        "Çeşmeden pınardan aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=P%C4%B1nar%20Senin%20Ne%20Sevdal%C4%B1%20Ba%C5%9F%C4%B1n%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/P%C4%B1nar%20Senin%20Ne%20Sevdal%C4%B1%20Ba%C5%9F%C4%B1n%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pınar Senin Ne Sevdalı Başın Var (Nevşehir)",
+      "url": "https://tr.wikisource.org/wiki/P%C4%B1nar_Senin_Ne_Sevdal%C4%B1_Ba%C5%9F%C4%B1n_Var_(Nev%C5%9Fehir)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Nevşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

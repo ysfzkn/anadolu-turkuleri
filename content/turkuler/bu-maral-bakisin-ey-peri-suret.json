@@ -1,0 +1,62 @@
+{
+  "slug": "bu-maral-bakisin-ey-peri-suret",
+  "baslik": "Bu Maral Bakışın Ey Peri Suret",
+  "yore": "Malatya",
+  "hikaye": "Bu Maral Bakışın Ey Peri Suret, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu maral bakışın ey peri suret",
+        "Çok açtı sinemde yare gözlerin",
+        "Bilmem hurimidir yoksa ki ateş",
+        "Yakar baktığını nara gözlerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birden işvelenip mestane süzer",
+        "Gamzelerin oku bağrımda gezer",
+        "Bir kez iltifatla eylese nazar",
+        "Olur şu gönlüme çare gözlerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emrah'ı alemde bi karar etti",
+        "O nihan aşkını aşikar etti",
+        "Aklımı fikrimi tarumar etti",
+        "Fitne bakışların kara gözlerin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bu%20Maral%20Bak%C4%B1%C5%9F%C4%B1n%20Ey%20Peri%20Suret%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bu%20Maral%20Bak%C4%B1%C5%9F%C4%B1n%20Ey%20Peri%20Suret",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bu Maral Bakışın Ey Peri Suret",
+      "url": "https://tr.wikisource.org/wiki/Bu_Maral_Bak%C4%B1%C5%9F%C4%B1n_Ey_Peri_Suret",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

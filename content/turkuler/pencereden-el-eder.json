@@ -1,0 +1,89 @@
+{
+  "slug": "pencereden-el-eder",
+  "baslik": "Pencereden El Eder",
+  "yore": "Çorum",
+  "hikaye": "Pencereden El Eder, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden el eder (mini yar mini kuş)",
+        "Kaşların gel gel eder (benim güzel Münire'm)",
+        "Senin öyle bakışın (mini yar mini kuş)",
+        "Beni burda del'eder (fındık içi Münire'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim gocak Münire'm",
+        "Doldur içek Münire'm",
+        "Anan baban duymadan (mini yar mini kuş)",
+        "Bize gaçak Münire'm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa gırdım nar için (mini yar mini kuş)",
+        "Gül kopardım yar için (benim güzel Münire'm)",
+        "Analar kız beslemiş (mini yar mini kuş)",
+        "Delikanlılar için (fındık içi Münire'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim gocak Münire'm",
+        "Doldur içek Münire'm",
+        "Anan baban duymadan (mini yar mini kuş)",
+        "Bize gaçak Münire'm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa vardım bayırsız (mini yar mini kuş)",
+        "Etirafı çayırsız (benim güzel Münire'm)",
+        "Ellerin yari gelmiş (mini yar mini kuş)",
+        "Hani benim hayırsız (fındık içi Münire'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim gocak Münire'm",
+        "Doldur içek Münire'm",
+        "Anan baban duymadan (mini yar mini kuş)",
+        "Bize gaçak Münire'm"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Pencereden%20El%20Eder%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Pencereden%20El%20Eder",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pencereden El Eder",
+      "url": "https://tr.wikisource.org/wiki/Pencereden_El_Eder",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

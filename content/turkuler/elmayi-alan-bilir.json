@@ -1,0 +1,105 @@
+{
+  "slug": "elmayi-alan-bilir",
+  "baslik": "Elmayı Alan Bilir",
+  "yore": "İstanbul",
+  "hikaye": "Elmayı Alan Bilir, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmayı alan bilir oy oy",
+        "Şeftali satan bilir oy oy",
+        "Güzel kızın kıymetini oy oy",
+        "Kimsesiz yatan bilir oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçevan geldi",
+        "Bahçevan geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deh deh dül dül",
+        "Deh deh dül dül",
+        "Sen düldülsün ben bülbül",
+        "Deh deh dül dül",
+        "Deh deh dül dül",
+        "Sen düldülsün ben bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayvalarım sarardı oy oy",
+        "Deli gönlüm karardı oy oy",
+        "Yarime nar yolladım oy oy",
+        "İçinde kalbim vardı oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçevan geldi",
+        "Bahçevan geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deh deh dül dül",
+        "Deh deh dül dül",
+        "Sen düldülsün ben bülbül",
+        "Deh deh dül dül",
+        "Deh deh dül dül",
+        "Sen düldülsün ben bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dağlar bizim olsa oy oy",
+        "Yaprağı gızım olsa oy oy",
+        "Yarin uykusu gelmiş oy oy",
+        "Yastığı dizim olsa oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçevan geldi",
+        "Bahçevan geldi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elmay%C4%B1%20Alan%20Bilir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elmay%C4%B1%20Alan%20Bilir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elmayı Alan Bilir",
+      "url": "https://tr.wikisource.org/wiki/Elmay%C4%B1_Alan_Bilir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

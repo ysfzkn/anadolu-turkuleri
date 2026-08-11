@@ -1,0 +1,83 @@
+{
+  "slug": "bir-kiz-gordum-bedende",
+  "baslik": "Bir Kız Gördüm Bedende",
+  "yore": "Şanlıurfa",
+  "hikaye": "Bir Kız Gördüm Bedende, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir kız gördüm bedende",
+        "Sallanı da gidende",
+        "Aklım başımdan gidi",
+        "Her o kızı görende"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy oy oy oy Emine şeker versem lebine",
+        "Ben seni çok seviyem imanıma dinime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir kız gördüm yağ alıy",
+        "Bahça veri bağ alıy",
+        "Her o kızı görende",
+        "Yaralarım sağalıy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy oy oy oy Emine şeker versem lebine",
+        "Ben seni çok seviyem imanıma dinime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağı duman olanın",
+        "Halı yaman olanın",
+        "Gece uykusu gelmez",
+        "Yarı güzel olanın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy oy oy oy Emine şeker versem lebine",
+        "Ben seni çok seviyem imanıma dinime"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20K%C4%B1z%20G%C3%B6rd%C3%BCm%20Bedende%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20K%C4%B1z%20G%C3%B6rd%C3%BCm%20Bedende",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Kız Gördüm Bedende",
+      "url": "https://tr.wikisource.org/wiki/Bir_K%C4%B1z_G%C3%B6rd%C3%BCm_Bedende",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

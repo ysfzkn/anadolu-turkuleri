@@ -1,0 +1,70 @@
+{
+  "slug": "hasan-dagi-oymak-oymak",
+  "baslik": "Hasan Dağı Oymak Oymak",
+  "yore": "Hatay",
+  "hikaye": "Hasan Dağı Oymak Oymak, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasan Dağı oymak oymak",
+        "Olur mu (hiç) yâr sana doymak",
+        "Şeker dudağ(ı) (da) kaymak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Yörü yörü yörü yörü",
+        "Edalım yörü",
+        "Ben sözümden dönmem geri",
+        "Sağ olsun yiğidin seri",
+        "Kazanır getirir beri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasan Dağı’nın yokuşu",
+        "Gider yaz gelir kışı",
+        "O yârin humar bakışı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasan Dağı’nın söğüdü",
+        "Kız kimden aldın öğüdü",
+        "Ah ilen ömrüm çürüdü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hasan%20Da%C4%9F%C4%B1%20Oymak%20Oymak%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hasan%20Da%C4%9F%C4%B1%20Oymak%20Oymak",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hasan Dağı Oymak Oymak",
+      "url": "https://tr.wikisource.org/wiki/Hasan_Da%C4%9F%C4%B1_Oymak_Oymak",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

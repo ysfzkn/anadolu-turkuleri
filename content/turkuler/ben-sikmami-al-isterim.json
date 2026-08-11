@@ -1,0 +1,57 @@
+{
+  "slug": "ben-sikmami-al-isterim",
+  "baslik": "Ben Sıkmamı Al İsterim",
+  "yore": "Şanlıurfa",
+  "hikaye": "Ben Sıkmamı Al İsterim, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben (sıkmamı) al isterim",
+        "Kollarını dar isterim",
+        "Aldanmamış yâr isterim",
+        "Ağlasana Türkmen kızı",
+        "Türkmen kızı Türkmen kızı Türkmen kızı",
+        "Sen allar giy ben kırmızı",
+        "Sen gül düşür ben nergisi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaydan çift güvercin uçtu",
+        "Benim gönlüm sana düştü",
+        "Ağlasana Türkmen kızı",
+        "Türkmen kızı Türkmen kızı Türkmen kızı",
+        "Sen allar giy ben kırmızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20S%C4%B1kmam%C4%B1%20Al%20%C4%B0sterim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20S%C4%B1kmam%C4%B1%20Al%20%C4%B0sterim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Sıkmamı Al İsterim",
+      "url": "https://tr.wikisource.org/wiki/Ben_S%C4%B1kmam%C4%B1_Al_%C4%B0sterim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

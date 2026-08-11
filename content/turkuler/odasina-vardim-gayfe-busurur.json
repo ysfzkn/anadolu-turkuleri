@@ -1,0 +1,53 @@
+{
+  "slug": "odasina-vardim-gayfe-busurur",
+  "baslik": "Odasına Vardım Gayfe Büşürür",
+  "yore": "Erzincan",
+  "hikaye": "Odasına Vardım Gayfe Büşürür, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odasına vardım gayfe büşürür (oy)",
+        "Gınalı barmaklar (aney yandım hudey) fincan devşürür",
+        "Seni gören aşuk aklun şaşurur (oy)",
+        "Baba nerden aldın (aney yandım hudey hudey) sen bu gelini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keten köynek geymiş yakası ezik (oy)",
+        "Goluna yaptırmış (aney yandım hudey hudey) altın bilezik",
+        "Öpmeye kıyamadım sevmeye yazık (oy)",
+        "Baba nerden aldın (aney yandım hudey hudey) sen bu gelini"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Odas%C4%B1na%20Vard%C4%B1m%20Gayfe%20B%C3%BC%C5%9F%C3%BCr%C3%BCr%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Odas%C4%B1na%20Vard%C4%B1m%20Gayfe%20B%C3%BC%C5%9F%C3%BCr%C3%BCr",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Odasına Vardım Gayfe Büşürür",
+      "url": "https://tr.wikisource.org/wiki/Odas%C4%B1na_Vard%C4%B1m_Gayfe_B%C3%BC%C5%9F%C3%BCr%C3%BCr",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

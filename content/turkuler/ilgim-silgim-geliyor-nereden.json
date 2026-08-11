@@ -1,0 +1,65 @@
+{
+  "slug": "ilgim-silgim-geliyor-nereden",
+  "baslik": "Ilgım Sılgım Geliyor Nereden",
+  "yore": "Manisa",
+  "hikaye": "Ilgım Sılgım Geliyor Nereden, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ilgım sılgım geliyor nereden",
+        "Her yanları görünmüyor bereden",
+        "Kaşın değil gözün beni del'eden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben dünyama doymadım dostlar duymasın",
+        "Benim hâlim şu sılada kalmasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Demirciler demir döver tunç olur",
+        "Sevip sevip ayrılması güç olur",
+        "Ben gidersem senin halin nic'olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben dünyama doymadım dostlar duymasın",
+        "Benim hâlim şu sılada kalmasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ilg%C4%B1m%20S%C4%B1lg%C4%B1m%20Geliyor%20Nereden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ilg%C4%B1m%20S%C4%B1lg%C4%B1m%20Geliyor%20Nereden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ilgım Sılgım Geliyor Nereden",
+      "url": "https://tr.wikisource.org/wiki/Ilg%C4%B1m_S%C4%B1lg%C4%B1m_Geliyor_Nereden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

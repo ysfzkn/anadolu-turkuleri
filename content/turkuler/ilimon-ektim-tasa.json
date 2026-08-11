@@ -1,0 +1,71 @@
+{
+  "slug": "ilimon-ektim-tasa",
+  "baslik": "İlimon Ektim Taşa",
+  "yore": "Kırşehir",
+  "hikaye": "İlimon Ektim Taşa, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlimon ektim taşa (ilimon yar aman)",
+        "Bitmedi kaldı kışa (oy oy)",
+        "Kız ben seni alırdım (ilimon yar aman)",
+        "Askerlik geldi başa (oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlimon değil nar gelsin (oy oy)",
+        "Yandı da yürek kar gelsin (oy oy)",
+        "Yarin beyaz kolları (ilimon yar aman)",
+        "Sarıldıkça dar gelsin (oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlimon ektim düze (ilimon yar aman)",
+        "Bitmedi kaldı yaza (oy oy)",
+        "Kız ben seni alırım (ilimon yar aman)",
+        "Tezkere geldi bize (oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fındık serdim harmana (ilimon yar aman)",
+        "Aşık oldum ben sana (oy oy)",
+        "İkimizin derdini (ilimon yar aman)",
+        "Yazdıralım fermana (oy oy)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0limon%20Ektim%20Ta%C5%9Fa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0limon%20Ektim%20Ta%C5%9Fa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İlimon Ektim Taşa",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0limon_Ektim_Ta%C5%9Fa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

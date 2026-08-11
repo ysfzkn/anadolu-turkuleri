@@ -1,0 +1,66 @@
+{
+  "slug": "dama-vurdum-bir-depik",
+  "baslik": "Dama Vurdum Bir Depik",
+  "yore": "Kilis",
+  "hikaye": "Dama Vurdum Bir Depik, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama vurdum bir depik",
+        "Damın direği kepik",
+        "Kız ben seni alırım ley",
+        "Korkarım çoban öpük"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hele Meryem Meryem Meryem",
+        "Kele Meryem Meryem Meryem",
+        "Eller kınalı Meyrem de",
+        "Gözler sürmeli Meryem",
+        "Dam başında pıtırak",
+        "Gelin kızlar oturak",
+        "Oturmaktan ne çıkar ley",
+        "Gelin olak kurtulak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hele Meryem Meryem Meryem",
+        "Kele Meryem Meryem Meryem",
+        "Eller kınalı Meyrem de",
+        "Gözler sürmeli Meryem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dama%20Vurdum%20Bir%20Depik%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dama%20Vurdum%20Bir%20Depik",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dama Vurdum Bir Depik",
+      "url": "https://tr.wikisource.org/wiki/Dama_Vurdum_Bir_Depik",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

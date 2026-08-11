@@ -1,0 +1,71 @@
+{
+  "slug": "mayis-ayi-gelende",
+  "baslik": "Mayıs Ayı Gelende",
+  "yore": "Trabzon",
+  "hikaye": "Mayıs Ayı Gelende, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mayıs ayı gelende (yar yar yar yar da uy aman)",
+        "Dağlarda kar olur mi (uy aman gelin aman)",
+        "Sevdum da alamadım yar (yar yar yar yar da uy aman)",
+        "Böyle sevda olur mi (uy aman gelin aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaz gelir çiçek açar (yar yar yar yar da uy aman)",
+        "Yeşiller yaprakları (uy aman gelin aman)",
+        "Sevduğum senin için (yar yar yar yar da uy aman)",
+        "Töktüğüm göz yaşları (uy aman gelin aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde kerez var (yar yar yar yar da uy aman)",
+        "Kerezi asma sarar (uy aman gelin aman)",
+        "Sevduğumi görünceyar (yar yar yar yar da uy aman)",
+        "Erur yüreğim yanar (uy aman gelin aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turki söylerum turki (yar yar yar yar da uy aman)",
+        "Sevduğum senun için (uy aman gelin aman)",
+        "Biraz daha diyeyim (yar yar yar yar da uy aman)",
+        "Seni sevduğum için (uy aman gelin aman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=May%C4%B1s%20Ay%C4%B1%20Gelende%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/May%C4%B1s%20Ay%C4%B1%20Gelende",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mayıs Ayı Gelende",
+      "url": "https://tr.wikisource.org/wiki/May%C4%B1s_Ay%C4%B1_Gelende",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

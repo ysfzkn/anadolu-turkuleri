@@ -1,0 +1,89 @@
+{
+  "slug": "gemiye-cektik-yelken",
+  "baslik": "Gemiye Çektik Yelken",
+  "yore": "Rize",
+  "hikaye": "Gemiye Çektik Yelken, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemiye çektik yelken",
+        "Biz sefere giderken",
+        "Dua eyle sevdiğim",
+        "Geleyim daha erken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Trabzon`u aşalım",
+        "Ne zaman buluşalım",
+        "Yar senlen uyuşalım",
+        "Bir birimizi alalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dökülmüş iki yana",
+        "O sırmalı saçların",
+        "Yar senlen ayrılalı",
+        "Durmuyor gözyaşlarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Demir aldık limandan",
+        "Hava esti bir yandan",
+        "Her şeyi unuturdum",
+        "Yar çıkmıyor aklımdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadenizin beni",
+        "Güzel dediler seni",
+        "Çok da güzel deyilsin",
+        "Cilven yakıyor beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kemençemde var üç tel",
+        "Soldaki olur ince",
+        "Zorla alamam seni",
+        "Sen razı olmayınca"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gemiye%20%C3%87ektik%20Yelken%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gemiye%20%C3%87ektik%20Yelken",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gemiye Çektik Yelken",
+      "url": "https://tr.wikisource.org/wiki/Gemiye_%C3%87ektik_Yelken",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

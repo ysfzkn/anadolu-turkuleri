@@ -1,0 +1,63 @@
+{
+  "slug": "kerimoglu",
+  "baslik": "Kerimoğlu",
+  "yore": "Muğla",
+  "hikaye": "Kerimoğlu, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öf aman da aman of",
+        "Kara Dağların sandalı da sandalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al kana boyanmış",
+        "Kerimoğlunun her yanı da her yanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydülen de haydülen",
+        "Şu dağlarda geyik kalmadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynülen de kör arabım sen oyna",
+        "Senden başka yiğit kalmadı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kerimo%C4%9Flu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kerimo%C4%9Flu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kerimoğlu",
+      "url": "https://tr.wikisource.org/wiki/Kerimo%C4%9Flu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

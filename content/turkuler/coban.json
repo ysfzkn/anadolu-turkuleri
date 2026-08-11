@@ -1,0 +1,71 @@
+{
+  "slug": "coban",
+  "baslik": "Çoban",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Çoban, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada da kar sesi var, başında da mor fesi var",
+        "Le le çoban garip oğlan",
+        "Açın bakın şu konağı, içinde de yar sesi var",
+        "Le le çoban garip oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mor poşuyu boyamadım, ben çobana doyamadım",
+        "Le le çoban garip oğlan",
+        "Hep kuşlar da yuva yapmış, serçe kadar olamadım",
+        "Le le çoban garip oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hezmeylen, hüzmeylen, yar bulunmaz gezmeylen",
+        "Le le çoban garip oğlan.",
+        "Mezarımı kızlar kazsın altın saplı kazmaylan",
+        "Le le çoban garip oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül olup da açılsana, deste deste biçilsene",
+        "Le le çoban garip oğlan",
+        "Beni sana vermiyorlar, adam olup kaçırsana",
+        "Le le çoban garip oğlan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87oban%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87oban",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çoban",
+      "url": "https://tr.wikisource.org/wiki/%C3%87oban",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

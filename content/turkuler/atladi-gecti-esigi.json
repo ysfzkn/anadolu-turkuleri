@@ -1,0 +1,80 @@
+{
+  "slug": "atladi-gecti-esigi",
+  "baslik": "Atladı Geçti Eşiği",
+  "yore": "Erzincan",
+  "hikaye": "Atladı Geçti Eşiği, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atladı geçti eşiği",
+        "Sofrada galdi gaşuği",
+        "Böyük evin yakuşuği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen ağla gızım sen ağla",
+        "Alı yeşilinen bağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Süt gabını sütsüz goyan",
+        "Tuz gabını tuzsuz goyan",
+        "Anasını gızsız goyan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen ağla gızım sen ağla",
+        "Alı yeşilinen bağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımın guyruğu düğüm",
+        "Yüreği vurdi böğün",
+        "Ayruluk günüdür böğün"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen ağla gızım sen ağla",
+        "Alı yeşilinen bağla"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Atlad%C4%B1%20Ge%C3%A7ti%20E%C5%9Fi%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Atlad%C4%B1%20Ge%C3%A7ti%20E%C5%9Fi%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Atladı Geçti Eşiği",
+      "url": "https://tr.wikisource.org/wiki/Atlad%C4%B1_Ge%C3%A7ti_E%C5%9Fi%C4%9Fi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

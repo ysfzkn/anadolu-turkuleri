@@ -1,0 +1,101 @@
+{
+  "slug": "turkmen-kizi-yakti-bizi",
+  "baslik": "Türkmen Kızı Yaktı Bizi",
+  "yore": "Çorum",
+  "hikaye": "Türkmen Kızı Yaktı Bizi, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı Türkmen kızı",
+        "Yaktı bizi (leyli leyli) Türkmen kızı",
+        "Sen allar gey ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "Sana yandım Türkmen kızı",
+        "Yaralandım Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı Türkmen kızı süt pişirir",
+        "(Leyli leyli) yandım Ayşo südün köpüğün taşırır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Leyli leyli) Türkmen kızı",
+        "Sen allar gey ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "Sana yandım Türkmen kızı",
+        "Yaralandım Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı Türkmen kızı un eliyor",
+        "(leyli leyli) Türkmen kızı on parmağın kınalıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(leyli leyli) Türkmen kızı",
+        "Sen allar gey ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "Sana yandım Türkmen kızı",
+        "Yaralandım Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı Türkmen kızı inek sağar",
+        "(Leyli leyli) Türkmen kızı uzun saçı yere değer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Leyli leyli) Türkmen kızı",
+        "Sen allar gey ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "Sana yandım Türkmen kızı",
+        "Yaralandım Türkmen kızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Yakt%C4%B1%20Bizi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Yakt%C4%B1%20Bizi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Türkmen Kızı Yaktı Bizi",
+      "url": "https://tr.wikisource.org/wiki/T%C3%BCrkmen_K%C4%B1z%C4%B1_Yakt%C4%B1_Bizi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

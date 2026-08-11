@@ -1,0 +1,80 @@
+{
+  "slug": "varin-bakin-turkmen-kizi-uyur-mu",
+  "baslik": "Varın Bakın Türkmen Kızı Uyur mu",
+  "yore": "Kütahya",
+  "hikaye": "Varın Bakın Türkmen Kızı Uyur mu, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın bakın türkmen kızı uyur mu",
+        "Kollarında altın bilezik durur mu",
+        "İslamoğlu gibi yiğit ölür mü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nolaydı nolaydı da teslim teslim olaydım",
+        "Konakta avlusuna da kendim kendim varaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın bakın benim bacam tüter mı",
+        "Bağımda bahçamda da bülbül öter mi",
+        "Küçük kardaş benim yerim tutar mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nolaydı nolaydı da teslim teslim olaydım",
+        "Konakta avlusuna da kendim kendim varaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İslamoğlu derler benim bir adım",
+        "Tavlada bağlandı da kaldı kır atım",
+        "Hasret kıyamete kaldı muradım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nolaydı nolaydı da teslim teslim olaydım",
+        "Konakta avlusuna da kendim kendim varaydım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Var%C4%B1n%20Bak%C4%B1n%20T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Uyur%20mu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Var%C4%B1n%20Bak%C4%B1n%20T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Uyur%20mu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Varın Bakın Türkmen Kızı Uyur mu",
+      "url": "https://tr.wikisource.org/wiki/Var%C4%B1n_Bak%C4%B1n_T%C3%BCrkmen_K%C4%B1z%C4%B1_Uyur_mu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

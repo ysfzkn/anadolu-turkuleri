@@ -1,0 +1,65 @@
+{
+  "slug": "ey-bostanci-bir-bostan-ver-hastam-var",
+  "baslik": "Ey Bostancı Bir Bostan Ver Hastam Var",
+  "yore": "İstanbul",
+  "hikaye": "Ey Bostancı Bir Bostan Ver Hastam Var, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey bostancı aman ey bostancı bir bostan ver hastam var aman aman",
+        "Hasta da değil Beyoğlu'nda dostum var",
+        "Düşmanları aman düşmanları öldürmeye kastım var aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağdat Basra çöllerinde dolanır gezer",
+        "Yaftası boynunda salınır gezer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Galata'yı aman Galata'yı duman basmış ko yansın aman aman",
+        "Nazlı da yarim uykulardan uyansın",
+        "Uyansın da aman uyansın da gül yastığa dayansın aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağdat Basra çöllerinde dolanır gezer",
+        "Yaftası boynunda salınır gezer"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ey%20Bostanc%C4%B1%20Bir%20Bostan%20Ver%20Hastam%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ey%20Bostanc%C4%B1%20Bir%20Bostan%20Ver%20Hastam%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ey Bostancı Bir Bostan Ver Hastam Var",
+      "url": "https://tr.wikisource.org/wiki/Ey_Bostanc%C4%B1_Bir_Bostan_Ver_Hastam_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

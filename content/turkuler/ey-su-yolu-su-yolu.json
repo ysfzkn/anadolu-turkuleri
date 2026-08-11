@@ -1,0 +1,62 @@
+{
+  "slug": "ey-su-yolu-su-yolu",
+  "baslik": "Ey Su Yolu Su Yolu",
+  "yore": "Uşak",
+  "hikaye": "Ey Su Yolu Su Yolu, Vikikaynak'ın Uşak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Uşak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey su yolu su yolu (edalım hey)",
+        "Boş gider gelir dolu",
+        "Desti de kulpun kırılsın (edalım hey)",
+        "Yoruldu yârin kolu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güyer bostanım güyer (edalım hey)",
+        "Su gelir bendi döğer",
+        "Hem öksüzüm hem yetim (edalım hey)",
+        "Her gelen beni döğer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmenin bendine (edalım hey)",
+        "Döner kendi kendine",
+        "Değirmende üç kız var (edalım hey)",
+        "En güzeli kendime"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ey%20Su%20Yolu%20Su%20Yolu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ey%20Su%20Yolu%20Su%20Yolu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ey Su Yolu Su Yolu",
+      "url": "https://tr.wikisource.org/wiki/Ey_Su_Yolu_Su_Yolu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Uşak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "sira-sira-kazanlar",
+  "baslik": "Sıra Sıra Kazanlar",
+  "yore": "Aksaray",
+  "hikaye": "Sıra Sıra Kazanlar, Vikikaynak'ın Aksaray türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aksaray yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sıra sıra kazanlar (gelin gelin)",
+        "Kara yazı yazanlar (aman)",
+        "Cennet yüzü görmesin (gelin gelin)",
+        "Aramızı bozanlar (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim nazlı yârim aman",
+        "Çorbası tuzlu yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Git daldan kiraz deşir (gelin gelin)",
+        "Dibinde kahve pişir (aman)",
+        "Her kahveyi içtikçe (gelin gelin)",
+        "Beni aklına düşür (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim nazlı yârim aman",
+        "Çorbası tuzlu yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma attım alıca (gelin gelin)",
+        "Bir kuş vurdum delice (aman)",
+        "Ben bir yeni yâr sevdim (gelin gelin)",
+        "Gözleri sürmelice (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim nazlı yârim aman",
+        "Çorbası tuzlu yârim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C4%B1ra%20S%C4%B1ra%20Kazanlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C4%B1ra%20S%C4%B1ra%20Kazanlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sıra Sıra Kazanlar",
+      "url": "https://tr.wikisource.org/wiki/S%C4%B1ra_S%C4%B1ra_Kazanlar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aksaray",
+    "anonim",
+    "açık arşiv"
+  ]
+}

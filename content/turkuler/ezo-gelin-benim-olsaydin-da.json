@@ -1,0 +1,79 @@
+{
+  "slug": "ezo-gelin-benim-olsaydin-da",
+  "baslik": "Ezo Gelin Benim Olsaydın da",
+  "yore": "Gaziantep",
+  "hikaye": "Ezo Gelin Benim Olsaydın da, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezo gelin benim olsaydın da",
+        "Seni vermezdim feleğe (feleğe)",
+        "Güzel yosmam başın için",
+        "Salma beni dileğe",
+        "Annen huridir sen benzersin meleğe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Neneyle neneyle",
+        "Bahtı karam neneyle",
+        "Çık Suriye Dağları'na da",
+        "Bizim ele el eyle",
+        "El eyle aman el eyle",
+        "Gel kara yazılım gel",
+        "Gel sılada nazlım gel",
+        "Gel bahtı karalım gel oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezo gelin çık Suriye dağlarının başına (başına başına oy)",
+        "Gören vursun kemerinin kaşına (ey)",
+        "Bizi kınayanların bu ayrılık gelsin başına (ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Neneyle neneyle",
+        "Bahtı karam neneyle",
+        "Çık Suriye Dağları'na da",
+        "Bizim ele el eyle",
+        "El eyle aman el eyle",
+        "Gel kara yazılım gel",
+        "Gel sılada nazlım gel",
+        "Gel bahtı karalım gel oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ezo%20Gelin%20Benim%20Olsayd%C4%B1n%20da%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ezo%20Gelin%20Benim%20Olsayd%C4%B1n%20da",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ezo Gelin Benim Olsaydın da",
+      "url": "https://tr.wikisource.org/wiki/Ezo_Gelin_Benim_Olsayd%C4%B1n_da",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

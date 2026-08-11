@@ -1,0 +1,62 @@
+{
+  "slug": "ey-erenler-akil-fikir-eyleyin",
+  "baslik": "Ey Erenler Akıl Fikir Eyleyin",
+  "yore": "Erzincan",
+  "hikaye": "Ey Erenler Akıl Fikir Eyleyin, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey erenler akıl fikir eyleyin",
+        "Dağlara da duman ne güzel uymuş",
+        "Yaradan Allah'a şükür eyleyin",
+        "Mümine de iman ne güzel uymuş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezeli gamımdır kara bağlamak",
+        "Ciğerimi aşk oduna dağlamak",
+        "Yakub'un da işi gücü ağlamak",
+        "Yusuf'a da Kenan ne güzel uymuş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kul Hüseynim yeşil giyer eynine",
+        "Hiçbir hile getirmezdi göynüne",
+        "Kurdu kuşu bendeylemiş kendine",
+        "Mülke de Süleyman ne güzel uymuş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ey%20Erenler%20Ak%C4%B1l%20Fikir%20Eyleyin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ey%20Erenler%20Ak%C4%B1l%20Fikir%20Eyleyin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ey Erenler Akıl Fikir Eyleyin",
+      "url": "https://tr.wikisource.org/wiki/Ey_Erenler_Ak%C4%B1l_Fikir_Eyleyin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

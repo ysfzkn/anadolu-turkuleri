@@ -1,0 +1,83 @@
+{
+  "slug": "ne-duz-olur-gelenbenin-ovasi",
+  "baslik": "Ne Düz Olur Gelenbe'nin Ovası",
+  "yore": "Manisa",
+  "hikaye": "Ne Düz Olur Gelenbe'nin Ovası, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne düz olur Gelenbe'nin ovası",
+        "Ne düz olur Gelenbe'nin ovası",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekip gelir efendinin devesi",
+        "Çekip gelir efendinin devesi",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A sürmelim sen de benim olası",
+        "A sürmelim sen de benim olası",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geyiklik'den ayvalığa yol var",
+        "Geyiklik'den ayvalığa yol var",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arasında mor sümbüllü bağı var",
+        "Arasında mor sümbüllü bağı var",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nasıl ayrılayım tatlı dili var",
+        "Nasıl ayrılayım tatlı dili var",
+        "(Aman hadi gel gel aman aman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ne%20D%C3%BCz%20Olur%20Gelenbe'nin%20Ovas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ne%20D%C3%BCz%20Olur%20Gelenbe'nin%20Ovas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ne Düz Olur Gelenbe'nin Ovası",
+      "url": "https://tr.wikisource.org/wiki/Ne_D%C3%BCz_Olur_Gelenbe'nin_Ovas%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

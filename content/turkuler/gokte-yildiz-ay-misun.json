@@ -1,0 +1,34 @@
+{
+  "slug": "gokte-yildiz-ay-misun",
+  "baslik": "Gökte Yıldız Ay misun",
+  "yore": "Rize",
+  "hikaye": "Gökte Yıldız Ay misun, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ay%20misun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ay%20misun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gökte Yıldız Ay misun",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6kte_Y%C4%B1ld%C4%B1z_Ay_misun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

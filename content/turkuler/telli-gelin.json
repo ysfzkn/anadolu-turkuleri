@@ -1,0 +1,71 @@
+{
+  "slug": "telli-gelin",
+  "baslik": "Telli Gelin",
+  "yore": "Kastamonu",
+  "hikaye": "Telli Gelin, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşamları tandur gelin",
+        "Kandülleri yandur gelin",
+        "Koynunda yatan yiğidi",
+        "Bana bildir telli gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşamları tandurmuşum",
+        "Kandülleri yandurmuşum",
+        "Koynumda yatan yiğidi",
+        "Gül mememden emdürmüşüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul’dan geldi ferman",
+        "Dizlerimde yoktur derman",
+        "Aç kapıyı telli gelin",
+        "Mahmut Çavuş sana kurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul’dan gelsin ferman",
+        "Dizlerinde olsun derman",
+        "Gel içeri nazlı yârim",
+        "Kolum yastık saçım yorgan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Telli%20Gelin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Telli%20Gelin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Telli Gelin",
+      "url": "https://tr.wikisource.org/wiki/Telli_Gelin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

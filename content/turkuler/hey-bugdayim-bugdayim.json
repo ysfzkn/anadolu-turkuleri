@@ -1,0 +1,67 @@
+{
+  "slug": "hey-bugdayim-bugdayim",
+  "baslik": "Hey Buğdayım Buğdayım",
+  "yore": "Manisa",
+  "hikaye": "Hey Buğdayım Buğdayım, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey buğdayım buğdayım",
+        "Sereyim kurutayım",
+        "Nazlı yarin dilini",
+        "Ben nasıl unutayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere hanım gızım ellere vay",
+        "Ben dayanamam dokunaklı dillere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapıları sürgülü",
+        "Siyah saçları örgülü",
+        "Benim sevdiğim güzel",
+        "Anasından görgülü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere hanım gızım ellere vay",
+        "Ben dayanamam dokunaklı dillere vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hey%20Bu%C4%9Fday%C4%B1m%20Bu%C4%9Fday%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hey%20Bu%C4%9Fday%C4%B1m%20Bu%C4%9Fday%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hey Buğdayım Buğdayım (Manisa)",
+      "url": "https://tr.wikisource.org/wiki/Hey_Bu%C4%9Fday%C4%B1m_Bu%C4%9Fday%C4%B1m_(Manisa)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

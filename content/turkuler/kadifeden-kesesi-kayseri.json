@@ -1,0 +1,89 @@
+{
+  "slug": "kadifeden-kesesi-kayseri",
+  "baslik": "Kadifeden Kesesi",
+  "yore": "Kayseri",
+  "hikaye": "Kadifeden Kesesi, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadifeden kesesi",
+        "Kahveden gelir sesi",
+        "Kadifeden kesesi",
+        "Kahveden gelir sesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oturmuş kumar oynar",
+        "Ciğerimin köşesi",
+        "Oturmuş kumar oynar",
+        "Ciğerimin köşesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadifeden yastığım yok",
+        "Odana bastığım yok",
+        "Kadifeden yastığım yok",
+        "Odana bastığım yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kitaba el basarım",
+        "Senden başka yarim yok",
+        "Kitaba el basarım",
+        "Senden başka yarim yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadifeden kesesi",
+        "Kahveden gelir sesi",
+        "Kadifeden kesesi",
+        "Kahveden gelir sesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oturmuş kumar oynar",
+        "Ciğerimin köşesi",
+        "Oturmuş kumar oynar",
+        "Ciğerimin köşesi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kadifeden%20Kesesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kadifeden%20Kesesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kadifeden Kesesi (Kayseri)",
+      "url": "https://tr.wikisource.org/wiki/Kadifeden_Kesesi_(Kayseri)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "kirmizi-bugday-daneler",
+  "baslik": "Kırmızı Buğday Daneler",
+  "yore": "Samsun",
+  "hikaye": "Kırmızı Buğday Daneler, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı buğday daneler (de)",
+        "Yar bahçada döneler",
+        "Bahar geldi güz geldi (de)",
+        "Çabuk geçti seneler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hoppa da seneler",
+        "Çabuk geçti seneler",
+        "Bahçeye gelmiş gızlar",
+        "Hem oynar hem döneler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı çiçek dizece",
+        "Sevdiğim gel bizece",
+        "İnşallah kavuşuruz",
+        "Bu gelecek güzece"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hoppa da seneler",
+        "Çabuk geçti seneler",
+        "Bahçeye gelmiş gızlar",
+        "Hem oynar hem döneler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1rm%C4%B1z%C4%B1%20Bu%C4%9Fday%20Daneler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1rm%C4%B1z%C4%B1%20Bu%C4%9Fday%20Daneler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kırmızı Buğday Daneler",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1rm%C4%B1z%C4%B1_Bu%C4%9Fday_Daneler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Samsun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

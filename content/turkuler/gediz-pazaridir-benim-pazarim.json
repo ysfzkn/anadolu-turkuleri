@@ -1,0 +1,65 @@
+{
+  "slug": "gediz-pazaridir-benim-pazarim",
+  "baslik": "Gediz Pazarıdır Benim Pazarım",
+  "yore": "Kütahya",
+  "hikaye": "Gediz Pazarıdır Benim Pazarım, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gediz pazarıdır benim pazarım",
+        "Akdağ yaylasında kaldı mezarım",
+        "Sağ olaydım şu yaylada gezerdim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne diyeyim ay Ahmet ne diyelim Allah'tan oldu",
+        "Bizim (bizim) kavuşmamız mahşere kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hisarköy'den çıktım başım selamet",
+        "Akdağ yaylasında koptu kıyamet",
+        "Beni vuran Uzunoğlu Del'Ahmet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne diyeyim ay Ahmet ne diyelim Allah'tan oldu",
+        "Bizim (bizim) kavuşmamız mahşere kaldı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gediz%20Pazar%C4%B1d%C4%B1r%20Benim%20Pazar%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gediz%20Pazar%C4%B1d%C4%B1r%20Benim%20Pazar%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gediz Pazarıdır Benim Pazarım",
+      "url": "https://tr.wikisource.org/wiki/Gediz_Pazar%C4%B1d%C4%B1r_Benim_Pazar%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

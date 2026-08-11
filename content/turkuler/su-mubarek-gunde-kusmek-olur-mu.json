@@ -1,0 +1,71 @@
+{
+  "slug": "su-mubarek-gunde-kusmek-olur-mu",
+  "baslik": "Şu Mübarek Günde Küsmek Olur mu",
+  "yore": "Çorum",
+  "hikaye": "Şu Mübarek Günde Küsmek Olur mu, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu mübarek günde küsmek olur mu?",
+        "Uzat ellerini bayramlaşalım.",
+        "Tanrı selamını kesmek olur mu?",
+        "Uzat ellerini bayramlaşalım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eller al giyinmiş, gider bayrama,",
+        "Şu gurbet ellerde girdim yaslara,",
+        "Selam olsun sıladaki dostlara,",
+        "Uzat ellerini bayramlaşalım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar köyde, ben burda peri perişan,",
+        "Var mı bizim gibi bu derde düşen,",
+        "Nasib eyle mevlam yare kavuşam,",
+        "Uzat ellerini bayramlaşalım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mor gülüm de al güllere yakışır,",
+        "Yavrularım yollarıma bakışır,",
+        "Bayram gelir, küsülüler barışır,",
+        "Uzat ellerini bayramlaşalım."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20M%C3%BCbarek%20G%C3%BCnde%20K%C3%BCsmek%20Olur%20mu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20M%C3%BCbarek%20G%C3%BCnde%20K%C3%BCsmek%20Olur%20mu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Mübarek Günde Küsmek Olur mu",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_M%C3%BCbarek_G%C3%BCnde_K%C3%BCsmek_Olur_mu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

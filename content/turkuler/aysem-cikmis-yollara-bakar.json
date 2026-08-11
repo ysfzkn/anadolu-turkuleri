@@ -1,0 +1,98 @@
+{
+  "slug": "aysem-cikmis-yollara-bakar",
+  "baslik": "Ayşe'm Çıkmış Yollara Bakar",
+  "yore": "Konya",
+  "hikaye": "Ayşe'm Çıkmış Yollara Bakar, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayşe'm çıkmış yollara bakar",
+        "O bakışları canlar yakar",
+        "Ayşe'm çıkmış yollara bakar",
+        "O bakışları canlar yakar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yarim şimdi gelecek diye",
+        "Yarim şimdi gelecek diye",
+        "Çifte çifte lambalar yakar",
+        "Çifte çifte lambalar yakar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim",
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayşe'm seni nerede bulalım",
+        "Uçan kuşlardan mı sormalı",
+        "Ayşe'm seni nerede bulalım",
+        "Uçan kuşlardan mı sormalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaklaştıkça benden kaçarsın",
+        "Acep nasıl senin olmalı",
+        "Yaklaştıkça benden kaçarsın",
+        "Acep nasıl senin olmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim",
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim",
+        "Benim kara gözlü esmerim",
+        "Seni her gün görmek isterim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ay%C5%9Fe'm%20%C3%87%C4%B1km%C4%B1%C5%9F%20Yollara%20Bakar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ay%C5%9Fe'm%20%C3%87%C4%B1km%C4%B1%C5%9F%20Yollara%20Bakar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayşe'm Çıkmış Yollara Bakar",
+      "url": "https://tr.wikisource.org/wiki/Ay%C5%9Fe'm_%C3%87%C4%B1km%C4%B1%C5%9F_Yollara_Bakar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

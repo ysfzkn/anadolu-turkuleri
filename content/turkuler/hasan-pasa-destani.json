@@ -1,0 +1,71 @@
+{
+  "slug": "hasan-pasa-destani",
+  "baslik": "Hasan Paşa Destanı",
+  "yore": "Mersin",
+  "hikaye": "Hasan Paşa Destanı, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devlete sıtkınan hizmet eyleyen",
+        "Vezirler içinde bir Hasan paşa",
+        "Vaadinde hilafı yok, sözünde sadık",
+        "Emsali bulunmaz bir Hasan Paşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ordunun içinde beraber gezer",
+        "Heybetin görenler ederler nazar",
+        "İnşallah kâfirin mezarın kazar",
+        "Kılıcı kadife şu Hasan Paşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir zaman koç gibi meydana çıktı",
+        "Top tüfek sedası cihanı yıktı",
+        "Kâfirler ordusun Tuna’ya döktü",
+        "Kalma arkasından var Hasan Paşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Araptan Acemden askerler geldi",
+        "Rusçuk içine ordu cem oldu",
+        "İnayeti hak ile yeri göğü aldı",
+        "İçinde bir zaman dur Hasan Paşa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hasan%20Pa%C5%9Fa%20Destan%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hasan%20Pa%C5%9Fa%20Destan%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hasan Paşa Destanı",
+      "url": "https://tr.wikisource.org/wiki/Hasan_Pa%C5%9Fa_Destan%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "sennen-ayri-bu-dunyayi-neylerem",
+  "baslik": "Sennen Ayrı Bu Dünyayı Neylerem",
+  "yore": "Kars",
+  "hikaye": "Sennen Ayrı Bu Dünyayı Neylerem, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sennen ayrı bu dünyayı neylerem",
+        "Koyma meni yana yana sevdiğim (ay balam sevdiğim)",
+        "Ölene dek ataşına narına",
+        "Dolanırım döne döne sevdiğim (ay balam sevdiğim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeri yeri anen ölsün",
+        "Men sene gıymıram gaynenen ölsün",
+        "Ay balam goy ölsün"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek beni koydu gönlü yaralı",
+        "Kesildi kısmetim düştüm aralı",
+        "Laçın vurmuş turna gibi yaralı",
+        "Bölenmişem kızıl kana sevdiğim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sennen%20Ayr%C4%B1%20Bu%20D%C3%BCnyay%C4%B1%20Neylerem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sennen%20Ayr%C4%B1%20Bu%20D%C3%BCnyay%C4%B1%20Neylerem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sennen Ayrı Bu Dünyayı Neylerem",
+      "url": "https://tr.wikisource.org/wiki/Sennen_Ayr%C4%B1_Bu_D%C3%BCnyay%C4%B1_Neylerem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

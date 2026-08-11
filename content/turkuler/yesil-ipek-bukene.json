@@ -1,0 +1,107 @@
+{
+  "slug": "yesil-ipek-bukene",
+  "baslik": "Yeşil İpek Bükene",
+  "yore": "Karabük",
+  "hikaye": "Yeşil İpek Bükene, Vikikaynak'ın Karabük türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karabük yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil ipek bükene (Sunam of)",
+        "Yare dizlik dikene",
+        "Yeşil ipek bükene (Sunam of)",
+        "Yare dizlik dikene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mevlam da sabırlar versin (Sunam of)",
+        "Gizli sevda çekene",
+        "Mevlam da sabırlar versin (Sunam of)",
+        "Gizli sevda çekene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde şamdan",
+        "Bakıyor camdan",
+        "Geçiyor yoldan",
+        "Zarif de hanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom elinizden (Sunam of)",
+        "Kurtulam dilinizden",
+        "Gidiyom elinizden (Sunam of)",
+        "Kurtulam dilinizden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil baş ördek olsam (Sunam of)",
+        "Su içmem gölünüzden",
+        "Yeşil baş ördek olsam (Sunam of)",
+        "Su içmem gölünüzden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde şamdan",
+        "Bakıyor camdan",
+        "Geçiyor yoldan",
+        "Zarif de hanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom gidemiyom (Sunam of)",
+        "Sevdim terkedemiyom",
+        "Gidiyom gidemiyom (Sunam of)",
+        "Sevdim terkedemiyom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevdiğim pek gönüllü (Sunam of)",
+        "Gönlünü edemiyom",
+        "Sevdiğim pek gönüllü (Sunam of)",
+        "Gönlünü edemiyom"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ye%C5%9Fil%20%C4%B0pek%20B%C3%BCkene%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ye%C5%9Fil%20%C4%B0pek%20B%C3%BCkene",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yeşil İpek Bükene",
+      "url": "https://tr.wikisource.org/wiki/Ye%C5%9Fil_%C4%B0pek_B%C3%BCkene",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karabük",
+    "anonim",
+    "açık arşiv"
+  ]
+}

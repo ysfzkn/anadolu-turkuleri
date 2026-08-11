@@ -1,0 +1,71 @@
+{
+  "slug": "elmaliya-vurgunum",
+  "baslik": "Elmalıya Vurgunum",
+  "yore": "İstanbul",
+  "hikaye": "Elmalıya Vurgunum, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmalıya vurgunum aman",
+        "Edasına baygınım aman",
+        "Her hali hoşuma gidiyor",
+        "Aklımı başımdan alıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman güzel elmalı gönlüm sana sevdalı",
+        "Pek hoşuma gidiyor",
+        "Seni nasıl ah",
+        "Yar seni nasıl sarmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmalının işvesine",
+        "Nail oldum cilvesine",
+        "Her hali hoşuma gidiyor",
+        "Aklımı başımdan alıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman güzel elmalı gönlüm sana sevdalı",
+        "Pek hoşuma gidiyor",
+        "Seni nasıl ah",
+        "Yar seni nasıl sarmalı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elmal%C4%B1ya%20Vurgunum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elmal%C4%B1ya%20Vurgunum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elmalıya Vurgunum",
+      "url": "https://tr.wikisource.org/wiki/Elmal%C4%B1ya_Vurgunum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

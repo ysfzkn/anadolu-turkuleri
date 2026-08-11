@@ -1,0 +1,62 @@
+{
+  "slug": "arayip-gezerken-benim-buldugum",
+  "baslik": "Arayıp Gezerken Benim Bulduğum",
+  "yore": "Yozgat",
+  "hikaye": "Arayıp Gezerken Benim Bulduğum, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arayıp gezerken benim bulduğum",
+        "Seni seven senden nasıl ayrılır",
+        "Hayallerin etti beni perişan",
+        "Hayallerim senden nasıl ayrılır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşkına düşmüşem sevdandan yana",
+        "Gönül arzuhalim ayandır sana",
+        "Senden ayrı gezmek düşer mi bana",
+        "Can kaşı kemandan nasıl ayrılır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşıki'yem ey dur canda cananım",
+        "Sensiz karar kılmaz cisminde canım",
+        "Ben kuluyum Ali benim sultanım",
+        "Kul olan sultandan nasıl ayrılır"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aray%C4%B1p%20Gezerken%20Benim%20Buldu%C4%9Fum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aray%C4%B1p%20Gezerken%20Benim%20Buldu%C4%9Fum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arayıp Gezerken Benim Bulduğum",
+      "url": "https://tr.wikisource.org/wiki/Aray%C4%B1p_Gezerken_Benim_Buldu%C4%9Fum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

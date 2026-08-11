@@ -1,0 +1,48 @@
+{
+  "slug": "gara-camislari-vurdum-bayira",
+  "baslik": "Gara Camışları Vurdum Bayıra",
+  "yore": "Erzurum",
+  "hikaye": "Gara Camışları Vurdum Bayıra, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gara camışları vurdum bayıra",
+        "Döğüşe döğüşe yendi çayıra",
+        "Deyin güveğiye gele ayıra",
+        "Güveğinin işin Allah gayıra…Giderem gideremDudu gumru gibi durmaz öteremHulusu gönülden kalkar giderem",
+        "Bir oda yaptırdım döşedemedim",
+        "Üç günlük ömrümü beş edemedim",
+        "Zalim felek ile baş edemedim",
+        "Bu gara bahtıma küsmüş giderem…"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gara%20Cam%C4%B1%C5%9Flar%C4%B1%20Vurdum%20Bay%C4%B1ra%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gara%20Cam%C4%B1%C5%9Flar%C4%B1%20Vurdum%20Bay%C4%B1ra",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gara Camışları Vurdum Bayıra",
+      "url": "https://tr.wikisource.org/wiki/Gara_Cam%C4%B1%C5%9Flar%C4%B1_Vurdum_Bay%C4%B1ra",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

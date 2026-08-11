@@ -1,0 +1,85 @@
+{
+  "slug": "tepsi-de-tepsi-findiklar",
+  "baslik": "Tepsi de Tepsi Fındıklar",
+  "yore": "Denizli",
+  "hikaye": "Tepsi de Tepsi Fındıklar, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tepsi de tepsi fındıklar",
+        "Ayşe de Veli Aga'mı gıdıklar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman ayşem şanına",
+        "Nasıl çıkcen veli agamın yanına hey",
+        "Aman aman ayşem nar diye",
+        "Nasıl gelcen veli agama yar diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denizli acıpayam arası",
+        "Veli agam nerden bulcek başlık parası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman ayşem şanına",
+        "Nasıl çıkcen veli agamın yanına hey",
+        "Aman aman ayşem nar diye",
+        "Nasıl gelcen veli agama yar diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tepsi de tepsi pırasa,",
+        "Ufecicik yaprağına gar yağsa",
+        "Ayşe gız da gocasız galsa,",
+        "Gece gündüz veli agama yalvarsa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman ayşem şanına",
+        "Nasıl çıkcen veli agamın yanına hey",
+        "Aman aman ayşem nar diye",
+        "Nasıl gelcen veli agama yar diye"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tepsi%20de%20Tepsi%20F%C4%B1nd%C4%B1klar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tepsi%20de%20Tepsi%20F%C4%B1nd%C4%B1klar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tepsi de Tepsi Fındıklar",
+      "url": "https://tr.wikisource.org/wiki/Tepsi_de_Tepsi_F%C4%B1nd%C4%B1klar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

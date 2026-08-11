@@ -1,0 +1,63 @@
+{
+  "slug": "eremedim-vefasina-dunyanin",
+  "baslik": "Eremedim Vefasına Dünyanın",
+  "yore": "Kütahya",
+  "hikaye": "Eremedim Vefasına Dünyanın, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eremedim vefasına dünyanın (aman)",
+        "Bülbül konmaz sarayına Konya'nın (Konya'nın yan gönül)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çatık kaşın arasında var benin (aman)",
+        "Benlerin aklıma geldi ağlarım (ağlarım yanarım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yükseklerden uçar beyimin kuşu (aman)",
+        "Gurbete gidenin vardır bir işi (bir işi yan gönül)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kendi sılasında gülmeyen başı (aman)",
+        "Gider gurbet ele güler mi sandın (güler mi sandın yan gönül)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eremedim%20Vefas%C4%B1na%20D%C3%BCnyan%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eremedim%20Vefas%C4%B1na%20D%C3%BCnyan%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eremedim Vefasına Dünyanın",
+      "url": "https://tr.wikisource.org/wiki/Eremedim_Vefas%C4%B1na_D%C3%BCnyan%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

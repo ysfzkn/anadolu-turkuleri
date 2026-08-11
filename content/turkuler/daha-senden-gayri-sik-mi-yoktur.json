@@ -1,0 +1,80 @@
+{
+  "slug": "daha-senden-gayri-sik-mi-yoktur",
+  "baslik": "Daha Senden Gayrı Âşık mı Yoktur",
+  "yore": "Kayseri",
+  "hikaye": "Daha Senden Gayrı Âşık mı Yoktur, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daha senden gayrı âşık mı yoktur",
+        "Nedir bu telaşın vay deli gönül",
+        "Hele düşün devr-i adem’den beri",
+        "Neler gelmiş geçmiş, say deli gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu fâni dünyada umudunu yüz",
+        "İnanmazsan var kitaba yüz be yüz",
+        "Evin mezaristan, malın bir top bez",
+        "Daha duymadınsa duy deli gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Günde bir yol duman çöker serime",
+        "Elim ermez gidem kisbü kârıma",
+        "Kendi bildiğine doğrudur deme",
+        "Var iki kâmile sor deli gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gördüm iki kişi mezar eşiyor",
+        "Gam gasavet gelmiş, boydan aşıyor",
+        "Çok yaşayan yüze kadar yaşıyor",
+        "Gel de bu dünyayı yor deli gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mevla’m kanat vermiş uçamıyorsun",
+        "Bu nefsin elinden kaçamıyorsun",
+        "Ruhsatî dünyadan geçemiyorsun",
+        "Topraklar başına vay deli gönül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Daha%20Senden%20Gayr%C4%B1%20%C3%82%C5%9F%C4%B1k%20m%C4%B1%20Yoktur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Daha%20Senden%20Gayr%C4%B1%20%C3%82%C5%9F%C4%B1k%20m%C4%B1%20Yoktur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Daha Senden Gayrı Âşık mı Yoktur",
+      "url": "https://tr.wikisource.org/wiki/Daha_Senden_Gayr%C4%B1_%C3%82%C5%9F%C4%B1k_m%C4%B1_Yoktur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

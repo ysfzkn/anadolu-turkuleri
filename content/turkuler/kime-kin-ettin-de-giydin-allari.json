@@ -1,0 +1,71 @@
+{
+  "slug": "kime-kin-ettin-de-giydin-allari",
+  "baslik": "Kime Kin Ettin de Giydin Alları",
+  "yore": "Bayburt",
+  "hikaye": "Kime Kin Ettin de Giydin Alları, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kime kin ettin de giydin alları",
+        "Yakın iken ırak ettin yolları",
+        "Mihnet ile yetirdiğim gülleri",
+        "Vardıp gittin bir kötüye yoldurdun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen beni sevseydin arar bulurdun",
+        "Zülüflerin telinden bağlar dururdun",
+        "Madem ayrılmakmış senin muradın",
+        "Niye beni ateşine yandırdın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen seni topla da kuşağın kuşan",
+        "Ayrılır mı senin sevdana düşen",
+        "Sefa geldin diye sarıp sarmaşan",
+        "Niye benden muhabbeti kaldırdın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hicrani'yem der ki bakın halına",
+        "Dağlar dayanmıyor ah-ü zarıma",
+        "Elim ermez oldu kisp-ü karıma",
+        "Çünkü gülyüzlümü elden aldırdım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kime%20Kin%20Ettin%20de%20Giydin%20Allar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kime%20Kin%20Ettin%20de%20Giydin%20Allar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kime Kin Ettin de Giydin Alları",
+      "url": "https://tr.wikisource.org/wiki/Kime_Kin_Ettin_de_Giydin_Allar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

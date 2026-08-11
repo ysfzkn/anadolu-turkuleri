@@ -1,0 +1,95 @@
+{
+  "slug": "saffet-efendi",
+  "baslik": "Saffet Efendi",
+  "yore": "Konya",
+  "hikaye": "Saffet Efendi, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atı olan haydi el atına biner mi",
+        "Yiğit olan ikrarından döner mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah aman aman Saffet efendi",
+        "Beni buralardan al git efendi",
+        "Bütün suçlarımı affet efendi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Toprak tencerede bakla pişer mi",
+        "Kız oğlan kızların karnı şişer mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah aman aman şişmanım aman",
+        "Şişmanda sevdim pişmanım aman",
+        "Karakollara da düşmanım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara kuşun havadadır oyunu",
+        "Değme şahinlere aman vermez payını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman sürmeli kızlar",
+        "Göğsü de çapraz düğmeli kızlar",
+        "Delikanlı görünce her yanları sızlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç giderim beş ardıma bakarım",
+        "Gözlerimden kanlı yaşlar dökerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah aman aman Saffet efendi",
+        "Beni buralardan al git efendi",
+        "Bütün suçlarımı affet efendi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Saffet%20Efendi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Saffet%20Efendi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Saffet Efendi (Konya)",
+      "url": "https://tr.wikisource.org/wiki/Saffet_Efendi_(Konya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

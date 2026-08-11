@@ -1,0 +1,71 @@
+{
+  "slug": "lo-lo",
+  "baslik": "Lo Lo",
+  "yore": "Diyarbakır",
+  "hikaye": "Lo Lo, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başındaki puşu mudur?",
+        "Diyarbakır işi midir?",
+        "Al yanakta diş yarası",
+        "O da sarhoş işi midir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezemynen üzmeyinen",
+        "Yâr bulunmaz gezmeyinen",
+        "Mezarımı kızlar kazsın",
+        "Gümüş saplı kazmayinen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sandığımı açamadım",
+        "Çihezimi saçamadım",
+        "Bana yârdan geç diyorlar",
+        "Yâr tatlıdır geçemedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayır ince biçemedim",
+        "Sular soğuk içemedim",
+        "Yazık oldu gençliğime",
+        "Bir kız alıp kaçamadım."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Lo%20Lo%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Lo%20Lo",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Lo Lo",
+      "url": "https://tr.wikisource.org/wiki/Lo_Lo",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

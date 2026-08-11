@@ -1,0 +1,53 @@
+{
+  "slug": "koyun-oksamasi",
+  "baslik": "Koyun Okşaması",
+  "yore": "Mersin",
+  "hikaye": "Koyun Okşaması, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koyunumu güttüm güttüm de eğriğine abam yatırdım",
+        "Abılası sağdı da ben sütünü getirdim, getirdim",
+        "Meleme mor koyunumda ben sütünü getirdim",
+        "Yol ver başı dumanlı dağlarda bizde geçelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü katıran torusu",
+        "Dibinde yayılırda keklik sürüsü",
+        "Onbeş kızın içinde yokta seni sağan birisi",
+        "Meleme mor koyunum da ağlattın sen bizi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Koyun%20Ok%C5%9Famas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Koyun%20Ok%C5%9Famas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Koyun Okşaması",
+      "url": "https://tr.wikisource.org/wiki/Koyun_Ok%C5%9Famas%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

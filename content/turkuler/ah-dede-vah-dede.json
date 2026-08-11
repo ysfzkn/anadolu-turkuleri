@@ -1,0 +1,92 @@
+{
+  "slug": "ah-dede-vah-dede",
+  "baslik": "Ah Dede Vah Dede",
+  "yore": "İstanbul",
+  "hikaye": "Ah Dede Vah Dede, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben dedeme çekmişim bilmem ki neden",
+        "Bir elmanın yarısı o yarısı da ben",
+        "Ağzım burnum gözlerim tıpatıp aynı",
+        "Hık demiş de burnundan düşmüşüm sanki"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dede vah dede sen neymişsin sen",
+        "Dillere düştüm senin yüzünden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şimdi diyeceksiniz ki ne olmuş sanki",
+        "Çok maymun iştahlıymış dedem rahmetli",
+        "Üstelik cok çapkınmıs huyu kurusun",
+        "Ben dedeme çekmişim haberin olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dede vah dede sen neymişsin sen",
+        "Dillere düştüm senin yüzünden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kendime örnek aldım dedemi",
+        "Yalnız bir tek çiçekle bahar geçer mi",
+        "Her çiçeğin kokusu adı",
+        "Damarimda dolaşır dedemin kanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dede vah dede sen neymişsin sen",
+        "Dillere düştüm senin yüzünden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "En sonunda düşündüm banane bundan",
+        "Sanki öbür dedeler farklı mı ondan",
+        "En iyisi boşverip aldırmayacaksın",
+        "Seninle alay eden aynaya baksın.."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Dede%20Vah%20Dede%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Dede%20Vah%20Dede",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Dede Vah Dede",
+      "url": "https://tr.wikisource.org/wiki/Ah_Dede_Vah_Dede",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

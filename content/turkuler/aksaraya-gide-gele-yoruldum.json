@@ -1,0 +1,61 @@
+{
+  "slug": "aksaraya-gide-gele-yoruldum",
+  "baslik": "Aksaray'a Gide Gele Yoruldum",
+  "yore": "İstanbul",
+  "hikaye": "Aksaray'a Gide Gele Yoruldum, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aksaray’a gide gele yoruldum (yoruldum canım)",
+        "Ben o yârin cemâline vuruldum (vuruldum canım)",
+        "Uzun boylu ince bele sarıldım (sarıldım canım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Seni bana verseler (verseler canım)",
+        "Telli duvak sırma teller taksalar (taksalar canım)",
+        "Verin benim canımı gideyim (gideyim canım)",
+        "Düğün kurun ben safalar süreyim (süreyim canım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıkar isem şu yokuşun başına (başına canım)",
+        "Bir ok attım kapındaki taşına (taşına canım)",
+        "Benim yârim girmiş on beş yaşına (yaşına canım)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aksaray'a%20Gide%20Gele%20Yoruldum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aksaray'a%20Gide%20Gele%20Yoruldum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aksaray'a Gide Gele Yoruldum",
+      "url": "https://tr.wikisource.org/wiki/Aksaray'a_Gide_Gele_Yoruldum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

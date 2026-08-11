@@ -1,0 +1,80 @@
+{
+  "slug": "guzel-ne-guzel-olmussun",
+  "baslik": "Güzel Ne Güzel Olmuşsun",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Güzel Ne Güzel Olmuşsun, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzel ne güzel olmuşsun,",
+        "Görülmeyi görülmeyi,",
+        "Siyah zülfün halkalanmış...aman aman",
+        "Örülmeyi örülmeyi."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilim yuğdum arıttım,",
+        "Gülün dalında kuruttum,",
+        "Adin ne idi unuttum...aman aman",
+        "Sorulmayı sorulmayı.."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seğirttim ardından yettim,",
+        "Eğildim yüzünden öptüm,",
+        "Adın bilirdim unuttum...aman aman",
+        "Çağırmayı çağırmayı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim yarim bana küsmüş,",
+        "Zülfünü gerdana dökmüş,",
+        "Muhabbeti benden kesmiş...aman aman",
+        "Sevilmeyi sevilmeyi."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çağır karacaoğlan çağır,",
+        "Taş düştüğü yerde ağır,",
+        "Yiğit sevdiğinden soğur...aman aman",
+        "Sarılmayı sarılmayı."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCzel%20Ne%20G%C3%BCzel%20Olmu%C5%9Fsun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCzel%20Ne%20G%C3%BCzel%20Olmu%C5%9Fsun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Güzel Ne Güzel Olmuşsun",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BCzel_Ne_G%C3%BCzel_Olmu%C5%9Fsun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

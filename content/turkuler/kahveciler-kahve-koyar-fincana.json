@@ -1,0 +1,72 @@
+{
+  "slug": "kahveciler-kahve-koyar-fincana",
+  "baslik": "Kahveciler Kahve Koyar Fincana",
+  "yore": "Trabzon",
+  "hikaye": "Kahveciler Kahve Koyar Fincana, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahveciler kahve koyar fincana",
+        "Dudakları benzer leyl-i mercana vay",
+        "Sürmelim vay vay sürmeli vay",
+        "Vay vay var sürmelim vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Azrail gel sen de kıyma bu cana",
+        "Kıyan ellerine kurban olduğum",
+        "Sürmelim vay vay sürmeli vay",
+        "Vay vay var sürmelim vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of of kaşlar kara gözler ela",
+        "Kirpikleri sürmelim vay",
+        "Vay vay sürmelim vay",
+        "Seni alıp bu diyardan gitmeli vay",
+        "Vay var sürmelim vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odalar yaptırdım gelip geçmeye",
+        "Çeşmeler yaptırdım suyun içmeye vay",
+        "Sürmelim vay vay sürmeli vay",
+        "Vay vay var sürmelim vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kahveciler%20Kahve%20Koyar%20Fincana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kahveciler%20Kahve%20Koyar%20Fincana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kahveciler Kahve Koyar Fincana",
+      "url": "https://tr.wikisource.org/wiki/Kahveciler_Kahve_Koyar_Fincana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

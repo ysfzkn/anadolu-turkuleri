@@ -1,0 +1,67 @@
+{
+  "slug": "lamba-da-sisesiz-yanmaz-mi",
+  "baslik": "Lamba da Şişesiz Yanmaz mı",
+  "yore": "Gaziantep",
+  "hikaye": "Lamba da Şişesiz Yanmaz mı, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lamba da şişesiz yanmaz mı",
+        "Cicim bana yar bulunmaz mı (yallah)",
+        "Ben bu dertten ölürsem",
+        "Bana da acıyan olmaz mı (yallah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alamadım kaşları karayı",
+        "Süremedim zevk ile sefayı (yallah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmadan gel asmadan",
+        "Cicim fistan geymiş basmadan (yallah)",
+        "Gel buradan kaçalım",
+        "Bizi devriyeler basmadan (yallah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alamadım kaşları karayı",
+        "Süremedim zevk ile sefayı (yallah)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Lamba%20da%20%C5%9Ei%C5%9Fesiz%20Yanmaz%20m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Lamba%20da%20%C5%9Ei%C5%9Fesiz%20Yanmaz%20m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Lamba da Şişesiz Yanmaz mı",
+      "url": "https://tr.wikisource.org/wiki/Lamba_da_%C5%9Ei%C5%9Fesiz_Yanmaz_m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

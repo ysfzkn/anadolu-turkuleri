@@ -1,0 +1,98 @@
+{
+  "slug": "nasil-yar-diyeyim-ben-boyle-yare",
+  "baslik": "Nasıl Yâr Diyeyim Ben Böyle Yâre",
+  "yore": "Erzincan",
+  "hikaye": "Nasıl Yâr Diyeyim Ben Böyle Yâre, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nasıl yâr diyeyim ben böyle yâre",
+        "Mecnun edip çöle (çöle) saldıktan sonra",
+        "Alemin bağına bülbüller konmuş",
+        "N'idem benim gülüm solduktan sonra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadır kaşların keman istemem",
+        "Şu gönlümde özge mihman istemem",
+        "Ölsem de derdime derman istemem",
+        "Ok vurup sinemi deldikten sonra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Coşkun çaylar gibi çağlamayan yâr",
+        "Gönlünü gönlüme bağlamayan yâr",
+        "Benim şu derdime ağlamayan yâr",
+        "Daha ağlamasın ben öldükten sonra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Sultan Abdal'ım sürem bu yolu",
+        "İnsan-ı kâmilin olmuşam kulu",
+        "İster yağmur yağsın isterse dolu",
+        "N‘idem ben ummana daldıktan sonra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nesini sorarsın düşkün halimin",
+        "Çoktan beri yatar hastadır gönül",
+        "Alışmış gurbete göçmüş elinden",
+        "Abdala karışmış post’tadır gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kişiye acaptır müşkülü anmak",
+        "Pervaneler gibi odlara yanmak",
+        "Çetin olur dostum senden ayrılmak",
+        "Karalar bağlamış yastadır gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kul Mustafa’m söyletmeyin deliyi",
+        "Pirim hünkâr Hacı Bektaş Veli’ yi",
+        "Dost elinden içirdiler doluyu",
+        "Şimdi sarhoş olmuş yastadır gönül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nas%C4%B1l%20Y%C3%A2r%20Diyeyim%20Ben%20B%C3%B6yle%20Y%C3%A2re%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nas%C4%B1l%20Y%C3%A2r%20Diyeyim%20Ben%20B%C3%B6yle%20Y%C3%A2re",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nasıl Yâr Diyeyim Ben Böyle Yâre",
+      "url": "https://tr.wikisource.org/wiki/Nas%C4%B1l_Y%C3%A2r_Diyeyim_Ben_B%C3%B6yle_Y%C3%A2re",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

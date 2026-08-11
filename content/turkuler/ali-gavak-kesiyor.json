@@ -1,0 +1,62 @@
+{
+  "slug": "ali-gavak-kesiyor",
+  "baslik": "Ali Gavak Kesiyor",
+  "yore": "Isparta",
+  "hikaye": "Ali Gavak Kesiyor, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali gavak kesiyor (hey mavi donlu)",
+        "Efil efil esiyor (sil gözü ganlı)",
+        "Ben Ali’ye ne dedim (hey mavi donlu)",
+        "Durup durup küsüyor (sil gözü ganlı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cici potinim cici (hey mavi donlu)",
+        "Gezdiğim çimen içi (sil gözü ganlı)",
+        "Bizim aldığımız gız (hey mavi donlu)",
+        "Gavrulmuş badem içi (sil gözü ganlı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Davlumbazım dat gibi (hey mavi donlu)",
+        "Komşularım yat gibi (sil gözü ganlı)",
+        "Bizi yeren komşular (hey mavi donlu)",
+        "Dondu kaldı mat gibi (sil gözü ganlı)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ali%20Gavak%20Kesiyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ali%20Gavak%20Kesiyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ali Gavak Kesiyor",
+      "url": "https://tr.wikisource.org/wiki/Ali_Gavak_Kesiyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

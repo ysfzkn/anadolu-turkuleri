@@ -1,0 +1,52 @@
+{
+  "slug": "oy-tombulum-tombulum",
+  "baslik": "Oy Tombulum Tombulum",
+  "yore": "Tokat",
+  "hikaye": "Oy Tombulum Tombulum, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme gidenlerinen",
+        "Boyu fidanlarınan",
+        "N’olur bir selam söyle",
+        "Gelip gidenlerinen tombulum",
+        "::Oy tombulum tombulum",
+        "::Yoldan geldim yorgunum",
+        "::Âlem ne derse desin",
+        "::Yâr ben sana vurgunum (tombulum)",
+        "Bebek geldi yaşına",
+        "Şapka ister başına",
+        "Ismarladım gelecek",
+        "Bu haftanın başına tombulum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Oy%20Tombulum%20Tombulum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Oy%20Tombulum%20Tombulum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oy Tombulum Tombulum",
+      "url": "https://tr.wikisource.org/wiki/Oy_Tombulum_Tombulum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

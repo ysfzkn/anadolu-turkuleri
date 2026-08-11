@@ -1,0 +1,34 @@
+{
+  "slug": "kibar-kizin-saclari-sallaniyor",
+  "baslik": "Kibar Kızın Saçları Sallanıyor",
+  "yore": "Kırşehir",
+  "hikaye": "Kibar Kızın Saçları Sallanıyor, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kibar%20K%C4%B1z%C4%B1n%20Sa%C3%A7lar%C4%B1%20Sallan%C4%B1yor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kibar%20K%C4%B1z%C4%B1n%20Sa%C3%A7lar%C4%B1%20Sallan%C4%B1yor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kibar Kızın Saçları Sallanıyor",
+      "url": "https://tr.wikisource.org/wiki/Kibar_K%C4%B1z%C4%B1n_Sa%C3%A7lar%C4%B1_Sallan%C4%B1yor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

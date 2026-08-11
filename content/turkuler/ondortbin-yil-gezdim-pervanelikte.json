@@ -1,0 +1,55 @@
+{
+  "slug": "ondortbin-yil-gezdim-pervanelikte",
+  "baslik": "Ondörtbin Yıl Gezdim Pervanelikte",
+  "yore": "Erzincan",
+  "hikaye": "Ondörtbin Yıl Gezdim Pervanelikte, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On dört bin yıl gezdim pervanelikte",
+        "Sıtkı ismin duydum divanelikte",
+        "İçtim şarabını mestanelikte",
+        "Kırkların ceminde dara düş oldum",
+        "Kırkların ceminde Haydar Haydar dara düş oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güruh-u naciye özümü kattım",
+        "Âdem sıfatından çok geldim gittim",
+        "Bülbül oldum firdevs bağında öttüm",
+        "Bir zaman gül için zara düş oldum",
+        "Kırkların ceminde Haydar Haydar dara düş oldum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ond%C3%B6rtbin%20Y%C4%B1l%20Gezdim%20Pervanelikte%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ond%C3%B6rtbin%20Y%C4%B1l%20Gezdim%20Pervanelikte",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ondörtbin Yıl Gezdim Pervanelikte",
+      "url": "https://tr.wikisource.org/wiki/Ond%C3%B6rtbin_Y%C4%B1l_Gezdim_Pervanelikte",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

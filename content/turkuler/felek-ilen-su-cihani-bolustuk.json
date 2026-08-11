@@ -1,0 +1,53 @@
+{
+  "slug": "felek-ilen-su-cihani-bolustuk",
+  "baslik": "Felek İlen Şu Cihanı Bölüştük",
+  "yore": "Erzincan",
+  "hikaye": "Felek İlen Şu Cihanı Bölüştük, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek ilen şu cihanı bölüştük oy oy",
+        "Saray aldı hanı bana bıraktı oy oy felek",
+        "Yeryüzünü karış karış dolaştık oy",
+        "Zevki aldı derdi bana bıraktı oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şehir aldı yayla aldı dağ aldı oy oy",
+        "Mor sümbüllü bahçe aldı bağ aldı oy oy felek",
+        "Taksim etti her hisseden çok aldı oy",
+        "Hile yaptı azı bana kaldı oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Felek%20%C4%B0len%20%C5%9Eu%20Cihan%C4%B1%20B%C3%B6l%C3%BC%C5%9Ft%C3%BCk%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Felek%20%C4%B0len%20%C5%9Eu%20Cihan%C4%B1%20B%C3%B6l%C3%BC%C5%9Ft%C3%BCk",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Felek İlen Şu Cihanı Bölüştük",
+      "url": "https://tr.wikisource.org/wiki/Felek_%C4%B0len_%C5%9Eu_Cihan%C4%B1_B%C3%B6l%C3%BC%C5%9Ft%C3%BCk",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

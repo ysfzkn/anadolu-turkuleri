@@ -1,0 +1,56 @@
+{
+  "slug": "sari-zeybek-su-daglara-yaslanir",
+  "baslik": "Sarı Zeybek Şu Dağlara Yaslanır",
+  "yore": "Burdur",
+  "hikaye": "Sarı Zeybek Şu Dağlara Yaslanır, Vikikaynak'ın Burdur türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Burdur yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı (da) zeybek şu dağlara yaslanır",
+        "Yağmur yağar silahları ıslanır (ben yandım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı (da) zeybek inip gelir inişten",
+        "Her yanları görünmüyor gümüşten (ben yandım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Duman (da) inmiş şu yaylanın düzüne",
+        "Davran (da) gır at yol göründü gözüme (ben yandım)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20Zeybek%20%C5%9Eu%20Da%C4%9Flara%20Yaslan%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20Zeybek%20%C5%9Eu%20Da%C4%9Flara%20Yaslan%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarı Zeybek Şu Dağlara Yaslanır (Burdur)",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1_Zeybek_%C5%9Eu_Da%C4%9Flara_Yaslan%C4%B1r_(Burdur)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Burdur",
+    "anonim",
+    "açık arşiv"
+  ]
+}

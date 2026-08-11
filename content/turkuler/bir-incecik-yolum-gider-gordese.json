@@ -1,0 +1,65 @@
+{
+  "slug": "bir-incecik-yolum-gider-gordese",
+  "baslik": "Bir İncecik Yolum Gider Gördes'e",
+  "yore": "Manisa",
+  "hikaye": "Bir İncecik Yolum Gider Gördes'e, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir incecik efem yolum gider Gördes'e efem,",
+        "Seğim seğim kanım damlar mor fese,",
+        "Öldüğümü efem duyurmayın ellere efem,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalgın uykulardan uyanamadım,",
+        "Top zülüflü yarden ayrılamadım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıra olur aman efelerin içtiği efem",
+        "Yazık oldu Memedimin gençliği",
+        "Kayalıoğlu efem efelerin efesi efem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalgın uykulardan uyanamadım,",
+        "Top zülüflü yarden ayrılamadım."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20%C4%B0ncecik%20Yolum%20Gider%20G%C3%B6rdes'e%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20%C4%B0ncecik%20Yolum%20Gider%20G%C3%B6rdes'e",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir İncecik Yolum Gider Gördes'e",
+      "url": "https://tr.wikisource.org/wiki/Bir_%C4%B0ncecik_Yolum_Gider_G%C3%B6rdes'e",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

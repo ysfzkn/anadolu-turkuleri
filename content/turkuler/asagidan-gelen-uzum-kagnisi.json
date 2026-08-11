@@ -1,0 +1,53 @@
+{
+  "slug": "asagidan-gelen-uzum-kagnisi",
+  "baslik": "Aşağıdan Gelen Üzüm Kağnısı",
+  "yore": "Yozgat",
+  "hikaye": "Aşağıdan Gelen Üzüm Kağnısı, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelen üzüm kağnısı",
+        "İçinde de güzellerin benlisi (bir tanem)",
+        "Bilmiyom ki benim yârim hangisi",
+        "Orta boylu kara yağız kendisi (bir tanem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çeşmenin başında yârnen kavuştum",
+        "Yâr aşağı ben yukarı savuştum (bir tanem)",
+        "Çoktan beri ben yâr ile küsüdüm",
+        "Bir gül verdim ben yâr ile barıştım (bir tanem)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fa%C4%9F%C4%B1dan%20Gelen%20%C3%9Cz%C3%BCm%20Ka%C4%9Fn%C4%B1s%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fa%C4%9F%C4%B1dan%20Gelen%20%C3%9Cz%C3%BCm%20Ka%C4%9Fn%C4%B1s%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşağıdan Gelen Üzüm Kağnısı",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fa%C4%9F%C4%B1dan_Gelen_%C3%9Cz%C3%BCm_Ka%C4%9Fn%C4%B1s%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

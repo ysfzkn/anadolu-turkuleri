@@ -1,0 +1,81 @@
+{
+  "slug": "mendilinde-kar-getir-bayburt",
+  "baslik": "Mendilinde Kar Getir",
+  "yore": "Bayburt",
+  "hikaye": "Mendilinde Kar Getir, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilinde kar getir (Oy anam güzeller)",
+        "Sarda yare nar getir (Oy anam güzeller)",
+        "Sarda yare nar getir (Oy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dediler yarin hasta (Oy anam güzeller)",
+        "Sim tabakta bal getir (Oy anam güzeller)",
+        "Sim tabakta bal getir (Oy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy güzeller güzeller(Oy anam güzeller)",
+        "İnci mercan dizerler(Oy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilinde oya var (Oy anam güzeller)",
+        "Yüreğimde yara var (Oy anam güzeller)",
+        "Yüreğimde yara var (Oy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Komşularım yareme (Oy anam güzeller)",
+        "Seni merhem diyorlar (Oy anam güzeller)",
+        "Seni merhem diyorlar (Oy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy güzeller güzeller(Oy anam güzeller)",
+        "İnci mercan dizerler(Oy anam güzeller)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mendilinde%20Kar%20Getir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mendilinde%20Kar%20Getir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mendilinde Kar Getir (Bayburt)",
+      "url": "https://tr.wikisource.org/wiki/Mendilinde_Kar_Getir_(Bayburt)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "anonim",
+    "açık arşiv"
+  ]
+}

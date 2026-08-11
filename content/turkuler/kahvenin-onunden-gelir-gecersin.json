@@ -1,0 +1,80 @@
+{
+  "slug": "kahvenin-onunden-gelir-gecersin",
+  "baslik": "Kahvenin Önünden Gelir Geçersin",
+  "yore": "Konya",
+  "hikaye": "Kahvenin Önünden Gelir Geçersin, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahvenin önünden gelir geçersin",
+        "Lavantalı kokuları sürer tütersin",
+        "Ya beni alırsın ya vaz vazgeçersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Memedim Memedim de öldüm elinden",
+        "Bir kadeh de gönder de kibar elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahvenin önünden atlayamadım",
+        "Döküldü cephanem de toplayamadım",
+        "O yare mektup yazdım yollayamadım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Memedim Memedim de öldüm elinden",
+        "Bir kadeh de gönder de kibar elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahvenin önünde tabakam kaldı",
+        "Bütün hovardalar mahalleyi sardı",
+        "Gorkma Memed gorkma o yar bize kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Memedim Memedim de öldüm elinden",
+        "Bir kadeh de gönder de kibar elinden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kahvenin%20%C3%96n%C3%BCnden%20Gelir%20Ge%C3%A7ersin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kahvenin%20%C3%96n%C3%BCnden%20Gelir%20Ge%C3%A7ersin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kahvenin Önünden Gelir Geçersin (Konya)",
+      "url": "https://tr.wikisource.org/wiki/Kahvenin_%C3%96n%C3%BCnden_Gelir_Ge%C3%A7ersin_(Konya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

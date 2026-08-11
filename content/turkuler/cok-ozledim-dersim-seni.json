@@ -1,0 +1,62 @@
+{
+  "slug": "cok-ozledim-dersim-seni",
+  "baslik": "Çok Özledim Dersim Seni",
+  "yore": "Tunceli",
+  "hikaye": "Çok Özledim Dersim Seni, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Viran olmuş bizim köyler",
+        "Yalnız kalmış menekşeler",
+        "Kurban olsun sana Enver",
+        "Çok özledim Dersim seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Munzur’un soğuk suları",
+        "Serin olur yaylaları",
+        "Issız olur geceleri",
+        "Çok özledim Dersim seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Buralarda yaşanmıyor",
+        "Kimse beni anlamıyor",
+        "Dersime hiç benzemiyor",
+        "Çok özledim Dersim seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ok%20%C3%96zledim%20Dersim%20Seni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ok%20%C3%96zledim%20Dersim%20Seni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çok Özledim Dersim Seni",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ok_%C3%96zledim_Dersim_Seni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

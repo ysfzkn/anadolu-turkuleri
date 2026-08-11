@@ -1,0 +1,53 @@
+{
+  "slug": "sabahin-seher-vaktinda",
+  "baslik": "Sabahın Seher Vaktında",
+  "yore": "Denizli",
+  "hikaye": "Sabahın Seher Vaktında, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahın (sabahın yar yar) seher vaktında (seher vaktında)",
+        "Öter bülbül (öter yar yar) güle getirir (ah canım güle getirir)",
+        "Bakmaz mısın şu feleğin ettiği işe (ettiği işe)",
+        "Cevriyi cefayı (yar yar) kula getirir (ah canım kula getirir)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahınan kalkıp (yar yar) bakma nursuza (bakma nursuza)",
+        "Yoldaş olma edepsize (yar yar) arsıza (ah canım yar yar arsıza)",
+        "Sabah selamını (da yar yar) verme pirsize (verme pirsize)",
+        "Akıbet başına (yar yar) hile getirir (ah canım hile getirir)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabah%C4%B1n%20Seher%20Vakt%C4%B1nda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabah%C4%B1n%20Seher%20Vakt%C4%B1nda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahın Seher Vaktında",
+      "url": "https://tr.wikisource.org/wiki/Sabah%C4%B1n_Seher_Vakt%C4%B1nda",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

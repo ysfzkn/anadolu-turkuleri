@@ -1,0 +1,83 @@
+{
+  "slug": "ahcik-cikmis-kilisenin-tasina",
+  "baslik": "Ahçik Çıkmış Kilisenin Taşına",
+  "yore": "Erzurum",
+  "hikaye": "Ahçik Çıkmış Kilisenin Taşına, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahçik çıkmış kilisenin taşına",
+        "Güneş vurmuş kemerinin kaşına",
+        "Taze girmiş on üç on dört yaşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik",
+        "Sana ölüm bana zulüm değil mi",
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam olur sevdalara dalarsan",
+        "Ben ölürem sen de beni ararsan",
+        "Bir gün gelir ateşime yanarsan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik",
+        "Sana ölüm bana zulüm değil mi",
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sana bağ olim, dal gerdanan as ahçik",
+        "Kalloç olim topuklaran bas ahçik",
+        "Ben ölende kim tutacak yas ahçik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik",
+        "Sana ölüm bana zulüm değil mi",
+        "Oy Ahçik Ahçik, yanarım ahçik, sevdalım ahçik"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%C3%A7ik%20%C3%87%C4%B1km%C4%B1%C5%9F%20Kilisenin%20Ta%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%C3%A7ik%20%C3%87%C4%B1km%C4%B1%C5%9F%20Kilisenin%20Ta%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ahçik Çıkmış Kilisenin Taşına",
+      "url": "https://tr.wikisource.org/wiki/Ah%C3%A7ik_%C3%87%C4%B1km%C4%B1%C5%9F_Kilisenin_Ta%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

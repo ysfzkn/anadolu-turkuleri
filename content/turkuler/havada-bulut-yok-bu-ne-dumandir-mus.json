@@ -1,0 +1,52 @@
+{
+  "slug": "havada-bulut-yok-bu-ne-dumandir-mus",
+  "baslik": "Havada Bulut Yok Bu Ne Dumandır",
+  "yore": "Muş",
+  "hikaye": "Havada Bulut Yok Bu Ne Dumandır, Vikikaynak'ın Muş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada bulut yok, bu ne dumandır?",
+        "Mahlede ölüm yok, bu ne şivandır?",
+        "Şu Yemen elleri ne de yamandır.Kışlanın önünde redif sesi var,Sorun, görün, çantasında nesi varBir çift kondurası, bir de fesi var.",
+        "Ano Yemen’dir, güllü çemendir,",
+        "Giden gelmiyor, acep nedendir?",
+        "Ah burası Muş’tur, yolu yokuştur,",
+        "Giden gelmiyor, acep ne iştir.Kışlanın önünde sıra söğütlerYüzbaşı, Binbaşı asker öğütlerYemen’e gidenler, babayiğitler.",
+        "Ano Yemen’dir, güllü çemendir,",
+        "Giden gelmiyor, acep nedendir?",
+        "Ah burası Muş’tur, yolu yokuştur,",
+        "Giden gelmiyor, acep ne istir.Kışlanın önünde bir sürü kazlar,Yüreğim yanıyor, ciğerim sızlar,Yemen’e gidene ağlıyor kızlar.",
+        "Ano Yemen’dir, güllü çemendir,"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Havada%20Bulut%20Yok%20Bu%20Ne%20Dumand%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Havada%20Bulut%20Yok%20Bu%20Ne%20Dumand%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Havada Bulut Yok Bu Ne Dumandır",
+      "url": "https://tr.wikisource.org/wiki/Havada_Bulut_Yok_Bu_Ne_Dumand%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

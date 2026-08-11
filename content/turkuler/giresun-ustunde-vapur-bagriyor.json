@@ -1,0 +1,77 @@
+{
+  "slug": "giresun-ustunde-vapur-bagriyor",
+  "baslik": "Giresun Üstünde Vapur Bağrıyor",
+  "yore": "Giresun",
+  "hikaye": "Giresun Üstünde Vapur Bağrıyor, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giresun üstünde vapur bağrıyor",
+        "Eşref'in yarasını doktor sarıyor",
+        "Eşref'in annesi yanmış ağlayor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atma Hakkı atma",
+        "Pişman olursun",
+        "Giresun beylerine (anam)",
+        "Hasım olursun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bazarsu dereleri bir ifak dere",
+        "Eşref'i vurdular (anam) nafile yere",
+        "Nafile nafile o da nafile",
+        "Cenazemi goydular otomofile"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atma hakkı atma",
+        "Pişman olursun",
+        "Giresun gençlerine (anam)",
+        "Düşman olursun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Attığın kurşundan",
+        "Sen utanırsın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Giresun%20%C3%9Cst%C3%BCnde%20Vapur%20Ba%C4%9Fr%C4%B1yor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Giresun%20%C3%9Cst%C3%BCnde%20Vapur%20Ba%C4%9Fr%C4%B1yor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Giresun Üstünde Vapur Bağrıyor",
+      "url": "https://tr.wikisource.org/wiki/Giresun_%C3%9Cst%C3%BCnde_Vapur_Ba%C4%9Fr%C4%B1yor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

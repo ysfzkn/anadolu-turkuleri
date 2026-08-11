@@ -1,0 +1,86 @@
+{
+  "slug": "aman-aman-bagdatli",
+  "baslik": "Aman Aman Bağdatlı",
+  "yore": "Hatay",
+  "hikaye": "Aman Aman Bağdatlı, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Bağdatlı,",
+        "Yanağı baldan tatlı.",
+        "Kış günü yar yanında,",
+        "Yaz günü sahra tatlı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman meleğim,",
+        "Nasıl edeyim.",
+        "Seko, seko, seko, gel yanıma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağdat'a giden olsa,",
+        "Halimden bilen olsa.",
+        "Seni yıkarım Bağdat,",
+        "Yarime ziyan olsa."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman meleğim,",
+        "Nasıl edeyim.",
+        "Seko, seko, seko, gel yanıma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağdat'a tel vuruldu,",
+        "Akan sular duruldu.",
+        "Şu benim cahil gönlüm,",
+        "Bir güzele vuruldu."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman meleğim,",
+        "Nasıl edeyim.",
+        "Seko, seko, seko, gel yanıma."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aman%20Aman%20Ba%C4%9Fdatl%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aman%20Aman%20Ba%C4%9Fdatl%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aman Aman Bağdatlı",
+      "url": "https://tr.wikisource.org/wiki/Aman_Aman_Ba%C4%9Fdatl%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

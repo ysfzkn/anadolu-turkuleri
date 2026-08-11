@@ -1,0 +1,83 @@
+{
+  "slug": "geyinmis-kusanmis-yayladan-gelir",
+  "baslik": "Geyinmiş Kuşanmış Yayladan Gelir",
+  "yore": "Mersin",
+  "hikaye": "Geyinmiş Kuşanmış Yayladan Gelir, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geyinmiş kuşanmış yayladan gelir",
+        "Bize bu ayrılık mevla’dan gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ayşem, yaman ayşem",
+        "Dağlar başı duman ayşem",
+        "Dağlar başı duman olsa",
+        "Seni burda komam ayşem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelir türkmen koyunu",
+        "Selviye benzettim yarin boyunu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ayşem, yaman ayşem",
+        "Dağlar başı duman ayşem",
+        "Dağlar başı duman olsa",
+        "Seni burda komam ayşem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kınanın okkası çıkdı elliye",
+        "Benden selam olsun esmer benliye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ayşem, yaman ayşem",
+        "Dağlar başı duman ayşem",
+        "Dağlar başı duman olsa",
+        "Seni burda komam ayşem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Geyinmi%C5%9F%20Ku%C5%9Fanm%C4%B1%C5%9F%20Yayladan%20Gelir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Geyinmi%C5%9F%20Ku%C5%9Fanm%C4%B1%C5%9F%20Yayladan%20Gelir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Geyinmiş Kuşanmış Yayladan Gelir",
+      "url": "https://tr.wikisource.org/wiki/Geyinmi%C5%9F_Ku%C5%9Fanm%C4%B1%C5%9F_Yayladan_Gelir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

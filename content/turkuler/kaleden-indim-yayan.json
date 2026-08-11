@@ -1,0 +1,98 @@
+{
+  "slug": "kaleden-indim-yayan",
+  "baslik": "Kaleden İndim Yayan",
+  "yore": "Muğla",
+  "hikaye": "Kaleden İndim Yayan, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim yayan (a yarim aman)",
+        "Mendilim dolu payam",
+        "Eller yarimi almış (a yarim aman)",
+        "Dayan (da) yüreğim dayan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin ardı deniz (a yarim aman)",
+        "Kale bizim evimiz",
+        "Mevlam bizi ayırmış (a yarim aman)",
+        "Hani bizim birimiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye bakar (a yarim aman)",
+        "Kaleden kanlar akar",
+        "On yedili yarimden (a yarim aman)",
+        "Yaş yerine kan akar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin ardındayım (a yarim aman)",
+        "Saatin dördündeyim",
+        "Eller sevdiğimi almış (a yarim aman)",
+        "Ben senin derdindeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim iniş (a yarim aman)",
+        "Mendilim dolu yemiş",
+        "Yare selam yolladım (a yarim aman)",
+        "Kendisi gelsin demiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden inişelim (a yarim aman)",
+        "Atlara binişelim",
+        "Eğil bir yol öpeyim (a yarim aman)",
+        "Son devri sevişelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden iniş mi ola (a yarim aman)",
+        "Ham demir gümüş mü ola",
+        "Akşamdan söz verip de (a yarim aman)",
+        "Sabaha dönüş mü ola"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaleden%20%C4%B0ndim%20Yayan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaleden%20%C4%B0ndim%20Yayan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaleden İndim Yayan (Muğla)",
+      "url": "https://tr.wikisource.org/wiki/Kaleden_%C4%B0ndim_Yayan_(Mu%C4%9Fla)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

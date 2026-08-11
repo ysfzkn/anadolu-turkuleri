@@ -1,0 +1,68 @@
+{
+  "slug": "sazalcadan-ciktim-ben-de-gelirim",
+  "baslik": "Sazalca'dan Çıktım Ben de Gelirim",
+  "yore": "Niğde",
+  "hikaye": "Sazalca'dan Çıktım Ben de Gelirim, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sazalca’dan çıktım bende gelirim (aman)",
+        "Mapus olacağımı (da) bende bilirim",
+        "İflah olmaz ben bu dertten ölürüm",
+        "Ellerine de kınalar yakayım",
+        "Sen sallanda ben boyuna bakayım",
+        "Ak gerdana liralar takayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halime kız çay aşağı geliyor",
+        "Kaşıyınan gözleri gel gel ediyor",
+        "Hovardalar ardı sıra geliyor",
+        "Uğramaz yanıma da tövbeler olsun",
+        "Olsunda badeler dolsun",
+        "Annende kaynanam olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halime’nin çaydan buldum izini",
+        "Duman sandım şalvarının tozunu",
+        "Açtım yaşmağımı öptüm yüzünü",
+        "Uzat ellerine (de) kınalar yakayım",
+        "Sen sallanda ben boyuna bakayım",
+        "Ak gerdana liralar takayım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sazalca'dan%20%C3%87%C4%B1kt%C4%B1m%20Ben%20de%20Gelirim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sazalca'dan%20%C3%87%C4%B1kt%C4%B1m%20Ben%20de%20Gelirim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sazalca'dan Çıktım Ben de Gelirim",
+      "url": "https://tr.wikisource.org/wiki/Sazalca'dan_%C3%87%C4%B1kt%C4%B1m_Ben_de_Gelirim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

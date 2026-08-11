@@ -1,0 +1,65 @@
+{
+  "slug": "dere-boyu-yesillik",
+  "baslik": "Dere Boyu Yeşillik",
+  "yore": "İstanbul",
+  "hikaye": "Dere Boyu Yeşillik, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu yeşillik",
+        "Dere boyu yeşillik",
+        "Boynumda beşibirlik",
+        "Kaynatama zor geldi",
+        "Beş tane beşibirlik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu engindir",
+        "Dere boyu engindir",
+        "Balıkçılar zengindir",
+        "Verin beni yarime",
+        "O yar benim dengimdir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denizde kalbur yüzer",
+        "Denizde kalbur yüzer",
+        "Annem kendini üzer",
+        "Üzme anne kendini",
+        "Damadın benden güzel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dere%20Boyu%20Ye%C5%9Fillik%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dere%20Boyu%20Ye%C5%9Fillik",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dere Boyu Yeşillik",
+      "url": "https://tr.wikisource.org/wiki/Dere_Boyu_Ye%C5%9Fillik",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

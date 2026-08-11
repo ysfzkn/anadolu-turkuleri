@@ -1,0 +1,91 @@
+{
+  "slug": "eli-elime-degdi",
+  "baslik": "Eli Elime Değdi",
+  "yore": "Hatay",
+  "hikaye": "Eli Elime Değdi, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eli elime değdi de",
+        "Hem ben yandım hem kendi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden at beni de,",
+        "Yar yanına kat beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eli elime değdi de",
+        "Hem ben yandım hem kendi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hamaylı tak boynuma da,",
+        "Köle diye sat beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eli elime değdi de",
+        "Hem ben yandım hem kendi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eli etekli yarim de,",
+        "Göğsü yelekli yarim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eli elime değdi de",
+        "Hem ben yandım hem kendi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni koymuş el alıyor,",
+        "Mermer yürekli yarim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eli%20Elime%20De%C4%9Fdi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eli%20Elime%20De%C4%9Fdi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eli Elime Değdi",
+      "url": "https://tr.wikisource.org/wiki/Eli_Elime_De%C4%9Fdi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

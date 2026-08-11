@@ -1,0 +1,104 @@
+{
+  "slug": "kandilli-yazmayi-kaldir-yuzunden",
+  "baslik": "Kandilli Yazmayı Kaldır Yüzünden",
+  "yore": "Kayseri",
+  "hikaye": "Kandilli Yazmayı Kaldır Yüzünden, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of of) kandilli yazmayı kaldır yüzünden (vay güzel vay güzel)",
+        "Alırım dedin de döndün sözünden (vay güzel vay güzel)",
+        "Lisanlara geldim senin yüzünden (yekte)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yekte anam yekte",
+        "Pastırmalar denkte",
+        "Ne olursa olur",
+        "Delikanlılıkta",
+        "Ata binişi",
+        "Emmim kızına benzer",
+        "Godalak godalak yürüyüşü",
+        "Teyzem kızına benzer",
+        "Güzel yürü yosmam beri",
+        "Yavaş yürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of of) karadır kaşların gözlerin üzüm (vay güzel vay güzel)",
+        "Bilirim sevdiğim yanıyor özün (vay güzel vay güzel)",
+        "Beni seviyorsun ellerde gözün (yekte)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yekte anam yekte",
+        "Pastırmalar denkte",
+        "Ne olursa olur",
+        "Delikanlılıkta",
+        "Ata binişi",
+        "Emmim kızına benzer",
+        "Godalak godalak yürüyüşü",
+        "Teyzem kızına benzer",
+        "Güzel yürü yosmam beri",
+        "Yavaş yürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of of) gönül kasesini kırdıktan kelli (vay güzel vay güzel)",
+        "Gönül askılarda kaldıktan kelli (vay güzel vay güzel)",
+        "O yar ellerinde olduktan kelli (yekte)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yekte anam yekte",
+        "Pastırmalar denkte",
+        "Ne olursa olur",
+        "Delikanlılıkta",
+        "Ata binişi",
+        "Emmim kızına benzer",
+        "Godalak godalak yürüyüşü",
+        "Teyzem kızına benzer",
+        "Güzel yürü yosmam beri",
+        "Yavaş yürü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kandilli%20Yazmay%C4%B1%20Kald%C4%B1r%20Y%C3%BCz%C3%BCnden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kandilli%20Yazmay%C4%B1%20Kald%C4%B1r%20Y%C3%BCz%C3%BCnden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kandilli Yazmayı Kaldır Yüzünden",
+      "url": "https://tr.wikisource.org/wiki/Kandilli_Yazmay%C4%B1_Kald%C4%B1r_Y%C3%BCz%C3%BCnden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "ervah-i-ezelde-levh-i-kalemde",
+  "baslik": "Ervah-ı Ezelde Levh-i Kalemde",
+  "yore": "Erzurum",
+  "hikaye": "Ervah-ı Ezelde Levh-i Kalemde, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ervah-ı ezelde levh-i kalemde",
+        "Şu benim bahtımı kara yazmışlar",
+        "Bilirim güldürmez devr-i alemde",
+        "Bir günümü yüz bin zara yazmışlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arif bilir aşk ehlinin halini",
+        "Kaldırır gönlünden kil-ü kalini",
+        "Herkes dosta vermiş arzuhalini",
+        "Benimkini ürüzgara yazmışlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olaydı dünyada ikbalim yaver",
+        "El etsem sevdiğim acep kim ever",
+        "Bilmem tecelli mi yoksa ki kader",
+        "Beni bir vefasız yare yazmışlar",
+        "Yazanlar Leyla’nın mecnun kitabın",
+        "Sümmani'yi bir kenara yazmışlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ervah-%C4%B1%20Ezelde%20Levh-i%20Kalemde%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ervah-%C4%B1%20Ezelde%20Levh-i%20Kalemde",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ervah-ı Ezelde Levh-i Kalemde",
+      "url": "https://tr.wikisource.org/wiki/Ervah-%C4%B1_Ezelde_Levh-i_Kalemde",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

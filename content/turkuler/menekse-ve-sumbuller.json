@@ -1,0 +1,71 @@
+{
+  "slug": "menekse-ve-sumbuller",
+  "baslik": "Menekşe ve Sümbüller",
+  "yore": "İstanbul",
+  "hikaye": "Menekşe ve Sümbüller, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menekşe ve sümbüller hep boynunu büktü",
+        "Gönül bahçemde çiçekler artık hüzün kokuyor",
+        "Soldu bir bir tüm renkleri susuz toprakları",
+        "Menekşe ve sümbüller hasretmi çekiyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hatırla hatırla of of sümbül kokan gülleri",
+        "Nasılda nasılda of of sevdik birbirimizi",
+        "Hatırla hatırla of of sümbül kokan gülleri",
+        "Dön artık gel canım of of solmadan çiçeklerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menekşe ve sümbüller ah yolunu gözlüyor",
+        "Dağlı yol uzaklar ahh seni çok özlüyor",
+        "Nasılda pişman olmuş pek üzgün bakıyor",
+        "Menekşe ve sümbüller hasretmi çekiyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hatırla, hatırla of of sümbül kokan gülleri",
+        "Nasılda, nasılda of of sevdik birbirimizi",
+        "Hatırla, hatırla of of sümbül kokan gülleri",
+        "Dön artık gel canım of of solmadan çiçeklerim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Menek%C5%9Fe%20ve%20S%C3%BCmb%C3%BCller%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Menek%C5%9Fe%20ve%20S%C3%BCmb%C3%BCller",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Menekşe ve Sümbüller",
+      "url": "https://tr.wikisource.org/wiki/Menek%C5%9Fe_ve_S%C3%BCmb%C3%BCller",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "sandalim-geliyor-varda",
+  "baslik": "Sandalım Geliyor Varda",
+  "yore": "İstanbul",
+  "hikaye": "Sandalım Geliyor Varda, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sandalım geliyor varda",
+        "Vefa olmaz hiçbir yarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman iki telli siyah sandal",
+        "Canım iki telli siyah sandal"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sandalımın kürekleri",
+        "Yar yakıyor yürekleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman iki telli siyah sandal",
+        "Canım iki telli siyah sandal"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sandalım mavi boyalı",
+        "Yar geliyor yalı yalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman iki telli siyah sandal",
+        "Canım iki telli siyah sandal"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sandal%C4%B1m%20Geliyor%20Varda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sandal%C4%B1m%20Geliyor%20Varda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sandalım Geliyor Varda (İstanbul)",
+      "url": "https://tr.wikisource.org/wiki/Sandal%C4%B1m_Geliyor_Varda_(%C4%B0stanbul)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "gam-gasavet-keder-yok-olup-gider",
+  "baslik": "Gam Gasavet Keder Yok Olup Gider",
+  "yore": "Yozgat",
+  "hikaye": "Gam Gasavet Keder Yok Olup Gider, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gam gasavet keder yok olup gider",
+        "Sevdiğimin cemalini görünce",
+        "Perişan gönlümü şen mamur eder",
+        "Sevdiğimin cemalini görünce",
+        "Seversen Mevla’yı açma yaremi (dost dost dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülistan açılmış şakır bülbülü",
+        "Açılır bahçede domurcuk gülü",
+        "Methi yâri söyler şad olur dili",
+        "Gül yüzlümün cemalini görünce",
+        "Seversen Mevla’yı açma yaremi (dost dost dost)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gam%20Gasavet%20Keder%20Yok%20Olup%20Gider%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gam%20Gasavet%20Keder%20Yok%20Olup%20Gider",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gam Gasavet Keder Yok Olup Gider",
+      "url": "https://tr.wikisource.org/wiki/Gam_Gasavet_Keder_Yok_Olup_Gider",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

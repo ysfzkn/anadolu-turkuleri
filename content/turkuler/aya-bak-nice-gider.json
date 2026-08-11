@@ -1,0 +1,83 @@
+{
+  "slug": "aya-bak-nice-gider",
+  "baslik": "Aya Bak Nice Gider",
+  "yore": "Erzurum",
+  "hikaye": "Aya Bak Nice Gider, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aya bak nece gider",
+        "Ay dolanır gece gider",
+        "İki kaşın arası",
+        "Bir yol var hacca gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lemide hayranın olim",
+        "Kara kız kurbanın olim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aya bak yıldıza bak",
+        "Suya giden kıza bak",
+        "Kız allah'ı seversen",
+        "Dön de bir yol bize bak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lemide hayranın olim",
+        "Kara kız kurbanın olim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay akşamdan geridir",
+        "Buralar nerden geridir",
+        "Kalkın gidin a dostlar",
+        "Buralar eyvan yeridir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lemide hayranın olim",
+        "Kara kız kurbanın olim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aya%20Bak%20Nice%20Gider%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aya%20Bak%20Nice%20Gider",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aya Bak Nice Gider",
+      "url": "https://tr.wikisource.org/wiki/Aya_Bak_Nice_Gider",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

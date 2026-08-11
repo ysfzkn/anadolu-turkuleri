@@ -1,0 +1,62 @@
+{
+  "slug": "amman-avci",
+  "baslik": "Amman Avcı",
+  "yore": "Iğdır",
+  "hikaye": "Amman Avcı, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman avcı vurma beni",
+        "Ben yaralı aybalam yaralıyam",
+        "Yaralıyam ben yaralı",
+        "Avcı vurmuş aybalam yaralıyam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım çaya düştü",
+        "Çaya düşmüş aybalam suya düştü",
+        "Benim gönlüm sana düştü",
+        "Senin gönlün aybalam kime düştü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağlarda ceylan gezer",
+        "Tırnakların aybalam taşla ezer",
+        "Ben o yari neylemişem",
+        "O yar benle aybalam kenar gezer"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Amman%20Avc%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Amman%20Avc%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Amman Avcı",
+      "url": "https://tr.wikisource.org/wiki/Amman_Avc%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "kar-yagayi-yagayi",
+  "baslik": "Kar Yağayi Yağayi",
+  "yore": "Trabzon",
+  "hikaye": "Kar Yağayi Yağayi, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar yağayi yağayi",
+        "Kondunun başlarına",
+        "Kurban olayım yarin",
+        "O kömür kaşlarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akar aşağı akar",
+        "Solaklı dereleri",
+        "Sarılsın boğazıma",
+        "O incecik elleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cikoşonun sulari",
+        "Akar buz gibi akar",
+        "O yarin bakışları",
+        "Yüreciğimi yakar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%20Ya%C4%9Fayi%20Ya%C4%9Fayi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%20Ya%C4%9Fayi%20Ya%C4%9Fayi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kar Yağayi Yağayi",
+      "url": "https://tr.wikisource.org/wiki/Kar_Ya%C4%9Fayi_Ya%C4%9Fayi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

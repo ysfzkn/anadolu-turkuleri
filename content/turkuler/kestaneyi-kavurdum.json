@@ -1,0 +1,62 @@
+{
+  "slug": "kestaneyi-kavurdum",
+  "baslik": "Kestaneyi Kavurdum",
+  "yore": "Muğla",
+  "hikaye": "Kestaneyi Kavurdum, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kestaneyi kavurdum (bi danem)",
+        "Dumanını savurdum",
+        "Çıktım kapı önüne (bi danem)",
+        "Gülüm diye bağırdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi çorap giysene (bi danem)",
+        "Hergün bize gelsene",
+        "Senin için yandığımı (bi danem)",
+        "Gözlerimden bilsene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi filizi (bi danem)",
+        "Kimbilir halimizi",
+        "Yazanlar böyle yazmış (bi danem)",
+        "Ayırdı ikimizi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kestaneyi%20Kavurdum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kestaneyi%20Kavurdum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kestaneyi Kavurdum",
+      "url": "https://tr.wikisource.org/wiki/Kestaneyi_Kavurdum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

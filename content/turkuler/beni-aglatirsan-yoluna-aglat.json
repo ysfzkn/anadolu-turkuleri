@@ -1,0 +1,62 @@
+{
+  "slug": "beni-aglatirsan-yoluna-aglat",
+  "baslik": "Beni Ağlatırsan Yoluna Ağlat",
+  "yore": "Malatya",
+  "hikaye": "Beni Ağlatırsan Yoluna Ağlat, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni ağlatırsan yoluna ağlat",
+        "Beni negah yere ağlatma yar yar",
+        "Beni çağlatırsan deryanda çağlat",
+        "Kuru çaylarında çağlatma yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir derde düşürdün dermanı beter",
+        "Gün be gün gönlümün efkarı artar",
+        "Bunca ettiklerin bu cana yeter",
+        "Ya güldür ya öldür ağlatma yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giriftar eyledin beni bu derde",
+        "Bu senede bu aylarda bu derde",
+        "Yüzbin derman versen almam bu derde",
+        "Yaramı ellere bağlatma yar yar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Beni%20A%C4%9Flat%C4%B1rsan%20Yoluna%20A%C4%9Flat%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Beni%20A%C4%9Flat%C4%B1rsan%20Yoluna%20A%C4%9Flat",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beni Ağlatırsan Yoluna Ağlat",
+      "url": "https://tr.wikisource.org/wiki/Beni_A%C4%9Flat%C4%B1rsan_Yoluna_A%C4%9Flat",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

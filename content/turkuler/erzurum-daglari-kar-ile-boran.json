@@ -1,0 +1,87 @@
+{
+  "slug": "erzurum-daglari-kar-ile-boran",
+  "baslik": "Erzurum Dağları Kar ile Boran",
+  "yore": "Malatya",
+  "hikaye": "Erzurum Dağları Kar ile Boran, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum dağları kar ile boran",
+        "Aldı yüreğimi derd ile verem",
+        "Sizde bulunmazmı bir kurşun kalem",
+        "Yazam arzu halımı dosta seslenem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy beni beni beni belalım beni",
+        "Satarım bu canı alırım seni",
+        "Çıkayım dağlara da kurt yesin beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dört yanımı sardı tel ilen",
+        "Yaslı yaslı bayram yaptım el ilen",
+        "Göz göz oldu yaralarım dil ilen",
+        "Yaramı sarmaya da derman bulamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy beni beni beni belalım beni",
+        "Satarım bu canı alırım seni",
+        "Çıkayım dağlara da kurt yesin beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum dağlarına kara gidelim",
+        "Ayvadan usandık nara gidelim",
+        "Bu elin güzeli gönül eğlemez",
+        "Gönül eğleyecek yara gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy beni beni beni meralım beni",
+        "Satarım bu canı alırım seni",
+        "Çıkayım dağlara da kurt yesin beni",
+        "Satarım bu canı da alırım seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzurum%20Da%C4%9Flar%C4%B1%20Kar%20ile%20Boran%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzurum%20Da%C4%9Flar%C4%B1%20Kar%20ile%20Boran",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erzurum Dağları Kar ile Boran",
+      "url": "https://tr.wikisource.org/wiki/Erzurum_Da%C4%9Flar%C4%B1_Kar_ile_Boran",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "yagmur-yagar-yerlere",
+  "baslik": "Yağmur Yağar Yerlere",
+  "yore": "Eskişehir",
+  "hikaye": "Yağmur Yağar Yerlere, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağmur yağar yerlere",
+        "Seni de vermem ellere",
+        "Seni de versem ellere",
+        "Ben girerim yerlere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağmur yağar yaş bağlar",
+        "Kaldırımlar taş bağlar",
+        "Zemanenin kızları",
+        "Ne de güzel baş bağlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ya%C4%9Fmur%20Ya%C4%9Far%20Yerlere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ya%C4%9Fmur%20Ya%C4%9Far%20Yerlere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yağmur Yağar Yerlere",
+      "url": "https://tr.wikisource.org/wiki/Ya%C4%9Fmur_Ya%C4%9Far_Yerlere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

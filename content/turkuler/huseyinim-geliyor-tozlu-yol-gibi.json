@@ -1,0 +1,53 @@
+{
+  "slug": "huseyinim-geliyor-tozlu-yol-gibi",
+  "baslik": "Hüseyin'im Geliyor Tozlu Yol Gibi",
+  "yore": "Muğla",
+  "hikaye": "Hüseyin'im Geliyor Tozlu Yol Gibi, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüseyin'im geliyor tozlu yol gibi",
+        "Öpsem yanağından şeker bal gibi",
+        "Çok bekledim kapıda karakol gibi",
+        "Var git emeklerin ol dedi bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüseyin'im geliyor çalalım sazı",
+        "Gurbet elde kime edelim nazı",
+        "Anayın babayın o kötü sözü",
+        "Var git emeklerim ol dedi bana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=H%C3%BCseyin'im%20Geliyor%20Tozlu%20Yol%20Gibi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/H%C3%BCseyin'im%20Geliyor%20Tozlu%20Yol%20Gibi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hüseyin'im Geliyor Tozlu Yol Gibi",
+      "url": "https://tr.wikisource.org/wiki/H%C3%BCseyin'im_Geliyor_Tozlu_Yol_Gibi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "gitme-bulbul-bahar-eristi",
+  "baslik": "Gitme Bülbül Bahar Erişti",
+  "yore": "Konya",
+  "hikaye": "Gitme Bülbül Bahar Erişti, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme bülbül gitme bahar erişti ney ney",
+        "Gonca gülleri maverdesin kavuştur",
+        "A bülbül bülbül bülbül ney"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sılada sevdiğim aklıma düştü ney ney",
+        "Çekilmez gurbetin a cefası bülbül",
+        "A bülbül bülbül bülbül ney"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahar eyyamında bülbül sesinden ney ney",
+        "Çıkarır perçemin finor fesinden",
+        "A bülbül bülbül bülbül ney"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hoşlandım yarimin gül nefesinden ney ney",
+        "Çekilmez gurbetin cefası bülbül",
+        "A bülbül bülbül bülbül ney"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gitme%20B%C3%BClb%C3%BCl%20Bahar%20Eri%C5%9Fti%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gitme%20B%C3%BClb%C3%BCl%20Bahar%20Eri%C5%9Fti",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gitme Bülbül Bahar Erişti",
+      "url": "https://tr.wikisource.org/wiki/Gitme_B%C3%BClb%C3%BCl_Bahar_Eri%C5%9Fti",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

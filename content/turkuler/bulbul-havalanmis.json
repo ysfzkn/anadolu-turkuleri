@@ -1,0 +1,62 @@
+{
+  "slug": "bulbul-havalanmis",
+  "baslik": "Bülbül Havalanmış",
+  "yore": "Erzincan",
+  "hikaye": "Bülbül Havalanmış, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül havalanmış yüksekten uçar",
+        "Has bahçe içinde gülüm var deyi",
+        "Seni seven âşık serinden geçer",
+        "Güzeller içinde yârim var deyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben seni seviyom sen de sev beni",
+        "Mevlam bir kararda koymaz insanı",
+        "Birgün gelir sen de ararsın beni",
+        "Şurda bir divane yârim var deyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben seni seviyom can ile candan",
+        "İnsan kemlik ummaz sevdiği yârdan",
+        "Canım esirgemem vallahi senden",
+        "Götür sat pazarda kölem var deyi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCl%20Havalanm%C4%B1%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCl%20Havalanm%C4%B1%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bülbül Havalanmış",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BClb%C3%BCl_Havalanm%C4%B1%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

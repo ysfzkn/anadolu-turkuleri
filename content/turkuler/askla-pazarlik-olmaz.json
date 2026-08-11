@@ -1,0 +1,69 @@
+{
+  "slug": "askla-pazarlik-olmaz",
+  "baslik": "Aşkla Pazarlık Olmaz",
+  "yore": "İstanbul",
+  "hikaye": "Aşkla Pazarlık Olmaz, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşkla pazarlık olmaz olmaz",
+        "Gönül bu onunla oyun oynanmaz",
+        "İlk günün heyecanı ne",
+        "Yapsan unutulmaz",
+        "O ne güzel bir duygu",
+        "Ömür boyu kaybolmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çok seviyorsan karşı koyulmaz",
+        "Kalbin atarsan tik titki tak",
+        "Sevgin duyulsun tik titki",
+        "Tak ondan kaçılmaz",
+        "Olur biter bir gün sen",
+        "Hiç üzülme o gün",
+        "Aşk bu sen yaşamına bak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşkla pazarlık olmaz olmaz",
+        "Gönül bu onunla oyun oynanmaz",
+        "İlk günün heyecanı ne",
+        "Yapsan unutulmaz",
+        "O ne güzel bir duygu",
+        "Ömür boyu kaybolmaz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fkla%20Pazarl%C4%B1k%20Olmaz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fkla%20Pazarl%C4%B1k%20Olmaz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşkla Pazarlık Olmaz",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fkla_Pazarl%C4%B1k_Olmaz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

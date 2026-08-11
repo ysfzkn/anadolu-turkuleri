@@ -1,0 +1,80 @@
+{
+  "slug": "ah-le-ana-le-ana",
+  "baslik": "Ah Le Ana Le Ana",
+  "yore": "Van",
+  "hikaye": "Ah Le Ana Le Ana, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah le ana le ana",
+        "Üç bacılar bir ana",
+        "Le ana le ana",
+        "Ağlarlar yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Su kenarı pıtırak (le ana le ana)",
+        "At minderi oturak (üç bacılar bir ana)",
+        "Sen al meni men seni (le ana le ana)",
+        "El elinden gurtulak (üç bacılar bir ana)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah le ana le ana",
+        "Üç bacılar bir ana",
+        "Le ana le ana",
+        "Ağlarlar yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Su kenarı burmalı (le ana le ana)",
+        "Gölgesinde durmalı (üç bacılar bir ana)",
+        "İki yar sevenleri (le ana le ana)",
+        "Hançer ile vurmalı (üç bacılar bir ana)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah le ana le ana",
+        "Üç bacılar bir ana",
+        "Le ana le ana",
+        "Ağlarlar yana yana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Le%20Ana%20Le%20Ana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Le%20Ana%20Le%20Ana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Le Ana Le Ana",
+      "url": "https://tr.wikisource.org/wiki/Ah_Le_Ana_Le_Ana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "anonim",
+    "açık arşiv"
+  ]
+}

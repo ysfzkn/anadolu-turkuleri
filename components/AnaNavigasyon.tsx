@@ -7,6 +7,7 @@ import { usePathname } from "next/navigation";
 const BAGLANTILAR = [
   { href: "/", etiket: "Türküler" },
   { href: "/quiz", etiket: "Oyunlar" },
+  { href: "/soy-agaci", etiket: "Soy Ağacı" },
   { href: "/hakkinda", etiket: "Hakkında" },
 ];
 

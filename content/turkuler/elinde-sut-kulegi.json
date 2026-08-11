@@ -1,0 +1,71 @@
+{
+  "slug": "elinde-sut-kulegi",
+  "baslik": "Elinde Süt Küleği",
+  "yore": "Erzincan",
+  "hikaye": "Elinde Süt Küleği, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde süt küleği (öyledir yar öyledir)",
+        "Sütden beyaz bileği (söyle bülbülüm söyle)",
+        "Acep gabül olur mu (yar elinden yar)",
+        "Genç gızların dileği (vur ellerim vur)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odada mavi minder (öyledir yar öyledir)",
+        "Minderin devrin dönder (söyle bülbülüm söyle)",
+        "Bu yatış yatış değil (yar elinden yar)",
+        "Yar yüzün bana dönder (vur ellerim vur)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğin'in başı bayır (öyledir yar öyledir)",
+        "Mevlam Eğin'i gayır (söyle bülbülüm söyle)",
+        "Eğin'den gız almazsam (yar elinden yar)",
+        "Yanarım cayır cayır (vur ellerim vur)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydin bağa gidelim (öyledir yar öyledir)",
+        "Üzüm sağla gidelim (söyle bülbülüm söyle)",
+        "Sen bulut ol ben yağmur (yar elinden yar)",
+        "Yağa yağa gidelim (vur ellerim vur)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elinde Süt Küleği (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Elinde_S%C3%BCt_K%C3%BCle%C4%9Fi_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "eminemin-duvagi",
+  "baslik": "Eminemin Duvağı",
+  "yore": "İzmir",
+  "hikaye": "Eminemin Duvağı, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emine'min duvağı",
+        "Kırmızıdır dudağı",
+        "Emine'm sudan gelir iken",
+        "Öpülmüştür yanağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölürüm ayrılmam",
+        "Ayrılmam kül olup savrulmam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşı karşı evimiz",
+        "Yar yürekten sevimiz",
+        "Bu seviler bizde iken",
+        "Ölür müyüz birimiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölürüm ayrılmam",
+        "Ayrılmam kül olup savrulmam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil oyulur mu",
+        "Tadına doyulur mu",
+        "Emine'yi saran insanın",
+        "Kolları yorulur mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölürüm ayrılmam",
+        "Ayrılmam kül olup savrulmam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eminemin%20Duva%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eminemin%20Duva%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eminemin Duvağı",
+      "url": "https://tr.wikisource.org/wiki/Eminemin_Duva%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

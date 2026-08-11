@@ -1,0 +1,62 @@
+{
+  "slug": "basina-dondugum-kurban-oldugu",
+  "baslik": "Başına Döndüğüm Kurban Olduğu",
+  "yore": "Kars",
+  "hikaye": "Başına Döndüğüm Kurban Olduğu, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına döndüğüm kurban olduğum",
+        "Ağlar dolanıram yar deyi deyi",
+        "Ezel bahar yaz ayları misali",
+        "Çağlar dolanıram yar deyi deyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çoktan beri terketmişem ben yari",
+        "Hasta yüreğimden çıkmıyor zarı",
+        "Yanar oldu sönmez yüreğim nari",
+        "Dağlar dolanıram yar deyi deyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İkramın derdine yoktur çare",
+        "Eksik olmaz bu sinemde yareler",
+        "Aylar günler sene ile kareler",
+        "Bağlar dolanıram yar deyi deyi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C5%9F%C4%B1na%20D%C3%B6nd%C3%BC%C4%9F%C3%BCm%20Kurban%20Oldu%C4%9Fu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C5%9F%C4%B1na%20D%C3%B6nd%C3%BC%C4%9F%C3%BCm%20Kurban%20Oldu%C4%9Fu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Başına Döndüğüm Kurban Olduğu",
+      "url": "https://tr.wikisource.org/wiki/Ba%C5%9F%C4%B1na_D%C3%B6nd%C3%BC%C4%9F%C3%BCm_Kurban_Oldu%C4%9Fu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

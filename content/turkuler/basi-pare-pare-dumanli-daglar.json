@@ -1,0 +1,48 @@
+{
+  "slug": "basi-pare-pare-dumanli-daglar",
+  "baslik": "Başı Pare Pare Dumanlı Dağlar",
+  "yore": "Erzincan",
+  "hikaye": "Başı Pare Pare Dumanlı Dağlar, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başı pare pare (hey hey) dumanlı dağlar oy oy",
+        "Duman eylenir mi (hey hey) kar olmayınca oy oy",
+        "Bana diyorlar ki (hey hey) sen gönül eyle oy oy",
+        "Gönül eylenir mi (hey hey) yâr olmayınca oy oy",
+        "Ben bu yaylalara (hey hey) yayla mı derim oy oy",
+        "Başı bölük bölük (hey hey) kar olmayınca oy oy",
+        "Ben bu güzellere (hey hey) güzel mi derim oy oy",
+        "Aslı Türkmen kendi (hey hey) bey olmayınca oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C5%9F%C4%B1%20Pare%20Pare%20Dumanl%C4%B1%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C5%9F%C4%B1%20Pare%20Pare%20Dumanl%C4%B1%20Da%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Başı Pare Pare Dumanlı Dağlar",
+      "url": "https://tr.wikisource.org/wiki/Ba%C5%9F%C4%B1_Pare_Pare_Dumanl%C4%B1_Da%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "bahce-bahce-gezersin",
+  "baslik": "Bahçe Bahçe Gezersin",
+  "yore": "Denizli",
+  "hikaye": "Bahçe Bahçe Gezersin, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçe bahçe gezersin",
+        "Bahçede boncuk dizersin",
+        "Geçme kapım önünden",
+        "Yüreğimi ezersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda bir kuzu",
+        "Çatal matal boynuzu",
+        "Sen koyun ol ben kuzu",
+        "Aldatalım şu kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçaya gel göreyim",
+        "El uzat gül vereyim",
+        "Senin gibi cahile",
+        "Nasıl gönül vereyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7e%20Bah%C3%A7e%20Gezersin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7e%20Bah%C3%A7e%20Gezersin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçe Bahçe Gezersin",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7e_Bah%C3%A7e_Gezersin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "uzun-kavak-ne-gidersin-engine",
+  "baslik": "Uzun Kavak Ne Gidersin Engine",
+  "yore": "Kırklareli",
+  "hikaye": "Uzun Kavak Ne Gidersin Engine, Vikikaynak'ın Kırklareli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırklareli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun kavak ne gidersin engine,",
+        "Yaprakların benzemiyor rengine,",
+        "Anne beni verecek misin dengime."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dola dola dola da yar dolanıyor boynuma,",
+        "Akşamdan gel sağ yanıma yanıma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun kavak gıcır gıcır gıcırdar,",
+        "Anne benim sağ yanımda sancım var,",
+        "Ben ölürsem benden nice nice genci var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dola dola dola da yar dolanıyor boynuma,",
+        "Akşamdan gel sağ yanıma yanıma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun kavak dalın malın kırılsın,",
+        "Yaprakların suda muda çürüsün,",
+        "Herkes sevdiğini alsın yürüsün."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dola dola dola da yar dolanıyor boynuma,",
+        "Akşamdan gel sağ yanıma yanıma."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Uzun%20Kavak%20Ne%20Gidersin%20Engine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Uzun%20Kavak%20Ne%20Gidersin%20Engine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Uzun Kavak Ne Gidersin Engine",
+      "url": "https://tr.wikisource.org/wiki/Uzun_Kavak_Ne_Gidersin_Engine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırklareli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

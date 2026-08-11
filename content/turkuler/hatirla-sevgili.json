@@ -1,0 +1,71 @@
+{
+  "slug": "hatirla-sevgili",
+  "baslik": "Hatırla Sevgili",
+  "yore": "İstanbul",
+  "hikaye": "Hatırla Sevgili, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hatırla sevgili o mesut geceyi",
+        "Çamların altında verdiğin buseyi",
+        "Hatırla sevgili o mesut geceyi",
+        "Çamların altında verdiğin buseyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni mecnun ettin sen de olasın",
+        "Aşkımı inkar edersen Allah'tan bulasın",
+        "Beni mecnun ettin sen de olasın",
+        "Aşkımı inkar edersen Allah'tan bulasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana sen öğrettin bu aşkı sevdayı",
+        "Ne çabuk unuttun beni sen hercai",
+        "Bana sen öğrettin aşkı sevdayı",
+        "Ne çabuk unuttun beni sen hercai"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni mecnun ettin sen de olasın",
+        "Aşkımı inkar edersen Allah'tan bulasın",
+        "Aşkımı inkar edersen Allah’tan bulasın",
+        "Aşkımı inkar edersen Allah'tan bulasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hat%C4%B1rla%20Sevgili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hat%C4%B1rla%20Sevgili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hatırla Sevgili",
+      "url": "https://tr.wikisource.org/wiki/Hat%C4%B1rla_Sevgili",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

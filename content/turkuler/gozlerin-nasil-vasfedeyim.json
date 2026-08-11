@@ -1,0 +1,71 @@
+{
+  "slug": "gozlerin-nasil-vasfedeyim",
+  "baslik": "Gözlerin (Nasıl Vasfedeyim)",
+  "yore": "Erzurum",
+  "hikaye": "Gözlerin (Nasıl Vasfedeyim), Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nasıl vasfedeyim sultanım seni,",
+        "Rumeli, Bosna’yı değer gözlerin.",
+        "Akranın bulunmaz ruh-i revanın,",
+        "İzmir’i Konya’yı değer gözlerin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kimsede görmedim sendeki nazı,",
+        "Tunus, Trab(u)lus’u Mısır Hicaz’ı,",
+        "Bağdat’ı Basra’yı Acem Şiraz’ı;",
+        "Belh’i Buhara’yı değer gözlerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüzünde var Yusuf Kenan nişanı,",
+        "Gören üftadeler kılar figanı,",
+        "Bütün Gürcistan’ı Erzurum Van’ı;",
+        "Kars’ı Ahıska’yı değer gözlerin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ruhsatî’yim eyledim yar senin methin,",
+        "Al yanaktan bir buse ver himmetin,",
+        "Yüz bin sarraf gelse bilmez kıymetin;",
+        "Ahırı dünyayı değer gözlerin."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6zlerin%20(Nas%C4%B1l%20Vasfedeyim)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6zlerin%20(Nas%C4%B1l%20Vasfedeyim)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gözlerin (Nasıl Vasfedeyim)",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6zlerin_(Nas%C4%B1l_Vasfedeyim)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "sabahin-seherinde-otuyor-kuslar",
+  "baslik": "Sabahın Seherinde Ötüyor Kuşlar",
+  "yore": "Tokat",
+  "hikaye": "Sabahın Seherinde Ötüyor Kuşlar, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahın seherinde ötüyor kuşlar",
+        "Balınan yoğrulmuş o sırma saçlar",
+        "Kudretten çekilmiş karadır kaşlar",
+        "İşte bu gönlümün cananı geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seher vakti keklik çıkar kabana",
+        "Sallandıkça püskül değer tabana",
+        "Korkarım sevdiğim vara yabana",
+        "İşte bu gönlümün cananı geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yârim yine şekerlendin ballandın",
+        "Alınan yeşili giydin sallandın",
+        "Kırılsın kolların ne tez çullandın",
+        "Aç gözlerini aç cananın geldi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabah%C4%B1n%20Seherinde%20%C3%96t%C3%BCyor%20Ku%C5%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabah%C4%B1n%20Seherinde%20%C3%96t%C3%BCyor%20Ku%C5%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahın Seherinde Ötüyor Kuşlar",
+      "url": "https://tr.wikisource.org/wiki/Sabah%C4%B1n_Seherinde_%C3%96t%C3%BCyor_Ku%C5%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

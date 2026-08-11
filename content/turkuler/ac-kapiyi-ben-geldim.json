@@ -1,0 +1,86 @@
+{
+  "slug": "ac-kapiyi-ben-geldim",
+  "baslik": "Aç Kapıyı Ben Geldim",
+  "yore": "Karabük",
+  "hikaye": "Aç Kapıyı Ben Geldim, Vikikaynak'ın Karabük türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karabük yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aç kapıyı ben geldim avanım",
+        "Safa geldin hoş geldin ölüyom",
+        "Safa geldin hoş geldin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El ediyor el ediyor",
+        "O yar beni del'ediyor",
+        "Ela da gözler kül ediyor",
+        "Ela da gözler kül ediyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çuha da yelek ekl'olur avanım",
+        "Çirkin seven dertl'olur ölüyom",
+        "Çirkin seven dertl'olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen de yanuk ben de yanuk",
+        "Sular da akar boz bulanık",
+        "Eller de uyur ben uyanık",
+        "Eller de uyur ben uyanık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sever isen güzel sev avanım",
+        "Güzel merhametl'olur ölüyom",
+        "Güzel merhametl'olur ölüyom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El ediyor el ediyor",
+        "O yar beni del'ediyor",
+        "Ela da gözler kül ediyor",
+        "Ela da gözler kül ediyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C3%A7%20Kap%C4%B1y%C4%B1%20Ben%20Geldim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C3%A7%20Kap%C4%B1y%C4%B1%20Ben%20Geldim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aç Kapıyı Ben Geldim",
+      "url": "https://tr.wikisource.org/wiki/A%C3%A7_Kap%C4%B1y%C4%B1_Ben_Geldim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karabük",
+    "anonim",
+    "açık arşiv"
+  ]
+}

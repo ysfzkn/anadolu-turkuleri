@@ -1,0 +1,62 @@
+{
+  "slug": "gine-kismet-cekti-gurbet-ellere",
+  "baslik": "Gine Kısmet Çekti Gurbet Ellere",
+  "yore": "Gaziantep",
+  "hikaye": "Gine Kısmet Çekti Gurbet Ellere, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gine kısmet çekti gurbet ellere",
+        "Acep nerden aşar yolumuz bizim",
+        "Yiyecek içecek sular çekiyor",
+        "Toplayıp devşirmek karımız bizim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar dumanlandı hava bozuldu",
+        "Alnımıza kara yazı yazıldı",
+        "Mezarımız gurbet ele kazıldı",
+        "Acep nerde kalır ölümüz bizim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağmur yağar boran serper kar ilen",
+        "Günümüz geçiyor ah ü zar ilen",
+        "Kavuşmazsak gözü yaşlı yar ilen",
+        "Çok perişan olur halimiz bizim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20K%C4%B1smet%20%C3%87ekti%20Gurbet%20Ellere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20K%C4%B1smet%20%C3%87ekti%20Gurbet%20Ellere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Kısmet Çekti Gurbet Ellere",
+      "url": "https://tr.wikisource.org/wiki/Gine_K%C4%B1smet_%C3%87ekti_Gurbet_Ellere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

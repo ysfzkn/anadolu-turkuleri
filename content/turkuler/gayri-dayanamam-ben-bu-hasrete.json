@@ -1,0 +1,62 @@
+{
+  "slug": "gayri-dayanamam-ben-bu-hasrete",
+  "baslik": "Gayrı Dayanamam Ben Bu Hasrete",
+  "yore": "Çorum",
+  "hikaye": "Gayrı Dayanamam Ben Bu Hasrete, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gayrı dayanamam ben bu hasrete",
+        "Ya beni de götür ya sen de gitme",
+        "Ateşin aşkına canım yakma çıramı",
+        "Ya beni de götür ya sen de gitme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen gidersen kendim berdar ederim",
+        "Bülbül gül dalına konmaz niderim",
+        "Elif gaddim büker kement ederim",
+        "Ya beni de götür ya sen de gitme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar sineme vurdun kızgın dağları",
+        "Viran koydun mor sümbüllü bağları",
+        "Hüseyn'im geçiyor gençlik çağları",
+        "Ya beni de götür ya sen de gitme"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gayr%C4%B1%20Dayanamam%20Ben%20Bu%20Hasrete%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gayr%C4%B1%20Dayanamam%20Ben%20Bu%20Hasrete",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gayrı Dayanamam Ben Bu Hasrete",
+      "url": "https://tr.wikisource.org/wiki/Gayr%C4%B1_Dayanamam_Ben_Bu_Hasrete",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

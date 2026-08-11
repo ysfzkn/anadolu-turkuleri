@@ -1,0 +1,62 @@
+{
+  "slug": "ardicliktir-evleri",
+  "baslik": "Ardıçlıktır Evleri",
+  "yore": "Denizli",
+  "hikaye": "Ardıçlıktır Evleri, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardıçlıktır evleri de",
+        "Üzümlüdür bağları",
+        "Yanık dertli Fatma Ana ablem",
+        "Her gün davar çobanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acıpayamın ovası",
+        "Fatmana alın ovası",
+        "Fatmana Ablene sorarsen",
+        "Eli mavzerli bubası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa gittim erkenden de",
+        "Fatmana geldi arkamdan",
+        "Fatmana üzüm toplayı vede",
+        "Davşanı ürkütmeden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ard%C4%B1%C3%A7l%C4%B1kt%C4%B1r%20Evleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ard%C4%B1%C3%A7l%C4%B1kt%C4%B1r%20Evleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ardıçlıktır Evleri",
+      "url": "https://tr.wikisource.org/wiki/Ard%C4%B1%C3%A7l%C4%B1kt%C4%B1r_Evleri",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

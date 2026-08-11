@@ -1,0 +1,52 @@
+{
+  "slug": "mezireden-ciktim-agriyor-basim",
+  "baslik": "Mezire'den Çıktım Ağrıyor Başım",
+  "yore": "Konya",
+  "hikaye": "Mezire'den Çıktım Ağrıyor Başım, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mezre’den çıktım, ağrıyor başım,",
+        "Dumdum kurşunuyla serildi leşim;",
+        "Bana sebep olan Arap gardaşım",
+        "Di değme de değme yaram derindir,",
+        "Yaram sağalırsa, Mevlâ’m kerimdir!",
+        "Mezre’den çıktım, yıldız ışılar,",
+        "Kâtip’i vurmuşlar, kanı fışılar,",
+        "İmdada gelmiyor hain komşular,",
+        "NAKARAT",
+        "Atımı bağladım ben bir dikene,",
+        "Tükettin ömrümü, ömrün tükene,",
+        "Benden selam edin, kefen dikene,"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mezire'den%20%C3%87%C4%B1kt%C4%B1m%20A%C4%9Fr%C4%B1yor%20Ba%C5%9F%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mezire'den%20%C3%87%C4%B1kt%C4%B1m%20A%C4%9Fr%C4%B1yor%20Ba%C5%9F%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mezire'den Çıktım Ağrıyor Başım",
+      "url": "https://tr.wikisource.org/wiki/Mezire'den_%C3%87%C4%B1kt%C4%B1m_A%C4%9Fr%C4%B1yor_Ba%C5%9F%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

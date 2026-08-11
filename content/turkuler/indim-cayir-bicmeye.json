@@ -1,0 +1,74 @@
+{
+  "slug": "indim-cayir-bicmeye",
+  "baslik": "İndim Çayır Biçmeye",
+  "yore": "Hatay",
+  "hikaye": "İndim Çayır Biçmeye, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey güzel güzel güzel güzel han",
+        "Güzel maya çobanı yar aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim çayır biçmeye (güzel han)",
+        "Eğildim su içmeye (yar aman)",
+        "Dediler yar geliyor (güzel han)",
+        "Kanat vurdum uçmaya vay aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey güzel güzel güzel güzel han",
+        "Güzel maya çobanı yar aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekşi ayva tatlı nar (güzel han)",
+        "Küsme bana nazlı yar (yar aman)",
+        "Sen küsersen ben küsmem (güzel han)",
+        "Senden başka kimim var (yar aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey güzel güzel güzel güzel han",
+        "Güzel maya çobanı yar aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ndim%20%C3%87ay%C4%B1r%20Bi%C3%A7meye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ndim%20%C3%87ay%C4%B1r%20Bi%C3%A7meye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İndim Çayır Biçmeye",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ndim_%C3%87ay%C4%B1r_Bi%C3%A7meye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

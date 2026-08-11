@@ -1,0 +1,63 @@
+{
+  "slug": "munzur-dagi-isil-isil-isildar",
+  "baslik": "Munzur Dağı Işıl Işıl Işıldar",
+  "yore": "Erzincan",
+  "hikaye": "Munzur Dağı Işıl Işıl Işıldar, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Munzur dağı ışıl ışıl ışıldar",
+        "Geyikleri suya düşmüş mışıldar",
+        "Yad ellere gönül veren gişiler",
+        "Dilerim ki cehenneme düşeler",
+        "Düşelerde cızır mızır bişeler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Munzur dağı senden ulu var mıdır",
+        "Başındaki boran mıdır kar mıdır",
+        "Mevlayı seversen doğrusun söyle",
+        "Senden aşıp giden ağam sağ mıdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kervan geçer dere tepe yol eyler",
+        "Rüzgar eser her tarafı toz eyler",
+        "İki güzel pencireden el eyler",
+        "Hangisiyle yad eyleyim gönlümü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Munzur%20Da%C4%9F%C4%B1%20I%C5%9F%C4%B1l%20I%C5%9F%C4%B1l%20I%C5%9F%C4%B1ldar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Munzur%20Da%C4%9F%C4%B1%20I%C5%9F%C4%B1l%20I%C5%9F%C4%B1l%20I%C5%9F%C4%B1ldar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Munzur Dağı Işıl Işıl Işıldar",
+      "url": "https://tr.wikisource.org/wiki/Munzur_Da%C4%9F%C4%B1_I%C5%9F%C4%B1l_I%C5%9F%C4%B1l_I%C5%9F%C4%B1ldar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

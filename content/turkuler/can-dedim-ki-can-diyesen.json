@@ -1,0 +1,63 @@
+{
+  "slug": "can-dedim-ki-can-diyesen",
+  "baslik": "Can Dedim ki Can Diyesen",
+  "yore": "Erzurum",
+  "hikaye": "Can Dedim ki Can Diyesen, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Can dedim ki can deyesen (ay balam can deyesen)",
+        "Ne dedim ki inceyesen (ay balam inciyesen)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Getme getme getme dayan yandım ay aman",
+        "Senin derdin beni ay gız öldürür inan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne tez geldin ne tez gettin (ay balam ne tez gettin)",
+        "Şu gönlümü viran ettin (ay balam viran ettin)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Getme getme getme dayan yandım ay aman",
+        "Senin derdin beni ay gız öldürür inan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Can%20Dedim%20ki%20Can%20Diyesen%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Can%20Dedim%20ki%20Can%20Diyesen",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Can Dedim ki Can Diyesen",
+      "url": "https://tr.wikisource.org/wiki/Can_Dedim_ki_Can_Diyesen",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

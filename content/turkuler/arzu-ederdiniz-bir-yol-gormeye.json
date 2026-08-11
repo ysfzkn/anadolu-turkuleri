@@ -1,0 +1,62 @@
+{
+  "slug": "arzu-ederdiniz-bir-yol-gormeye",
+  "baslik": "Arzu Ederdiniz Bir Yol Görmeye",
+  "yore": "Çorum",
+  "hikaye": "Arzu Ederdiniz Bir Yol Görmeye, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arzu ederdiniz bir yol görmeye,",
+        "Bugün bize hoş geldiniz erenler!",
+        "Muhabbet bağından hey dost güller dermeye.",
+        "Bugün bize hoş geldiniz erenler!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tarihler boyunca bir milletiz biz,",
+        "İlimce dünyaya vermişidik hız",
+        "Büyük bir babanın hey dost torunlarıyız,",
+        "Bugün bize hoş geldiniz erenler!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hisse alın Çırakman’ın sözünden,",
+        "Zerre kaçmaz ariflerin gözünden,",
+        "Kemal Atatürk’ün hey dost aydın izinden,",
+        "Bugün bize hoş geldiniz erenler!"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arzu%20Ederdiniz%20Bir%20Yol%20G%C3%B6rmeye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arzu%20Ederdiniz%20Bir%20Yol%20G%C3%B6rmeye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arzu Ederdiniz Bir Yol Görmeye",
+      "url": "https://tr.wikisource.org/wiki/Arzu_Ederdiniz_Bir_Yol_G%C3%B6rmeye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

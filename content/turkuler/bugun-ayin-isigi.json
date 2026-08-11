@@ -1,0 +1,89 @@
+{
+  "slug": "bugun-ayin-isigi",
+  "baslik": "Bugün Ayın Işığı",
+  "yore": "Kırıkkale",
+  "hikaye": "Bugün Ayın Işığı, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün ayın ışığı",
+        "Elinde bal kaşığı",
+        "Gine nerden geliyon da",
+        "Mehlenin yakışığı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay nerdesin nerdesin",
+        "Kaldır camın perdesin",
+        "Diyeceğim çok amma da",
+        "Pek kalaba yerdesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara poşuna gurban",
+        "Çatık kaşına gurban",
+        "Yalınız sana değil de",
+        "Arkadaşına gurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay vay vay vay",
+        "Edasına yandığım",
+        "Seni hasta diyorlarda",
+        "Nasıl oldun sevdiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan geçti gelin",
+        "Elinde desti gelin",
+        "Sallan boyun göreyim de",
+        "Gençliğim geçti gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay ne olur ne olur",
+        "Sevda sırınan olur",
+        "Gözdür alemi gezer de",
+        "Gönül birinen olur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Ay%C4%B1n%20I%C5%9F%C4%B1%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Ay%C4%B1n%20I%C5%9F%C4%B1%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Ayın Işığı",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Ay%C4%B1n_I%C5%9F%C4%B1%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

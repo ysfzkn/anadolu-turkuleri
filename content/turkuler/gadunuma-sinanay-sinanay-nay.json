@@ -1,0 +1,107 @@
+{
+  "slug": "gadunuma-sinanay-sinanay-nay",
+  "baslik": "Gadunuma Şinanay Şinanay Nay",
+  "yore": "Bartın",
+  "hikaye": "Gadunuma Şinanay Şinanay Nay, Vikikaynak'ın Bartın türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bartın yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadunuma şinanay şinanay nay",
+        "Hanıma da şinanay şinanay nay",
+        "Güzele de şinanay şinanay nay",
+        "Çirkine de ninanay ninanay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) Maniye başlayalım",
+        "Şeftali taşlayalım",
+        "Akşam oldu gün battı",
+        "Cümbüşe başlayalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şinanay şinanay nay",
+        "Hanıma da şinanay şinanay nay",
+        "Güzele de şinanay şinanay nay",
+        "Çirkine de ninanay ninanay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadunuma şinanay şinanay nay",
+        "Hanıma da şinanay şinanay nay",
+        "Güzele de şinanay şinanay nay",
+        "Çirkine de ninanay ninanay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) Odasında halıyım",
+        "Kıymatlı bahalıyım",
+        "Dostlar düşmanlar bilsin",
+        "Ben bir yiğit malıyım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şinanay şinanay nay",
+        "Hanıma da şinanay şinanay nay",
+        "Güzele de şinanay şinanay nay",
+        "Çirkine de ninanay ninanay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadunuma şinanay şinanay nay",
+        "Hanıma da şinanay şinanay nay",
+        "Güzele de şinanay şinanay nay",
+        "Çirkine de ninanay ninanay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) Su gelir kütüğünden",
+        "İçilmez köpüğünden",
+        "Ben yârimi tanırım",
+        "Kınalı topuğundan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gadunuma%20%C5%9Einanay%20%C5%9Einanay%20Nay%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gadunuma%20%C5%9Einanay%20%C5%9Einanay%20Nay",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gadunuma Şinanay Şinanay Nay",
+      "url": "https://tr.wikisource.org/wiki/Gadunuma_%C5%9Einanay_%C5%9Einanay_Nay",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bartın",
+    "anonim",
+    "açık arşiv"
+  ]
+}

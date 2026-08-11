@@ -15,7 +15,9 @@
     "sync:city-images": "tsx scripts/sync-city-images.ts",
     "sync:wikisource": "tsx scripts/sync-wikisource-catalog.ts",
     "enrich:wikisource": "tsx scripts/enrich-wikisource.ts",
-    "sync:sivas": "tsx scripts/sync-sivas.ts"
+    "sync:sivas": "tsx scripts/sync-sivas.ts",
+    "sync:all-cities": "tsx scripts/sync-all-cities.ts",
+    "audit:archive": "tsx scripts/archive-audit.ts"
   },
   "dependencies": {
     "@react-three/fiber": "^8.18.0",
@@ -25,6 +27,7 @@
     "next": "14.2.15",
     "react": "18.3.1",
     "react-dom": "18.3.1",
+    "react-force-graph-2d": "^1.29.1",
     "three": "^0.170.0",
     "zod": "3.23.8"
   },

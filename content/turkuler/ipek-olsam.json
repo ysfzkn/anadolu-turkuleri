@@ -1,0 +1,71 @@
+{
+  "slug": "ipek-olsam",
+  "baslik": "İpek Olsam",
+  "yore": "Tekirdağ",
+  "hikaye": "İpek Olsam, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İpek olsam yar boynuna sarılsam",
+        "İpek olsam yar boynuna sarılsam",
+        "Sarılsam leylim sarılsam",
+        "Sarılsam leylim sarılsam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı olsun saçlarını okşasam",
+        "Sarı olsun saçlarını okşasam",
+        "Okşasam leylim okşasam",
+        "Okşasam leylim okşasam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al dudaktan bir öpücük alırsam",
+        "Al dudaktan bir öpücük alırsam",
+        "Alırsam leylim alırsam",
+        "Alırsam leylim alırsam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Darılmasın ben yanında kalırsam",
+        "Darılmasın ben yanında kalırsam",
+        "Kalırsam leylim kalırsam",
+        "Kalırsam leylim kalırsam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0pek%20Olsam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0pek%20Olsam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İpek Olsam",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0pek_Olsam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

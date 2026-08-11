@@ -1,0 +1,64 @@
+{
+  "slug": "sarili-yazmami-yirtar-eklerim",
+  "baslik": "Sarılı Yazmamı Yırtar Eklerim",
+  "yore": "Kütahya",
+  "hikaye": "Sarılı Yazmamı Yırtar Eklerim, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarılı yazmamı yırtar eklerim",
+        "On yıl olsa yâr yolların beklerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "A guryeci yazı yazan ellerin kırılsın",
+        "Sabahın seherinde de suların kurusun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarılı yazmamın sarısı vardır",
+        "İlişmen yârimin sevisi vardır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşırdılar koca dağdan keşişten",
+        "Gayri sevdiceğim geçti iş işten"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1l%C4%B1%20Yazmam%C4%B1%20Y%C4%B1rtar%20Eklerim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1l%C4%B1%20Yazmam%C4%B1%20Y%C4%B1rtar%20Eklerim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarılı Yazmamı Yırtar Eklerim",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1l%C4%B1_Yazmam%C4%B1_Y%C4%B1rtar_Eklerim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "damdan-dama-ip-gerdim",
+  "baslik": "Damdan Dama İp Gerdim",
+  "yore": "Hatay",
+  "hikaye": "Damdan Dama İp Gerdim, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damdan dama ip gerdim",
+        "İpekli mendil serdim",
+        "Şu zalimin kızını",
+        "Candan yürekten sevdim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirinim hele gel hele",
+        "Yanıyorum aman ne çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağ yağlık gara yağlık",
+        "Söyle diline sağlık",
+        "Aziz bayramlar geldi",
+        "Ne kestirdin bayramlık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirinim hele gel hele",
+        "Yanıyorum aman ne çare"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Damdan%20Dama%20%C4%B0p%20Gerdim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Damdan%20Dama%20%C4%B0p%20Gerdim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Damdan Dama İp Gerdim",
+      "url": "https://tr.wikisource.org/wiki/Damdan_Dama_%C4%B0p_Gerdim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

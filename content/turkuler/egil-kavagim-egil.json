@@ -1,0 +1,62 @@
+{
+  "slug": "egil-kavagim-egil",
+  "baslik": "Eğil Kavağım Eğil",
+  "yore": "Denizli",
+  "hikaye": "Eğil Kavağım Eğil, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğil kavağım eğil (bi danem aman)",
+        "Bu kavak bizim değil",
+        "Yâr üstüme yâr sevmiş (güzelim aman)",
+        "Sırça da parmağım değil"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kavak dibi deşmeli (bi danem aman)",
+        "Üstüne basıp geçmeli",
+        "Nazlı da yârin önünden (güzelim aman)",
+        "Sallana sallana geçmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kavakta kuru dal var (bi danem aman)",
+        "Ayakta mavi şalvar",
+        "Asker oldum gidiyom (güzelim aman)",
+        "El aç Allah’a yalvar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=E%C4%9Fil%20Kava%C4%9F%C4%B1m%20E%C4%9Fil%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/E%C4%9Fil%20Kava%C4%9F%C4%B1m%20E%C4%9Fil",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eğil Kavağım Eğil",
+      "url": "https://tr.wikisource.org/wiki/E%C4%9Fil_Kava%C4%9F%C4%B1m_E%C4%9Fil",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

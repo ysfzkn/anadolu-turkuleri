@@ -1,0 +1,62 @@
+{
+  "slug": "can-ellerinden-gelmisem",
+  "baslik": "Can Ellerinden Gelmişem",
+  "yore": "Erzurum",
+  "hikaye": "Can Ellerinden Gelmişem, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Can ellerinden gelmişem",
+        "Fani mekanı neylerem",
+        "Ol mülke meylim salmışam",
+        "Ben bu cihanı neylerem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşkın şarabın içmişem",
+        "Dil gülşenine göçmüşem",
+        "Ben varlığımdan geçmişem",
+        "Namu nişanı neylerem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hakkı cemil halk eden",
+        "Müstağniyem billahi ben",
+        "Hallakı alem var iken",
+        "Halk-ı zamanı neylerem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Can%20Ellerinden%20Gelmi%C5%9Fem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Can%20Ellerinden%20Gelmi%C5%9Fem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Can Ellerinden Gelmişem",
+      "url": "https://tr.wikisource.org/wiki/Can_Ellerinden_Gelmi%C5%9Fem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

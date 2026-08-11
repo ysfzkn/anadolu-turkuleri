@@ -1,0 +1,89 @@
+{
+  "slug": "bu-daglar-komurdendir",
+  "baslik": "Bu Dağlar Kömürdendir",
+  "yore": "Ardahan",
+  "hikaye": "Bu Dağlar Kömürdendir, Vikikaynak'ın Ardahan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ardahan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağlar kömürdendir",
+        "Geçen gün ömürdendir",
+        "Feleğin bir guşu var",
+        "Pençesi demirdendir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hadi leyli leylanı",
+        "Mevlam yazmış fermanı",
+        "Ya al canım gurtulam",
+        "Ya ver derde dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu yol Pasin'e gider",
+        "Döner tersine gider",
+        "Burada bir yiğit ölmüş",
+        "Guşlar yasına gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hadi leyli leylanı",
+        "Mevlam yazmış fermanı",
+        "Ya al canım gurtulam",
+        "Ya ver derde dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir at bindim başı yok",
+        "Bir çay geçtim daşı yok",
+        "Burda bir yiğit ölmüş",
+        "Yanında gardaşı yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hadi leyli leylanı",
+        "Mevlam yazmış fermanı",
+        "Ya al canım gurtulam",
+        "Ya ver derde dermanı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bu%20Da%C4%9Flar%20K%C3%B6m%C3%BCrdendir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bu%20Da%C4%9Flar%20K%C3%B6m%C3%BCrdendir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bu Dağlar Kömürdendir",
+      "url": "https://tr.wikisource.org/wiki/Bu_Da%C4%9Flar_K%C3%B6m%C3%BCrdendir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ardahan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

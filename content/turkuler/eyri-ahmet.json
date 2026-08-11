@@ -1,0 +1,96 @@
+{
+  "slug": "eyri-ahmet",
+  "baslik": "Eyri Ahmet",
+  "yore": "Kastamonu",
+  "hikaye": "Eyri Ahmet, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İskilip’in üzerinde bir kara bulut,",
+        "Aman anam ben gidiyom sen beni unut."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme Eyri Ahmet gitme, yollarda it var.",
+        "Çok sallanma Eyri Ahmet, senden yiğit var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyri Ahmet’in karısı, altın sarısı",
+        "Eyri Ahmet’i vurdular gece yarısı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyri Ahmet’in kuşağı, Tosya kuşağı",
+        "Eyri Ahmet’i vuranlar Hacı uşağı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "“İskilip’in üzerinde",
+        "Bir kara bulut.",
+        "Aman anam ben gidiyom,",
+        "Sen beni unut.”"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyri Ahmet, Tosya taraflarında eskiden yaşayan ünlü çete reislerinden birisidir. Köy köy dolaşarak birçok can yakmış, soygunculukla büyük bir ün kazanmıştır. Gündüzleri kendisine dağları mesken edinen Eyri Ahmet, geceleri de köylere inermiş. Peşinden takibe çıkan zaptiyeler, Eyri Ahmet’in devamlı olarak köyde bir eve girdiğini görmüşler. Eyri Ahmet’in gündüzleri dağa çıktığı zamanlarda zaptiyeler, köydeki ev sahibi ile anlaşmışlar.",
+        "Gecelerden bir gece yarısı, ansızın Eyri Ahmet’in kaldığı evi kuşatmışlar, onu, çepeçevre her tarafından sarmışlar. İçeriye ne bir sinek, ne bir böcek bırakmışlar. Uçan kuşları bile oradan geçirmemişler. Köylüler de, kendilerine daima zulüm eden Eyri Ahmet’ten bıktıklarından, ona arka çıkmamışlardır.",
+        "Zaptiyelerden biri, aralarından “Hacı’nın Uşağı” diye bilineni, tetiğine atik, gözü en kara olanı, Eyri Ahmet’in yattığı evin altındaki dama girmiş. Damdan yukarıya, Eyri Ahmet’in bulunduğu yere basmış kurşunu. Eyri Ahmet yaralanmış. Yaralı haline aldırmadan, silâhını kapmış, bir umutla dışarı fırlamış. Fakat avludaki askerler, topluca ateş açarak Eyri Ahmet’i öldürmüşler.",
+        "Öldürmüşler ya, bu defa da köylüler, belki yiğitliğinden, gözü karalığından, korkusuzluğundan veya zaptiyelere duydukları öfkenin bin bir çeşidinden olacak, Eyri Ahmet türküsünü yakıp çığırmaya başlamışlar."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İskilip üstünde bir kara bulut",
+        "Ana ben gidiyom sen beni unut",
+        "Ufacık yavrumu yerime böyüt"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Efendim efendim Şakir Efendim",
+        "İfadeyi doğru söyle efendim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eyri%20Ahmet%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eyri%20Ahmet",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eyri Ahmet",
+      "url": "https://tr.wikisource.org/wiki/Eyri_Ahmet",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

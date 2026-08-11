@@ -1,0 +1,53 @@
+{
+  "slug": "gine-haber-gelmis",
+  "baslik": "Gine Haber Gelmiş",
+  "yore": "Kırşehir",
+  "hikaye": "Gine Haber Gelmiş, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gine haber gelmiş dostun elinden",
+        "Durmayıp sevdiğim gelesin demiş (of of)",
+        "Bergüzar göndermiş zülfün telinden",
+        "Saldığım haberden bilesin demiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Böyle selam salmış kaşları karam",
+        "Tazelendi yine yürekte yaram",
+        "Yardan haber gelmiş ben nasıl duram",
+        "Tez günler içinde gelesin demiş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20Haber%20Gelmi%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20Haber%20Gelmi%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Haber Gelmiş",
+      "url": "https://tr.wikisource.org/wiki/Gine_Haber_Gelmi%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

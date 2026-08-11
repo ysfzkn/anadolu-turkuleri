@@ -1,0 +1,86 @@
+{
+  "slug": "turkmen-kizi",
+  "baslik": "Türkmen Kızı",
+  "yore": "Mersin",
+  "hikaye": "Türkmen Kızı, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı türkmen kızı",
+        "Yayık yayar türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) sen allar giy ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "(ah) aman ayşe'm yaman ayşe'm",
+        "Dağlar başı duman ayşem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı türkmen kızı",
+        "İnek sağar türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) sen allar giy ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "(ah) aman ayşe'm yaman ayşe'm",
+        "Dağlar başı duman ayşem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı türkmen kızı",
+        "Hamur yoğrur türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) sen allar giy ben kırmızı",
+        "Çıkalım dağlar başına",
+        "Sen gül topla ben nergizi",
+        "(ah) aman ayşe'm yaman ayşe'm",
+        "Dağlar başı duman ayşem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=T%C3%BCrkmen%20K%C4%B1z%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/T%C3%BCrkmen%20K%C4%B1z%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Türkmen Kızı",
+      "url": "https://tr.wikisource.org/wiki/T%C3%BCrkmen_K%C4%B1z%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

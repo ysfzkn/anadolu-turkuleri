@@ -1,0 +1,62 @@
+{
+  "slug": "ada-sahillerinde-bekliyorum",
+  "baslik": "Ada Sahillerinde Bekliyorum",
+  "yore": "İstanbul",
+  "hikaye": "Ada Sahillerinde Bekliyorum, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah, ada sahillerinde bekliyorum",
+        "Her zaman yollarını gözlüyorum",
+        "Seni senden güzelim istiyorum",
+        "Beni şad et Şadiye başım için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nerede o mis gibi leylaklar",
+        "Sararıp solmak üzere yapraklar",
+        "Bana mesken olunca topraklar",
+        "Beni yad et güzelim başın için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adalardan Modalara geçilir",
+        "Yar elinden zehir olsa içilir",
+        "Bu dünyada başa gelen çekilir",
+        "Beni şad et Şadiye başın için"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ada%20Sahillerinde%20Bekliyorum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ada%20Sahillerinde%20Bekliyorum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ada Sahillerinde Bekliyorum",
+      "url": "https://tr.wikisource.org/wiki/Ada_Sahillerinde_Bekliyorum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

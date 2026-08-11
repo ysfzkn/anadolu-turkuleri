@@ -1,0 +1,53 @@
+{
+  "slug": "ekinler-ekilirken",
+  "baslik": "Ekinler Ekilirken",
+  "yore": "Uşak",
+  "hikaye": "Ekinler Ekilirken, Vikikaynak'ın Uşak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Uşak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekinler ekilirken",
+        "Çiziye dökülürken",
+        "Seni benden ayırdılar (suna da boylu Kezban)",
+        "Şafaklar sökülürken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım pınar akmıyor",
+        "Yar yüzüme bakmıyor",
+        "Dokuz deste gül aldım (suna da boylu Kezban)",
+        "Senin gibi kokmuyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ekinler%20Ekilirken%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ekinler%20Ekilirken",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ekinler Ekilirken",
+      "url": "https://tr.wikisource.org/wiki/Ekinler_Ekilirken",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Uşak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

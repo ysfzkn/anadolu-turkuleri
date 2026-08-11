@@ -1,0 +1,80 @@
+{
+  "slug": "asagidan-gelir-omuz-omuza",
+  "baslik": "Aşağıdan Gelir Omuz Omuza",
+  "yore": "Malatya",
+  "hikaye": "Aşağıdan Gelir Omuz Omuza, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelir omuz omuza",
+        "Çiğdem de karışmış (aman aman) güle nergize",
+        "Benden selam söylen o vefasıza"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baba bayramınız (aman aman) mübarek ola",
+        "Kirve bayramınız (aman aman aman) karalı geçe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Duvara yaslandım sigaram içem",
+        "Yağlı kurşun geldi (aman aman) ben nire gaçam",
+        "Kanadım yoktur ki havaya uçam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baba bayramınız (aman aman) mübarek ola",
+        "Kirve bayramınız (aman aman aman) karalı geçe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yorgun yorgun vardım orak biçmeye",
+        "Köyün çeşmesinden bir su içmeye",
+        "Yağlı kurşun gelir ciğer deşmeye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baba bayramınız (aman aman) mübarek ola",
+        "Kirve bayramınız (aman aman aman) karalı geçe"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fa%C4%9F%C4%B1dan%20Gelir%20Omuz%20Omuza%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fa%C4%9F%C4%B1dan%20Gelir%20Omuz%20Omuza",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşağıdan Gelir Omuz Omuza",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fa%C4%9F%C4%B1dan_Gelir_Omuz_Omuza",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

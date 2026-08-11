@@ -1,0 +1,53 @@
+{
+  "slug": "ayva-dibi-serin-olur-yatmaya",
+  "baslik": "Ayva Dibi Serin Olur Yatmaya",
+  "yore": "Isparta",
+  "hikaye": "Ayva Dibi Serin Olur Yatmaya, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva dibi serin olur yatmaya",
+        "Kızlar gelir saklı gizli bakmaya",
+        "Altun ister ak gerdana takmaya",
+        "Altun ister ak gerdana takmaya (yandım sürmelim gel gel)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva dibi lâle midir gül müdür",
+        "Başındaki sırma mıdır tel midir",
+        "Ne bakarsın karşındaki el midir",
+        "Ne bakarsın karşındaki el midir (yandım sürmelim gel gel)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ayva%20Dibi%20Serin%20Olur%20Yatmaya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ayva%20Dibi%20Serin%20Olur%20Yatmaya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayva Dibi Serin Olur Yatmaya",
+      "url": "https://tr.wikisource.org/wiki/Ayva_Dibi_Serin_Olur_Yatmaya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

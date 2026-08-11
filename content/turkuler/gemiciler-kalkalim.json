@@ -1,0 +1,99 @@
+{
+  "slug": "gemiciler-kalkalim",
+  "baslik": "Gemiciler Kalkalım",
+  "yore": "Trabzon",
+  "hikaye": "Gemiciler Kalkalım, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemiciler kalkalum",
+        "Şu yelkeni takalum",
+        "Şişiru da yelkeni,",
+        "Sırt üstüne yatalum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızılırmak başına",
+        "Şu ırgatı atalum",
+        "Tutalum balık havyar,",
+        "Keyfumuze bakalum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaptan attık ırgatı",
+        "Sen da tut ha bu gatı",
+        "Gel girelum ırmağa",
+        "Esecek ha bu batı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemici uşakları",
+        "Deniz başımun tacı",
+        "Yoklayın şu ırgatı",
+        "İnşallah çıkar acı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekin uşaklar çekin",
+        "Hemen aldık ırgatı",
+        "Geliyor bir sert poyraz",
+        "Vuralım iki katı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(İsmail'la Murad'a)",
+        "Hasan geçsun çördeğe",
+        "Uşakla ben dümende",
+        "Çoştum arkadaş çoştum",
+        "Biraz çalam kemençe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağı aldi bir duman",
+        "Oh hava güzel yaman",
+        "Doğru yürü ah gelin",
+        "Bayıldım aman aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gemiciler%20Kalkal%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gemiciler%20Kalkal%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gemiciler Kalkalım",
+      "url": "https://tr.wikisource.org/wiki/Gemiciler_Kalkal%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "esmer-ahcik",
+  "baslik": "Esmer Ahçik",
+  "yore": "Batman",
+  "hikaye": "Esmer Ahçik, Vikikaynak'ın Batman türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Batman yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağ bahçemin gülü sensin",
+        "Zirvelerden akan selsin",
+        "Başım alıp yar diyerek",
+        "Peşin sıra koştuğum sensin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Esmerim",
+        "Sensin benim sevdiğim",
+        "Şu Sason'un en güzeli",
+        "Benim Esmer Ahçiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dicle suyu nazlı akar",
+        "Sevdalanmış bana bakar",
+        "Yâre telaş yakışmıyor",
+        "Her halinde çok nazlar var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Esmerim",
+        "Sensin benim sevdiğim",
+        "Şu Sason'un en güzeli",
+        "Benim Esmer Ahçiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saray bir dağ ucundadır",
+        "Gülüm saray içindedir",
+        "Yücelerden her dem bakar",
+        "Sanki kalbim içindedir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Esmerim",
+        "Sensin benim sevdiğim",
+        "Şu Sason'un en güzeli",
+        "Benim Esmer Ahçiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm gel bir can olalım",
+        "Tenhalarda buluşalım",
+        "Aşk ateşin yaktı beni",
+        "Yaksın artık kurtulalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Esmerim",
+        "Sensin benim sevdiğim",
+        "Şu Sason'un en güzeli",
+        "Benim Esmer Ahçiğim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Esmer%20Ah%C3%A7ik%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Esmer%20Ah%C3%A7ik",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Esmer Ahçik",
+      "url": "https://tr.wikisource.org/wiki/Esmer_Ah%C3%A7ik",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Batman",
+    "anonim",
+    "açık arşiv"
+  ]
+}

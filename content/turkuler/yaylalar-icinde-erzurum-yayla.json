@@ -1,0 +1,53 @@
+{
+  "slug": "yaylalar-icinde-erzurum-yayla",
+  "baslik": "Yaylalar İçinde Erzurum Yayla",
+  "yore": "Aksaray",
+  "hikaye": "Yaylalar İçinde Erzurum Yayla, Vikikaynak'ın Aksaray türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aksaray yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalar içinde Erzurum yayla",
+        "Şehirler içinde efem Konya'dır Konya",
+        "Vuruldu Osman'ım şen olsun dünya",
+        "Yandım mapushane yandım senin elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıkar çıkar parmaklıktan bakarım",
+        "Konya seni ateşlere yakarım",
+        "Bir gün olur ben murada çıkarım",
+        "Yandım mapushane yandım senin elinden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yaylalar%20%C4%B0%C3%A7inde%20Erzurum%20Yayla%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yaylalar%20%C4%B0%C3%A7inde%20Erzurum%20Yayla",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaylalar İçinde Erzurum Yayla (Aksaray)",
+      "url": "https://tr.wikisource.org/wiki/Yaylalar_%C4%B0%C3%A7inde_Erzurum_Yayla_(Aksaray)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aksaray",
+    "anonim",
+    "açık arşiv"
+  ]
+}

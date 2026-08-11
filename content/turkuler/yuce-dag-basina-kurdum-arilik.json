@@ -1,0 +1,55 @@
+{
+  "slug": "yuce-dag-basina-kurdum-arilik",
+  "baslik": "Yüce Dağ Başına Kurdum Arılık",
+  "yore": "Çorum",
+  "hikaye": "Yüce Dağ Başına Kurdum Arılık, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yüce dağ başına kurdum arılık",
+        "Yar yoluna ben olmuşum sarılık",
+        "Evel sevip sevip sonra ayrılık",
+        "Muhanet, vefasız geçmez mi vay vay",
+        "Yalan mı deyim de zor gelir bana, ar gelir bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yüce dağ başında oğlak güderim",
+        "Ağlama sevdiğim de buymuş kaderim",
+        "Anadan babandan fayda yok ise",
+        "Muhanet vefasız ölürüm yar yar",
+        "Kömür gözlüm de tut elimden gidelim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1na%20Kurdum%20Ar%C4%B1l%C4%B1k%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1na%20Kurdum%20Ar%C4%B1l%C4%B1k",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüce Dağ Başına Kurdum Arılık",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCce_Da%C4%9F_Ba%C5%9F%C4%B1na_Kurdum_Ar%C4%B1l%C4%B1k",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

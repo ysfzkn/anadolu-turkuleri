@@ -1,0 +1,65 @@
+{
+  "slug": "uzun-kavak-gicir-gicir-gicilar",
+  "baslik": "Uzun Kavak Gıcır Gıcır Gıcılar",
+  "yore": "Hatay",
+  "hikaye": "Uzun Kavak Gıcır Gıcır Gıcılar, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun kavak (aman) gıcır gıcır gıcılar",
+        "Yüreğimden (aman) çıkmaz oldu acılar",
+        "Ben ölürsem (aman) daha benden genci var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İmana gel aman gavur kızı imana",
+        "Sen eyledin aman beni mecnun divane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun kayak (aman) ne uzarsın boyuna",
+        "Şeyda bülbül (aman) yuva yapmış dalına",
+        "Hiç mi sevda (aman) gelmedi mi başına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İmana gel aman gavur kızı imana",
+        "Sen eyledin aman beni mecnun divane"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Uzun%20Kavak%20G%C4%B1c%C4%B1r%20G%C4%B1c%C4%B1r%20G%C4%B1c%C4%B1lar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Uzun%20Kavak%20G%C4%B1c%C4%B1r%20G%C4%B1c%C4%B1r%20G%C4%B1c%C4%B1lar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Uzun Kavak Gıcır Gıcır Gıcılar",
+      "url": "https://tr.wikisource.org/wiki/Uzun_Kavak_G%C4%B1c%C4%B1r_G%C4%B1c%C4%B1r_G%C4%B1c%C4%B1lar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

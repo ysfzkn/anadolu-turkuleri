@@ -1,0 +1,89 @@
+{
+  "slug": "asker-yolu-beklerim",
+  "baslik": "Asker Yolu Beklerim",
+  "yore": "Yozgat",
+  "hikaye": "Asker Yolu Beklerim, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asker yolu beklerim,",
+        "Günü güne eklerim.",
+        "Sen git yarim talime de,",
+        "Ben sılayı beklerim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilimde tel oya,",
+        "Gülmedim doya doya.",
+        "Asker yolu beklerim de,",
+        "Günleri saya saya."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sucu sucu suyunan,",
+        "Soğan acısıyınan.",
+        "Küsüdüm de barıştım,",
+        "Yarin bacısıyınan."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilimde tel oya,",
+        "Gülmedim doya doya.",
+        "Asker yolu beklerim de,",
+        "Günleri saya saya."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pilav pişirdim yavan,",
+        "Üstüne koydum soğan.",
+        "Yatağına uzanmış da,",
+        "Uyan askerim uyan."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilimde tel oya,",
+        "Gülmedim doya doya.",
+        "Asker yolu beklerim de,",
+        "Günleri saya saya."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Asker%20Yolu%20Beklerim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Asker%20Yolu%20Beklerim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Asker Yolu Beklerim",
+      "url": "https://tr.wikisource.org/wiki/Asker_Yolu_Beklerim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

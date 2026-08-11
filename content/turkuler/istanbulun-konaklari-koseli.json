@@ -1,0 +1,65 @@
+{
+  "slug": "istanbulun-konaklari-koseli",
+  "baslik": "İstanbul'un Konakları Köşeli",
+  "yore": "Kütahya",
+  "hikaye": "İstanbul'un Konakları Köşeli, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul'un konakları köşeli (aman aman)",
+        "Dışı da mermer içi de halı döşeli",
+        "Alt'ay oldu ben bu derde düşeli (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman avcu avun da olayım vur beni",
+        "Efendimsin terk edemem ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul'dan üç mum aldım yakmaya(aman aman)",
+        "Yakıpda yakıp yar yüzüne bakmaya",
+        "Tez başladı yarim benden bıkmaya (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman avcu avun da olayım vur beni",
+        "Efendimsin terk edemem ben seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0stanbul'un%20Konaklar%C4%B1%20K%C3%B6%C5%9Feli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0stanbul'un%20Konaklar%C4%B1%20K%C3%B6%C5%9Feli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İstanbul'un Konakları Köşeli",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0stanbul'un_Konaklar%C4%B1_K%C3%B6%C5%9Feli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

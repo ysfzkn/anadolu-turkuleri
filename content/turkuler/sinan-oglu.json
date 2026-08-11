@@ -1,0 +1,65 @@
+{
+  "slug": "sinan-oglu",
+  "baslik": "Sinan Oğlu",
+  "yore": "Kütahya",
+  "hikaye": "Sinan Oğlu, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu derler benim adıma",
+        "Yiyen bilir ince bıçak tadını",
+        "Alamadım lezzetini tadını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun çalın zeybeklere bir Sinanoğlu",
+        "Düşmanları bozan bir Sinanoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu’nun cepkeni sırmadan",
+        "Aç kapıyı konu komşu düşmanlarım duymadan",
+        "Alır seni de kaçarım vurmadan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun çalın zeybeklere bir Sinanoğlu",
+        "Düşmanları bozan bir Sinanoğlu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sinan%20O%C4%9Flu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sinan%20O%C4%9Flu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sinan Oğlu",
+      "url": "https://tr.wikisource.org/wiki/Sinan_O%C4%9Flu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

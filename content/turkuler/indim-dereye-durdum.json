@@ -1,0 +1,53 @@
+{
+  "slug": "indim-dereye-durdum",
+  "baslik": "İndim Dereye Durdum",
+  "yore": "Eskişehir",
+  "hikaye": "İndim Dereye Durdum, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim dereye durdum",
+        "Çifte güvercin vurdum (amman heyamman hey hey)",
+        "Güzeller içinde a canım",
+        "Bir esmere vuruldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben güvercin olamam",
+        "Damdan dama konamam (amman heyamman hey hey)",
+        "Mumlar yaksam arasam",
+        "Sevdiğimi bulamam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ndim%20Dereye%20Durdum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ndim%20Dereye%20Durdum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İndim Dereye Durdum",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ndim_Dereye_Durdum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

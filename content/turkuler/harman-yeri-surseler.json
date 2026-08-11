@@ -1,0 +1,53 @@
+{
+  "slug": "harman-yeri-surseler",
+  "baslik": "Harman Yeri Sürseler",
+  "yore": "Şanlıurfa",
+  "hikaye": "Harman Yeri Sürseler, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri sürseler, oy sanem vay sanem",
+        "Yerine gül ekseler, esmer kaday ben alım",
+        "Bahtılı kız başına, oy sanem oy sanem",
+        "Sevdiğine verseler, esmer kaday ben alım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yaş yeri, oy senem vay sanem",
+        "Yavaş yeri hoş yeri, esmer kaday ben alım",
+        "Gel beraber gezelim, oy sanem vay sanem",
+        "Sevdiğim gitme geri, esmer kaday ben alım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harman%20Yeri%20S%C3%BCrseler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harman%20Yeri%20S%C3%BCrseler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Harman Yeri Sürseler",
+      "url": "https://tr.wikisource.org/wiki/Harman_Yeri_S%C3%BCrseler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

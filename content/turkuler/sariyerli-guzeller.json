@@ -1,0 +1,77 @@
+{
+  "slug": "sariyerli-guzeller",
+  "baslik": "Sarıyerli Güzeller",
+  "yore": "İstanbul",
+  "hikaye": "Sarıyerli Güzeller, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarıyerli güzeller",
+        "Rıhtım boyu gezerler",
+        "Sarıyerli güzeller",
+        "Rıhtım boyu gezerler",
+        "Aşıkları üzerler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şıkı şıkı şık bebeğim",
+        "Sevdalı bebeğim",
+        "Bu yıl sevda modası var",
+        "Şıkı şıkı şık bebeğim",
+        "Sevdalı bebeğim",
+        "Bu yıl sevda modası var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarıyer rıhtım boyu",
+        "Lütufkâr yarin huyu",
+        "Sarıyer rıhtım boyu",
+        "Lütufkâr yarin huyu",
+        "Meskeni çırçır suyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şıkı şıkı şık bebeğim",
+        "Sevdalı bebeğim",
+        "Bu yıl sevda modası var",
+        "Şıkı şıkı şık bebeğim",
+        "Sevdalı bebeğim",
+        "Bu yıl sevda modası var"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1yerli%20G%C3%BCzeller%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1yerli%20G%C3%BCzeller",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarıyerli Güzeller",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1yerli_G%C3%BCzeller",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

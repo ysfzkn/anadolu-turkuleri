@@ -1,0 +1,53 @@
+{
+  "slug": "samanlik-dolu-saman",
+  "baslik": "Samanlık Dolu Saman",
+  "yore": "Yozgat",
+  "hikaye": "Samanlık Dolu Saman, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Samanlık dolu saman",
+        "Aman efendim aman (lillari)",
+        "Eller düğün ediyor",
+        "Bizim düğün ne zaman (lillari)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom ben de ben de",
+        "Bir arzum kaldı sende (lillari)",
+        "Ayva gibi sarardım ey",
+        "Din iman yok mu sende (lillari)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Samanl%C4%B1k%20Dolu%20Saman%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Samanl%C4%B1k%20Dolu%20Saman",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Samanlık Dolu Saman",
+      "url": "https://tr.wikisource.org/wiki/Samanl%C4%B1k_Dolu_Saman",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

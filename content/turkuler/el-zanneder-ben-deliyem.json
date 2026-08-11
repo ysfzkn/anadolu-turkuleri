@@ -1,0 +1,65 @@
+{
+  "slug": "el-zanneder-ben-deliyem",
+  "baslik": "El Zanneder Ben Deliyem",
+  "yore": "Şanlıurfa",
+  "hikaye": "El Zanneder Ben Deliyem, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El zanneder ben deliyem aman aman",
+        "Dost bağının bülbülüyem",
+        "Ben o yarın meftunuyam aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül sabreyle sabreyle",
+        "Mevlâ’nın muradı böyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül idim sarardım soldum aman aman",
+        "Yana yana ben kül oldum",
+        "Dermansız derde düş oldum aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül sabreyle sabreyle",
+        "Mevlâ’nın muradı böyle"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=El%20Zanneder%20Ben%20Deliyem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/El%20Zanneder%20Ben%20Deliyem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — El Zanneder Ben Deliyem",
+      "url": "https://tr.wikisource.org/wiki/El_Zanneder_Ben_Deliyem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

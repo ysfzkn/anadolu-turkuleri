@@ -1,0 +1,67 @@
+{
+  "slug": "konyalim-yaman-calar-sak-sak-kasigi",
+  "baslik": "Konyalım Yaman Çalar Şak Şak Kaşığı",
+  "yore": "Konya",
+  "hikaye": "Konyalım Yaman Çalar Şak Şak Kaşığı, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konyalım yaman çalar şak şak kaşığı",
+        "Konyalımın pek çoktur çapkın aşığı",
+        "İpekten olur aman onun başlığı",
+        "Güler oynar konyalım sevmez açlığı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman konyalım ben yandım aman",
+        "Tatlı şirin sözüne inandım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konyalımın şalvarı bilmiyom neden",
+        "Gezer yedi dağları ayrılmaz benden",
+        "Vallah yemin ederim vazgeçmem senden",
+        "Görmesin kimse seni gelme erkenden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman konyalım ben yandım aman",
+        "Tatlı şirin sözüne inandım aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Konyal%C4%B1m%20Yaman%20%C3%87alar%20%C5%9Eak%20%C5%9Eak%20Ka%C5%9F%C4%B1%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Konyal%C4%B1m%20Yaman%20%C3%87alar%20%C5%9Eak%20%C5%9Eak%20Ka%C5%9F%C4%B1%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Konyalım Yaman Çalar Şak Şak Kaşığı",
+      "url": "https://tr.wikisource.org/wiki/Konyal%C4%B1m_Yaman_%C3%87alar_%C5%9Eak_%C5%9Eak_Ka%C5%9F%C4%B1%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

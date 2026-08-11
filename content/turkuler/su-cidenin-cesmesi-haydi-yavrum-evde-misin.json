@@ -1,0 +1,63 @@
+{
+  "slug": "su-cidenin-cesmesi-haydi-yavrum-evde-misin",
+  "baslik": "Şu Cide'nin Çeşmesi Haydi Yavrum Evde Misin",
+  "yore": "Kastamonu",
+  "hikaye": "Şu Cide'nin Çeşmesi Haydi Yavrum Evde Misin, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu Cide’nin Çeşmesi",
+        "Şıldır Şıldır Akıyor",
+        "Koyver Beni Bey Amca Da",
+        "Kızlar Yoluma Bakıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nakarat:",
+        "Haydi De Yavrum Evde Misin",
+        "Pencerelerde Perde Misin",
+        "Haydi De Yavrum Meşelikte",
+        "Yaktın Beni Gençlikte"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Irafa Fincan Koydum",
+        "İçine Mercan Koydum",
+        "Huriye Kızın Uğruna Da",
+        "Bu Canı Kurban Koydum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Cide'nin%20%C3%87e%C5%9Fmesi%20Haydi%20Yavrum%20Evde%20Misin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Cide'nin%20%C3%87e%C5%9Fmesi%20Haydi%20Yavrum%20Evde%20Misin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Cide'nin Çeşmesi Haydi Yavrum Evde Misin",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Cide'nin_%C3%87e%C5%9Fmesi_Haydi_Yavrum_Evde_Misin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

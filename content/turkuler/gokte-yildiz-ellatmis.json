@@ -1,0 +1,83 @@
+{
+  "slug": "gokte-yildiz-ellatmis",
+  "baslik": "Gökte Yıldız Ell'atmış",
+  "yore": "Eskişehir",
+  "hikaye": "Gökte Yıldız Ell'atmış, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız ell'atmış",
+        "Allah neler yaratmış",
+        "Yaratmış yârin dizine",
+        "Ziliflerin taratmış"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ha ninna hanim ninna ni nanna",
+        "Canim ninna ni ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız ellidir",
+        "Ellisi de bellidir",
+        "Koca köyün içinde",
+        "Ben yârim bellidir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ha ninna hanim ninna ni nanna",
+        "Canim ninna ni ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız top gider",
+        "Kâh evlenir kah gider",
+        "Oğlan kızın yanında",
+        "Mali mülkü terk eder"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ha ninna hanim ninna ni nanna",
+        "Canim ninna ni ninna"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ell'atm%C4%B1%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ell'atm%C4%B1%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gökte Yıldız Ell'atmış",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6kte_Y%C4%B1ld%C4%B1z_Ell'atm%C4%B1%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

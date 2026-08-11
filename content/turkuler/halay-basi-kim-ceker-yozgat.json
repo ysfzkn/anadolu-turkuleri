@@ -1,0 +1,93 @@
+{
+  "slug": "halay-basi-kim-ceker-yozgat",
+  "baslik": "Halay Başı Kim Çeker",
+  "yore": "Yozgat",
+  "hikaye": "Halay Başı Kim Çeker, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halay başı kim çeker aman (aman)",
+        "Kırmızı donlu kız çeker aman (aman aman gel gel canım gel)",
+        "O benim nazlı yârim (aman aman)",
+        "(aman) durur durur of çeker",
+        "(of of) o benim nazlı yarim (aman aman)",
+        "(aman) durur durur of çeker"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Engine de deli gönül engine",
+        "Şimdi rağbet güzelinen zengine",
+        "Güzel isen hatırını sayarlar",
+        "Çirkin isen dış kapıdan kovarlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yozgat yolu karm'ola (aman)",
+        "Minaresi darm'ola (aman aman gel gel canım gel)",
+        "Hapislere af gelmiş (aman aman)",
+        "(aman) Acep aslı varm'ola",
+        "(of of) hapislere af gelmiş (aman aman)",
+        "(aman) acep aslı varm'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Engine de deli gönül engine",
+        "Şimdi rağbet güzelinen zengine",
+        "Güzel isen hatırını sayarlar",
+        "Çirkin isen dış kapıdan kovarlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey yârim yârim",
+        "Sallan boyun göreyim",
+        "Seni candan severim",
+        "Doğrusunu söylerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme gidenlerinen",
+        "Boyu fidanlarınan",
+        "N'olur bir selam gönder",
+        "Gelip gidenlerinen"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Halay%20Ba%C5%9F%C4%B1%20Kim%20%C3%87eker%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Halay%20Ba%C5%9F%C4%B1%20Kim%20%C3%87eker",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Halay Başı Kim Çeker (Yozgat)",
+      "url": "https://tr.wikisource.org/wiki/Halay_Ba%C5%9F%C4%B1_Kim_%C3%87eker_(Yozgat)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "saffet-efendi-nevsehir",
+  "baslik": "Saffet Efendi",
+  "yore": "Nevşehir",
+  "hikaye": "Saffet Efendi, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ey) Atı olan il atine biner mi",
+        "(anem biner mi kızlar kızlar biner mi canım)",
+        "Yiğid olan ihrarından düner mi (de haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi de haydi yorgunum haydi",
+        "Yoldan geldim yorgunum anam",
+        "Çatık gaşlara vurgunum yörü",
+        "Yörü kızlar yörü de perişanım yörü",
+        "Yarın ahşam gonuşalım hadi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ey) Otuz üşdür beş vakidin sünneti",
+        "(sünneti anam sünneti)",
+        "Ah idiyom görmeyesin (anam) cenneti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gızlar yörü yörü de Saffet efendim",
+        "Keşke buralara gelmez olaydım",
+        "Suşlarımı affid efendim",
+        "Beni buralardan al gid efendim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ey) Beni burda yad illeri seversen *",
+        "(anam alırsan anam)",
+        "Olmayasın piygamberin (anam) ümmeti (yörü)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızlar yörü yörü yorgunum hey hey",
+        "Yoldan geldim yorgunum anam",
+        "Çatık gaşlarına vurgunum hey hey",
+        "Yörü yörü perişanım hadi",
+        "Yarın akşam da konuşalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Saffet%20Efendi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Saffet%20Efendi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Saffet Efendi (Nevşehir)",
+      "url": "https://tr.wikisource.org/wiki/Saffet_Efendi_(Nev%C5%9Fehir)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Nevşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

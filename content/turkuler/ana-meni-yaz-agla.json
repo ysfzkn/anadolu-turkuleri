@@ -1,0 +1,89 @@
+{
+  "slug": "ana-meni-yaz-agla",
+  "baslik": "Ana Meni Yaz Ağla",
+  "yore": "Kars",
+  "hikaye": "Ana Meni Yaz Ağla, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ana meni yaz ağla",
+        "Yaz ağlama güz ağla",
+        "Demeyinen tükenmez",
+        "Bir kağıda yaz ağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay ana ay ana",
+        "Sen menim özüm ana",
+        "Özüm ana gözüm ana",
+        "Sohbetim sözüm ana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gedin anama deyin",
+        "Derdimi yanana deyin",
+        "Anam meni sorarsa",
+        "Günümü gara deyin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay ana ay ana",
+        "Sen menim özüm ana",
+        "Özüm ana gözüm ana",
+        "Sohbetim sözüm ana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anama deyin ağlasın",
+        "Garaları bağlasın",
+        "Men yadına düşende",
+        "Ureyini dağlasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay ana ay ana",
+        "Sen menim özüm ana",
+        "Özüm ana gözüm ana",
+        "Sohbetim sözüm ana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ana%20Meni%20Yaz%20A%C4%9Fla%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ana%20Meni%20Yaz%20A%C4%9Fla",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ana Meni Yaz Ağla",
+      "url": "https://tr.wikisource.org/wiki/Ana_Meni_Yaz_A%C4%9Fla",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "arabasi-mavi-boya",
+  "baslik": "Arabası Mavi Boya",
+  "yore": "Şanlıurfa",
+  "hikaye": "Arabası Mavi Boya, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabası mavi boya",
+        "Arabası mavi boya",
+        "Saramadım doya doya dillerin",
+        "Ben kurbanım size soya",
+        "Ben kurbanım size soya",
+        "İnci mercan gibi de dişlerin",
+        "Tuzu kuru gibi de dillerin",
+        "Yâr aman kaşları keman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahu gözler karalupdur",
+        "Yine benzim sararupdur",
+        "Aşk yanımda ne gezersin",
+        "Görenler yağınüzersin",
+        "Elmamı billurdan süzersin",
+        "Aşk senden nem kalupdur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arabas%C4%B1%20Mavi%20Boya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arabas%C4%B1%20Mavi%20Boya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arabası Mavi Boya",
+      "url": "https://tr.wikisource.org/wiki/Arabas%C4%B1_Mavi_Boya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

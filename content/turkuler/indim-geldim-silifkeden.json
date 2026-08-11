@@ -1,0 +1,91 @@
+{
+  "slug": "indim-geldim-silifkeden",
+  "baslik": "İndim Geldim Silifke'den",
+  "yore": "Mersin",
+  "hikaye": "İndim Geldim Silifke'den, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim geldim Silifke'den buraya",
+        "Hep güzeller dizilmişler sıraya (haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi atlı geliyor",
+        "Şu kızın gamzeleri tatlı geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gün görünmez melengicin dalinden",
+        "Kimse bilmez ben garibin halinden (haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi atamaz oldum",
+        "Geceleri ayazda yatamaz oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aklı yoktur sana gönül verenin",
+        "Gece gündüz hayalinle dönenin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi atlı geliyor",
+        "Şu kızın gamzeleri tatlı geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bilirim karanlıkta geleni",
+        "Dost mu sandın her yüzüne güleni (haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi atamaz oldum",
+        "Geceleri ayazda yatamaz oldum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ndim%20Geldim%20Silifke'den%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ndim%20Geldim%20Silifke'den",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İndim Geldim Silifke'den",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ndim_Geldim_Silifke'den",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

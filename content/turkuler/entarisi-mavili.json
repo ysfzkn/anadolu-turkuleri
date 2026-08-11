@@ -1,0 +1,69 @@
+{
+  "slug": "entarisi-mavili",
+  "baslik": "Entarisi Mavili",
+  "yore": "İzmir",
+  "hikaye": "Entarisi Mavili, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi mavili",
+        "Nerde kurdun kavili",
+        "Evvelden böyle değildin",
+        "Şimdi gönlün büyüdü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yale leli lam yalelli yale lele lelelam",
+        "Nannan nirinam ninneri nannam nire nire nirenam",
+        "Yale lelam yale yale lele lele lelelam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al geydim alsın diye",
+        "Mor geydim sarsın diye",
+        "İsteyenlere varmadım",
+        "Nazlı yar alsın diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yale leli lam yalelli yale lele lelelam",
+        "Nannan nirinam ninneri nannam nire nire nirenam",
+        "Yale lelam yale yale lele lele lelelam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Entarisi%20Mavili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Entarisi%20Mavili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Entarisi Mavili",
+      "url": "https://tr.wikisource.org/wiki/Entarisi_Mavili",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

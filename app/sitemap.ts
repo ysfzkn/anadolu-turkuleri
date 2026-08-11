@@ -7,6 +7,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const sabit: MetadataRoute.Sitemap = [
     { url: KOK, changeFrequency: "daily", priority: 1 },
     { url: `${KOK}/quiz`, changeFrequency: "monthly", priority: 0.6 },
+    { url: `${KOK}/soy-agaci`, changeFrequency: "weekly", priority: 0.75 },
+    { url: `${KOK}/katki`, changeFrequency: "monthly", priority: 0.6 },
     { url: `${KOK}/hakkinda`, changeFrequency: "monthly", priority: 0.4 },
   ];
   const yoreler = iller().map((il) => ({ url: `${KOK}/yore/${il.slug}`, changeFrequency: "weekly" as const, priority: 0.75 }));

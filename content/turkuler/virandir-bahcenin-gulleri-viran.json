@@ -1,0 +1,53 @@
+{
+  "slug": "virandir-bahcenin-gulleri-viran",
+  "baslik": "Virandır Bahçenin Gülleri Viran",
+  "yore": "Eskişehir",
+  "hikaye": "Virandır Bahçenin Gülleri Viran, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Virandır bahçenin gülleri viran",
+        "Ölür mü gençlikte dengini saran",
+        "Önünü bırakıp sonunu sayan",
+        "Ölür gider bir murada eremez (yavrum eremez)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sular akmayınca durulmaz imiş",
+        "Gönül sevmeyince vurulmaz imiş",
+        "Gelin kendi gelip gurulmaz imiş",
+        "Varıp kapısına kul olmayınca (yavrum olmayınca)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Virand%C4%B1r%20Bah%C3%A7enin%20G%C3%BClleri%20Viran%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Virand%C4%B1r%20Bah%C3%A7enin%20G%C3%BClleri%20Viran",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Virandır Bahçenin Gülleri Viran",
+      "url": "https://tr.wikisource.org/wiki/Virand%C4%B1r_Bah%C3%A7enin_G%C3%BClleri_Viran",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

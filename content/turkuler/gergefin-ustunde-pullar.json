@@ -1,0 +1,107 @@
+{
+  "slug": "gergefin-ustunde-pullar",
+  "baslik": "Gergefin Üstünde Pullar",
+  "yore": "Muğla",
+  "hikaye": "Gergefin Üstünde Pullar, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gergefin üstünde pullar",
+        "Gökyüzünde uçan kuşlar",
+        "Turnalar da dua etsin",
+        "Kavuşsun hasretle kuşlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A meleğim meleğim",
+        "Saat kaçta geleyim",
+        "Birde gel ikide gel",
+        "Üçte almam odama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz üstü köpürü'",
+        "Kayığa binsem götürü'",
+        "Benim buraya geldiğim",
+        "Bir delikanlıdan ötürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denize dalayım mı",
+        "Bir balık alayım mı",
+        "Ay battı güneş çıktı",
+        "Daha yalvarayım mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denizin ortasında",
+        "Mor mintan arkasında",
+        "Benim bir sevgilim var",
+        "Muğla'nın ortasında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denizlerin kumuyum",
+        "Balıkların puluyum",
+        "Gel sarılalım yatalım",
+        "Ben de Allah kuluyum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidin bulutlar gidin",
+        "Yarime selam edin",
+        "Yarim uykulardaysa",
+        "Uykusunu haram edin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim kuyu dibine",
+        "Baktım suyun rengine",
+        "Annem beni veriverdi",
+        "Düşürmedi dengine"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gergefin%20%C3%9Cst%C3%BCnde%20Pullar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gergefin%20%C3%9Cst%C3%BCnde%20Pullar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gergefin Üstünde Pullar",
+      "url": "https://tr.wikisource.org/wiki/Gergefin_%C3%9Cst%C3%BCnde_Pullar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "tarih": "2026-08-11T21:40:25.999Z",
+  "hedef": 4050,
+  "toplam": 1951,
+  "elliyiGecenIl": 12,
+  "gorselliIl": 48,
+  "iller": [
+    {
+      "il": "Adana",
+      "toplam": 25,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 5,
+      "gorsel": true,
+      "acik": 25
+    },
+    {
+      "il": "Adıyaman",
+      "toplam": 15,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 4,
+      "gorsel": true,
+      "acik": 35
+    },
+    {
+      "il": "Afyonkarahisar",
+      "toplam": 1,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 49
+    },
+    {
+      "il": "Ağrı",
+      "toplam": 7,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 43
+    },
+    {
+      "il": "Amasya",
+      "toplam": 10,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 40
+    },
+    {
+      "il": "Ankara",
+      "toplam": 73,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Antalya",
+      "toplam": 22,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 3,
+      "gorsel": true,
+      "acik": 28
+    },
+    {
+      "il": "Artvin",
+      "toplam": 18,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 0,
+      "gorsel": true,
+      "acik": 32
+    },
+    {
+      "il": "Aydın",
+      "toplam": 48,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 6,
+      "gorsel": true,
+      "acik": 2
+    },
+    {
+      "il": "Balıkesir",
+      "toplam": 18,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 32
+    },
+    {
+      "il": "Bilecik",
+      "toplam": 18,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": true,
+      "acik": 32
+    },
+    {
+      "il": "Bingöl",
+      "toplam": 1,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 49
+    },
+    {
+      "il": "Bitlis",
+      "toplam": 9,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 41
+    },
+    {
+      "il": "Bolu",
+      "toplam": 11,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 3,
+      "gorsel": false,
+      "acik": 39
+    },
+    {
+      "il": "Burdur",
+      "toplam": 39,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 5,
+      "gorsel": true,
+      "acik": 11
+    },
+    {
+      "il": "Bursa",
+      "toplam": 24,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 5,
+      "gorsel": true,
+      "acik": 26
+    },
+    {
+      "il": "Çanakkale",
+      "toplam": 15,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 0,
+      "gorsel": true,
+      "acik": 35
+    },
+    {
+      "il": "Çankırı",
+      "toplam": 23,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": true,
+      "acik": 27
+    },
+    {
+      "il": "Çorum",
+      "toplam": 25,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 25,
+      "gorsel": false,
+      "acik": 25
+    },
+    {
+      "il": "Denizli",
+      "toplam": 42,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 41,
+      "gorsel": false,
+      "acik": 8
+    },
+    {
+      "il": "Diyarbakır",
+      "toplam": 48,
+      "dogrulandi": 0,
+      "ikiKaynak": 5,
+      "sozlu": 27,
+      "gorsel": true,
+      "acik": 2
+    },
+    {
+      "il": "Edirne",
+      "toplam": 21,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 2,
+      "gorsel": false,
+      "acik": 29
+    },
+    {
+      "il": "Elazığ",
+      "toplam": 53,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 2,
+      "gorsel": false,
+      "acik": 0
+    },
+    {
+      "il": "Erzincan",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 48,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Erzurum",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 4,
+      "sozlu": 45,
+      "gorsel": false,
+      "acik": 0
+    },
+    {
+      "il": "Eskişehir",
+      "toplam": 31,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 29,
+      "gorsel": false,
+      "acik": 19
+    },
+    {
+      "il": "Gaziantep",
+      "toplam": 27,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 23,
+      "gorsel": true,
+      "acik": 23
+    },
+    {
+      "il": "Giresun",
+      "toplam": 23,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 22,
+      "gorsel": false,
+      "acik": 27
+    },
+    {
+      "il": "Gümüşhane",
+      "toplam": 5,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 4,
+      "gorsel": false,
+      "acik": 45
+    },
+    {
+      "il": "Hakkâri",
+      "toplam": 2,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 48
+    },
+    {
+      "il": "Hatay",
+      "toplam": 15,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 14,
+      "gorsel": false,
+      "acik": 35
+    },
+    {
+      "il": "Isparta",
+      "toplam": 19,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 18,
+      "gorsel": false,
+      "acik": 31
+    },
+    {
+      "il": "Mersin",
+      "toplam": 41,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 41,
+      "gorsel": true,
+      "acik": 9
+    },
+    {
+      "il": "İstanbul",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 49,
+      "gorsel": false,
+      "acik": 0
+    },
+    {
+      "il": "İzmir",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 33,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Kars",
+      "toplam": 43,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 22,
+      "gorsel": true,
+      "acik": 7
+    },
+    {
+      "il": "Kastamonu",
+      "toplam": 32,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 17,
+      "gorsel": true,
+      "acik": 18
+    },
+    {
+      "il": "Kayseri",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 5,
+      "sozlu": 26,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Kırklareli",
+      "toplam": 8,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": false,
+      "acik": 42
+    },
+    {
+      "il": "Kırşehir",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 21,
+      "gorsel": false,
+      "acik": 0
+    },
+    {
+      "il": "Kocaeli",
+      "toplam": 3,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 3,
+      "gorsel": false,
+      "acik": 47
+    },
+    {
+      "il": "Konya",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 4,
+      "sozlu": 39,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Kütahya",
+      "toplam": 44,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 43,
+      "gorsel": false,
+      "acik": 6
+    },
+    {
+      "il": "Malatya",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 43,
+      "gorsel": false,
+      "acik": 0
+    },
+    {
+      "il": "Manisa",
+      "toplam": 27,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 19,
+      "gorsel": false,
+      "acik": 23
+    },
+    {
+      "il": "Kahramanmaraş",
+      "toplam": 22,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 20,
+      "gorsel": false,
+      "acik": 28
+    },
+    {
+      "il": "Mardin",
+      "toplam": 3,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": true,
+      "acik": 47
+    },
+    {
+      "il": "Muğla",
+      "toplam": 40,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 22,
+      "gorsel": true,
+      "acik": 10
+    },
+    {
+      "il": "Muş",
+      "toplam": 6,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 5,
+      "gorsel": false,
+      "acik": 44
+    },
+    {
+      "il": "Nevşehir",
+      "toplam": 22,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": false,
+      "acik": 28
+    },
+    {
+      "il": "Niğde",
+      "toplam": 15,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": false,
+      "acik": 35
+    },
+    {
+      "il": "Ordu",
+      "toplam": 28,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": false,
+      "acik": 22
+    },
+    {
+      "il": "Rize",
+      "toplam": 23,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": false,
+      "acik": 27
+    },
+    {
+      "il": "Sakarya",
+      "toplam": 4,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 4,
+      "gorsel": true,
+      "acik": 46
+    },
+    {
+      "il": "Samsun",
+      "toplam": 19,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": false,
+      "acik": 31
+    },
+    {
+      "il": "Siirt",
+      "toplam": 1,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 0,
+      "gorsel": true,
+      "acik": 49
+    },
+    {
+      "il": "Sinop",
+      "toplam": 11,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": true,
+      "acik": 39
+    },
+    {
+      "il": "Sivas",
+      "toplam": 168,
+      "dogrulandi": 0,
+      "ikiKaynak": 165,
+      "sozlu": 165,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Tekirdağ",
+      "toplam": 9,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": false,
+      "acik": 41
+    },
+    {
+      "il": "Tokat",
+      "toplam": 30,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 30,
+      "gorsel": false,
+      "acik": 20
+    },
+    {
+      "il": "Trabzon",
+      "toplam": 32,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 31,
+      "gorsel": true,
+      "acik": 18
+    },
+    {
+      "il": "Tunceli",
+      "toplam": 12,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": false,
+      "acik": 38
+    },
+    {
+      "il": "Şanlıurfa",
+      "toplam": 50,
+      "dogrulandi": 0,
+      "ikiKaynak": 4,
+      "sozlu": 50,
+      "gorsel": true,
+      "acik": 0
+    },
+    {
+      "il": "Uşak",
+      "toplam": 11,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 11,
+      "gorsel": true,
+      "acik": 39
+    },
+    {
+      "il": "Van",
+      "toplam": 13,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 6,
+      "gorsel": true,
+      "acik": 37
+    },
+    {
+      "il": "Yozgat",
+      "toplam": 35,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 19,
+      "gorsel": false,
+      "acik": 15
+    },
+    {
+      "il": "Zonguldak",
+      "toplam": 14,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": false,
+      "acik": 36
+    },
+    {
+      "il": "Aksaray",
+      "toplam": 7,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 6,
+      "gorsel": true,
+      "acik": 43
+    },
+    {
+      "il": "Bayburt",
+      "toplam": 18,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": true,
+      "acik": 32
+    },
+    {
+      "il": "Karaman",
+      "toplam": 9,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 4,
+      "gorsel": true,
+      "acik": 41
+    },
+    {
+      "il": "Kırıkkale",
+      "toplam": 20,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 15,
+      "gorsel": false,
+      "acik": 30
+    },
+    {
+      "il": "Batman",
+      "toplam": 3,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": true,
+      "acik": 47
+    },
+    {
+      "il": "Şırnak",
+      "toplam": 0,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 0,
+      "gorsel": true,
+      "acik": 50
+    },
+    {
+      "il": "Bartın",
+      "toplam": 5,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": true,
+      "acik": 45
+    },
+    {
+      "il": "Ardahan",
+      "toplam": 2,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 2,
+      "gorsel": false,
+      "acik": 48
+    },
+    {
+      "il": "Iğdır",
+      "toplam": 9,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 8,
+      "gorsel": true,
+      "acik": 41
+    },
+    {
+      "il": "Yalova",
+      "toplam": 0,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 0,
+      "gorsel": true,
+      "acik": 50
+    },
+    {
+      "il": "Karabük",
+      "toplam": 7,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 6,
+      "gorsel": true,
+      "acik": 43
+    },
+    {
+      "il": "Kilis",
+      "toplam": 11,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 9,
+      "gorsel": true,
+      "acik": 39
+    },
+    {
+      "il": "Osmaniye",
+      "toplam": 1,
+      "dogrulandi": 0,
+      "ikiKaynak": 1,
+      "sozlu": 1,
+      "gorsel": false,
+      "acik": 49
+    },
+    {
+      "il": "Düzce",
+      "toplam": 1,
+      "dogrulandi": 0,
+      "ikiKaynak": 0,
+      "sozlu": 1,
+      "gorsel": true,
+      "acik": 49
+    }
+  ]
+}

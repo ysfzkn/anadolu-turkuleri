@@ -1,0 +1,71 @@
+{
+  "slug": "oynayin-kiz-oynayin",
+  "baslik": "Oynayın Kız Oynayın",
+  "yore": "Trabzon",
+  "hikaye": "Oynayın Kız Oynayın, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynayın gız oynayın",
+        "Durmanın ne karı var",
+        "A bu köyün içinun",
+        "Acaip bekarı var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy kemençeci dayi",
+        "Soktun gözüme yayi",
+        "Kör ettin gözlerimi",
+        "Göremedim dünyayi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy kemençeci dayi",
+        "Sokma gözüme yayi",
+        "Ben gözümden vazgeçtim",
+        "Çevirsana gaydayi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy sanduğum sanduğum",
+        "Yeşil boya boyandım",
+        "Temun türki söylerdim",
+        "Şimdi niye dayandım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Oynay%C4%B1n%20K%C4%B1z%20Oynay%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Oynay%C4%B1n%20K%C4%B1z%20Oynay%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oynayın Kız Oynayın",
+      "url": "https://tr.wikisource.org/wiki/Oynay%C4%B1n_K%C4%B1z_Oynay%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

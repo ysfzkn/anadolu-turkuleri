@@ -1,0 +1,62 @@
+{
+  "slug": "otuyor-bulbuller-gelmedi-bagban",
+  "baslik": "Ötüyor Bülbüller Gelmedi Bağban",
+  "yore": "Trabzon",
+  "hikaye": "Ötüyor Bülbüller Gelmedi Bağban, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman ey) ötüyor bülbüller gelmedi bağban",
+        "Hoyrat dost bağından gül aldı gitti",
+        "Yüz bin mihnet ile bağ yetirdim",
+        "Ben bağı beğendim el aldı gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman ey) yüz bin mihnet çektim bir dahi gerek",
+        "Çok ömür ister ki bir dahi görek",
+        "Har ettin içimi ey zalim felek",
+        "Aktı çeşmim yaşı sel aldı gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman ey) nazlı yarim kem haberi gelüptir",
+        "Ciğerlerim delik delik deliktir",
+        "Dediler ki sefil Emrah ölüptür",
+        "Kimi kazma kürek bel aldı gitti"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%96t%C3%BCyor%20B%C3%BClb%C3%BCller%20Gelmedi%20Ba%C4%9Fban%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%96t%C3%BCyor%20B%C3%BClb%C3%BCller%20Gelmedi%20Ba%C4%9Fban",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ötüyor Bülbüller Gelmedi Bağban",
+      "url": "https://tr.wikisource.org/wiki/%C3%96t%C3%BCyor_B%C3%BClb%C3%BCller_Gelmedi_Ba%C4%9Fban",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

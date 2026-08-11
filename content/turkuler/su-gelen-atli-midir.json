@@ -1,0 +1,53 @@
+{
+  "slug": "su-gelen-atli-midir",
+  "baslik": "Şu Gelen Atlı mıdır",
+  "yore": "Isparta",
+  "hikaye": "Şu Gelen Atlı mıdır, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu gelen atlı mıdır",
+        "Sorun Bağdatlı mıdır",
+        "Her gelen yari sorar (aman aman)",
+        "Yar bu kadar tatlı mıdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu gelen kimin kızı",
+        "Yanakları kırmızı",
+        "Gerdanında beni var (aman aman)",
+        "Sandım seher yıldızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Gelen%20Atl%C4%B1%20m%C4%B1d%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Gelen%20Atl%C4%B1%20m%C4%B1d%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Gelen Atlı mıdır",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Gelen_Atl%C4%B1_m%C4%B1d%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

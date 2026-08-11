@@ -1,0 +1,71 @@
+{
+  "slug": "dereden-duman-kalkti",
+  "baslik": "Dereden Duman Kalktı",
+  "yore": "Malatya",
+  "hikaye": "Dereden Duman Kalktı, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dereden duman kalktı",
+        "Girdi daşın altına",
+        "Yar yastığın yoğuşa",
+        "Golum başın altına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyledir yar öyledir",
+        "Aşkın beni söyledir",
+        "Almış yari yanına",
+        "Hem sever hem söyledir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Garşı dağın dumanı",
+        "Çiçek açmış her yanı",
+        "Verdiğin ikrar hanı",
+        "Sensin derdim dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyledir yar öyledir",
+        "Aşkın beni söyledir",
+        "Almış yari yanına",
+        "Hem sever hem söyledir"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dereden%20Duman%20Kalkt%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dereden%20Duman%20Kalkt%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dereden Duman Kalktı",
+      "url": "https://tr.wikisource.org/wiki/Dereden_Duman_Kalkt%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

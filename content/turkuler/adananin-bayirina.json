@@ -1,0 +1,96 @@
+{
+  "slug": "adananin-bayirina",
+  "baslik": "Adana'nın Bayırına",
+  "yore": "Kayseri",
+  "hikaye": "Adana'nın Bayırına, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adananın bayırına",
+        "At koyverdim yosmam çayırına",
+        "He kız bir şeftali versen",
+        "Anan baban hayırına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adanalı yandım Adanalı",
+        "Sebebimsin sen delikanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adananın yolları taşdan",
+        "Sen çıkardın beni baştan",
+        "Hem anadan hem kardaşdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adanalı yavrum Adanalı",
+        "Sebebimsin sen delikanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adanadan gelir iken",
+        "Ayağıma battı da diken",
+        "Ayrılıktır belimi de büken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adanalı kuzum Adanalı",
+        "Sebebimsin sen delikanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adananın yolları iki",
+        "Kaydı potinimin teki",
+        "O kız anasının teki"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adanalı canım Adanalı",
+        "Sebebimsin sen delikanlı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adana'n%C4%B1n%20Bay%C4%B1r%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adana'n%C4%B1n%20Bay%C4%B1r%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Adana'nın Bayırına (Kayseri)",
+      "url": "https://tr.wikisource.org/wiki/Adana'n%C4%B1n_Bay%C4%B1r%C4%B1na_(Kayseri)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

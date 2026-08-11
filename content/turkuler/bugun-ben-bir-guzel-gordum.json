@@ -1,0 +1,71 @@
+{
+  "slug": "bugun-ben-bir-guzel-gordum",
+  "baslik": "Bugün Ben Bir Güzel Gördüm",
+  "yore": "Tokat",
+  "hikaye": "Bugün Ben Bir Güzel Gördüm, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün ben bir güzel gördüm",
+        "Bakar cennet sarayından",
+        "Kamaştı gözümün nuru",
+        "Onun hüsnü cemalinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Salındı bahçeye girdi",
+        "Çiçekler selâma durdu",
+        "Mor menekşe boyun eğdi",
+        "Gül kızardı hicabından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçenin kapısın açtım",
+        "Sanırsın cennete düştüm",
+        "Sevdim coştum helalleştim",
+        "Bûse aldım yanağından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçenin kapısı daldır",
+        "Dalında öten bülbüldür",
+        "Emrah da bir edna kuldur",
+        "Bağışla geç günahından"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Ben%20Bir%20G%C3%BCzel%20G%C3%B6rd%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Ben%20Bir%20G%C3%BCzel%20G%C3%B6rd%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Ben Bir Güzel Gördüm",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Ben_Bir_G%C3%BCzel_G%C3%B6rd%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

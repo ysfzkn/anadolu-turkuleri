@@ -1,0 +1,89 @@
+{
+  "slug": "al-tavandan-belleri",
+  "baslik": "Al Tavandan Belleri",
+  "yore": "Giresun",
+  "hikaye": "Al Tavandan Belleri, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al tavandan belleri",
+        "Belle bellemeleri",
+        "Bu yıl aldattın beni",
+        "Sevindirdin elleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna a gülüm ninna",
+        "Ninna aslanım ninna",
+        "Ninna bir tanem ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İmeceye baksana",
+        "Hep gazmalı gazmalı",
+        "Ben yarimi tanırım",
+        "Başı sarı yazmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninni aslanım ninna",
+        "Ninna a gülüm ninna",
+        "Ninna aslanım ninna",
+        "Ninna bir tanem ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Galdır gazmayı galdır",
+        "Eşelim derin derin",
+        "Bir su getir pınardan",
+        "İçelim serin serin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna a gülüm ninna",
+        "Ninna aslanım ninna",
+        "Ninna bir tanem ninna"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Al%20Tavandan%20Belleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Al%20Tavandan%20Belleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Al Tavandan Belleri (Giresun)",
+      "url": "https://tr.wikisource.org/wiki/Al_Tavandan_Belleri_(Giresun)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

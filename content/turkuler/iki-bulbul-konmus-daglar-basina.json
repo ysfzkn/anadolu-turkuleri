@@ -1,0 +1,62 @@
+{
+  "slug": "iki-bulbul-konmus-daglar-basina",
+  "baslik": "İki Bülbül Konmuş Dağlar Başına",
+  "yore": "Isparta",
+  "hikaye": "İki Bülbül Konmuş Dağlar Başına, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki bülbül konmuş dağlar başına",
+        "Sal Allah’ım sal sılama varayım",
+        "Şahın yuva yapar kendi başına",
+        "Sal Allah’ım sal sılama varayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim evlerimiz dağdan ötedir",
+        "Gavim gardaş bize ana atadır",
+        "Yad ellerde ölmek kula cefadır",
+        "Sal Allah’ım sal sılama varayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Sultan Abdal’ım baki değildir",
+        "Tuz ekmek her aşık hakkı değildir",
+        "Bu dünyada kimse baki değildir",
+        "Sal Allah’ım sal sılama varayım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ki%20B%C3%BClb%C3%BCl%20Konmu%C5%9F%20Da%C4%9Flar%20Ba%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ki%20B%C3%BClb%C3%BCl%20Konmu%C5%9F%20Da%C4%9Flar%20Ba%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İki Bülbül Konmuş Dağlar Başına",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ki_B%C3%BClb%C3%BCl_Konmu%C5%9F_Da%C4%9Flar_Ba%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

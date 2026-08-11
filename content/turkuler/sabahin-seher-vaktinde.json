@@ -1,0 +1,65 @@
+{
+  "slug": "sabahin-seher-vaktinde",
+  "baslik": "Sabahın Seher Vaktinde",
+  "yore": "Erzincan",
+  "hikaye": "Sabahın Seher Vaktinde, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahın seher vaktinde görebilsem yarimi",
+        "Gül dalına bülbül konmuş çeker ah u zarını",
+        "Elimden almak isterler benim nazlı yarimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu güzellik sana bana kalmaz o şimdi yar şimdi",
+        "Bu güzellik sana bana kalmaz o geleceksen gel şimdi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahın seher vaktinde oturmuş kahve içer",
+        "Bir elinde altın makas yarine fistan biçer",
+        "Bir selama kail olduk onu da vermez geçer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu güzellik sana bana kalmaz o şimdi yar şimdi",
+        "Bu güzellik sana bana kalmaz o geleceksen gel şimdi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabah%C4%B1n%20Seher%20Vaktinde%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabah%C4%B1n%20Seher%20Vaktinde",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahın Seher Vaktinde (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Sabah%C4%B1n_Seher_Vaktinde_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

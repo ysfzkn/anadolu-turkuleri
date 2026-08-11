@@ -1,0 +1,78 @@
+{
+  "slug": "ates-attim-samana",
+  "baslik": "Ateş Attım Samana",
+  "yore": "Manisa",
+  "hikaye": "Ateş Attım Samana, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ateş attım samana,",
+        "Bak dumana dumana.",
+        "Senin zalim ananı,",
+        "Ben getirdim imana."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gımıldan gımıldan gımıldanıver,",
+        "Ah söyle nazlı gımıldanıver.",
+        "Gayfe de koydum cezveye,",
+        "Yarim gitmiş gezmeye."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ta küçükten alıştım,",
+        "A gız seni görmeye.",
+        "Gımıldan gımıldan gımıldanıver,",
+        "Ah şöyle nazlı gımıldanıver."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gayfe de koydum fincana,",
+        "Selâm söylen amcama.",
+        "Amcam kızını vermezse,",
+        "Turşu da kursun fincana."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gımıldan gımıldan gımıldanıver,",
+        "Ah şöyle nazlı gımıldanıver."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ate%C5%9F%20Att%C4%B1m%20Samana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ate%C5%9F%20Att%C4%B1m%20Samana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ateş Attım Samana",
+      "url": "https://tr.wikisource.org/wiki/Ate%C5%9F_Att%C4%B1m_Samana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

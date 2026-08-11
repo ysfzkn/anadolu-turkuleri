@@ -1,0 +1,63 @@
+{
+  "slug": "sen-gideli-uc-gun-kaldi-bayrama",
+  "baslik": "Sen Gideli Üç Gün Kaldı Bayrama",
+  "yore": "Diyarbakır",
+  "hikaye": "Sen Gideli Üç Gün Kaldı Bayrama, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen gideli üç gün kaldı bayrama (le canım bayrama he canım)",
+        "İşvedir cilvedir nazıdır (le canım nazıdır he canım )"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen gideli karalar geymişem (le canım geymişem he canım)",
+        "Senin uğrun bu başım vermişem (le canım vermişem he canım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne beni seversin ne vaz geçersin (le canım geçersin he canım)",
+        "Kanımı kadehe koyar içersin (le canım içersin he canım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ev(ler)imin önünü gelir geçersin (le canım geçersin he canım)",
+        "İşvesidir cilvesidir nazıdır (le canım nazıdır he canım)”"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sen%20Gideli%20%C3%9C%C3%A7%20G%C3%BCn%20Kald%C4%B1%20Bayrama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sen%20Gideli%20%C3%9C%C3%A7%20G%C3%BCn%20Kald%C4%B1%20Bayrama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sen Gideli Üç Gün Kaldı Bayrama",
+      "url": "https://tr.wikisource.org/wiki/Sen_Gideli_%C3%9C%C3%A7_G%C3%BCn_Kald%C4%B1_Bayrama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

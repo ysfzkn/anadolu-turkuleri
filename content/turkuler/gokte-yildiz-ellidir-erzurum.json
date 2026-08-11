@@ -1,0 +1,53 @@
+{
+  "slug": "gokte-yildiz-ellidir-erzurum",
+  "baslik": "Gökte Yıldız Ellidir",
+  "yore": "Erzurum",
+  "hikaye": "Gökte Yıldız Ellidir, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız ellidir (dön ha dön dönim yar)",
+        "Ellisi de bellidir (dönim gadan alim yar)",
+        "Benim sevdiğim güzel (dön ha dön dönim yar)",
+        "Gelişinden bellidir (dönim gadan alim yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız mah gider (dön ha dön dönim yar)",
+        "Gah evlenir gah gider (dönim gadan alim yar)",
+        "Garşıda yari gördüm (dön ha dön dönim yar)",
+        "Sanki doğmuş ay gider (dönim gadan alim yar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ellidir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6kte%20Y%C4%B1ld%C4%B1z%20Ellidir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gökte Yıldız Ellidir (Erzurum)",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6kte_Y%C4%B1ld%C4%B1z_Ellidir_(Erzurum)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

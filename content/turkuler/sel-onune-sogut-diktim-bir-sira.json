@@ -1,0 +1,67 @@
+{
+  "slug": "sel-onune-sogut-diktim-bir-sira",
+  "baslik": "Sel Önüne Söğüt Diktim Bir Sıra",
+  "yore": "Eskişehir",
+  "hikaye": "Sel Önüne Söğüt Diktim Bir Sıra, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sel önüne söğüt diktim bir sıra",
+        "Deli gönül efkarlandı bu sıra",
+        "Ben seni gönülledim kalma kusura",
+        "Var git oğlan var git ben senin olamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Var git oğlan var git ben senin olamam",
+        "Anamdan babamdan izin alamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çeşmenin başına varmasın eller",
+        "Bugün efkârlıyım açmasın güller",
+        "Otursam da öğün öğün ağlasam",
+        "Yar aşkından deli olmuş desinler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Var git oğlan var git ben senin olamam",
+        "Anamdan babamdan izin alamam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sel%20%C3%96n%C3%BCne%20S%C3%B6%C4%9F%C3%BCt%20Diktim%20Bir%20S%C4%B1ra%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sel%20%C3%96n%C3%BCne%20S%C3%B6%C4%9F%C3%BCt%20Diktim%20Bir%20S%C4%B1ra",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sel Önüne Söğüt Diktim Bir Sıra",
+      "url": "https://tr.wikisource.org/wiki/Sel_%C3%96n%C3%BCne_S%C3%B6%C4%9F%C3%BCt_Diktim_Bir_S%C4%B1ra",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

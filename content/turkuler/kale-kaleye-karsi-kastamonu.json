@@ -1,0 +1,75 @@
+{
+  "slug": "kale-kaleye-karsi-kastamonu",
+  "baslik": "Kale Kaleye Karşı",
+  "yore": "Kastamonu",
+  "hikaye": "Kale Kaleye Karşı, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye karşı",
+        "Kalenin altı çarşı Nadide'm aman",
+        "Esger oldum gidiyom Nadide'm aman",
+        "Dosda düşmana garşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben sana gelin mi dedim",
+        "Duvağı telli gelin",
+        "Yanağı ballı gelin",
+        "Hadindi allıçlı gelin",
+        "Püskülü bağlı gelin",
+        "Topuğu benli gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim ancak",
+        "Elimdedir al sancak Nadide'm aman",
+        "Ne kız oldum ne gelin Nadide'm aman",
+        "Ateşe yandım ancak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben sana gelin mi dedim",
+        "Duvağı telli gelin",
+        "Yanağı ballı gelin",
+        "Hadindi allıçlı gelin",
+        "Püskülü bağlı gelin",
+        "Topuğu benli gelin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kale%20Kaleye%20Kar%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kale%20Kaleye%20Kar%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kale Kaleye Karşı (Kastamonu)",
+      "url": "https://tr.wikisource.org/wiki/Kale_Kaleye_Kar%C5%9F%C4%B1_(Kastamonu)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

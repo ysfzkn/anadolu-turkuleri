@@ -1,0 +1,74 @@
+{
+  "slug": "divane-asik-gibi",
+  "baslik": "Divane Aşık Gibi",
+  "yore": "Trabzon",
+  "hikaye": "Divane Aşık Gibi, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Divane aşık gibi de dolanırım yollarda",
+        "Kız senun sebebine",
+        "Kaldım İstanbullarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Boban beni bobamdan da",
+        "Bir kerrecuk istesun",
+        "Allah'ın emru ilan",
+        "Gelinum olsun desin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sar belune belune da Trabulus kuşağı",
+        "E sen de der misun alsam ha bu uşağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek dağun guşuyum da selviye gonacağum",
+        "İste beni bobamdan vermezse gaçacağum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al şalum yeşil şalum da dünyayı dolaşalım",
+        "Sen yağmur ol ben bulut",
+        "Maçka’da buluşalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Divane%20A%C5%9F%C4%B1k%20Gibi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Divane%20A%C5%9F%C4%B1k%20Gibi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Divane Aşık Gibi",
+      "url": "https://tr.wikisource.org/wiki/Divane_A%C5%9F%C4%B1k_Gibi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

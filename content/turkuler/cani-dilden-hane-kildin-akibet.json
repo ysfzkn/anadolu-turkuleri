@@ -1,0 +1,77 @@
+{
+  "slug": "cani-dilden-hane-kildin-akibet",
+  "baslik": "Canı Dilden Hane Kıldın Akıbet",
+  "yore": "Şanlıurfa",
+  "hikaye": "Canı Dilden Hane Kıldın Akıbet, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Canı dilden hane kıldın akıbet",
+        "Haneyi virane kıldın akıbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daneyi naciz idim ben zirü hak",
+        "Daneyi yüz dane kıldın akıbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dane iken bağ-u bostan eyledin",
+        "Hakı pür kaşane kıldın akıbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ol cinun zencirini tahrik edip",
+        "Akıldan bigane kıldın akıbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşıkı bipervaya mahrem eyledin",
+        "Vasıl canana kıldın akıbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey fakırullah bu hakki bendini",
+        "Aşıkı ferzene kıldın akıbet"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Can%C4%B1%20Dilden%20Hane%20K%C4%B1ld%C4%B1n%20Ak%C4%B1bet%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Can%C4%B1%20Dilden%20Hane%20K%C4%B1ld%C4%B1n%20Ak%C4%B1bet",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Canı Dilden Hane Kıldın Akıbet",
+      "url": "https://tr.wikisource.org/wiki/Can%C4%B1_Dilden_Hane_K%C4%B1ld%C4%B1n_Ak%C4%B1bet",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

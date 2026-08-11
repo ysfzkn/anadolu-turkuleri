@@ -1,0 +1,71 @@
+{
+  "slug": "deli-gonul-hangi-dala-konarsin",
+  "baslik": "Deli Gönül Hangi Dala Konarsın",
+  "yore": "Malatya",
+  "hikaye": "Deli Gönül Hangi Dala Konarsın, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli gönül hangi dala konarsın",
+        "Senin tutunacak dalın mı kaldı",
+        "Ahu feryad ile niçin yanarsın",
+        "Şu dünyada senin malın mı kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yerin yok yurdun yok nerde kalırsın",
+        "Her yüze güleni dostun sanırsın",
+        "Bunca derdi sen üstüne alırsın",
+        "Dert çekecek senin halin mi kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek seni gafletinden uyuttu",
+        "Eşin dostun ne varısa unuttu",
+        "Esti sam yelleri gülün kuruttu",
+        "Bülbüller ötecek gülün mü kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ateşlere yanan ey dertli ekber",
+        "Bu dünyanın sonu yalanmış meğer",
+        "Bir yarin var idi almış yadeller",
+        "Candan başka senin varın mı kaldı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Deli%20G%C3%B6n%C3%BCl%20Hangi%20Dala%20Konars%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Deli%20G%C3%B6n%C3%BCl%20Hangi%20Dala%20Konars%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Deli Gönül Hangi Dala Konarsın",
+      "url": "https://tr.wikisource.org/wiki/Deli_G%C3%B6n%C3%BCl_Hangi_Dala_Konars%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

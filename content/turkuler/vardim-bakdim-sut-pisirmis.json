@@ -1,0 +1,67 @@
+{
+  "slug": "vardim-bakdim-sut-pisirmis",
+  "baslik": "Vardım Bakdım Süt Pişirmiş",
+  "yore": "Hatay",
+  "hikaye": "Vardım Bakdım Süt Pişirmiş, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım bakdım süt pişirmiş (gel yavrum gel gel aman)",
+        "Südün kaymağın taşırmış (hele hele yavrum gel)",
+        "Beni görmüş aklın şaşırmış (gel yavrum gel gel aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meyram kulun ben olayım",
+        "Sen salın ki ben göreyim",
+        "Hele hele yavrum gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım bakdım un eliyor (gel yavrum gel gel aman)",
+        "On parmağın kınalıyor (hele hele yavrum gel)",
+        "Bent görmüş evleniyor (gel yavrum gel gel aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meyram kulun ben olayım",
+        "Sen salın ki ben göreyim",
+        "Hele hele yavrum gel gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vard%C4%B1m%20Bakd%C4%B1m%20S%C3%BCt%20Pi%C5%9Firmi%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vard%C4%B1m%20Bakd%C4%B1m%20S%C3%BCt%20Pi%C5%9Firmi%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vardım Bakdım Süt Pişirmiş",
+      "url": "https://tr.wikisource.org/wiki/Vard%C4%B1m_Bakd%C4%B1m_S%C3%BCt_Pi%C5%9Firmi%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

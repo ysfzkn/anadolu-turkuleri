@@ -1,0 +1,65 @@
+{
+  "slug": "gesi-baglarinda-dolaniyorum",
+  "baslik": "Gesi Bağlarında Dolanıyorum",
+  "yore": "Kayseri",
+  "hikaye": "Gesi Bağlarında Dolanıyorum, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi bağlarında dolanıyorum",
+        "Yitirdim yârimi (aman) aranıyorum",
+        "Bir çift selâmına güveniyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel otur yanıma hallerimi söyleyim",
+        "Halimden bilmiyor ben o yâri neyleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi bağlarında bir top gülüm var",
+        "XHey Allah'tan korkmaz sana bana ölüm var",
+        "Ölüm varsa şu dünyada zulüm var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel otur yanıma hallerimi söyleyim",
+        "Halimden bilmiyor ben o yâri neyleyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gesi%20Ba%C4%9Flar%C4%B1nda%20Dolan%C4%B1yorum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gesi%20Ba%C4%9Flar%C4%B1nda%20Dolan%C4%B1yorum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gesi Bağlarında Dolanıyorum",
+      "url": "https://tr.wikisource.org/wiki/Gesi_Ba%C4%9Flar%C4%B1nda_Dolan%C4%B1yorum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

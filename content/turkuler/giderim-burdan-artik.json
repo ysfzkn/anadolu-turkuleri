@@ -1,0 +1,61 @@
+{
+  "slug": "giderim-burdan-artik",
+  "baslik": "Giderim Burdan Artık",
+  "yore": "Şanlıurfa",
+  "hikaye": "Giderim Burdan Artık, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderim burdan artık",
+        "Giderim burdan artık",
+        "Başaçık yaka yırtık",
+        "Ölürem yar ölürem",
+        "İsterem gemsız gidem",
+        "İsterem gemsız gidem",
+        "Gem gelir gemden artık",
+        "Ölürem yar ölürem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölürem yar ölürem",
+        "Ölürem yar ölürem",
+        "Nere gitsen gelirem vay",
+        "Nere gitsen gelirem vay",
+        "Ben bir Türkmen oğluyam vay",
+        "Mutlak seni alıram vay",
+        "Arar seni buluram",
+        "Mutlak seni alıram"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Giderim%20Burdan%20Art%C4%B1k%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Giderim%20Burdan%20Art%C4%B1k",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Giderim Burdan Artık",
+      "url": "https://tr.wikisource.org/wiki/Giderim_Burdan_Art%C4%B1k",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

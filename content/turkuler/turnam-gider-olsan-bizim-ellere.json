@@ -1,0 +1,72 @@
+{
+  "slug": "turnam-gider-olsan-bizim-ellere",
+  "baslik": "Turnam Gider Olsan Bizim Ellere",
+  "yore": "Iğdır",
+  "hikaye": "Turnam Gider Olsan Bizim Ellere, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turnam gider olsan bizim ellere",
+        "Gatığ söyle gaymağ söyle bal söyle",
+        "Eğer bizden vesm-i halin sorsalar",
+        "Boynum armut sapı canım sağ söyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim yerin ırmakları akar mı",
+        "Yaz olanda menekşeler kokar mı",
+        "Sevdiğim de seyrangaha çıkar mı",
+        "Orada bir hasta gördüm diyersen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turnam gider misin bizim ellere",
+        "Selam söyle bahçemizde güllere",
+        "Felek salıp meni gurbet ellere",
+        "Tercan'da bir hasta gördüm diyersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Ek)",
+        "Turnam gider isen bizim ellere",
+        "Tercan'da bir hasta gördüm diyesin",
+        "Eğer bizden sual eden olursa",
+        "Tercan'da bir hasta gördüm diyesin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Turnam%20Gider%20Olsan%20Bizim%20Ellere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Turnam%20Gider%20Olsan%20Bizim%20Ellere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Turnam Gider Olsan Bizim Ellere",
+      "url": "https://tr.wikisource.org/wiki/Turnam_Gider_Olsan_Bizim_Ellere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

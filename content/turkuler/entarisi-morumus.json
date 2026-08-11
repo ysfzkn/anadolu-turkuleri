@@ -1,0 +1,62 @@
+{
+  "slug": "entarisi-morumus",
+  "baslik": "Entarisi Morumuş",
+  "yore": "Kırıkkale",
+  "hikaye": "Entarisi Morumuş, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi morumuş",
+        "Yar sevmesi zorumuş",
+        "Heveslendim yar sevdim de",
+        "İstiyeni çoğumuş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi moruna",
+        "Varmam emmim oğluna",
+        "Altın saat yaptırdım da",
+        "Sevdiğimin koluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi mavili",
+        "Nerde kurdun kavili",
+        "Evvel böyle değildin de",
+        "Şimdi gönlün belli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Entarisi%20Morumu%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Entarisi%20Morumu%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Entarisi Morumuş",
+      "url": "https://tr.wikisource.org/wiki/Entarisi_Morumu%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

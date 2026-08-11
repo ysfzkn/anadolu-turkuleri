@@ -1,0 +1,85 @@
+{
+  "slug": "bahcenizde-gul-var-mi",
+  "baslik": "Bahçenizde Gül Var mı",
+  "yore": "Tokat",
+  "hikaye": "Bahçenizde Gül Var mı, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçenizde gül var mı",
+        "Ah leylim vah leylim bey oğlu",
+        "Geldiğimizde yer var mı emmioğlu",
+        "Geldiğimizde yer var mı emmioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşama size gelsem",
+        "Ah leylim vah leylim bir tanem",
+        "Karyolada yer var mı emmioğlu",
+        "Karyolada yer var mı emmioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şinanay şinanay şinanay yar emmioğlu",
+        "Saramadım beline şinanay yar emmioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemilerde talim var",
+        "Ah leylim vah leylim bey oğlu",
+        "Bahriyeli yarim var emmioğlu",
+        "Bahriyeli yarim var emmioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oda gitti sefere",
+        "Ah leylim vah leylim bir tanem",
+        "Ne talihsiz başım var emmioğlu",
+        "Ne talihsiz başım var emmioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şinanay şinanay şinanay yar emmioğlu",
+        "Saramadım beline şinanay yar emmioğlu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7enizde%20G%C3%BCl%20Var%20m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7enizde%20G%C3%BCl%20Var%20m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçenizde Gül Var mı",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7enizde_G%C3%BCl_Var_m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

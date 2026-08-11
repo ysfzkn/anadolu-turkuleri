@@ -1,0 +1,71 @@
+{
+  "slug": "aziziye-aziziye-duman-cokmus-boz-yaziya",
+  "baslik": "Aziziye Aziziye Duman Çökmüş Boz Yazıya",
+  "yore": "Aksaray",
+  "hikaye": "Aziziye Aziziye Duman Çökmüş Boz Yazıya, Vikikaynak'ın Aksaray türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aksaray yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aziziye Aziziye",
+        "Duman çökmüş boz yazıya (ben yandım aman)",
+        "Kurban olayım Mehmed’im",
+        "Terkindeki mor kuzuya (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çektim hançeri çıkmadı",
+        "Kırık kollarım kalkmadı (ben yandım aman)",
+        "Verin benim mavzerimi",
+        "Kardaş kandaşa bakmadı (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ocakta kahve kavrulur",
+        "Dumanı göğe savrulur (ben yandım aman)",
+        "Kuşlar yuvadan çıkmadan",
+        "Anası kızdan ayrılır (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aziziye uşakları",
+        "Tırabulus kuşakları (ben yandım aman)",
+        "Dizilmiş avdan geliyor",
+        "Aziziye uşakları (hey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aziziye%20Aziziye%20Duman%20%C3%87%C3%B6km%C3%BC%C5%9F%20Boz%20Yaz%C4%B1ya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aziziye%20Aziziye%20Duman%20%C3%87%C3%B6km%C3%BC%C5%9F%20Boz%20Yaz%C4%B1ya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aziziye Aziziye Duman Çökmüş Boz Yazıya",
+      "url": "https://tr.wikisource.org/wiki/Aziziye_Aziziye_Duman_%C3%87%C3%B6km%C3%BC%C5%9F_Boz_Yaz%C4%B1ya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aksaray",
+    "anonim",
+    "açık arşiv"
+  ]
+}

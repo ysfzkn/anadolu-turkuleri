@@ -1,0 +1,98 @@
+{
+  "slug": "aglama-yar-aglama",
+  "baslik": "Ağlama Yâr Ağlama",
+  "yore": "Diyarbakır",
+  "hikaye": "Ağlama Yâr Ağlama, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama yâr ağlama (anam)",
+        "Mavi yazma bağlama",
+        "Mavi yazma tez solar (anam)",
+        "Yüreğimi dağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmada al olaydın (anam)",
+        "Selvide dal olaydın",
+        "Bana göre yâr mı yok (anam)",
+        "İstedim sen olaydın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma al olanda gel (anam)",
+        "Ayva nar olanda gel",
+        "Hasta düştüm gelmedin (anam)",
+        "Bari can verende gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama yar ağlama (güzel)",
+        "Mavi yazma bağlama",
+        "Giderem tez gelirem (güzel)",
+        "Ele gönül bağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyledir yar öyledir (güzel)",
+        "Aşkın beni söyletir",
+        "Almış yâri dizine (güzel)",
+        "Şarkı beste söyletir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün ayın üçüdür (güzel)",
+        "Girme bostan içidir",
+        "Dudakların bal şeker (güzel)",
+        "Dilin badem içidir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyledir yar öyledir (güzel)",
+        "Aşkın beni söyletir",
+        "Almış yâri dizine (güzel)",
+        "Şarkı beste söyletir"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Flama%20Y%C3%A2r%20A%C4%9Flama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Flama%20Y%C3%A2r%20A%C4%9Flama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağlama Yâr Ağlama",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Flama_Y%C3%A2r_A%C4%9Flama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

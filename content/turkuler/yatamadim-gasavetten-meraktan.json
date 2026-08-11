@@ -1,0 +1,49 @@
+{
+  "slug": "yatamadim-gasavetten-meraktan",
+  "baslik": "Yatamadım Gasavetten Meraktan",
+  "yore": "Mersin",
+  "hikaye": "Yatamadım Gasavetten Meraktan, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yatamadım gasavetten (oy oy) meraktan",
+        "Aşk ateşi çıkmaz (da) oldu yürekten (vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ülker doğdu orta yere (oy oy) de dal oldu",
+        "Uyku bastı ela (da) gözler bal oldu (vay vay)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yatamad%C4%B1m%20Gasavetten%20Meraktan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yatamad%C4%B1m%20Gasavetten%20Meraktan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yatamadım Gasavetten Meraktan",
+      "url": "https://tr.wikisource.org/wiki/Yatamad%C4%B1m_Gasavetten_Meraktan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

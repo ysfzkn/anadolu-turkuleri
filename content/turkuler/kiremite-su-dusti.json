@@ -1,0 +1,34 @@
+{
+  "slug": "kiremite-su-dusti",
+  "baslik": "Kiremite Su Düşti",
+  "yore": "Rize",
+  "hikaye": "Kiremite Su Düşti, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kiremite%20Su%20D%C3%BC%C5%9Fti%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kiremite%20Su%20D%C3%BC%C5%9Fti",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kiremite Su Düşti",
+      "url": "https://tr.wikisource.org/wiki/Kiremite_Su_D%C3%BC%C5%9Fti",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

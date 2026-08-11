@@ -1,0 +1,71 @@
+{
+  "slug": "bahce-duvarini-asdim",
+  "baslik": "Bahçe Duvarını Aşdım",
+  "yore": "Kayseri",
+  "hikaye": "Bahçe Duvarını Aşdım, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçe duvarını aşdım",
+        "Sarmaşık güle dolaşdım",
+        "Öptüm sevdim helallaşdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldüm yalvarı yalvarı",
+        "Topukda dallı şalvarı",
+        "Aman Adanalı yandım Adanalı",
+        "On parmakları kınalı",
+        "Sebebimsin yandım delikanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydan olur huydan olur",
+        "Arap atı aman taydan olur",
+        "Bu güzellik soydan olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldüm yalvarı yalvarı",
+        "Topukda dallı şalvarı",
+        "Aman Adanalı yandım Adanalı",
+        "On parmakları kınalı",
+        "Sebebimsin yandım delikanlı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7e%20Duvar%C4%B1n%C4%B1%20A%C5%9Fd%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7e%20Duvar%C4%B1n%C4%B1%20A%C5%9Fd%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçe Duvarını Aşdım",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7e_Duvar%C4%B1n%C4%B1_A%C5%9Fd%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

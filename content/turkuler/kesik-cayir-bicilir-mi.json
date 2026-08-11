@@ -1,0 +1,71 @@
+{
+  "slug": "kesik-cayir-bicilir-mi",
+  "baslik": "Kesik Çayır Biçilir mi",
+  "yore": "Mersin",
+  "hikaye": "Kesik Çayır Biçilir mi, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kesik çayır biçilir mi",
+        "Soğuk sular içilir mi",
+        "Bana yârdan geçti derler",
+        "Seven yârdan geçilir mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman desinler desinler",
+        "Şeker yesinler",
+        "Şu kız şu oğlana",
+        "Yanmış desinler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'nın tren yolu",
+        "Gâhi doğri gâhi doğrum",
+        "Canım benim anadolu",
+        "Gideyim mi senden gayrı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ben yandım",
+        "Yandım yandım yandım",
+        "Ellerin memleketinde",
+        "Eylendim kaldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kesik%20%C3%87ay%C4%B1r%20Bi%C3%A7ilir%20mi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kesik%20%C3%87ay%C4%B1r%20Bi%C3%A7ilir%20mi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kesik Çayır Biçilir mi",
+      "url": "https://tr.wikisource.org/wiki/Kesik_%C3%87ay%C4%B1r_Bi%C3%A7ilir_mi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

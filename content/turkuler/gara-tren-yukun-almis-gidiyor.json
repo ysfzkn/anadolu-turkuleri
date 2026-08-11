@@ -1,0 +1,55 @@
+{
+  "slug": "gara-tren-yukun-almis-gidiyor",
+  "baslik": "Gara Tren Yükün Almış Gidiyor",
+  "yore": "Malatya",
+  "hikaye": "Gara Tren Yükün Almış Gidiyor, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gara tren yükün almış gidiyor (Amon)",
+        "Mevlam ayrılığa can mı dayanır (Oy oy)",
+        "Acı acı ötüp yürek deliyor (Amon)",
+        "Mevlam ayrılığa can mı dayanır (Oy oy da)",
+        "Vah beni beni öldürdün beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gara tren gurbet ele ulaştı (Amon)",
+        "Benim ahım garlı dağları aştı (Oy oy)",
+        "Duydum haberini debdilim şaştı (Amon)",
+        "Mevlam ayrılığa can mı dayanır (Oy oy da)",
+        "Vah beni beni öldürdün beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gara%20Tren%20Y%C3%BCk%C3%BCn%20Alm%C4%B1%C5%9F%20Gidiyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gara%20Tren%20Y%C3%BCk%C3%BCn%20Alm%C4%B1%C5%9F%20Gidiyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gara Tren Yükün Almış Gidiyor",
+      "url": "https://tr.wikisource.org/wiki/Gara_Tren_Y%C3%BCk%C3%BCn_Alm%C4%B1%C5%9F_Gidiyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

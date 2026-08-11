@@ -1,0 +1,91 @@
+{
+  "slug": "ben-balikcinin-ogluyum",
+  "baslik": "Ben Balıkçının Oğluyum",
+  "yore": "İstanbul",
+  "hikaye": "Ben Balıkçının Oğluyum, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben balıkçının oğluyum",
+        "Yakışıklı ve alçakgönüllü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben balıkçının oğluyum",
+        "Yakışıklı ve alçakgönüllü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Balığa gittiğim yerde",
+        "Siyah gözleri seçeceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Balığa gittiğim yerde",
+        "Siyah gözleri seçeceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlk zıpkını fırlatırım",
+        "Gel İsa ve Bakire"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlk zıpkını fırlatırım",
+        "Gel İsa ve Bakire"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ve üç kız yakaladım",
+        "Güvercinler gibi güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ve üç kız yakaladım",
+        "Güvercinler gibi güzel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Bal%C4%B1k%C3%A7%C4%B1n%C4%B1n%20O%C4%9Fluyum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Bal%C4%B1k%C3%A7%C4%B1n%C4%B1n%20O%C4%9Fluyum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Balıkçının Oğluyum",
+      "url": "https://tr.wikisource.org/wiki/Ben_Bal%C4%B1k%C3%A7%C4%B1n%C4%B1n_O%C4%9Fluyum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

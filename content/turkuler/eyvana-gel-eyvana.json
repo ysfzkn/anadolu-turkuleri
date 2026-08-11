@@ -1,0 +1,62 @@
+{
+  "slug": "eyvana-gel-eyvana",
+  "baslik": "Eyvana Gel Eyvana",
+  "yore": "Şanlıurfa",
+  "hikaye": "Eyvana Gel Eyvana, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvana gel eyvana ley aman",
+        "Âşığım ben de sana esmer aman dilber güzel aman",
+        "Kapına kul olayım ley aman",
+        "Etme beni divane esmer aman dilber güzel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvana serdim leçek ley aman",
+        "Sandım yarim gelecek esmer aman dilber güzel aman",
+        "Düşünme mahzun gönlüm ley aman",
+        "Bir gün yüzün gelecek esmer aman dilber güzel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvana serdim keçe ley aman",
+        "Nice bir ömrüm geçe esmer aman dilber güzel aman",
+        "Acep o gün olur mu esmer aman dilber güzel aman",
+        "Eli elime geçe ley aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eyvana%20Gel%20Eyvana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eyvana%20Gel%20Eyvana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eyvana Gel Eyvana",
+      "url": "https://tr.wikisource.org/wiki/Eyvana_Gel_Eyvana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

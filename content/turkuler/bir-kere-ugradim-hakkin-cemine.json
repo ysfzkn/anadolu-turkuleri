@@ -1,0 +1,62 @@
+{
+  "slug": "bir-kere-ugradim-hakkin-cemine",
+  "baslik": "Bir Kere Uğradım Hakkın Cemine",
+  "yore": "Mersin",
+  "hikaye": "Bir Kere Uğradım Hakkın Cemine, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir kere uğradım hakkın cemine",
+        "Her can bencileyin dara çekildi",
+        "Canlar elin sundu aşkın demine",
+        "İkrarda mest olan pire çekildi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Müsahib olanlar başa geçtiler",
+        "Anda hakkın kitabını açtılar",
+        "Hakkın dolusunu dört can içtiler",
+        "Aşkın bülbülleri pire çekildi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bize bade geldi içip mest olduk",
+        "Kendimizden geçip pervane döndük",
+        "Aşık söyle deyip tutuşup yandık",
+        "Yanmış sinelerim nara çekildi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Kere%20U%C4%9Frad%C4%B1m%20Hakk%C4%B1n%20Cemine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Kere%20U%C4%9Frad%C4%B1m%20Hakk%C4%B1n%20Cemine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Kere Uğradım Hakkın Cemine",
+      "url": "https://tr.wikisource.org/wiki/Bir_Kere_U%C4%9Frad%C4%B1m_Hakk%C4%B1n_Cemine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

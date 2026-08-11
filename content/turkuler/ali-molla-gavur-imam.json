@@ -1,0 +1,89 @@
+{
+  "slug": "ali-molla-gavur-imam",
+  "baslik": "Ali Molla (Gâvur İmam)",
+  "yore": "Manisa",
+  "hikaye": "Ali Molla (Gâvur İmam), Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali Molla‟m taştan çıktı parladı",
+        "Yavuklusu karşı çıktı ağladı",
+        "Yağlı kurşun ciğerimi dağladı",
+        "Ali Molla‟m der de ağlar analar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Molla dedikleri bir güççük uşak",
+        "Beline guşanmış bir homa guşak",
+        "Yanına da devşirmiş kırkbir uşak",
+        "Kırk daha yollasın der Kişioğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Molla çadırında oturur",
+        "Gelene gidene cevap yetirir",
+        "İki dinli bir kahpadan ötürü",
+        "Al ilen avlandım der Deli Molla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Günün doğduğu yerden ben de doğarın",
+        "Duvarca duvarca boynun eğerin",
+        "Kendim güççüğündür gözel severin",
+        "Al ilen avlandım der Deli Molla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelir Molla‟nın göçü",
+        "Al kanla doludur kefenin içi",
+        "Yoktur ağalar yoktur Molla‟nın suçu",
+        "Ah avlandım der Deli Molla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Molla‟m seni öldürdüler mi",
+        "Kanını pekmeze döndürdüler mi",
+        "Ağasız kadısız kaldırdılar mı",
+        "Ar kılın avlandım der Deli Molla."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ali%20Molla%20(G%C3%A2vur%20%C4%B0mam)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ali%20Molla%20(G%C3%A2vur%20%C4%B0mam)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ali Molla (Gâvur İmam)",
+      "url": "https://tr.wikisource.org/wiki/Ali_Molla_(G%C3%A2vur_%C4%B0mam)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

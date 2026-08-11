@@ -1,0 +1,53 @@
+{
+  "slug": "erzincana-girdim-ne-guzel-baglar",
+  "baslik": "Erzincan'a Girdim Ne Güzel Bağlar",
+  "yore": "Erzincan",
+  "hikaye": "Erzincan'a Girdim Ne Güzel Bağlar, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzincan’ a girdim ne güzel bağlar",
+        "Erzurum’ a vardım dumanlı dağlar",
+        "Elleri koynunda bir gelin ağlar",
+        "Oy anam anam ben dayanamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında çadır açarım",
+        "Seni vermezlerse alır kaçarım",
+        "Kahve bulamazsam kenger içerim",
+        "Oy anam anam ben dayanamam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzincan'a%20Girdim%20Ne%20G%C3%BCzel%20Ba%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzincan'a%20Girdim%20Ne%20G%C3%BCzel%20Ba%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erzincan'a Girdim Ne Güzel Bağlar",
+      "url": "https://tr.wikisource.org/wiki/Erzincan'a_Girdim_Ne_G%C3%BCzel_Ba%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

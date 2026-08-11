@@ -1,0 +1,53 @@
+{
+  "slug": "bugun-gunlerden-cumadir-cuma-bayburt",
+  "baslik": "Bugün Günlerden Cumadır Cuma",
+  "yore": "Bayburt",
+  "hikaye": "Bugün Günlerden Cumadır Cuma, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu günde günlerden cumadır cuma",
+        "Yar hamama gedip kınanı yuma",
+        "Ben seni sevmişem kimseye deme",
+        "Zalim celeb vurmuş yaram var benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu günde günlerden salidir sali",
+        "Sallan gel sevdiğim sarılak bari",
+        "Yoktur bu dünyada yarin emsali",
+        "Zalim celeb vurmuş yaram var benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20G%C3%BCnlerden%20Cumad%C4%B1r%20Cuma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20G%C3%BCnlerden%20Cumad%C4%B1r%20Cuma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Günlerden Cumadır Cuma (Bayburt)",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_G%C3%BCnlerden_Cumad%C4%B1r_Cuma_(Bayburt)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "anonim",
+    "açık arşiv"
+  ]
+}

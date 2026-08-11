@@ -1,0 +1,92 @@
+{
+  "slug": "bahcalarda-barim-var",
+  "baslik": "Bahçalarda Barım Var",
+  "yore": "Iğdır",
+  "hikaye": "Bahçalarda Barım Var, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda barım var",
+        "Bir heyva bir narım var",
+        "Galem gaş gara gözlü",
+        "Hoş bahışlı yarim var",
+        "Beri gel gara göz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel gara göz",
+        "Bu bağrımda yâre göz",
+        "Derdime sen çare göz",
+        "Beri gel gara göz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandırdı güneş meni",
+        "Gün o günde daş meni",
+        "Meni gözlerin yahyı",
+        "Yandırmaz ataş meni",
+        "Beri gel gara göz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel gara göz",
+        "Bu bağrımda yâre göz",
+        "Derdime sen çare göz",
+        "Beri gel gara göz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gözün kesme gözümden",
+        "Mekatımla sözümden",
+        "Yar yadından oynaşır",
+        "Ahlım getti özümden",
+        "Beri gel gara göz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel gara göz",
+        "Bu bağrımda yâre göz",
+        "Derdime sen çare göz",
+        "Beri gel gara göz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7alarda%20Bar%C4%B1m%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7alarda%20Bar%C4%B1m%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçalarda Barım Var",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7alarda_Bar%C4%B1m_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

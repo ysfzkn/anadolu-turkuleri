@@ -1,0 +1,55 @@
+{
+  "slug": "mahpushanelerde-gormedim-direk",
+  "baslik": "Mahpushanelerde Görmedim Direk",
+  "yore": "Karaman",
+  "hikaye": "Mahpushanelerde Görmedim Direk, Vikikaynak'ın Karaman türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karaman yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mahpushanelerde görmedim direk",
+        "Kimimiz onbeşli, kimimiz kürek",
+        "İ’dâm cezalıya dayanmaz yürek",
+        "Yanarım yanarım aşkıma yanarım",
+        "Demir parmaklıktan bakar ağlarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mahpushanelerde serdim postumu",
+        "Çok aradım bulamadım dostumu",
+        "Azîzim, ahbaplarım bana küstü mü",
+        "Yanarım yanarım ben aşkıma yanarımD",
+        "emir parmaklıktan bakar ağlarım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mahpushanelerde%20G%C3%B6rmedim%20Direk%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mahpushanelerde%20G%C3%B6rmedim%20Direk",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mahpushanelerde Görmedim Direk",
+      "url": "https://tr.wikisource.org/wiki/Mahpushanelerde_G%C3%B6rmedim_Direk",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karaman",
+    "anonim",
+    "açık arşiv"
+  ]
+}

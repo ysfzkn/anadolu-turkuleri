@@ -1,0 +1,71 @@
+{
+  "slug": "macka-yollari-tasli",
+  "baslik": "Maçka Yolları Taşlı",
+  "yore": "Trabzon",
+  "hikaye": "Maçka Yolları Taşlı, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy. Maçka yolları taşlı,",
+        "Gel uyu kalem kaşlı.",
+        "Ne oldu sana yavrum,",
+        "Böyle gözlerin yaşlı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yukarı gel yukarı,",
+        "Irmağın gözündeyum.",
+        "Eller ne derse desin,",
+        "Ben yine peşundeyum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dereler akar akar,",
+        "Garişir denizlere.",
+        "Gurban olayım yavrum,",
+        "O sevdali gözlere."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız tarlanın taşları,",
+        "Duman değil gar idi,",
+        "Sevdiğum senin ilen,",
+        "Ne günlerum var idi."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ma%C3%A7ka%20Yollar%C4%B1%20Ta%C5%9Fl%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ma%C3%A7ka%20Yollar%C4%B1%20Ta%C5%9Fl%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Maçka Yolları Taşlı",
+      "url": "https://tr.wikisource.org/wiki/Ma%C3%A7ka_Yollar%C4%B1_Ta%C5%9Fl%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

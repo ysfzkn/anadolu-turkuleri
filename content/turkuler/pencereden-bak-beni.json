@@ -1,0 +1,62 @@
+{
+  "slug": "pencereden-bak-beni",
+  "baslik": "Pencereden Bak Beni",
+  "yore": "Denizli",
+  "hikaye": "Pencereden Bak Beni, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden bak beni",
+        "Lokum şeker at beni",
+        "Eğer deli olursam",
+        "Tut kolumdan at beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşte yarim gitmedim",
+        "Ben o yari bilmedim",
+        "Sen beni iftira ettin",
+        "Vallahi hiç öpmedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyorum gitmez oldum",
+        "Arkamı dönmez oldum",
+        "Ünnemişin duymadım",
+        "Vallahi duymaz oldum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Pencereden%20Bak%20Beni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Pencereden%20Bak%20Beni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pencereden Bak Beni",
+      "url": "https://tr.wikisource.org/wiki/Pencereden_Bak_Beni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

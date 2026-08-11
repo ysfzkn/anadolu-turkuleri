@@ -1,0 +1,68 @@
+{
+  "slug": "bir-tas-attim-kamisa",
+  "baslik": "Bir Taş Attım Kamışa",
+  "yore": "İstanbul",
+  "hikaye": "Bir Taş Attım Kamışa, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım kamışa",
+        "Su ne yapsın yanmışa",
+        "Mevlam sabırlar versin",
+        "Yârinden ayrılmışa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sürü sürü sürmeli kızlar",
+        "Beyoğlunda geziyor çıtır pıtır kızlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım arsaya",
+        "Atladı gitti Bursa'ya",
+        "Şimdiki zaman kızları",
+        "Hiç gelmiyor tasaya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sürü sürü sürmeli kızlar",
+        "Göğsünde çapraz düğmeli kızlar",
+        "Beyoğlunda geziyor çıtır pıtır kızlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ta%C5%9F%20Att%C4%B1m%20Kam%C4%B1%C5%9Fa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ta%C5%9F%20Att%C4%B1m%20Kam%C4%B1%C5%9Fa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Taş Attım Kamışa",
+      "url": "https://tr.wikisource.org/wiki/Bir_Ta%C5%9F_Att%C4%B1m_Kam%C4%B1%C5%9Fa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "oy-oy-bir-tanem-azize",
+  "baslik": "Oy Oy Bir Tanem Azize",
+  "yore": "Trabzon",
+  "hikaye": "Oy Oy Bir Tanem Azize, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey kız balık mı aldın da yoksa kocamı aldın",
+        "Ey kız balık mı aldın da yoksa kocamı aldın",
+        "Körmiydi gözlerin oh oh mini kız",
+        "Onu gecemi aldın",
+        "Onu gecemi aldın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalkan balığına bakın usta keseri gibi",
+        "Kalkan balığına bakın usta keseri gibi",
+        "Arkası kamburlaştı oh oh Azize",
+        "Eşek semeri gibi",
+        "Eşek semeri gibi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Balıklarım tazedir da alıp yiyip doysana",
+        "Balıklarım tazedir da alıp yiyip doysana",
+        "Bir kilodan n'olur oh oh bey amca",
+        "Üç, beş kilo alsana",
+        "Üç, beş kilo alsana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lüferlerimi yiyen su içer kana kana",
+        "Lüferlerimi yiyen su içer kana kana",
+        "Ben satıyorum diye oh oh teyzecim",
+        "Ne kızıyorsun bana",
+        "Ne kızıyorsun bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hamsi kurban o göze ne bakarsın denize",
+        "Hamsi kurban o göze ne bakarsın denize",
+        "Atarlar sana olta oh oh güzel kız",
+        "Alırlar seni yüze",
+        "Alırlar seni yüze"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Oy%20Oy%20Bir%20Tanem%20Azize%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Oy%20Oy%20Bir%20Tanem%20Azize",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oy Oy Bir Tanem Azize",
+      "url": "https://tr.wikisource.org/wiki/Oy_Oy_Bir_Tanem_Azize",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "fes-basina-fes-basina",
+  "baslik": "Fes Başına Fes Başına",
+  "yore": "Gaziantep",
+  "hikaye": "Fes Başına Fes Başına, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fes başına fes başına",
+        "Püskülü ben olayım",
+        "Başım ağrıyo başım ağrıyo",
+        "Başına kurban olayım",
+        "Sabah pazara varayım",
+        "Başına bir fes alayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fes başına fes başına",
+        "Püskülü ben olayım",
+        "Kaşım ağrıyo kaşım ağrıyo",
+        "Kaşına kurban olayım",
+        "Sabah pazara varayım",
+        "Kaşına hıdat alayım",
+        "Hıdat kaşına hıdat kaşına",
+        "Fes başına püskülü ben olayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gözüm ağrıyo gözüm ağrıyo",
+        "Gözüne kurban olayım",
+        "Sabah pazara varayım",
+        "Gözüne sürme alayım",
+        "Sürme gözüne sürme gözüne",
+        "Hıdat kaşına fes başına püskülü ben olayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Burnum ağrıyo burnum ağrıyo",
+        "Burnuna kurban olayım",
+        "Sabah pazara varayım",
+        "Burnuna hırzma alayım",
+        "Hırzma burnuna sürme gözüne",
+        "Hıdat kaşına fes başına püskülü ben olayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dişim ağrıyo dişim ağrıyo",
+        "Dişine kurban olayım",
+        "Sabah pazara varayım",
+        "Dişine fıstık alayım",
+        "Fıstık dişine fıstık dişine hırzma burnuna",
+        "Sürme gözüne hıdat kapına",
+        "Fes başına püskülü ben olayım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fes%20Ba%C5%9F%C4%B1na%20Fes%20Ba%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fes%20Ba%C5%9F%C4%B1na%20Fes%20Ba%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fes Başına Fes Başına",
+      "url": "https://tr.wikisource.org/wiki/Fes_Ba%C5%9F%C4%B1na_Fes_Ba%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

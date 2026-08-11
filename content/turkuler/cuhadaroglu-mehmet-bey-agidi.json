@@ -1,0 +1,65 @@
+{
+  "slug": "cuhadaroglu-mehmet-bey-agidi",
+  "baslik": "Çuhadaroğlu Mehmet Bey Ağıdı",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Çuhadaroğlu Mehmet Bey Ağıdı, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saat beşte odasını bastılar",
+        "Söyletmeden kollarını kestiler",
+        "Hanımıyla bir zeytine astılar",
+        "Ağlaşır kuzular bey babam deyü",
+        "Ünnendi de Mehmet Bey’im ünnendiAktı kanı döşeklere göllendiÇuhadaroğlu öldü Maraş sallandıAğlaşır kuzular bey babam deyü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara’dan gelir bunun paşası",
+        "Gümüş kendir nargilenin maşası",
+        "Koskoca Maraş’ın bir tek paşası",
+        "Ağlaşır kuzular bey babam deyü",
+        "Çekin göğ kıratı Sultan Pazar’aMehmet Bey’imi uğratmışlar nazaraHanımıyla bir koydular mezaraAğlaşır kuzular bey babam deyü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekin göğ kıratı da görsün binayı",
+        "Harap kalsın düşmanların düneği",
+        "Parladı kaldı da beyin konağı",
+        "Ağlaşır halkımız bey babam deyü",
+        "Evlerine daim atlılar inerHer binmeye kırk atlı binerTomafille gelmiş valiler inerAğlaşır kuzular bey babam deyü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87uhadaro%C4%9Flu%20Mehmet%20Bey%20A%C4%9F%C4%B1d%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87uhadaro%C4%9Flu%20Mehmet%20Bey%20A%C4%9F%C4%B1d%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çuhadaroğlu Mehmet Bey Ağıdı",
+      "url": "https://tr.wikisource.org/wiki/%C3%87uhadaro%C4%9Flu_Mehmet_Bey_A%C4%9F%C4%B1d%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

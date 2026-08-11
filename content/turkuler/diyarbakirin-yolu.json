@@ -1,0 +1,62 @@
+{
+  "slug": "diyarbakirin-yolu",
+  "baslik": "Diyarbakır'ın Yolu",
+  "yore": "Diyarbakır",
+  "hikaye": "Diyarbakır'ın Yolu, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbakır'ın yolu",
+        "Hem kar yağar hem dolu",
+        "Beni yârdan ayıran",
+        "Diyarbakır doktoru."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbakır dört yoldur",
+        "Biri sağ biri soldur",
+        "Sağına kurban olan",
+        "Yârin gittiği yoldur."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaynar kazan taşmaz mı?",
+        "Yâr burdan kaçmaz mı?",
+        "Merak etme sevdiğim",
+        "Ayrılan kavuşmaz mı?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Diyarbak%C4%B1r'%C4%B1n%20Yolu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Diyarbak%C4%B1r'%C4%B1n%20Yolu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Diyarbakır'ın Yolu",
+      "url": "https://tr.wikisource.org/wiki/Diyarbak%C4%B1r'%C4%B1n_Yolu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

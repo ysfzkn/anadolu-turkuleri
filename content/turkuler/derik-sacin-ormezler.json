@@ -1,0 +1,71 @@
+{
+  "slug": "derik-sacin-ormezler",
+  "baslik": "Derik Saçın Örmezler",
+  "yore": "Gaziantep",
+  "hikaye": "Derik Saçın Örmezler, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derik saçın örmezler",
+        "Seni de bana vermezler",
+        "Deriko kaşlar kara",
+        "Deriko gözler ela hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel seninle kaçalım",
+        "Ay karanlık görmezler",
+        "Deriko kaşlar kara",
+        "Deriko gözler ela hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derik saçın iki kat",
+        "Kes birini bana sat",
+        "Deriko kaşlar kara",
+        "Deriko gözler ela hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız annenden izin al",
+        "Bir gece de bizde yat",
+        "Deriko kaşlar kara",
+        "Deriko gözler ela hey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Derik%20Sa%C3%A7%C4%B1n%20%C3%96rmezler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Derik%20Sa%C3%A7%C4%B1n%20%C3%96rmezler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Derik Saçın Örmezler",
+      "url": "https://tr.wikisource.org/wiki/Derik_Sa%C3%A7%C4%B1n_%C3%96rmezler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

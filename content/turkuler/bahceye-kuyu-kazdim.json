@@ -1,0 +1,92 @@
+{
+  "slug": "bahceye-kuyu-kazdim",
+  "baslik": "Bahçeye Kuyu Kazdım",
+  "yore": "Aydın",
+  "hikaye": "Bahçeye Kuyu Kazdım, Vikikaynak'ın Aydın türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye kuyu kazdım",
+        "Hem okudum hem yazdım",
+        "Gördüm yârin yüzüne",
+        "Düştüm bayılı yazdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman kader ne imiş",
+        "Karagözlüm işveli değilmiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar arasına",
+        "Gün doğar sırasına",
+        "Ben bir yâr bulamadım",
+        "Elimin parasına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın imanım neyimiş",
+        "Görüşmeli galim (gaylim) neylemiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahvede oturanlar",
+        "Derdime artıranlar",
+        "Bana bir akıl verin",
+        "Yârden ayrılanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın imanım neyimiş",
+        "Görüşmeli galim (gaylim) neylemiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aydın uzak yoruldum",
+        "Kız kaşlarına vuruldum",
+        "A benim ala gözlüm",
+        "Sen kimlerden ayrıldın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7eye%20Kuyu%20Kazd%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7eye%20Kuyu%20Kazd%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçeye Kuyu Kazdım (Aydın)",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7eye_Kuyu_Kazd%C4%B1m_(Ayd%C4%B1n)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aydın",
+    "anonim",
+    "açık arşiv"
+  ]
+}

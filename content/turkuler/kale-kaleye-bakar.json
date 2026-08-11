@@ -1,0 +1,103 @@
+{
+  "slug": "kale-kaleye-bakar",
+  "baslik": "Kale Kaleye Bakar",
+  "yore": "Kırşehir",
+  "hikaye": "Kale Kaleye Bakar, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye bakar",
+        "Kale kaleye bakar",
+        "Ben bilmem ayrılık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bakışları can yakar da",
+        "Gözleri sürmelim",
+        "Bakışları can yakar da",
+        "Elleri kınalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen orada dururken",
+        "Sen orada dururken",
+        "Ben bilmem ayrılık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başka yere kim bakar da",
+        "Gözleri sürmelim",
+        "Başka yere kim bakar da",
+        "Elleri kınalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey sürmeli sürmeli",
+        "Hey sürmeli sürmeli",
+        "Ben bilmem ayrılık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Severken sevdirmeli de",
+        "Elleri kınalım",
+        "Severken sevdirmeli de",
+        "Gözleri sürmelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim iniş",
+        "Kaleden indim iniş",
+        "Ben bilmem ayrılık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilim dolu yemiş de",
+        "Gözleri sürmelim",
+        "Mendilim dolu yemiş de",
+        "Elleri kınalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kale%20Kaleye%20Bakar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kale%20Kaleye%20Bakar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kale Kaleye Bakar",
+      "url": "https://tr.wikisource.org/wiki/Kale_Kaleye_Bakar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

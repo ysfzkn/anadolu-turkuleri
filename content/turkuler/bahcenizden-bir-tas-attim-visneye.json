@@ -1,0 +1,71 @@
+{
+  "slug": "bahcenizden-bir-tas-attim-visneye",
+  "baslik": "Bahçenizden Bir Taş Attım Vişneye",
+  "yore": "Malatya",
+  "hikaye": "Bahçenizden Bir Taş Attım Vişneye, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçenizden bir taş attım vişneye",
+        "Kimseler yarinden ayrı düşmeye",
+        "Yari benden beni yardan ayıran",
+        "Ciğerine yağlı gurşun işleye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağı var ovası var",
+        "Elalemin(herkesin) yuvası var",
+        "Mevlam vermiş bana derdi",
+        "Çekilecek neresi var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylasına vardım yağmur yağıyor",
+        "Yaslanmış duvara boyun eğiyor",
+        "Dedim güzel neden boyun eğersin",
+        "Dedi babam beni sana vermiyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağı var ovası var",
+        "Elalemin(herkesin) yuvası var",
+        "Mevlam vermiş bana derdi",
+        "Çekilecek neresi var"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7enizden%20Bir%20Ta%C5%9F%20Att%C4%B1m%20Vi%C5%9Fneye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7enizden%20Bir%20Ta%C5%9F%20Att%C4%B1m%20Vi%C5%9Fneye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçenizden Bir Taş Attım Vişneye",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7enizden_Bir_Ta%C5%9F_Att%C4%B1m_Vi%C5%9Fneye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "karasuda-pazar-var",
+  "baslik": "Karasu'da Pazar Var",
+  "yore": "Sinop",
+  "hikaye": "Karasu'da Pazar Var, Vikikaynak'ın Sinop türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Sinop yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karasu'da pazar var",
+        "Nazmiye'mde nazar var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy niye vay niye",
+        "Nazmiye oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çok nazlanma Nazmiye",
+        "Senden daha güzel var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy niye vay niye",
+        "Nazmiye oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vapurdan mı indiniz",
+        "Trene mi bindiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy niye vay niye",
+        "Nazmiye oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birer birer başolmaz",
+        "Hepiniz hoşgeldiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy niye vay niye",
+        "Nazmiye oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karasu'da%20Pazar%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karasu'da%20Pazar%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karasu'da Pazar Var",
+      "url": "https://tr.wikisource.org/wiki/Karasu'da_Pazar_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sinop",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "slug": "altini-bozdurayim",
+  "baslik": "Altını Bozdurayım",
+  "yore": "Giresun",
+  "hikaye": "Altını Bozdurayım, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altını bozdurayım",
+        "Gerdana dizdireyim",
+        "İpek mendil değilsin",
+        "Cebimde gezdireyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna güzelim ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük var benim",
+        "Parmağıma dar benim",
+        "Giresun'un içinde",
+        "Kara gözlü yâr benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna güzelim ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Usul yavaş bas da gel",
+        "Tekneler oynamasın",
+        "Evin arkasından gel",
+        "Cazı nenen duymasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna güzelim ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde altın şamdan",
+        "Perdeyi kaldır camdan",
+        "Al tüfeği vur beni (aman)",
+        "Ben usandım bu candan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ninna aslanım ninna",
+        "Ninna güzelim ninna"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Alt%C4%B1n%C4%B1%20Bozduray%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Alt%C4%B1n%C4%B1%20Bozduray%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Altını Bozdurayım",
+      "url": "https://tr.wikisource.org/wiki/Alt%C4%B1n%C4%B1_Bozduray%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

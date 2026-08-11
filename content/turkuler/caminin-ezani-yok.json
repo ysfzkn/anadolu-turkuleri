@@ -1,0 +1,71 @@
+{
+  "slug": "caminin-ezani-yok",
+  "baslik": "Caminin Ezanı Yok",
+  "yore": "Tokat",
+  "hikaye": "Caminin Ezanı Yok, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Caminin ezanı yok dudum ey dudum aman canım ey canım aman",
+        "İçinde gezeni yok dudum ey dudum aman canım ey canım aman",
+        "Şu köylerin içinde dudum ey dudum aman canım ey canım aman",
+        "Yârimden güzeli yok dudum ey dudum aman canım ey canım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarığımın bağları dudum ey dudum aman canım ey canım aman",
+        "Duman aldı dağları dudum ey dudum aman canım ey canım aman",
+        "Kalk gidelim sevdiğim dudum ey dudum aman canım ey canım aman",
+        "Kaba kuşluk çağları dudum ey dudum aman canım ey canım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derelerden sel gelir dudum ey dudum aman canım ey canım aman",
+        "Deste deste gül gelir dudum ey dudum aman canım ey canım aman",
+        "Varman kızlar çobana dudum ey dudum aman canım ey canım aman",
+        "Ayda yılda bir gelir dudum ey dudum aman canım ey canım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden kuş uçtu dudum ey dudum aman canım ey canım aman",
+        "Yandı yürek tutuştu dudum ey dudum aman canım ey canım aman",
+        "Yanma yüreğim yanma dudum ey dudum aman canım ey canım aman",
+        "Ayrılık bize düştü dudum ey dudum aman canım ey canım aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Caminin%20Ezan%C4%B1%20Yok%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Caminin%20Ezan%C4%B1%20Yok",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Caminin Ezanı Yok",
+      "url": "https://tr.wikisource.org/wiki/Caminin_Ezan%C4%B1_Yok",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

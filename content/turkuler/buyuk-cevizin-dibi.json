@@ -1,0 +1,62 @@
+{
+  "slug": "buyuk-cevizin-dibi",
+  "baslik": "Büyük Cevizin Dibi",
+  "yore": "Erzincan",
+  "hikaye": "Büyük Cevizin Dibi, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Büyük cevizin dibi nanay gülüm nana yâr",
+        "Ne gezersin el gibi nanay kibarım nanay",
+        "Sallan da gel yanıma nanay gülüm nana yâr",
+        "Helalca malım gibi nanay kibarım nanay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Büyük ceviz yarıldı nanay gülüm nana yâr",
+        "Annen bana darıldı nanay kibarım nanay",
+        "Darılırsa darılsın nanay gülüm nana yâr",
+        "El oğludur (kızıdır) sarıldı nanay kibarım nanay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ceviz meyvasın güzel nanay gülüm nana yâr",
+        "Güz gelir döker gazel nanay kibarım nanay",
+        "Beni sevmez demişler nanay gülüm nana yâr",
+        "Seni severim ezel nanay kibarım nanay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BCy%C3%BCk%20Cevizin%20Dibi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BCy%C3%BCk%20Cevizin%20Dibi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Büyük Cevizin Dibi (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BCy%C3%BCk_Cevizin_Dibi_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

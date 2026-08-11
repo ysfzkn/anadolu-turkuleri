@@ -1,0 +1,61 @@
+{
+  "slug": "cay-benim-cesme-benim",
+  "baslik": "Çay Benim Çeşme Benim",
+  "yore": "Konya",
+  "hikaye": "Çay Benim Çeşme Benim, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çay benim çeşme benim",
+        "Ardıma düşme benim",
+        "Sevdiğimsin sen benim",
+        "Önüme geçme benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Alim şaşırdın beni",
+        "(haydi) Aşka düşürdün beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel yanıma mercanım",
+        "Neren ağrır hey canım",
+        "Meramda var bir bağım",
+        "Satar satar harcarım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ay%20Benim%20%C3%87e%C5%9Fme%20Benim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ay%20Benim%20%C3%87e%C5%9Fme%20Benim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çay Benim Çeşme Benim",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ay_Benim_%C3%87e%C5%9Fme_Benim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

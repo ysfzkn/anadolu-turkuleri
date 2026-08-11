@@ -1,0 +1,52 @@
+{
+  "slug": "yuce-dag-basinda-bir-ulu-pinar",
+  "baslik": "Yüce Dağ Başında Bir Ulu Pınar",
+  "yore": "Tokat",
+  "hikaye": "Yüce Dağ Başında Bir Ulu Pınar, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında bir ulu pınar",
+        "Ellerimi yusam kollarım donar",
+        "Hadi leyli de leyli kollarım donar",
+        "Herkes sevdiğine böyle mi yanar",
+        "::Hadi leyli de leyli sallan gidelim",
+        "::Yörü güzel yörü allan gidelim",
+        "Yüce dağ başında koyun taşladım",
+        "Ayvanın dalına güller aşladım",
+        "Hadi leyli de leyli güller aşladım",
+        "Ben bu işi ne dedim de işledim",
+        "::hadi leyli de leyli sallan gidelim",
+        "::Yörü güzel yörü allan gidelim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Bir%20Ulu%20P%C4%B1nar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Bir%20Ulu%20P%C4%B1nar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüce Dağ Başında Bir Ulu Pınar",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCce_Da%C4%9F_Ba%C5%9F%C4%B1nda_Bir_Ulu_P%C4%B1nar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

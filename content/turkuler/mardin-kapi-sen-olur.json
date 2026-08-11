@@ -1,0 +1,62 @@
+{
+  "slug": "mardin-kapi-sen-olur",
+  "baslik": "Mardin Kapı Şen Olur",
+  "yore": "Diyarbakır",
+  "hikaye": "Mardin Kapı Şen Olur, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mardin kapı şen olur",
+        "Dibi değirmen olur",
+        "Buralarda yâr seven",
+        "Mutlaka verem olur."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağ Kapı'nın taşları",
+        "Armudun ağaçları",
+        "Ben bugün yâri gördüm",
+        "Kıvır kıvır saçları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Urfa Kapı bağlıdır",
+        "Yârîm Koçdağlıdır",
+        "Ben yârime kıyamam",
+        "Yârim ufak çağlıdır."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mardin%20Kap%C4%B1%20%C5%9Een%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mardin%20Kap%C4%B1%20%C5%9Een%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mardin Kapı Şen Olur",
+      "url": "https://tr.wikisource.org/wiki/Mardin_Kap%C4%B1_%C5%9Een_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

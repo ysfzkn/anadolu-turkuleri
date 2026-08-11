@@ -1,0 +1,73 @@
+{
+  "slug": "bebek-turkusu",
+  "baslik": "Bebek Türküsü",
+  "yore": "Niğde",
+  "hikaye": "Bebek Türküsü, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devem var deveden yüce",
+        "Havada kuşlar dönüşür",
+        "Yük yükledim ben de gece",
+        "Kuzgunlar üleş bölüşür",
+        "Yurd yerine varmayınca",
+        "Çadırda düşmanlar gülüşür",
+        "Bilemedim bebek seni",
+        "Bebek beni deli eyledi",
+        "Bir kötüye kul eyledi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin başım bağlamadım",
+        "Elmalıdan çıkdım yayan",
+        "Top zülfüm yağlamadım",
+        "Dayan hey dizlerim dayan",
+        "Kayın anamdan kayın atamdan hicap ettim",
+        "Emmim atlı dayım yayan",
+        "Bebek deye ağlamadım",
+        "Bebek beni deli eyledi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ala kilime sardığım",
+        "Tabancamın ipek bağı",
+        "Yüksek mayaya koyduğum",
+        "Baban bir aşiret beyi",
+        "Yedi yılda bir bulduğum",
+        "Kanlı mı oldun çiçek dağı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bebek%20T%C3%BCrk%C3%BCs%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bebek%20T%C3%BCrk%C3%BCs%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bebek Türküsü",
+      "url": "https://tr.wikisource.org/wiki/Bebek_T%C3%BCrk%C3%BCs%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

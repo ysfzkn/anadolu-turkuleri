@@ -1,0 +1,89 @@
+{
+  "slug": "konyalimin-kasi-gozu-surmeli",
+  "baslik": "Konyalımın Kaşı Gözü Sürmeli",
+  "yore": "Konya",
+  "hikaye": "Konyalımın Kaşı Gözü Sürmeli, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Konyalımın kaşı gözü sürmeli sürmeli",
+        "Seni nasıl fırsat bulup görmeli vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman canım Konyalı",
+        "Seni nerde bulmalı",
+        "Bir elime geçersen",
+        "Sıkı sıkı sarmalı",
+        "Aman canım hey",
+        "Malım gülüm hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Konyalımın gönül verdim gözüne gözüne",
+        "Güven olmaz o çapkının sözüne vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman canım Konyalı",
+        "Seni nerde bulmalı",
+        "Bir elime geçersen",
+        "Sıkı sıkı sarmalı",
+        "Aman canım hey",
+        "Malım gülüm hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Konyalıma gönül verdim ben bu yaz ben bu yaz",
+        "O benimdir başkaları alamaz vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman canım Konyalı",
+        "Seni nerde bulmalı",
+        "Bir elime geçersen",
+        "Sıkı sıkı sarmalı",
+        "Aman canım hey",
+        "Malım gülüm hey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Konyal%C4%B1m%C4%B1n%20Ka%C5%9F%C4%B1%20G%C3%B6z%C3%BC%20S%C3%BCrmeli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Konyal%C4%B1m%C4%B1n%20Ka%C5%9F%C4%B1%20G%C3%B6z%C3%BC%20S%C3%BCrmeli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Konyalımın Kaşı Gözü Sürmeli",
+      "url": "https://tr.wikisource.org/wiki/Konyal%C4%B1m%C4%B1n_Ka%C5%9F%C4%B1_G%C3%B6z%C3%BC_S%C3%BCrmeli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

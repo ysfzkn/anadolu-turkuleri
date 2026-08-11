@@ -1,0 +1,63 @@
+{
+  "slug": "deli-gonul-sevdasini-ben-bilirim",
+  "baslik": "Deli Gönül Sevdasını Ben Bilirim",
+  "yore": "Kastamonu",
+  "hikaye": "Deli Gönül Sevdasını Ben Bilirim, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli gönül sevdasını ben bilirim, ben bilirim",
+        "Yardan ayrı kalmasını ben bilirim, ben bilirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi saray çeşmesine ben yandım badem ezmesine",
+        "Haydindi ata binesim geldi haydindi seni göresim geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tombik tombik elleri var, deniz gibi gözleri var",
+        "Daha daha neleri var, ben bilirim, ben bilirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi saray çeşmesine ben yandım badem ezmesine",
+        "Haydindi ata binesim geldi haydindi seni göresim geldi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Deli%20G%C3%B6n%C3%BCl%20Sevdas%C4%B1n%C4%B1%20Ben%20Bilirim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Deli%20G%C3%B6n%C3%BCl%20Sevdas%C4%B1n%C4%B1%20Ben%20Bilirim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Deli Gönül Sevdasını Ben Bilirim",
+      "url": "https://tr.wikisource.org/wiki/Deli_G%C3%B6n%C3%BCl_Sevdas%C4%B1n%C4%B1_Ben_Bilirim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

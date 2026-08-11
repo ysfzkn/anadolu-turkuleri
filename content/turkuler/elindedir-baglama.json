@@ -1,0 +1,59 @@
+{
+  "slug": "elindedir-baglama",
+  "baslik": "Elindedir Bağlama",
+  "yore": "Denizli",
+  "hikaye": "Elindedir Bağlama, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elindedir bağlama",
+        "Kara gözlüm ağlama",
+        "O günkü sözlerimi",
+        "Cavır annene söylemeHaydendi teyzen dayımGurusun donuz huyunBen ağbeyne varicemYengen olucem gayrı",
+        "Hop diri diri dat diri diri diri domBen yarimi seviyom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı çizme giyelim",
+        "Bizim dama girelim",
+        "Annen buben duyarsa",
+        "Tay boşanmış diyelim",
+        "NAKARAT",
+        "Susadım su isterim",
+        "Bana pınar gösterin",
+        "Ben pınardan ganmeyom",
+        "Ben yarimi isteyom"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elindedir%20Ba%C4%9Flama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elindedir%20Ba%C4%9Flama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elindedir Bağlama",
+      "url": "https://tr.wikisource.org/wiki/Elindedir_Ba%C4%9Flama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "adalardan-bir-yar-gelir-bizlere",
+  "baslik": "Adalardan Bir Yar Gelir Bizlere",
+  "yore": "İstanbul",
+  "hikaye": "Adalardan Bir Yar Gelir Bizlere, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adalardan bir yar gelir bizlere",
+        "Aman Allah gözlere bak gözlere",
+        "İpek çorap varsın düşsün dizlere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hoş yaratmış Allah pek şirindir billah",
+        "İşvebazdır vallah çapkınlardan kolla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adaların ıssız tenha yolları",
+        "Boynumda kaldı o yarin kolları",
+        "Menekşeden biçilmiştir şalvarı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hoş yaratmış Allah pek şirindir billah",
+        "İşvebazdır vallah çapkınlardan kolla"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adalardan%20Bir%20Yar%20Gelir%20Bizlere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adalardan%20Bir%20Yar%20Gelir%20Bizlere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Adalardan Bir Yar Gelir Bizlere",
+      "url": "https://tr.wikisource.org/wiki/Adalardan_Bir_Yar_Gelir_Bizlere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

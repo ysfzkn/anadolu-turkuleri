@@ -1,0 +1,107 @@
+{
+  "slug": "ham-cokelek",
+  "baslik": "Ham Çökelek",
+  "yore": "Mersin",
+  "hikaye": "Ham Çökelek, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amaaaan…",
+        "Gır eşşeğe biner de gaş oluktan aşarım",
+        "Yar yaaar…",
+        "Canımı sıkman kötü avratlar",
+        "İkinizi birden boşarım",
+        "Gerali’m heeey hey."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel geliverde diz çökerek",
+        "Boğazına dursun ham çökelek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amaaaaaan…",
+        "Birine aldık bir edik",
+        "Öteki avrada da alalım dedik",
+        "Yar yaaar…",
+        "İki evlendik de bir bok mu yedik",
+        "Geralim hey hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel geliver de diz çökerek",
+        "Boğazına dursun ham çökelek",
+        "Amaaaan …",
+        "Birine aldık beş metre astar",
+        "Öteki avrad da durağarmış da bayramlık ister"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yaar…",
+        "Yaaandım iki kel avradın elinden",
+        "İkisinin ölüsünü de birden göster",
+        "Gerali’m heeey hey."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel geliver de diz çökerek",
+        "Boğazına dursun ham çökelek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yaaaar…",
+        "Avradın kötüsü kötüden kötü",
+        "Dolapta kokutmuş 100 dirhem eti",
+        "Başına düşürmüş de sirkeyle biti",
+        "Gerali’m heeey hey…"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel geliver de diz çökerek",
+        "Boğazına dursun ham çökelek."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ham%20%C3%87%C3%B6kelek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ham%20%C3%87%C3%B6kelek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ham Çökelek",
+      "url": "https://tr.wikisource.org/wiki/Ham_%C3%87%C3%B6kelek",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

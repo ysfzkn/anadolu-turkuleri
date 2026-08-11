@@ -1,0 +1,62 @@
+{
+  "slug": "ah-elmadan-elmadan",
+  "baslik": "Ah Elmadan Elmadan",
+  "yore": "Erzincan",
+  "hikaye": "Ah Elmadan Elmadan, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi de haydi Ah elmadan elmadan",
+        "Haydi de haydi Bir dal kestim elmadan",
+        "Haydi de haydi Beni yâre kavuştur",
+        "Haydi de haydi Hüda canım almadan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi de haydi Kemerim yele yele",
+        "Haydi de haydi Yolladım gurbet ele",
+        "Haydi de haydi Yolladıysam kemeri",
+        "Haydi de haydi Götür ver ince bele"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi de haydi Bayırda dut dizildi",
+        "Haydi de haydi Dalı üzüm üzümdü",
+        "Haydi de haydi Gören maşallah desin",
+        "Haydi de haydi Oynayanlar dizildi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Elmadan%20Elmadan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Elmadan%20Elmadan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Elmadan Elmadan",
+      "url": "https://tr.wikisource.org/wiki/Ah_Elmadan_Elmadan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

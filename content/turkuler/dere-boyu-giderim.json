@@ -1,0 +1,61 @@
+{
+  "slug": "dere-boyu-giderim",
+  "baslik": "Dere Boyu Giderim",
+  "yore": "Manisa",
+  "hikaye": "Dere Boyu Giderim, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu giderim",
+        "Koyun kuzu güderim",
+        "İkimizi görmüşler",
+        "Nasıl inkâr edeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Ay anam ay bubam da nar yemeli",
+        "Sarı saçlı güzellere yar demeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atladım bağdan bağa",
+        "Elim değdi yaprağa",
+        "Gız ben seni almazsam",
+        "Girmem kara toprağa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dere%20Boyu%20Giderim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dere%20Boyu%20Giderim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dere Boyu Giderim",
+      "url": "https://tr.wikisource.org/wiki/Dere_Boyu_Giderim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

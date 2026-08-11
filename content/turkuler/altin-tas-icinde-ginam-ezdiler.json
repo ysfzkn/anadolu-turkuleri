@@ -1,0 +1,45 @@
+{
+  "slug": "altin-tas-icinde-ginam-ezdiler",
+  "baslik": "Altın Tas İçinde Gınam Ezdiler",
+  "yore": "Kütahya",
+  "hikaye": "Altın Tas İçinde Gınam Ezdiler, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın tas içinde gınam ezdiler (aman aman aman ey)",
+        "Gümüş tarak ile zülfüm çözdüler (aman aman aman ey)",
+        "Yatsıya varmadan başım bozdular (aman aman aman ey)",
+        "Irak yakın dime aman gel bana (aman aman aman ey)",
+        "Kızım işkence çeker deye ağlama (aman aman aman ey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Alt%C4%B1n%20Tas%20%C4%B0%C3%A7inde%20G%C4%B1nam%20Ezdiler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Alt%C4%B1n%20Tas%20%C4%B0%C3%A7inde%20G%C4%B1nam%20Ezdiler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Altın Tas İçinde Gınam Ezdiler",
+      "url": "https://tr.wikisource.org/wiki/Alt%C4%B1n_Tas_%C4%B0%C3%A7inde_G%C4%B1nam_Ezdiler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

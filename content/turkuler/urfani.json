@@ -1,0 +1,53 @@
+{
+  "slug": "urfani",
+  "baslik": "Urfanî",
+  "yore": "Mersin",
+  "hikaye": "Urfanî, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın, söyleyin urfaniye'ye de yarın öğmesin (yar yar yar)",
+        "Çözemedi kak göğsünün düğmesini (guzum a guzum)",
+        "Topla kekilini yere değmesin (canım a canım)",
+        "Uz bas gunduranı yer incimesin (of yar ey hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzak yoldan geldim de gayet yorgunum (yar yar yar)",
+        "Ben de senin elâ gözlerina kurbanım (guzum a guzum)",
+        "Sen de küstü isen ben de dargınım (yar yar yar)",
+        "Şaşar bildiğinden kul bazı bazı (guzum a guzum)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Urfan%C3%AE%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Urfan%C3%AE",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Urfanî",
+      "url": "https://tr.wikisource.org/wiki/Urfan%C3%AE",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

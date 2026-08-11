@@ -1,0 +1,97 @@
+{
+  "slug": "leylamin-bakislari",
+  "baslik": "Leylam'ın Bakışları",
+  "yore": "Bolu",
+  "hikaye": "Leylam'ın Bakışları, Vikikaynak'ın Bolu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bolu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam'ın bakışları",
+        "Ferman okur kaşları",
+        "Leyla'mın bakışları",
+        "Ferman okur kaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam bize gelmezse",
+        "Aksın gözün yaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyla, Leyla, Leyla, Leyla",
+        "Leyla, Leyla, Leyla, Leyla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odana kireç eyle",
+        "Yüzünü güleç eyle",
+        "Odana kireç eyle",
+        "Yüzünü güleç eyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derdinden verem oldum",
+        "Gel bana ilaç eyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyla, Leyla, Leyla, Leyla",
+        "Leyla, Leyla, Leyla, Leyla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam senin gözlerin",
+        "Şeker midir sözlerin",
+        "Leylam senin gözlerin",
+        "Şeker midir sözlerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam bana gelmezsen",
+        "Kör olaydı gözlerin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Leylam'%C4%B1n%20Bak%C4%B1%C5%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Leylam'%C4%B1n%20Bak%C4%B1%C5%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Leylam'ın Bakışları (Bolu)",
+      "url": "https://tr.wikisource.org/wiki/Leylam'%C4%B1n_Bak%C4%B1%C5%9Flar%C4%B1_(Bolu)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bolu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

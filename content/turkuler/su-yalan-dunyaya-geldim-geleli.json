@@ -1,0 +1,71 @@
+{
+  "slug": "su-yalan-dunyaya-geldim-geleli",
+  "baslik": "Şu Yalan Dünyaya Geldim Geleli",
+  "yore": "Tunceli",
+  "hikaye": "Şu Yalan Dünyaya Geldim Geleli, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu yalan dünyaya geldim geleli (geldim geleli)",
+        "Tas tas içtim ağuları sağ iken (hey can sağ iken)",
+        "Kahpe felek vermez benim muradım",
+        "Viran koydu mor sünbüllü bağ iken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aradılar bir tenhada buldular (canan buldular)",
+        "Yaslandılar gıvdılarım gırdılar (hey dost gırdılar)",
+        "Yaz bahar ayında (hey dost) bir od verdiler",
+        "Yandım gittim anam garlı dağ iken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ganmaz (da) deli gönül ganmaz (canan ganmaz)",
+        "Akar gözlerimin yaşı gurumaz (canan gurumaz)",
+        "Senden geru benim (benim) fikrim yörümez",
+        "Azil oldum güzellere bey iken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karacaoğlan der ki bakın geline (canan geline)",
+        "Ömrümün yarısı gitti talana (gitti talana)",
+        "Selam eyle benden (hey dost) evvel gelene",
+        "Kim var imiş biz burada yok iken"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Yalan%20D%C3%BCnyaya%20Geldim%20Geleli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Yalan%20D%C3%BCnyaya%20Geldim%20Geleli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Yalan Dünyaya Geldim Geleli (Tunceli)",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Yalan_D%C3%BCnyaya_Geldim_Geleli_(Tunceli)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

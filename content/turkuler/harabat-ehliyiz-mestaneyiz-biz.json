@@ -1,0 +1,65 @@
+{
+  "slug": "harabat-ehliyiz-mestaneyiz-biz",
+  "baslik": "Harabat Ehliyiz Mestaneyiz Biz",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Harabat Ehliyiz Mestaneyiz Biz, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harabat ehliyiz mestaneyiz biz",
+        "Alemin nadanı biganeyiz biz",
+        "Vahdet şarabından içmek istersen",
+        "Bizden iç şarabı meyhaneyiz biz",
+        "Ali dost veli dost da deli dost"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Serimizden esen sevda yelidir",
+        "Bizi harap eden aşkın selidir",
+        "Muhabbet kevserdir saki ali'dir",
+        "Ol saki elinden mestaneyiz biz",
+        "Ali dost veli dost da deli dost"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nihad güller açmış dostun bağında",
+        "Güneşler yayılmış her çırağında",
+        "Muhabbet bezminden yar otağında",
+        "Nazımız çekilir cananıyız biz",
+        "Ali dost veli dost da deli dost"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harabat%20Ehliyiz%20Mestaneyiz%20Biz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harabat%20Ehliyiz%20Mestaneyiz%20Biz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Harabat Ehliyiz Mestaneyiz Biz",
+      "url": "https://tr.wikisource.org/wiki/Harabat_Ehliyiz_Mestaneyiz_Biz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

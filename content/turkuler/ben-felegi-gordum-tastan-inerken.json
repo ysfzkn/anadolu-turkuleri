@@ -1,0 +1,34 @@
+{
+  "slug": "ben-felegi-gordum-tastan-inerken",
+  "baslik": "Ben Feleği Gördüm Taştan İnerken",
+  "yore": "Bayburt",
+  "hikaye": "Ben Feleği Gördüm Taştan İnerken, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Fele%C4%9Fi%20G%C3%B6rd%C3%BCm%20Ta%C5%9Ftan%20%C4%B0nerken%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Fele%C4%9Fi%20G%C3%B6rd%C3%BCm%20Ta%C5%9Ftan%20%C4%B0nerken",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Feleği Gördüm Taştan İnerken",
+      "url": "https://tr.wikisource.org/wiki/Ben_Fele%C4%9Fi_G%C3%B6rd%C3%BCm_Ta%C5%9Ftan_%C4%B0nerken",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "anonim",
+    "açık arşiv"
+  ]
+}

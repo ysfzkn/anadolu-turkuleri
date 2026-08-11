@@ -1,0 +1,71 @@
+{
+  "slug": "beyoglunda-gezersin",
+  "baslik": "Beyoğlu'nda Gezersin",
+  "yore": "İstanbul",
+  "hikaye": "Beyoğlu'nda Gezersin, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyoğlu'nda gezersin",
+        "Gözlerini süzersin",
+        "Sevdiceğim yavrucağım",
+        "Niçin niçin beni üzersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah ah fıkır fıkır fıkırdama",
+        "Gel bana gel",
+        "Ah ah şıkır şıkır şıkırdama",
+        "Gel bana gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi boncuk takarsın",
+        "Çok canları yakarsın",
+        "Sevdiceğim yavrucağım",
+        "Niçin niçin benden kaçarsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah ah fıkır fıkır fıkırdama",
+        "Gel bana gel",
+        "Ah ah şıkır şıkır şıkırdama",
+        "Gel bana gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Beyo%C4%9Flu'nda%20Gezersin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Beyo%C4%9Flu'nda%20Gezersin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beyoğlu'nda Gezersin",
+      "url": "https://tr.wikisource.org/wiki/Beyo%C4%9Flu'nda_Gezersin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

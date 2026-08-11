@@ -1,0 +1,59 @@
+{
+  "slug": "gonul-gel-varalim",
+  "baslik": "Gönül Gel Varalım",
+  "yore": "Tokat",
+  "hikaye": "Gönül Gel Varalım, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül gel varalım gülşen bağına",
+        "Muradın yar ise bir tane yeter",
+        "Dünya fani değil hikmetine bak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turabi özünü payimal eyle",
+        "Gahi erenlerden kesb-i kâr eyle",
+        "Hele şu dünyayı bir hayal eyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelip konan göçtü nişane yeter",
+        "Hele şu dünyayı bir hayal eyle",
+        "Ariflere bir söz bahane yeter"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6n%C3%BCl%20Gel%20Varal%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6n%C3%BCl%20Gel%20Varal%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gönül Gel Varalım",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6n%C3%BCl_Gel_Varal%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

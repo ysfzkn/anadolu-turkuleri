@@ -1,0 +1,67 @@
+{
+  "slug": "adatepe",
+  "baslik": "Adatepe",
+  "yore": "Malatya",
+  "hikaye": "Adatepe, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adatepe Adatepe",
+        "Yağmur yağar sere serpe",
+        "Asiye'yi sele verdik",
+        "Daha yavruları körpe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asiye'yi sele verdik",
+        "Yavruları galdı körpe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu vali de ağır vali",
+        "Gumandanı çağır vali",
+        "Gelinleri su götürmüş",
+        "Askerleri goyur vali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinleri su götürmüş",
+        "Askerleri goyur vali"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adatepe%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adatepe",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Adatepe",
+      "url": "https://tr.wikisource.org/wiki/Adatepe",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

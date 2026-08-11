@@ -116,6 +116,8 @@ export default function RootLayout({
               <nav aria-label="Alt menü" className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-sm">
                 <Link href="/" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Türkü arşivi</Link>
                 <Link href="/quiz" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Anadolu oyunları</Link>
+                <Link href="/soy-agaci" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Türkü soy ağacı</Link>
+                <Link href="/katki" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Arşive katkı ver</Link>
                 <Link href="/hakkinda" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Yöntem ve kaynaklar</Link>
               </nav>
             </div>

@@ -1,0 +1,34 @@
+{
+  "slug": "ekin-ektim-collere",
+  "baslik": "Ekin Ektim Çöllere",
+  "yore": "Niğde",
+  "hikaye": "Ekin Ektim Çöllere, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ekin%20Ektim%20%C3%87%C3%B6llere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ekin%20Ektim%20%C3%87%C3%B6llere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ekin Ektim Çöllere (Niğde)",
+      "url": "https://tr.wikisource.org/wiki/Ekin_Ektim_%C3%87%C3%B6llere_(Ni%C4%9Fde)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "kara-biber-as-mi-olur",
+  "baslik": "Kara Biber Aş mı Olur",
+  "yore": "Aksaray",
+  "hikaye": "Kara Biber Aş mı Olur, Vikikaynak'ın Aksaray türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aksaray yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiber aşm’olur (Hele hele hele yandım yar (aman)",
+        "Bundan güzel kaş m’olur (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim biberim biberim",
+        "Top top şekerim şekerim şekerim",
+        "Nasıl edelim edelim edelim",
+        "Nereye gidelim gidelim gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiber aş için (Hele hele hele yandım yar (aman)",
+        "Yandım hilal kaş için (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim biberim biberim",
+        "Top top şekerim şekerim şekerim",
+        "Nasıl edelim edelim edelim",
+        "Nereye gidelim gidelim gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yolda buldum bir mülle (Hele hele hele yar (aman)",
+        "Yar gelir güle güle (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim biberim biberim",
+        "Top top şekerim şekerim şekerim",
+        "Nasıl edelim edelim edelim",
+        "Nereye gidelim gidelim gidelim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kara%20Biber%20A%C5%9F%20m%C4%B1%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kara%20Biber%20A%C5%9F%20m%C4%B1%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kara Biber Aş mı Olur",
+      "url": "https://tr.wikisource.org/wiki/Kara_Biber_A%C5%9F_m%C4%B1_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aksaray",
+    "anonim",
+    "açık arşiv"
+  ]
+}

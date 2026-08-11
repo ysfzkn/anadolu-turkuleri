@@ -1,0 +1,57 @@
+{
+  "slug": "hey-on-besli",
+  "baslik": "Hey On Beşli",
+  "yore": "Tokat",
+  "hikaye": "Hey On Beşli, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey on beşli on beşli",
+        "Tokat yolları taşlı",
+        "On beşliler geliyor/gidiyor",
+        "Kızların gözü yaşlıAslan yarim kız senin adın HediyeBen dolandım sen de dolan gel gediğeFistan aldım endazesi on yediye",
+        "Giderim ilinizden",
+        "Kurtulam dilinizden",
+        "Yeşil baş ördek olsam",
+        "Su içmem gölünüzden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom gidemiyom",
+        "Sevdim fark edemiyom",
+        "Sevdiğim pek gönüllü",
+        "Gönlünü edmiyom"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hey%20On%20Be%C5%9Fli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hey%20On%20Be%C5%9Fli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hey On Beşli",
+      "url": "https://tr.wikisource.org/wiki/Hey_On_Be%C5%9Fli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

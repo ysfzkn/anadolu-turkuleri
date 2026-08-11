@@ -1,0 +1,71 @@
+{
+  "slug": "zeytin-yapragi-yesil",
+  "baslik": "Zeytin Yaprağı Yeşil",
+  "yore": "Kilis",
+  "hikaye": "Zeytin Yaprağı Yeşil, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zeytin yaprağı yeşil (aman bir yar elinden)",
+        "Altında kahve pişir (yandım bir yar elinden)",
+        "Beni sana vermezler (aman da bir yar elinden)",
+        "Aklın başına devşir (oy nerelere gidem elinden)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman bir yar elinden yar eli yar elinden",
+        "Oy seni sallamayım da bir yar elinden",
+        "Zülfünün telinden oy nerelere gidem elinden",
+        "Aman bir yar elinden yar eli yar elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar bahçeye girdin mi",
+        "Sevdiğini gördün mü",
+        "Sevdiğini görünce",
+        "Saçlarını ördün mü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman bir yar elinden yar eli yar elinden",
+        "Oy seni sallamayım da bir yar elinden",
+        "Zülfünün telinden oy nerelere gidem elinden",
+        "Aman bir yar elinden yar eli yar elinden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zeytin%20Yapra%C4%9F%C4%B1%20Ye%C5%9Fil%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zeytin%20Yapra%C4%9F%C4%B1%20Ye%C5%9Fil",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zeytin Yaprağı Yeşil",
+      "url": "https://tr.wikisource.org/wiki/Zeytin_Yapra%C4%9F%C4%B1_Ye%C5%9Fil",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

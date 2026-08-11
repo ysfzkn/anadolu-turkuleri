@@ -1,0 +1,67 @@
+{
+  "slug": "fincani-tastan-oyarlar-trabzon",
+  "baslik": "Fincanı Taştan Oyarlar",
+  "yore": "Trabzon",
+  "hikaye": "Fincanı Taştan Oyarlar, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanı taştan oyarlar (aman aman)",
+        "İçine bade koyarlar",
+        "Güzeli candan severler (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman kız yaman kız yandırdın beni",
+        "Naz ettin göz ettin (yavrum) kandırdın beni",
+        "Peçeni görmeden öldürdün beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanı rafa dizerim (aman aman)",
+        "Yârimden ayrı gezerim",
+        "İnan ki candan bezerim (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman kız yaman kız yandırdın beni",
+        "Naz ettin göz ettin (yavrum) kandırdın beni",
+        "Peçeni görmeden öldürdün beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fincan%C4%B1%20Ta%C5%9Ftan%20Oyarlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fincan%C4%B1%20Ta%C5%9Ftan%20Oyarlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fincanı Taştan Oyarlar (Trabzon)",
+      "url": "https://tr.wikisource.org/wiki/Fincan%C4%B1_Ta%C5%9Ftan_Oyarlar_(Trabzon)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

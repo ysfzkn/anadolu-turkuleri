@@ -1,0 +1,89 @@
+{
+  "slug": "cayir-ince-bicemedim",
+  "baslik": "Çayır İnce Biçemedim",
+  "yore": "Konya",
+  "hikaye": "Çayır İnce Biçemedim, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayır ince biçemedim",
+        "Çayır ince biçemedim",
+        "Soğuk sudan içemedim",
+        "Soğuk sudan içemedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana yârdan geç diyorlar",
+        "Bana yârdan geç diyorlar",
+        "Yâr tatlıdır geçemedim",
+        "Yâr tatlıdır geçemedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ben yandım",
+        "Paşam ben yandım",
+        "Ellerin sözüne inandım kaldım",
+        "Meram bağlarında şaşırdım kaldım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinizden elinizden",
+        "Elinizden elinizden",
+        "Bir kurtulsam dilinizden",
+        "Bir kurtulsam dilinizden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil başlı ördek olsam",
+        "Yeşil başlı ördek olsam",
+        "Sular içmem gölünüzden",
+        "Sular içmem gölünüzden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ben yandım",
+        "Paşam ben yandım",
+        "Ellerin sözüne inandım kaldım",
+        "Meram bağlarında şaşırdım kaldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ay%C4%B1r%20%C4%B0nce%20Bi%C3%A7emedim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ay%C4%B1r%20%C4%B0nce%20Bi%C3%A7emedim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çayır İnce Biçemedim (Konya)",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ay%C4%B1r_%C4%B0nce_Bi%C3%A7emedim_(Konya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

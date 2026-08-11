@@ -1,0 +1,107 @@
+{
+  "slug": "kaptasin-alti-bayir",
+  "baslik": "Kaptaşın Altı Bayır",
+  "yore": "Zonguldak",
+  "hikaye": "Kaptaşın Altı Bayır, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaptaş'ın altı bayır",
+        "yanıyom cayır cayır",
+        "Ana beni evlendir",
+        "hem sevaptır hem hayır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abenim dedecüğüm",
+        "Yanıyor yürecüğüm",
+        "Yürecüğüm yanariken",
+        "Oh deyve evlatcuğum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alaplı'nın üstünden",
+        "Karga geçiyor karga",
+        "Kız benseni alacam",
+        "Dalga geçmiyom dalga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abenim söm söm yavrum",
+        "Bi yolcuk öpsem yavrum",
+        "Öpmeynen bi şey olmaz",
+        "Birazcuk sevsem yavrum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan gelen atlı",
+        "Ne suratlı suratlı",
+        "Senin o yanacuğun",
+        "Elmadan daha tatlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vur davulcu davula",
+        "İnim inim inlesin",
+        "Sevdiğini almayan",
+        "Ben evlendim demesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derenin kenerında",
+        "Yılana bak yılana",
+        "Söz veripte gelmedin",
+        "Yalana bak yalana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yılan iner kayadan",
+        "Ben ölmem bu yaradan",
+        "Başkabir yarin varsa",
+        "Ben çıkıverem aradan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kapta%C5%9F%C4%B1n%20Alt%C4%B1%20Bay%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kapta%C5%9F%C4%B1n%20Alt%C4%B1%20Bay%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaptaşın Altı Bayır",
+      "url": "https://tr.wikisource.org/wiki/Kapta%C5%9F%C4%B1n_Alt%C4%B1_Bay%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "portakalim-tekerlendi",
+  "baslik": "Portakalım Tekerlendi",
+  "yore": "Mersin",
+  "hikaye": "Portakalım Tekerlendi, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Portakalım tekerlendi",
+        "Yedik sıra şekerlendi (aman gidelim yar)",
+        "Benim yarim siperlendi",
+        "Gel benim zülfi siyahım (aman kaçalım yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Portakalım soyamadım",
+        "Yemesine doyamadım (aman gidelim yar)",
+        "Küçücükten bir yar sevdim",
+        "Cilvesine doyamadım (aman kaçalım yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Portakalım taş üstüne",
+        "Kalem oynar kaş üstüne (aman gidelim yar)",
+        "Her ne dersen baş üstüne",
+        "Gel benim zülfi siyahım (aman kaçalım yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Portakalım sıra saza",
+        "İndi gitti toza toza (aman gidelim yar)",
+        "Benim gönlüm küçük kıza",
+        "Gel benim zülfi siyahım(aman kaçalım yar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Portakal%C4%B1m%20Tekerlendi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Portakal%C4%B1m%20Tekerlendi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Portakalım Tekerlendi",
+      "url": "https://tr.wikisource.org/wiki/Portakal%C4%B1m_Tekerlendi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

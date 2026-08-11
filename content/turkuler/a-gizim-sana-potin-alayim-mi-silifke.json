@@ -1,0 +1,85 @@
+{
+  "slug": "a-gizim-sana-potin-alayim-mi-silifke",
+  "baslik": "A Gızım Sana Potin Alayım mı (Silifke)",
+  "yore": "Mersin",
+  "hikaye": "A Gızım Sana Potin Alayım mı (Silifke), Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana potin alayım mı",
+        "A çocuk sana",
+        "Sen deli m'oldun a ellerin yarı",
+        "Aman nerelerine de işte şuralarına",
+        "Yavrum nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana fistan alayım mı",
+        "A çocuk sana",
+        "Sen deli m'oldun a ellerin yarı",
+        "Aman nerelerine de işte şuralarına",
+        "Yavrum nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana guşşağ alayım mı",
+        "A çocuk sana",
+        "Sen deli m'oldun a ellerin yarı",
+        "Aman nerelerine de işte şuralarına",
+        "Yavrum nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana çember alayım mı",
+        "A çocuk sana",
+        "Sen deli m'oldun a ellerin yarı",
+        "Aman nerelerine de işte şuralarına",
+        "Yavrum nerelerine de işte şuralarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A gızım sana gıreb alayım mı",
+        "A çocuk sana",
+        "Sen deli m'oldun a ellerin yarı",
+        "Aman nerelerine de işte şuralarına",
+        "Yavrum nerelerine de işte şuralarına"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20G%C4%B1z%C4%B1m%20Sana%20Potin%20Alay%C4%B1m%20m%C4%B1%20(Silifke)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20G%C4%B1z%C4%B1m%20Sana%20Potin%20Alay%C4%B1m%20m%C4%B1%20(Silifke)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Gızım Sana Potin Alayım mı (Silifke)",
+      "url": "https://tr.wikisource.org/wiki/A_G%C4%B1z%C4%B1m_Sana_Potin_Alay%C4%B1m_m%C4%B1_(Silifke)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

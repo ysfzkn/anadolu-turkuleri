@@ -1,0 +1,71 @@
+{
+  "slug": "bulbuller-dugun-eyler",
+  "baslik": "Bülbüller Düğün Eyler",
+  "yore": "Şanlıurfa",
+  "hikaye": "Bülbüller Düğün Eyler, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbüller düğün eyler",
+        "Bilmem ki ne gün eyler",
+        "Ben feleğe neyledim",
+        "Bana bildiğin eyler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbülüm neva bilmem",
+        "Dertliyim deva bilmem",
+        "Bana bir sevda geldi",
+        "Başımdan savabilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağın karı menem",
+        "Gün vursa erimenem",
+        "Yedi yıl yerde yatsam",
+        "Aşığam çürümenem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağın dudu benden",
+        "Geçmez aşk odu benden",
+        "Gördü yaram sağalmaz",
+        "Tabib el yudu benden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCller%20D%C3%BC%C4%9F%C3%BCn%20Eyler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCller%20D%C3%BC%C4%9F%C3%BCn%20Eyler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bülbüller Düğün Eyler",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BClb%C3%BCller_D%C3%BC%C4%9F%C3%BCn_Eyler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

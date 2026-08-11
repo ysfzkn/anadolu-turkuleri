@@ -1,0 +1,62 @@
+{
+  "slug": "su-uzun-gecenin-gecesi-olsam",
+  "baslik": "Şu Uzun Gecenin Gecesi Olsam",
+  "yore": "Çorum",
+  "hikaye": "Şu Uzun Gecenin Gecesi Olsam, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu uzun gecenin gecesi olsam",
+        "Sılada bir evin bacası olsam (anan anam anam)",
+        "Dediler ki nazlı yârin pek hasta",
+        "Başında okuyan hocası olsam (anan anam anam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü üç ağaç çınar",
+        "Dillerim tutuşur yüreğim yanar (anan anam anam)",
+        "Eşinden ayrılan böyle mi yanar",
+        "Anam anam hangi derdime yanam (anan anam anam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kâtipler oturmuş yazıya bakmaz",
+        "Herkes sevdiğini dilden bırakmaz (anan anam anam)",
+        "Hey Allah’tan korkmaz, kuldan utanmaz",
+        "Gönül defterinden sildin mi beni (anan anam anam)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Uzun%20Gecenin%20Gecesi%20Olsam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Uzun%20Gecenin%20Gecesi%20Olsam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Uzun Gecenin Gecesi Olsam",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Uzun_Gecenin_Gecesi_Olsam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

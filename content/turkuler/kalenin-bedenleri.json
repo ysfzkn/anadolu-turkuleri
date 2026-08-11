@@ -1,0 +1,52 @@
+{
+  "slug": "kalenin-bedenleri",
+  "baslik": "Kalenin Bedenleri",
+  "yore": "Tokat",
+  "hikaye": "Kalenin Bedenleri, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin bedenleri yâr yâr yâr yandım",
+        "Koy verin gidenleri ninanay canım ninanay nay",
+        "İpek bürük bürünmüş yâr yandım ninanay nay",
+        "Niksar'ın fidanları ninanay canım ninanay nay",
+        "::Hoppa nina ninanay ninanay nay ninanay canım da ninanay",
+        "::Hoppa nina ninanay ninanay nay ninanay canım da ninanay",
+        "Kaleden iniyorum yâr yâr yâr yandım",
+        "Çağırsan dönüyorum ninanay canım ninanay nay",
+        "Âşkından kibrit oldum yâr yandım ninanay nay",
+        "Üfürsen yanıyorum ninanay canım ninanay nay",
+        "::Hoppa nina ninanay ninanay nay ninanay canım da ninanay",
+        "::Hoppa nina ninanay ninanay nay ninanay canım da ninanay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kalenin%20Bedenleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kalenin%20Bedenleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kalenin Bedenleri",
+      "url": "https://tr.wikisource.org/wiki/Kalenin_Bedenleri",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

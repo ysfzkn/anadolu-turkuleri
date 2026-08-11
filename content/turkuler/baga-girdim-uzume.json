@@ -1,0 +1,105 @@
+{
+  "slug": "baga-girdim-uzume",
+  "baslik": "Bağa Girdim Üzüme",
+  "yore": "Niğde",
+  "hikaye": "Bağa Girdim Üzüme, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa girdim üzüme (oğlan oğlan oğlana)",
+        "Çubuk değdi gözüme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım şeker oğlana",
+        "Malım mülküm oğlana",
+        "Samur kürküm oğlana",
+        "Sandık sepet oğlana",
+        "Altın elmas oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben yârimi tanırım (oğlan oğlan oğlana)",
+        "Çok sadıktır sözüne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım şeker oğlana",
+        "Malım mülküm oğlana",
+        "Samur kürküm oğlana",
+        "Sandık sepet oğlana",
+        "Altın elmas oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa girdim budanmış (oğlan oğlan oğlana)",
+        "Güle bülbül dadanmış"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım şeker oğlana",
+        "Malım mülküm oğlana",
+        "Samur kürküm oğlana",
+        "Sandık sepet oğlana",
+        "Altın elmas oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yâri benim sanırdım (oğlan oğlan oğlana)",
+        "Ona eller dadanmış",
+        "Yandım şeker oğlana",
+        "Malım mülküm oğlana",
+        "Samur kürküm oğlana",
+        "Sandık sepet oğlana",
+        "Altın elmas oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa girdim üzüm yok (oğlan oğlan oğlana)",
+        "El yârinde gözüm yok"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C4%9Fa%20Girdim%20%C3%9Cz%C3%BCme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C4%9Fa%20Girdim%20%C3%9Cz%C3%BCme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bağa Girdim Üzüme",
+      "url": "https://tr.wikisource.org/wiki/Ba%C4%9Fa_Girdim_%C3%9Cz%C3%BCme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "bulbul-dala-konmus-sanar-ki-yazdir",
+  "baslik": "Bülbül Dala Konmuş Sanar ki Yazdır",
+  "yore": "Tunceli",
+  "hikaye": "Bülbül Dala Konmuş Sanar ki Yazdır, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül dala konmuş sanar ki yazdır,",
+        "Güzel yâr başın çün bir nâme yazdır,",
+        "Yazmaz isen bana bir mezar kazdır,",
+        "Dünya malı görünmüyor gözüme uy uy uy aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Âşık olan devam eder meşkine,",
+        "Bülbül konmuş sarayının köşküne,",
+        "Bir nazar et Yaradan’ın aşkına,",
+        "Bu dünyada ayrılık var ölüm var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derya kenarında balık avlarım,",
+        "Dertlerimi sarı tele bağlarım,",
+        "Hasretinden çaylar gibi çağlarım,",
+        "Güzel yâr adına bağlandı gönül."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül taş üstüne döker yaşını,",
+        "Nere alıp gidem dertli başımı,",
+        "Dünyada zehir ettiler bana aşımı,",
+        "Derdime derman ararım dağda."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arşa çıkar âşıkların duası,",
+        "Yıkılmıştır şu gönlümün binası,",
+        "Her yiğidin elbet vardır bir de Leylası,",
+        "Ben de karlı dağları aşıp giderim."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCl%20Dala%20Konmu%C5%9F%20Sanar%20ki%20Yazd%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCl%20Dala%20Konmu%C5%9F%20Sanar%20ki%20Yazd%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bülbül Dala Konmuş Sanar ki Yazdır",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BClb%C3%BCl_Dala_Konmu%C5%9F_Sanar_ki_Yazd%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

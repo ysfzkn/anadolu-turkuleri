@@ -1,0 +1,56 @@
+{
+  "slug": "arpa-ektim-bicemedim",
+  "baslik": "Arpa Ektim Biçemedim",
+  "yore": "Van",
+  "hikaye": "Arpa Ektim Biçemedim, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpa ektim biçemedim",
+        "Bir düş gördüm seçemedim",
+        "Alışmıştım soğuk suya",
+        "Issı sular içemedim",
+        "Allı gelin pullu gelin Bir su ver içeyim gelin Bu güzellik sende varken Beşi birlik takan gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali Paşa geyer kürkü",
+        "Yarı sansar yarı tilki",
+        "Ali Paşa burdan gitti",
+        "Yığılsın Van’ın mülkü",
+        "NAKARAT",
+        "Üç atım var biri yedek Arkadaşlar binin gidek Ali Paşa’yı vurmuşlar Yavrusuna haber verek"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arpa%20Ektim%20Bi%C3%A7emedim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arpa%20Ektim%20Bi%C3%A7emedim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arpa Ektim Biçemedim",
+      "url": "https://tr.wikisource.org/wiki/Arpa_Ektim_Bi%C3%A7emedim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "anonim",
+    "açık arşiv"
+  ]
+}

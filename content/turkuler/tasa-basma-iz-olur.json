@@ -1,0 +1,67 @@
+{
+  "slug": "tasa-basma-iz-olur",
+  "baslik": "Taşa Basma İz Olur",
+  "yore": "Kayseri",
+  "hikaye": "Taşa Basma İz Olur, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taşa basma iz olur",
+        "(Aman) kız kunduran toz olur (aman)",
+        "Gel buradan gidelim",
+        "(Aman) eller duyar söz olur (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim de kınalı da kekliğim (aman)",
+        "Yollarını nerelerde bekleyim (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taşa basma tanırlar",
+        "(Aman) seni yolcu sanırlar (aman)",
+        "Gel buradan gidelim",
+        "(Aman) seni benden alırlar (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim de kınalı da kekliğim (aman)",
+        "Yollarını nerelerde bekleyim (aman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ta%C5%9Fa%20Basma%20%C4%B0z%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ta%C5%9Fa%20Basma%20%C4%B0z%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Taşa Basma İz Olur",
+      "url": "https://tr.wikisource.org/wiki/Ta%C5%9Fa_Basma_%C4%B0z_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

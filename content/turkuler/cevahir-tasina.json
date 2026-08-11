@@ -1,0 +1,62 @@
+{
+  "slug": "cevahir-tasina",
+  "baslik": "Cevahir Taşına",
+  "yore": "Çorum",
+  "hikaye": "Cevahir Taşına, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cevahir taşına kıymet biçilmez",
+        "Bulup erbabına danışmayınca",
+        "Ezrail gelse de canım alamaz",
+        "Hasiret yerine kavuşmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay vay sürüm sürüm sürünesin vay",
+        "Aman dizin dizin sürünesin vay",
+        "Aman hazırda bir davam yok ki",
+        "Zalim aman dizin dizin sürünesin vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yürü dilber türü ömrümün varı",
+        "Eridi kalmadı dağların karı",
+        "Kendi gönlü ile sevemeyen yârim",
+        "Bir daha sevmeyim tövbeler olsun"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cevahir%20Ta%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cevahir%20Ta%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cevahir Taşına",
+      "url": "https://tr.wikisource.org/wiki/Cevahir_Ta%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

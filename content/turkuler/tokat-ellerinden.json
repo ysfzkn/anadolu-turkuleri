@@ -1,0 +1,62 @@
+{
+  "slug": "tokat-ellerinden",
+  "baslik": "Tokat Ellerinden",
+  "yore": "Gaziantep",
+  "hikaye": "Tokat Ellerinden, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tokat ellerinden babam aldım bakırı",
+        "İncitmeyin fukarayı fakiri",
+        "Boz bulanık seller gibi rakıyı",
+        "İçirin beylere ben gelene dek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir hozana",
+        "Merhamet etmeyin oyun bozana",
+        "Yetmiş batman pirinç küçük kazana",
+        "Yedirin beylere ha ben gelince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir Köroğlu'yum dağda gezerim",
+        "Esen rüzgarlarda hile sezerim",
+        "Demir kürüng ilen kafaz ezerim",
+        "İlişmen fakire ben gelene dek"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tokat%20Ellerinden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tokat%20Ellerinden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tokat Ellerinden",
+      "url": "https://tr.wikisource.org/wiki/Tokat_Ellerinden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

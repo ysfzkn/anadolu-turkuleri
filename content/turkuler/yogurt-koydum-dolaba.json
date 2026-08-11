@@ -1,0 +1,89 @@
+{
+  "slug": "yogurt-koydum-dolaba",
+  "baslik": "Yoğurt Koydum Dolaba",
+  "yore": "Gaziantep",
+  "hikaye": "Yoğurt Koydum Dolaba, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yoğurt koydum dolaba ellere vay",
+        "Yoğurt koydum dolaba ellere vay",
+        "Bugün başım kalaba bugün başım kalaba ellere vay",
+        "Bugün başım kalaba bugün başım kalaba ellere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seni doğuran ana ellere vay",
+        "Seni doğuran ana ellere vay",
+        "Olsun bana kaynana olsun bana kaynana ellere vay",
+        "Olsun bana kaynana olsun bana kaynana ellere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere cicom cicom ellere vay",
+        "Ellere cicom cicom ellere vay",
+        "Geyin pembe şalvarı sürünsün saçakları yerlere vay",
+        "Geyin pembe şalvarı sürünsün saçakları yerlere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaylı tas yoğurdu ellere vay",
+        "Kalaylı tas yoğurdu ellere vay",
+        "Seni kimler doğurdu seni kimler doğurdu ellere vay",
+        "Seni kimler doğurdu seni kimler doğurdu ellere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seni doğuran ana ellere vay",
+        "Seni doğuran ana ellere vay",
+        "Bal ile mi yoğurdu bal ile mi yoğurdu ellere vay",
+        "Bal ile mi yoğurdu bal ile mi yoğurdu ellere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere cicom cicom ellere vay",
+        "Ellere cicom cicom ellere vay",
+        "Geyin pembe şalvarı sürünsün saçakları yerlere vay",
+        "Geyin pembe şalvarı sürünsün saçakları yerlere vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yo%C4%9Furt%20Koydum%20Dolaba%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yo%C4%9Furt%20Koydum%20Dolaba",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yoğurt Koydum Dolaba (Gaziantep)",
+      "url": "https://tr.wikisource.org/wiki/Yo%C4%9Furt_Koydum_Dolaba_(Gaziantep)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

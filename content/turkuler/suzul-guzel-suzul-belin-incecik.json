@@ -1,0 +1,83 @@
+{
+  "slug": "suzul-guzel-suzul-belin-incecik",
+  "baslik": "Süzül Güzel Süzül Belin İncecik",
+  "yore": "Eskişehir",
+  "hikaye": "Süzül Güzel Süzül Belin İncecik, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Süzül güzel süzül belin incecik (aman amman sen kinim yari)",
+        "Bir yar sevdim o da güzel gencecik (amanın)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop te te telli",
+        "Kuşlarını kır te te telli",
+        "Bizi buralardan (aman) al çifte telli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Yürü güzel yürü belin süzülsün (aman amman sen kimin yari)",
+        "Beşibirlik ak gerdana dizilsin amanın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop te te telli",
+        "Kuşlarını kır te te telli",
+        "Bizi buralardan (aman) al çifte telli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Yürü güzel yürü tutam elinden (aman amman sen kimin yari)",
+        "Tenhalarda saram ince belinden (amanın)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop te te telli",
+        "Kuşlarını kır te te telli",
+        "Bizi buralardan (aman) al çifte telli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C3%BCz%C3%BCl%20G%C3%BCzel%20S%C3%BCz%C3%BCl%20Belin%20%C4%B0ncecik%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C3%BCz%C3%BCl%20G%C3%BCzel%20S%C3%BCz%C3%BCl%20Belin%20%C4%B0ncecik",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Süzül Güzel Süzül Belin İncecik",
+      "url": "https://tr.wikisource.org/wiki/S%C3%BCz%C3%BCl_G%C3%BCzel_S%C3%BCz%C3%BCl_Belin_%C4%B0ncecik",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "ati-olan-el-atina-biner-mi",
+  "baslik": "Atı Olan El Atına Biner mi",
+  "yore": "Kırşehir",
+  "hikaye": "Atı Olan El Atına Biner mi, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atı olan el atına biner mi",
+        "Yiğid olan ikrarından döner mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman vurgunum aman",
+        "Yoldan geldim yorgunum aman",
+        "Kara kaşa vurgunum aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gider de beş ardıma bakarım",
+        "Gözlerim de kanlı yaşlar dökerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman vurgunum aman",
+        "Yoldan geldim yorgunum aman",
+        "Kara kaşa vurgunum aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arap atın eyisine binerler aman",
+        "Güzellerin merd olanın severler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman vurgunum aman",
+        "Yoldan geldim yorgunum aman",
+        "Kara kaşa vurgunum aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=At%C4%B1%20Olan%20El%20At%C4%B1na%20Biner%20mi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/At%C4%B1%20Olan%20El%20At%C4%B1na%20Biner%20mi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Atı Olan El Atına Biner mi",
+      "url": "https://tr.wikisource.org/wiki/At%C4%B1_Olan_El_At%C4%B1na_Biner_mi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

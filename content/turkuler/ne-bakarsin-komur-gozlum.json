@@ -1,0 +1,56 @@
+{
+  "slug": "ne-bakarsin-komur-gozlum",
+  "baslik": "Ne Bakarsın Kömür Gözlüm",
+  "yore": "Eskişehir",
+  "hikaye": "Ne Bakarsın Kömür Gözlüm, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) ne bakarsın kömür (de) gözlüm kapıdan",
+        "Sensin beni doğru (da) yoldan sapıdan (hey suna boylum hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) yeyin at yoruldu gönül yorulmaz",
+        "El kızı bulunur (da) gardaş bulunmaz (hey suna boylum hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(ah) yeyin atın eyisine binerler",
+        "Binerler (de) su başına inerler (hey suna boylum hey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ne%20Bakars%C4%B1n%20K%C3%B6m%C3%BCr%20G%C3%B6zl%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ne%20Bakars%C4%B1n%20K%C3%B6m%C3%BCr%20G%C3%B6zl%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ne Bakarsın Kömür Gözlüm",
+      "url": "https://tr.wikisource.org/wiki/Ne_Bakars%C4%B1n_K%C3%B6m%C3%BCr_G%C3%B6zl%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

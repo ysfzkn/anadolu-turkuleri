@@ -1,0 +1,89 @@
+{
+  "slug": "elma-tekerlendi-yar",
+  "baslik": "Elma Tekerlendi Yar",
+  "yore": "Kilis",
+  "hikaye": "Elma Tekerlendi Yar, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma tekerlendi yar",
+        "Güzel şekerlendi yar",
+        "Elma tekerlendi yar",
+        "Güzel şekerlendi yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geline bak geline",
+        "Kına yakmış eline",
+        "Gelin küsmüş gidiyor",
+        "Babasının evine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kebabı közde gördüm",
+        "Sürmeyi gözde gördüm",
+        "Şükür olsun allah'a",
+        "Seni bu güz de gördüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geline bak geline",
+        "Kına yakmış eline",
+        "Gelin küsmüş gidiyor",
+        "Babasının evine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ceylanları sürmeli",
+        "Sevip zevkin sürmeli",
+        "Uygunsuzlar çıkarsa",
+        "Bu diyardan sürmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geline bak geline",
+        "Kına yakmış eline",
+        "Gelin küsmüş gidiyor",
+        "Babasının evine"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elma%20Tekerlendi%20Yar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elma%20Tekerlendi%20Yar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elma Tekerlendi Yar",
+      "url": "https://tr.wikisource.org/wiki/Elma_Tekerlendi_Yar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

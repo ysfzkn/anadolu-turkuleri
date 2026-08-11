@@ -1,0 +1,71 @@
+{
+  "slug": "beri-gel-beri-de-boyu-guzelim",
+  "baslik": "Beri Gel Beri de Boyu Güzelim",
+  "yore": "Malatya",
+  "hikaye": "Beri Gel Beri de Boyu Güzelim, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beri gel beride boyu güzelim",
+        "Alma yanağında kalma nazarım",
+        "Yol üstüne kazın benim mezarın",
+        "Yar gelip geçtikçe bana can gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armut ağacına da yaslanmıyasın",
+        "Yarim var diye de güvenmiyesin",
+        "El gızı dediğin uçan bir kuştur",
+        "Sakın sözlerinede inanmıyasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arguvanın yolu tozdur dumandır",
+        "Bizi böyle eden ahdı amandır",
+        "Ben giderim geleceğim gümandır",
+        "Onun için ağlar ağlar gezerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beri gel beri gel ben adam yemem",
+        "Saklarım sırrını ellere demem",
+        "Ellerin yarine benimsin demem",
+        "Benim desem şu yüreğim sızlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Beri%20Gel%20Beri%20de%20Boyu%20G%C3%BCzelim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Beri%20Gel%20Beri%20de%20Boyu%20G%C3%BCzelim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beri Gel Beri de Boyu Güzelim",
+      "url": "https://tr.wikisource.org/wiki/Beri_Gel_Beri_de_Boyu_G%C3%BCzelim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "halkali-seker-sam-fistik",
+  "baslik": "Halkalı Şeker Şam Fıstık",
+  "yore": "Eskişehir",
+  "hikaye": "Halkalı Şeker Şam Fıstık, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halkalı şeker şam fıstık",
+        "Aman arpalar gara gılçık",
+        "Eğer beni seversen",
+        "Aman al bohçanı yola çık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halkalı şeker hasiretlik çeker",
+        "Çok salınma güzel yarim",
+        "Cahilim aklim gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bu yerde haneyim",
+        "Aman yel vurmuş pervaneyim",
+        "Gidin soylen o yâre",
+        "Amanın derdinden divaneyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halkalı şeker hasiretlik çeker",
+        "Çok sallanma güzel yarim",
+        "Cahilim aklim gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Galabak dereleri",
+        "Aman yayılır develeri",
+        "Kalkı da vermiş oynarlar",
+        "Amanın şu gırka efeleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halkalı şeker hasiretlik çeker",
+        "Çok sallanma güzel yarim",
+        "Cahilim aklim gider"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Halkal%C4%B1%20%C5%9Eeker%20%C5%9Eam%20F%C4%B1st%C4%B1k%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Halkal%C4%B1%20%C5%9Eeker%20%C5%9Eam%20F%C4%B1st%C4%B1k",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Halkalı Şeker Şam Fıstık",
+      "url": "https://tr.wikisource.org/wiki/Halkal%C4%B1_%C5%9Eeker_%C5%9Eam_F%C4%B1st%C4%B1k",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "adam-agladan-oldum",
+  "baslik": "Adam Ağladan Oldum",
+  "yore": "Erzincan",
+  "hikaye": "Adam Ağladan Oldum, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adam ağladan oldum",
+        "Ciğer dağladan oldum",
+        "Evvel baş bağlar idim",
+        "Şimdi bağladan oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı",
+        "Duran ağabey Duran ağabey",
+        "Evine gelin olam",
+        "Duran ağabey Duran ağabey",
+        "Gulun gurbanın olam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlara ektim ekin",
+        "Gaybettim elimdekin",
+        "Ne dostum ne düşmanım",
+        "Olmasın benim tekim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Zülüf sıra yüz örtmez",
+        "Sevda serimden gitmez",
+        "Senin bana ettiğin",
+        "Gavur İslâma etmez"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adam%20A%C4%9Fladan%20Oldum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adam%20A%C4%9Fladan%20Oldum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Adam Ağladan Oldum",
+      "url": "https://tr.wikisource.org/wiki/Adam_A%C4%9Fladan_Oldum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

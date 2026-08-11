@@ -1,0 +1,101 @@
+{
+  "slug": "anama-soyleyin-damda-yatmasin",
+  "baslik": "Anama Söyleyin Damda Yatmasın",
+  "yore": "Gaziantep",
+  "hikaye": "Anama Söyleyin Damda Yatmasın, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anama söyleyin damda yatmasın",
+        "Çuha şalvarıma uçkur takmasın",
+        "Oğlum gelir deyi yola bakmasın",
+        "Vurun Türk uşağı namus günüdür",
+        "Şahin'i sorarsan otuz yaşındaSüngüyle delindi köprü başında Çeteler oturmuş ağlar başında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uyan Şahin uyan gör neler oldu",
+        "Sevgili Antep'e düşmanlar doldu",
+        "Anama söyleyin malımı satsın Kanlı gömleğimi bağrına bassın Nişanlım güzeldir kardaşım alsın Kardaşım almazsa ellere kalsınUyan Şahin uyan..."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şahin Bey düşmana ilk kurban oldu",
+        "Fransız kuvveti Antep'e doldu",
+        "Analar, bacılar saçların yoldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uyan Şahin uyan uyanmaz mısın?",
+        "Diz çöküp düşmana dayanmaz mısın?",
+        "Al kızıl kanlara boyanmaz mısın?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uyan Şahin uyan yaran çok mudur?",
+        "Düşmandan öcünü alan yok mudur?",
+        "Saplanan bağrına yoksa ok mudur?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şahin Bey vuruldu yollar açıldı.",
+        "Antep'in üstüne matem saçıldı",
+        "Birçok camilere çanlar takıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çeteler durmayıp birden bozuldu",
+        "Şanlı bayrağımız kanla yazıldı",
+        "Zavallı vatana mezar kazıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kimi yaralanmış kanlar saçıyor",
+        "Kimi süngülere bağrın açıyor",
+        "Kimi yavrusunu almış kaçıyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Anama%20S%C3%B6yleyin%20Damda%20Yatmas%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Anama%20S%C3%B6yleyin%20Damda%20Yatmas%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Anama Söyleyin Damda Yatmasın",
+      "url": "https://tr.wikisource.org/wiki/Anama_S%C3%B6yleyin_Damda_Yatmas%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "harmana-kuyu-kazdim",
+  "baslik": "Harmana Kuyu Kazdım",
+  "yore": "Isparta",
+  "hikaye": "Harmana Kuyu Kazdım, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harmana kuyu kazdım",
+        "Yar okudu ben yazdım",
+        "Şu kızların elinden",
+        "Bayıldım öle yazdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gombilli hanım kızlar gombilli",
+        "Başında yazması kandilli",
+        "Nerden buldun a güzel bu dili"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yazıldı",
+        "Kaynanam bana darıldı",
+        "Ne darıldın kaynana",
+        "Kızın bana sarıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gombilli hanım kızlar gombilli",
+        "Başında yazması kandilli",
+        "Nerden buldun a güzel bu dili"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yaş yeri",
+        "Yavaş yürü hoş yürü",
+        "Şimdi buradan geçti",
+        "Güzellerden bir sürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gombilli hanım kızlar gombilli",
+        "Başında yazması kandilli",
+        "Nerden buldun a güzel bu dili"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harmana%20Kuyu%20Kazd%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harmana%20Kuyu%20Kazd%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Harmana Kuyu Kazdım",
+      "url": "https://tr.wikisource.org/wiki/Harmana_Kuyu_Kazd%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

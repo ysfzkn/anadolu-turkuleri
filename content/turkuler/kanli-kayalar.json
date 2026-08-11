@@ -1,0 +1,65 @@
+{
+  "slug": "kanli-kayalar",
+  "baslik": "Kanlı Kayalar",
+  "yore": "Kastamonu",
+  "hikaye": "Kanlı Kayalar, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kayalar kayalar kanlı kayalar",
+        "Altında yârim yâr yâr diye ağlar",
+        "İkimizi bir kabire koyarlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla anam ağla bu işler olur",
+        "Bizi vuran zalim, Allah’tan bulur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mezarımız kazılsın karşı karşı",
+        "Başucuma koyun yazılı taşı",
+        "Üstünde çimenler gözümün yaşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla anam ağla bu işler olur",
+        "Bizi vuran zalim, Allah’tan bulur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kanl%C4%B1%20Kayalar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kanl%C4%B1%20Kayalar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kanlı Kayalar",
+      "url": "https://tr.wikisource.org/wiki/Kanl%C4%B1_Kayalar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "basina-baglamis-dastar",
+  "baslik": "Başına Bağlamış Dastar",
+  "yore": "Mersin",
+  "hikaye": "Başına Bağlamış Dastar, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına bağlamış dastar",
+        "Göster cemalini göster (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eh eyledim vah eyledim",
+        "Var kapına kul eyledim (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelmem diye naz eyledin",
+        "Sarsam olmaz mı sevsem olmaz mı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C5%9F%C4%B1na%20Ba%C4%9Flam%C4%B1%C5%9F%20Dastar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C5%9F%C4%B1na%20Ba%C4%9Flam%C4%B1%C5%9F%20Dastar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Başına Bağlamış Dastar",
+      "url": "https://tr.wikisource.org/wiki/Ba%C5%9F%C4%B1na_Ba%C4%9Flam%C4%B1%C5%9F_Dastar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "aha-da-gel",
+  "baslik": "Aha da Gel",
+  "yore": "Şanlıurfa",
+  "hikaye": "Aha da Gel, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aha da gel arpa da buğday harmanı civanım",
+        "Elimdedir kanlıların da fermânı",
+        "Elimdedir kanlıların da fermânı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çok aradım da bulamadım da civanım dermanı",
+        "Koy desinler Halil beyim de divâne",
+        "Benden sonra köşküm kalsın da virane"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aha%20da%20Gel%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aha%20da%20Gel",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aha da Gel",
+      "url": "https://tr.wikisource.org/wiki/Aha_da_Gel",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

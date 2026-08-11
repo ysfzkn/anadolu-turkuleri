@@ -1,0 +1,34 @@
+{
+  "slug": "kaleden-indim-duze",
+  "baslik": "Kaleden İndim Düze",
+  "yore": "Antalya",
+  "hikaye": "Kaleden İndim Düze, Vikikaynak'ın Antalya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Antalya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaleden%20%C4%B0ndim%20D%C3%BCze%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaleden%20%C4%B0ndim%20D%C3%BCze",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaleden İndim Düze (Antalya)",
+      "url": "https://tr.wikisource.org/wiki/Kaleden_%C4%B0ndim_D%C3%BCze_(Antalya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Antalya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

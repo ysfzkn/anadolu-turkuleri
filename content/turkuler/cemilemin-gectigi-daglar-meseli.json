@@ -1,0 +1,63 @@
+{
+  "slug": "cemilemin-gectigi-daglar-meseli",
+  "baslik": "Cemile'min Geçtiği Dağlar Meşeli",
+  "yore": "Muğla",
+  "hikaye": "Cemile'min Geçtiği Dağlar Meşeli, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemile'min geçtiği dağlar meşeli",
+        "Beş yıl oldu senden ayrı düşeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi hopdi Cemilem nasıl edelim bu işi",
+        "Yeşil çimen üstünde kızıştıralım cünbüşü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemile'min geçtiği dağlar ormanlı",
+        "Çok rakı içmiş yarin başı dumanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi hopdi Cemilem nasıl edelim bu işi",
+        "Yeşil çimen üstünde kızıştıralım cünbüşü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cemile'min%20Ge%C3%A7ti%C4%9Fi%20Da%C4%9Flar%20Me%C5%9Feli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cemile'min%20Ge%C3%A7ti%C4%9Fi%20Da%C4%9Flar%20Me%C5%9Feli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cemile'min Geçtiği Dağlar Meşeli",
+      "url": "https://tr.wikisource.org/wiki/Cemile'min_Ge%C3%A7ti%C4%9Fi_Da%C4%9Flar_Me%C5%9Feli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

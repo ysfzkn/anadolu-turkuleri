@@ -1,0 +1,62 @@
+{
+  "slug": "varin-sorun-babasina",
+  "baslik": "Varın Sorun Babasına",
+  "yore": "Tekirdağ",
+  "hikaye": "Varın Sorun Babasına, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın sorun babasına",
+        "İzin versin kınasına",
+        "Babası der ki ben veremem",
+        "Evladıma ben kıyamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın sorun annesine",
+        "İzin versin kınasına",
+        "Annesi der ki ben veremem",
+        "Evladıma ben kıyamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın sorun yengesine",
+        "İzin versin kınasına",
+        "Yengesi der ki ben veririm",
+        "Gittiği yerde hayır görsün"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Var%C4%B1n%20Sorun%20Babas%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Var%C4%B1n%20Sorun%20Babas%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Varın Sorun Babasına",
+      "url": "https://tr.wikisource.org/wiki/Var%C4%B1n_Sorun_Babas%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

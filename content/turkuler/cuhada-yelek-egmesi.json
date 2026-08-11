@@ -1,0 +1,111 @@
+{
+  "slug": "cuhada-yelek-egmesi",
+  "baslik": "Çuhada Yelek Eğmesi",
+  "yore": "Karabük",
+  "hikaye": "Çuhada Yelek Eğmesi, Vikikaynak'ın Karabük türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karabük yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çuhada yelek eğmesi",
+        "Ölüyom aman",
+        "Sol yanında düğmesi",
+        "Yanıyom aman",
+        "Sol yanında düğmesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yine de gözüm seyriyor",
+        "Ölüyom aman",
+        "Yakın yarin gelmesi",
+        "Ölüyom aman",
+        "Yakın yarin gelmesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sende yanıyor ben de yanıyor",
+        "Sular akar buz bulanur",
+        "Eller uyur ben uyanur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay ışıktır varaman",
+        "Ölüyom aman",
+        "Diller de destan olamam",
+        "Yanıyom aman",
+        "Diller de destan olamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay buluta girince",
+        "Ölüyom aman",
+        "Bağlasalar duramam",
+        "Yanıyom aman",
+        "Bağlasalar duramam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El ediyor el ediyor",
+        "O yar beni deli ediyor",
+        "Karada gözler kül ediyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzunu boy ederler",
+        "Ölüyom aman",
+        "Kısayı yan ederler",
+        "Yanıyom aman",
+        "Kısayı yan ederler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Orta boyun üstüne",
+        "Ölüyom aman",
+        "Her gün bir tat ederler",
+        "Yanıyom aman",
+        "Her gün bir tat ederler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87uhada%20Yelek%20E%C4%9Fmesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87uhada%20Yelek%20E%C4%9Fmesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çuhada Yelek Eğmesi",
+      "url": "https://tr.wikisource.org/wiki/%C3%87uhada_Yelek_E%C4%9Fmesi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karabük",
+    "anonim",
+    "açık arşiv"
+  ]
+}

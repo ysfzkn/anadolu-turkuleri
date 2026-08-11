@@ -1,0 +1,80 @@
+{
+  "slug": "egin-dedikleri-kucuk-bir-sehir",
+  "baslik": "Eğin Dedikleri Küçük Bir Şehir",
+  "yore": "Erzincan",
+  "hikaye": "Eğin Dedikleri Küçük Bir Şehir, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğin dedikleri anam bir küçük şehir (nidem)",
+        "Nine ben cahilem yandım çekemem kahır",
+        "Yediğim içtiğim anam ağuynan zehir (nidem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya ben ağlamayım yandım kimler ağlasın",
+        "Şu garip gönlümü yandım kimler eylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derya kenarında anam kayık değilim (nidem)",
+        "Yardan ayrılalı yandım ayık değilim",
+        "Bir çift selamına anam layık değilim (nidem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya ben ağlamayım yandım kimler ağlasın",
+        "Şu garip gönlümü yandım kimler eylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(...................................)",
+        "En gel anam en gel de gene git",
+        "Akan gözyaşımı sil de gene git"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya ben ağlamayım yandım kimler ağlasın",
+        "Şu garip gönlümü yandım kimler eylesin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=E%C4%9Fin%20Dedikleri%20K%C3%BC%C3%A7%C3%BCk%20Bir%20%C5%9Eehir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/E%C4%9Fin%20Dedikleri%20K%C3%BC%C3%A7%C3%BCk%20Bir%20%C5%9Eehir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eğin Dedikleri Küçük Bir Şehir",
+      "url": "https://tr.wikisource.org/wiki/E%C4%9Fin_Dedikleri_K%C3%BC%C3%A7%C3%BCk_Bir_%C5%9Eehir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

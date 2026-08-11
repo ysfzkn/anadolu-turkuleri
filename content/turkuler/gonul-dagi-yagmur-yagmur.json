@@ -1,0 +1,62 @@
+{
+  "slug": "gonul-dagi-yagmur-yagmur",
+  "baslik": "Gönül Dağı Yağmur Yağmur",
+  "yore": "Kırşehir",
+  "hikaye": "Gönül Dağı Yağmur Yağmur, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül dağı yağmur yağmur boran olunca",
+        "Akar can özümden sel gizli gizli",
+        "Bir tenhada can cananı bulunca",
+        "Sinemi yaralar yar oy yar oy dil gizli gizli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost elinden gel olmazsa varılmaz",
+        "Rızasız bahçanın gülü derilmez",
+        "Kalpten kalbe bir yol vardır görülmez",
+        "Gönülden gönüle yar oy yar oy yol gizli gizli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seher vakti garip bülbül öterken",
+        "Kirpiklerin oku yar yar cana batarken",
+        "Cümle alem uykusunda yatarken",
+        "Kimseler duymadan yar oy yar oy gel gizli gizli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6n%C3%BCl%20Da%C4%9F%C4%B1%20Ya%C4%9Fmur%20Ya%C4%9Fmur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6n%C3%BCl%20Da%C4%9F%C4%B1%20Ya%C4%9Fmur%20Ya%C4%9Fmur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gönül Dağı Yağmur Yağmur",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6n%C3%BCl_Da%C4%9F%C4%B1_Ya%C4%9Fmur_Ya%C4%9Fmur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "karadir-kaslarin-ferman-yazdirir",
+  "baslik": "Karadır Kaşların Ferman Yazdırır",
+  "yore": "Zonguldak",
+  "hikaye": "Karadır Kaşların Ferman Yazdırır, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadır kaşların ferman yazdırır,",
+        "Aşkın beni diyar diyar gezdirir.",
+        "Lokman Hekim gelse yaram azdırır,",
+        "Yaramı sarmaya yâr kendi gelsin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ormanlardan aşağı aşar gezerim,",
+        "Nazlı yâri kaybettim ağlar gezerim.",
+        "Ormanların gümbürtüsü başıma vurur,",
+        "Nazlı yârin hayali karşımda durur."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadır kaşların benzer kömüre,",
+        "Yardan ayrı düşmek zarar ömüre.",
+        "Kollarımdan bağlasalar demire,",
+        "Kırarım demiri kaçarım yare."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ormanlardan aşağı aşar gezerim,",
+        "Nazlı yâri kaybettim ağlar gezerim.",
+        "Ormanların gümbürtüsü başıma vurur,",
+        "Nazlı yârin hayali karşımda durur."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzaklara gittim gelirim diye,",
+        "Tabancamı doldurdum vururum diye.",
+        "Hiç aklıma gelmez ölürüm diye,",
+        "Ölüm ver Allah’ım ayrılık verme."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ormanlardan aşağı aşar gezerim,",
+        "Nazlı yâri kaybettim ağlar gezerim.",
+        "Ormanların gümbürtüsü başıma vurur,",
+        "Nazlı yârin hayali karşımda durur."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karad%C4%B1r%20Ka%C5%9Flar%C4%B1n%20Ferman%20Yazd%C4%B1r%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karad%C4%B1r%20Ka%C5%9Flar%C4%B1n%20Ferman%20Yazd%C4%B1r%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karadır Kaşların Ferman Yazdırır",
+      "url": "https://tr.wikisource.org/wiki/Karad%C4%B1r_Ka%C5%9Flar%C4%B1n_Ferman_Yazd%C4%B1r%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

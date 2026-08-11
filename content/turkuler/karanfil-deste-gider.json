@@ -1,0 +1,73 @@
+{
+  "slug": "karanfil-deste-gider",
+  "baslik": "Karanfil Deste Gider",
+  "yore": "Kilis",
+  "hikaye": "Karanfil Deste Gider, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil deste gider, hah hah ha nanay,",
+        "Kokusu dosta gider, hah hah ha nanay,",
+        "Benim kalbimde sensin, hah hah ha nanay,",
+        "Senin kalbinde kimler, hah hah ha nanay."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nay nay nay nay,",
+        "Nanay ellerin malı,",
+        "Çürük bellerin bağı,",
+        "Gün olur devran döner,",
+        "Ben de sararım yari, nanay, nanay, nanay, nanay."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuru Kastel akmıyor, hah hah ha nanay,",
+        "Yar yüzüme bakmıyor, hah hah ha nanay.",
+        "Üç deste gül topladım, hah hah ha nanay,",
+        "Yarim gibi kokmuyor, hah hah ha nanay."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nay nay nay nay,",
+        "Nanay ellerin malı,",
+        "Çürük bellerin bağı,",
+        "Gün olur devran döner,",
+        "Ben de sararım yari, nanay, nanay, nanay, nanay."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karanfil%20Deste%20Gider%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karanfil%20Deste%20Gider",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karanfil Deste Gider",
+      "url": "https://tr.wikisource.org/wiki/Karanfil_Deste_Gider",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

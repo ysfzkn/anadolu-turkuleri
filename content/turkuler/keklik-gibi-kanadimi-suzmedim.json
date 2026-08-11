@@ -1,0 +1,52 @@
+{
+  "slug": "keklik-gibi-kanadimi-suzmedim",
+  "baslik": "Keklik Gibi Kanadımı Süzmedim",
+  "yore": "Erzincan",
+  "hikaye": "Keklik Gibi Kanadımı Süzmedim, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keklik gibi kanadımı süzmedim",
+        "Murad alıp doya doya gezmedim",
+        "Bu kara yazıyı kendim yazmadım",
+        "Alnıma yazılmış bu kara yazı",
+        "Kader böyleyimiş ağlarım bazı",
+        "Gönül ey sebeb ey",
+        "Şu gonca gülleri ben deremedim",
+        "Çifte bülbülleri konduramadım",
+        "Kadir kıymetimi bildiremedim",
+        "Alnıma yazılmış bu kara yazı",
+        "Kader böyleyimiş ağlarım bazı",
+        "Gönül ey sebeb ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Keklik%20Gibi%20Kanad%C4%B1m%C4%B1%20S%C3%BCzmedim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Keklik%20Gibi%20Kanad%C4%B1m%C4%B1%20S%C3%BCzmedim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Keklik Gibi Kanadımı Süzmedim",
+      "url": "https://tr.wikisource.org/wiki/Keklik_Gibi_Kanad%C4%B1m%C4%B1_S%C3%BCzmedim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

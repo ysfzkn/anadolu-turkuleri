@@ -1,0 +1,53 @@
+{
+  "slug": "yamadan-gel-yamadan",
+  "baslik": "Yamadan Gel Yamadan",
+  "yore": "Samsun",
+  "hikaye": "Yamadan Gel Yamadan, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yamadan gel yamadan (ah güzel oğlan)",
+        "Kan damlıyor kamadan (yandım şeker oğlan.)",
+        "Böyle sevda mı olur (ah güzel oğlan)",
+        "Beni iste babamdan (yandım şeker oğlan)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yiğidim yiğit olsun (ah güzel oğlan)",
+        "Ağzın şeker bal olsun (yandım şeker oğlan)",
+        "Yiğidi doğuran ana (ah güzel oğlan)",
+        "Ömrü uzun var olsun (yandım şeker oğlan)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yamadan%20Gel%20Yamadan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yamadan%20Gel%20Yamadan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yamadan Gel Yamadan",
+      "url": "https://tr.wikisource.org/wiki/Yamadan_Gel_Yamadan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Samsun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

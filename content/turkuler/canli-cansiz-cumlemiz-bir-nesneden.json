@@ -1,0 +1,62 @@
+{
+  "slug": "canli-cansiz-cumlemiz-bir-nesneden",
+  "baslik": "Canlı Cansız Cümlemiz Bir Nesneden",
+  "yore": "Şanlıurfa",
+  "hikaye": "Canlı Cansız Cümlemiz Bir Nesneden, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Canlı cansız cümlemiz bir nesneden",
+        "Var oluyor bu bir hikmet sultanım",
+        "Canana akıtır bu can-ı beden",
+        "Kabul etmek cana minnet sultanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevip âşık olmak ezelden bahtım",
+        "Yar sana kadimdir ikrarım ahtım",
+        "Senin çün bezendi sinemde tahtım",
+        "Aha teslim oldum hükmet sultanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Büryani'yem geldim mürvete düştüm",
+        "Canımdan malımdan serimden geçtim",
+        "Gerçi ezel aşkın meyinden içtim",
+        "Dest-i kudretinle lütfet sultanım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Canl%C4%B1%20Cans%C4%B1z%20C%C3%BCmlemiz%20Bir%20Nesneden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Canl%C4%B1%20Cans%C4%B1z%20C%C3%BCmlemiz%20Bir%20Nesneden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Canlı Cansız Cümlemiz Bir Nesneden",
+      "url": "https://tr.wikisource.org/wiki/Canl%C4%B1_Cans%C4%B1z_C%C3%BCmlemiz_Bir_Nesneden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "mapusun-icinde-uc-agac-incir",
+  "baslik": "Mapusun İçinde Üç Ağaç İncir",
+  "yore": "Karabük",
+  "hikaye": "Mapusun İçinde Üç Ağaç İncir, Vikikaynak'ın Karabük türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karabük yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapusun içinde üç ağaç incir",
+        "Elimde kelepçe, boynumda zincir",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zincir sallandıkça her yanım sancır",
+        "Düştüm bir ormana, yol belli değil",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapusun içinde mermerden direk",
+        "Kimimiz onbeşlik, kimimiz kürek",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnsanın zulmüne dayanmaz yürek",
+        "Yatarım yatarım, gün belli değil",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapusun içinde bir ulu çınar",
+        "Kırılsın zincirler, yıkılsın duvar",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tezikmiş kuş bile yuvaya döner",
+        "Düştüm bir ormana, yol belli değil",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yatarım yatarım, gün belli değil",
+        "Oy zulum zulum başımda zulum",
+        "Nedir bu halim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Farklı Sözler",
+        "Akşam olur hapishane kitlenir",
+        "Kimi kâğıt oynar, kimi bitlenir",
+        "Oy zulum zulum başımda zulum",
+        "Uzak git ölüm"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mapusun%20%C4%B0%C3%A7inde%20%C3%9C%C3%A7%20A%C4%9Fa%C3%A7%20%C4%B0ncir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mapusun%20%C4%B0%C3%A7inde%20%C3%9C%C3%A7%20A%C4%9Fa%C3%A7%20%C4%B0ncir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mapusun İçinde Üç Ağaç İncir",
+      "url": "https://tr.wikisource.org/wiki/Mapusun_%C4%B0%C3%A7inde_%C3%9C%C3%A7_A%C4%9Fa%C3%A7_%C4%B0ncir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karabük",
+    "anonim",
+    "açık arşiv"
+  ]
+}

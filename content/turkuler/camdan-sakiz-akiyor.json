@@ -1,0 +1,71 @@
+{
+  "slug": "camdan-sakiz-akiyor",
+  "baslik": "Çamdan Sakız Akıyor",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Çamdan Sakız Akıyor, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çamdan sakız akıyor",
+        "Kız nişanlın bakıyor (oy zalım nenni nenni)",
+        "Koynundaki memeler",
+        "Turunç olmuş kokuyor (oy zalım nenni nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O yana da dönder sar beni",
+        "Bu yana da dönder sar beni",
+        "Sağ yanımda yarem var",
+        "Sol yana dönder beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama bulgur sererler",
+        "Çıkma boyun görürler (oy zalım nenni nenni)",
+        "Saçın ibrişim teli",
+        "Hançere bağ örerler (oy zalım nenni nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O yana da dönder sar beni",
+        "Bu yana da dönder sar beni",
+        "Sağ yanımda yarem var",
+        "Sol yana dönder beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87amdan%20Sak%C4%B1z%20Ak%C4%B1yor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87amdan%20Sak%C4%B1z%20Ak%C4%B1yor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çamdan Sakız Akıyor",
+      "url": "https://tr.wikisource.org/wiki/%C3%87amdan_Sak%C4%B1z_Ak%C4%B1yor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

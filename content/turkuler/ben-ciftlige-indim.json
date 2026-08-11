@@ -1,0 +1,53 @@
+{
+  "slug": "ben-ciftlige-indim",
+  "baslik": "Ben Çiftliğe İndim",
+  "yore": "İstanbul",
+  "hikaye": "Ben Çiftliğe İndim, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben çiftliğe indim gittim annem duymadan duymadan",
+        "Ben çiftliğe indim gittim annem duymadan duymadan",
+        "Sol yanımdan vurdu beni kıymadan kıymadan",
+        "Sol yanımdan vurdu beni kıymadan kıymadan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelsin hekim aygın baygın meleğim ölmeden ölmeden",
+        "Gelsin hekim aygın baygın meleğim ölmeden ölmeden",
+        "Aman dostlar ben yarimi isterim isterim",
+        "Aman dostlar ben güzelimi isterim isterim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20%C3%87iftli%C4%9Fe%20%C4%B0ndim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20%C3%87iftli%C4%9Fe%20%C4%B0ndim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Çiftliğe İndim",
+      "url": "https://tr.wikisource.org/wiki/Ben_%C3%87iftli%C4%9Fe_%C4%B0ndim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

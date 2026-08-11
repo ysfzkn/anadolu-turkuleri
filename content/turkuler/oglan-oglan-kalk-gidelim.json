@@ -1,0 +1,94 @@
+{
+  "slug": "oglan-oglan-kalk-gidelim",
+  "baslik": "Oğlan Oğlan Kalk Gidelim",
+  "yore": "Bursa",
+  "hikaye": "Oğlan Oğlan Kalk Gidelim, Vikikaynak'ın Bursa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bursa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlanın elinde lambası var",
+        "Oğlanın elinde lambası var",
+        "Öpülecek sevilecek ablası var",
+        "Ne güzel oğlan boynuma dolan",
+        "Öpülecek sevilecek ablası var",
+        "Ne güzel oğlan boynuma dolan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben",
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan oğlan kalk gidelim",
+        "Oğlan oğlan kalk gidelim",
+        "Sigarayı feneri yak gidelim",
+        "Ne güzel oğlan, boynuma dolan",
+        "Sigarayı feneri yak gidelim",
+        "Ne güzel oğlan, boynuma dolan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben",
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlanın elinde lüver belinde",
+        "Oğlanın elinde lüver belinde",
+        "Oğlan küsmüş gidiyor şapka elinde",
+        "Ne güzel oğlan boynuma dolan",
+        "Ne güzel oğlan boynuma dolan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben",
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=O%C4%9Flan%20O%C4%9Flan%20Kalk%20Gidelim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/O%C4%9Flan%20O%C4%9Flan%20Kalk%20Gidelim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oğlan Oğlan Kalk Gidelim (Bursa)",
+      "url": "https://tr.wikisource.org/wiki/O%C4%9Flan_O%C4%9Flan_Kalk_Gidelim_(Bursa)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bursa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

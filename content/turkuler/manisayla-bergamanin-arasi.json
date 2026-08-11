@@ -1,0 +1,67 @@
+{
+  "slug": "manisayla-bergamanin-arasi",
+  "baslik": "Manisa'yla Bergama'nın Arası",
+  "yore": "Kütahya",
+  "hikaye": "Manisa'yla Bergama'nın Arası, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Ah) Manisa'yla (amanın imanım) Bergama'nın arası",
+        "Yaktı (da) beni gaşlarının garası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gara gara gargalar",
+        "Ceviz dalını ırgalar",
+        "On beşine basan kız",
+        "Sevdiğine el sallar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Ah) Manisa'yla (amanın imanım) Bergama'nın askeri",
+        "Ben yolcuyum yolları bana gösterin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yelek de diktim geymedi",
+        "Dikdiyime deymedi",
+        "Sağ olası anam da bubam",
+        "Sevdiğime vermedi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Manisa'yla%20Bergama'n%C4%B1n%20Aras%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Manisa'yla%20Bergama'n%C4%B1n%20Aras%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Manisa'yla Bergama'nın Arası",
+      "url": "https://tr.wikisource.org/wiki/Manisa'yla_Bergama'n%C4%B1n_Aras%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

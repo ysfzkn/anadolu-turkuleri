@@ -1,0 +1,71 @@
+{
+  "slug": "a-bre-suluman-aga",
+  "baslik": "A Bre Sülüman Aga",
+  "yore": "Kırklareli",
+  "hikaye": "A Bre Sülüman Aga, Vikikaynak'ın Kırklareli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırklareli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A bre Sülüman Aga",
+        "Tut çakal beygiri",
+        "Uralım yuları",
+        "Sıkalım kolanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A bre Sülüman Aga",
+        "Boydalar oldu mi",
+        "Beni evereyler",
+        "Haberin oldu mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sülüman Aga'nın karısı",
+        "Sundurmadan bakıyor",
+        "Sülüman Aga ona",
+        "Altı patlar atıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altı patlar atınca",
+        "Sülüman Aga'nın karısı kacıyor.",
+        "A bre Sülüman Aga",
+        "Baydılar beni."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20Bre%20S%C3%BCl%C3%BCman%20Aga%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20Bre%20S%C3%BCl%C3%BCman%20Aga",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Bre Sülüman Aga",
+      "url": "https://tr.wikisource.org/wiki/A_Bre_S%C3%BCl%C3%BCman_Aga",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırklareli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "bende-binem-kara-kara-atlara",
+  "baslik": "Bende Binem Kara Kara Atlara",
+  "yore": "İstanbul",
+  "hikaye": "Bende Binem Kara Kara Atlara, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bende binem kara kara atlara",
+        "Derdimi söylesem yeşil otlara",
+        "Annem otlara",
+        "Anam yok ki her derdime katlana",
+        "Neyleyim kime de yar almayınca",
+        "Annem almayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anam anam garip anam dertli anam",
+        "Üstüme yar eli sarar",
+        "Buna ben hiç dayanamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evinize gide gele usandım",
+        "Ayağıma diken battı gül sandım",
+        "Annem gül sandım",
+        "Oyar benim olacak diye ben sandın",
+        "Meğer vafalı yar olmayınca",
+        "Annem olmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anam anam garip anam dertli anam",
+        "Üstüme yar eli sarar",
+        "Buna ben hiç dayanamam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dağın başında yatar evliya",
+        "Bir kuş konmuş gelmiş bizim avluya",
+        "Annem avluya",
+        "Biri dileğim vardır ulu mevlaya",
+        "Biri evlat biri devlet biri yar",
+        "Annem biri yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anam anam garip anam dertli anam",
+        "Üstüme yar eli sarar",
+        "Buna ben hiç dayanamam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bende%20Binem%20Kara%20Kara%20Atlara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bende%20Binem%20Kara%20Kara%20Atlara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bende Binem Kara Kara Atlara",
+      "url": "https://tr.wikisource.org/wiki/Bende_Binem_Kara_Kara_Atlara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

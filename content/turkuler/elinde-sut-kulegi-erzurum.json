@@ -1,0 +1,86 @@
+{
+  "slug": "elinde-sut-kulegi-erzurum",
+  "baslik": "Elinde Süt Küleği",
+  "yore": "Erzurum",
+  "hikaye": "Elinde Süt Küleği, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde süt küleği",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında",
+        "Sütten beyaz bileği",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderem elesine",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında",
+        "Kara göz mehlesine",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara gözlü yoh idi",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında",
+        "Göçmüşti yaylasına",
+        "O meral o ceylan o sevginin bağında",
+        "Ölürem anam dönmenem",
+        "Giderem anam gelmenem",
+        "Bir kaş bir göz bir dil bir diş",
+        "Kişmişi yanağında"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elinde Süt Küleği (Erzurum)",
+      "url": "https://tr.wikisource.org/wiki/Elinde_S%C3%BCt_K%C3%BCle%C4%9Fi_(Erzurum)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

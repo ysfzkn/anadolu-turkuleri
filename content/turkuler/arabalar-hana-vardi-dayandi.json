@@ -1,0 +1,67 @@
+{
+  "slug": "arabalar-hana-vardi-dayandi",
+  "baslik": "Arabalar Hana Vardı Dayandı",
+  "yore": "İstanbul",
+  "hikaye": "Arabalar Hana Vardı Dayandı, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabalar hana vardı dayandı yavrum dayandı",
+        "Nazlı da yarim uykulardan uyandı yavrum uyandı",
+        "Nazlı da yarim uykulardan uyandı yavrum uyandı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uyandı da gül yastığa dayandı yavrum dayandı",
+        "Arabanın tekerleği kirazdan yavrum kirazdan",
+        "Esmer yarim suya iner birazdan yavrum birazdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol üstüne düre de koymuş cezveyi yavrum cezveyi",
+        "Güzel yavrum pek seviyor gezmeyi yavrum gezmeyi",
+        "Güzel yavrum pek seviyor gezmeyi yavrum gezmeyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol üstüne düre de koymuş kazmayı yavrum kazmayı",
+        "Ben isterim bana mektup yazanı yavrum yazanı",
+        "Ben isterim bana mektup yazanı yavrum yazanı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arabalar%20Hana%20Vard%C4%B1%20Dayand%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arabalar%20Hana%20Vard%C4%B1%20Dayand%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arabalar Hana Vardı Dayandı (İstanbul)",
+      "url": "https://tr.wikisource.org/wiki/Arabalar_Hana_Vard%C4%B1_Dayand%C4%B1_(%C4%B0stanbul)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

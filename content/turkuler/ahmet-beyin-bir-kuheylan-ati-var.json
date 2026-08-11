@@ -1,0 +1,67 @@
+{
+  "slug": "ahmet-beyin-bir-kuheylan-ati-var",
+  "baslik": "Ahmet Bey'in Bir Küheylan Atı Var",
+  "yore": "Kütahya",
+  "hikaye": "Ahmet Bey'in Bir Küheylan Atı Var, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahmet Bey’in bir küheylan atı var",
+        "Mavi şalvarının bende yükü var",
+        "Ahmet Bey’in benden başka nesi varSaklan dağlar Ahmet Bey’in kışındanHiç sevdalar geçmedi mi başından?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Annem benim sandığımı açmasın",
+        "Mavi şalvarıma uçkur takmasın",
+        "Oğlum gelecek diye yola bakmasınSaklan dağlar Ahmet burdan geçti mi ?Yoksa hovardalar aldı kaçtı mı ?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahmet Bey’in boy kürkü var dizinde",
+        "Püskürme ben hu çekiyor yüzünde",
+        "Şimdi kızlar hiç durmuyor sözündeSaklan dağlar Ahmet Bey’in kışından Hiç sevdalar geçmedi mi başından ?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahmet Bey’in boy kürkü var sarıdan",
+        "Ahmet Bey’in kaderi yok karıdan",
+        "Dost bildiği bıçakladı geridenSaklan dağlar Ahmet burdan geçti mi? Yoksa hovardalar aldı kaçtı mı ?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ahmet%20Bey'in%20Bir%20K%C3%BCheylan%20At%C4%B1%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ahmet%20Bey'in%20Bir%20K%C3%BCheylan%20At%C4%B1%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ahmet Bey'in Bir Küheylan Atı Var",
+      "url": "https://tr.wikisource.org/wiki/Ahmet_Bey'in_Bir_K%C3%BCheylan_At%C4%B1_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

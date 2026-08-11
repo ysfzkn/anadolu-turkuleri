@@ -1,0 +1,59 @@
+{
+  "slug": "ah-tren-kara-tren",
+  "baslik": "Ah Tren Kara Tren",
+  "yore": "Kırklareli",
+  "hikaye": "Ah Tren Kara Tren, Vikikaynak'ın Kırklareli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırklareli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah tren kara tren,",
+        "Odur yari götüren.",
+        "Gitti yarim gelmedi,",
+        "Budur beni bitiren.",
+        "Kumralım güzelim aman,",
+        "Yandım vallah.",
+        "Seversen mektup yolla."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar ayan beyan,",
+        "Yoluna girdim yayan.",
+        "Gül yüzlüm yeşil gözlüm,",
+        "Yanına geldim uyan.",
+        "Kumralım güzelim aman,",
+        "Yandım vallah.",
+        "Seversen mektup yolla."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Tren%20Kara%20Tren%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Tren%20Kara%20Tren",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Tren Kara Tren",
+      "url": "https://tr.wikisource.org/wiki/Ah_Tren_Kara_Tren",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırklareli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

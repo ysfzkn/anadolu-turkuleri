@@ -1,0 +1,107 @@
+{
+  "slug": "hatce-gelin-agiti",
+  "baslik": "Hatçe Gelin Ağıtı",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Hatçe Gelin Ağıtı, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maraş'tan çıktı gelinci",
+        "Aksuya da indi mola",
+        "Ne vefasız yalan dünya",
+        "Hatça'mı götürdü mola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağmen gedikten aşmadı",
+        "Düğün yemeği pişmedi",
+        "Gurban olanı Gadir Mevlam",
+        "Kına çabıdın çeşmedi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağmen gelir tüte tüte",
+        "Ben görmedim böyle hata",
+        "Hatça kız da can veriyor",
+        "Ağ kolların ata ata"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağmen tepelerde gezer",
+        "Beş katip de çeyiz yazar",
+        "Hatça kızdan soyka kaldı",
+        "On altınlık sırma izar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde gümüş bardağı",
+        "Dolanır gelir çardağı",
+        "Varın söylen güvey beye",
+        "Boş beklemesin gerdeği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağnıen gelir toza toza",
+        "Ben görmedim böyle kaza",
+        "Hatça kızda can veriyor",
+        "Ala gözü süze süze"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar gözüm söyler dilim",
+        "Ben görmedim böyle ölüm",
+        "Soyka kaldı Hatça kızdan",
+        "Yedi halı on beş kilim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evinin uğru sokulu",
+        "Feride hanım vekili",
+        "Hatça gelin ollum deyi",
+        "Akşamdan kesmiş kekili"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hat%C3%A7e%20Gelin%20A%C4%9F%C4%B1t%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hat%C3%A7e%20Gelin%20A%C4%9F%C4%B1t%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hatçe Gelin Ağıtı",
+      "url": "https://tr.wikisource.org/wiki/Hat%C3%A7e_Gelin_A%C4%9F%C4%B1t%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

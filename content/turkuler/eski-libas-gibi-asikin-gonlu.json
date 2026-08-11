@@ -1,0 +1,52 @@
+{
+  "slug": "eski-libas-gibi-asikin-gonlu",
+  "baslik": "Eski Libas Gibi Aşıkın Gönlü",
+  "yore": "Kayseri",
+  "hikaye": "Eski Libas Gibi Aşıkın Gönlü, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eski libas gibi aşığın gönlü",
+        "Söküldükten geri dikilmez imiş",
+        "Ne kadar olsa da gerdanı benli",
+        "Her güzelin kahrı çekilmez imiş",
+        "Bülbül eder daldan dala bir sekiş",
+        "Anın için eyler gül ile çekiş",
+        "Aşkın iğnesiyle dikilen dikiş",
+        "Kıyamete değin sökülmez imiş",
+        "Dilber böyle değil idin sen ezel",
+        "Aşkımın bağına düşürdün gazel",
+        "İbrişimden nazik sandığım güzel",
+        "Meğer pulat gibi bükülmez imiş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eski%20Libas%20Gibi%20A%C5%9F%C4%B1k%C4%B1n%20G%C3%B6nl%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eski%20Libas%20Gibi%20A%C5%9F%C4%B1k%C4%B1n%20G%C3%B6nl%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eski Libas Gibi Aşıkın Gönlü",
+      "url": "https://tr.wikisource.org/wiki/Eski_Libas_Gibi_A%C5%9F%C4%B1k%C4%B1n_G%C3%B6nl%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

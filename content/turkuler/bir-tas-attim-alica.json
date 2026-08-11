@@ -1,0 +1,62 @@
+{
+  "slug": "bir-tas-attim-alica",
+  "baslik": "Bir Taş Attım Alıca",
+  "yore": "Çorum",
+  "hikaye": "Bir Taş Attım Alıca, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım alıca",
+        "Bir kuş vurdum delice (oy gelin gelin ne derdim benim)",
+        "Öyle bir yâr sevdim ki",
+        "Gözleri sürmelice (oy gelin gelin ne derdim benim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma verdim atarsın",
+        "Boynun eğri tutarsın (oy gelin gelin ne derdim benim)",
+        "El duydu alem duydu",
+        "Kimin dilin tutarsın (oy gelin gelin ne derdim benim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma verdim geline",
+        "Aldı soktu beline (oy gelin gelin ne derdim benim)",
+        "Yemesini bilmemiş",
+        "Vermiş cahil eline (oy gelin gelin ne derdim benim)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ta%C5%9F%20Att%C4%B1m%20Al%C4%B1ca%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ta%C5%9F%20Att%C4%B1m%20Al%C4%B1ca",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Taş Attım Alıca",
+      "url": "https://tr.wikisource.org/wiki/Bir_Ta%C5%9F_Att%C4%B1m_Al%C4%B1ca",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

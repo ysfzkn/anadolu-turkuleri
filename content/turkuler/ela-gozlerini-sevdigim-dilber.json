@@ -1,0 +1,53 @@
+{
+  "slug": "ela-gozlerini-sevdigim-dilber",
+  "baslik": "Ela Gözlerini Sevdiğim Dilber",
+  "yore": "Erzincan",
+  "hikaye": "Ela Gözlerini Sevdiğim Dilber, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ela gözlerini sevdiğim dilber",
+        "Cihana saldırdı gözlerin beni",
+        "Bu dertten bu sinem çürüyüp gider",
+        "Hasrete yandırdı gözlerin beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben sana hayranım çekerim sevda",
+        "Sular gibi aksam çay olsam daha",
+        "Gel sevdiğim senle edelim veda",
+        "Hasrete yandırdı gözlerin beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ela%20G%C3%B6zlerini%20Sevdi%C4%9Fim%20Dilber%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ela%20G%C3%B6zlerini%20Sevdi%C4%9Fim%20Dilber",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ela Gözlerini Sevdiğim Dilber (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Ela_G%C3%B6zlerini_Sevdi%C4%9Fim_Dilber_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

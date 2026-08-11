@@ -1,0 +1,68 @@
+{
+  "slug": "sah-i-merdan",
+  "baslik": "Şah-ı Merdan",
+  "yore": "Çorum",
+  "hikaye": "Şah-ı Merdan, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost dost,",
+        "Şah-ı Merdan coşa geldi sırrın aşikâr eyledi",
+        "Yağmuru yağdıran benim diye Adem'e söyledi",
+        "Ol demde şimşek balkıyıp yedi sema gürledi",
+        "Hem sakidir hem bakidir nur-i Rahman'ım Ali",
+        "Yetiş carımıza kurtar medet mürvet ya Ali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost dost,",
+        "Kün deyin kün deyince var eyledi on sekiz bin alemi",
+        "Hem yazandır hem bozandır levh-i mahvuz kalemi",
+        "Küllü dertlerin dermanı yaraların melhemi",
+        "Hem sakidir hem bakidir nur-i Rahman'ım Ali",
+        "Yetiş carımıza kurtar medet mürvet ya Ali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost dost,",
+        "Sefil Ali'm akıl ermez hikmetine Ali’nin",
+        "Sarraf olan kıymet biçer gevher ile lalının",
+        "Nice aşığa maşuk oldu, aklın aldı delinin",
+        "Hem sakidir hem bakidir nur-i Rahman'ım Ali",
+        "Yetiş carımıza kurtar medet mürvet ya Ali"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eah-%C4%B1%20Merdan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eah-%C4%B1%20Merdan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şah-ı Merdan",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eah-%C4%B1_Merdan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

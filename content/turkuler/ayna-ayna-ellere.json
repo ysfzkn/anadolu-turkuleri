@@ -1,0 +1,80 @@
+{
+  "slug": "ayna-ayna-ellere",
+  "baslik": "Ayna Ayna Ellere",
+  "yore": "Trabzon",
+  "hikaye": "Ayna Ayna Ellere, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayna ayna ellere",
+        "Ayna düştü göllere",
+        "Ayna gurban olayım",
+        "Seni tutan ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Limanın gerisinden",
+        "Görünüyor araklı",
+        "Gızlarla konuşmaya",
+        "Meraklıyım meraklı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vakfıkebir ukarı",
+        "Tonya teyirler tonya",
+        "Sevdum da alamadım",
+        "Ey gidi yalan dünya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başındaki çemberin",
+        "Uçları duğum duğum",
+        "Sigaramın içine",
+        "Sığar mısın sevduğum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çemençemin telleri",
+        "Oynatıyı yerleri",
+        "Bana derler Rizeli",
+        "Çalan eller bebelli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ayna%20Ayna%20Ellere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ayna%20Ayna%20Ellere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayna Ayna Ellere",
+      "url": "https://tr.wikisource.org/wiki/Ayna_Ayna_Ellere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

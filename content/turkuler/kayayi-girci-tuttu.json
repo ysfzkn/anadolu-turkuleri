@@ -1,0 +1,74 @@
+{
+  "slug": "kayayi-girci-tuttu",
+  "baslik": "Kayayı Gırcı Tuttu",
+  "yore": "Çorum",
+  "hikaye": "Kayayı Gırcı Tuttu, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gayayı gırcı duttu",
+        "İlvanlım ilvanlım ilvanlım aman aman",
+        "Dibini burcu duttu da",
+        "Al fistanlım gaytanlım",
+        "Bizde bir yar sevmeynen ilvanlım",
+        "İlvanlım ilvanlım aman aman",
+        "Köyü bir sancı tuttu",
+        "Al fistanlım gaytanlım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Guşburnuyu budarlar ilvanlım",
+        "İlvanlım ilvanlım aman aman",
+        "Işgın sürmesin deyi de",
+        "Al fistanlım gaytanlım",
+        "Bizi köyden govarlar ilvanlım",
+        "İlvanlım ilvanlım aman aman",
+        "Güzel sevmesin deyi de",
+        "Al fistanlım gaytanlım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zülüf kısa yüz örtmez ilvanlım",
+        "İlvanlım ilvanlım aman aman",
+        "Sevda serinden gitmez de",
+        "Al fistanlım gaytanlım",
+        "Bu gözler seni gördü ilvanlım",
+        "İlvanlım ilvanlım aman aman",
+        "Gayrısına meyletmez de",
+        "Al fistanlım gaytanlım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kayay%C4%B1%20G%C4%B1rc%C4%B1%20Tuttu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kayay%C4%B1%20G%C4%B1rc%C4%B1%20Tuttu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kayayı Gırcı Tuttu",
+      "url": "https://tr.wikisource.org/wiki/Kayay%C4%B1_G%C4%B1rc%C4%B1_Tuttu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

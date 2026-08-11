@@ -1,0 +1,55 @@
+{
+  "slug": "havada-kar-sesi-var",
+  "baslik": "Havada Kar Sesi Var",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Havada Kar Sesi Var, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada da kar sesi var",
+        "Başında mor fesi var",
+        "Açın bakın şu gonağı",
+        "İçinde de yar sesi var",
+        "(Lele çoban garip oğlan)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mor pusuyu boyamadım",
+        "Ben çobana doyamadım",
+        "Hep kuşlar da yuva yapmış",
+        "Serçe kadar olamadım",
+        "(Lele çoban garip oğlan)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Havada%20Kar%20Sesi%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Havada%20Kar%20Sesi%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Havada Kar Sesi Var",
+      "url": "https://tr.wikisource.org/wiki/Havada_Kar_Sesi_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

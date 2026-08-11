@@ -1,0 +1,71 @@
+{
+  "slug": "caldigin-saza-mi-yanam",
+  "baslik": "Çaldığın Saza mı Yanam",
+  "yore": "Diyarbakır",
+  "hikaye": "Çaldığın Saza mı Yanam, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaldığım saza mı yanam",
+        "Ettiğin naza mı yanam",
+        "Alım yâri yanıma",
+        "Kış yatım güz uyanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saza niye gelmezsen",
+        "Söze niye gelmezsen",
+        "Var gündüz kârın eyle",
+        "Gece niye gelmezsen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurgunam kara gözüne",
+        "Yandırma sevdan közüne",
+        "Canımı kurban ederem",
+        "Sevdiğim bir tek sözüne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saza niye gelmezsen",
+        "Söze niye gelmezsen",
+        "Var gündüz kârın eyle",
+        "Gece niye gelmezsen"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ald%C4%B1%C4%9F%C4%B1n%20Saza%20m%C4%B1%20Yanam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ald%C4%B1%C4%9F%C4%B1n%20Saza%20m%C4%B1%20Yanam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çaldığın Saza mı Yanam",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ald%C4%B1%C4%9F%C4%B1n_Saza_m%C4%B1_Yanam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

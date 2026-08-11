@@ -1,0 +1,71 @@
+{
+  "slug": "de-get-bayburt-de-get",
+  "baslik": "De Get Bayburt De Get",
+  "yore": "Şanlıurfa",
+  "hikaye": "De Get Bayburt De Get, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "De get Bayburt de get Bayburt de get sende nem kaldı",
+        "Hasan kalasında aman, caketim kaldı",
+        "O cakettir güzel eder adamı",
+        "Ergen kızlar alsın benim kadamı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "De get Bayburt de get Bayburt de get sende nem kaldı",
+        "Hasan kalasında aman, kömleğim kaldı",
+        "O kömlektir güzel eder adamı",
+        "Ergen kızlar alsın benim kadamı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "De get Bayburt de get Bayburt de get sende nem kaldı",
+        "Hasan kalasında aman, şalvarım kaldı",
+        "O şalvardır güzel eder adamı",
+        "Ergen kızlar alsın benim kadamı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "De get Bayburt de get Bayburt de get sende nem kaldı",
+        "Hasan kalasında aman, konduram kaldı",
+        "O kondura güzel eder adamı",
+        "Ergen kızlar alsın benim kadamı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=De%20Get%20Bayburt%20De%20Get%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/De%20Get%20Bayburt%20De%20Get",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — De Get Bayburt De Get",
+      "url": "https://tr.wikisource.org/wiki/De_Get_Bayburt_De_Get",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

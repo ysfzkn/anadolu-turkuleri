@@ -1,0 +1,53 @@
+{
+  "slug": "ellere-yar-desem-yar-bana-kuser",
+  "baslik": "Ellere Yâr Desem Yâr Bana Küser",
+  "yore": "Erzincan",
+  "hikaye": "Ellere Yâr Desem Yâr Bana Küser, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere yâr desem yâr bana küser",
+        "Yârim bir tanedir yâri neyleyim",
+        "Kalbimde daimdir aşk ile eser (oy aman vay amman)",
+        "Ateşi kâfidir narı neyleyim (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim yârim güzellerden kıymetli",
+        "Ol şahin bakışlı arslan heybetli",
+        "Muhabbeti çoktur sohbeti tatlı (oy aman vay amman)",
+        "Baldaki lezzeti tadı neyleyim (vay)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ellere%20Y%C3%A2r%20Desem%20Y%C3%A2r%20Bana%20K%C3%BCser%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ellere%20Y%C3%A2r%20Desem%20Y%C3%A2r%20Bana%20K%C3%BCser",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ellere Yâr Desem Yâr Bana Küser",
+      "url": "https://tr.wikisource.org/wiki/Ellere_Y%C3%A2r_Desem_Y%C3%A2r_Bana_K%C3%BCser",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

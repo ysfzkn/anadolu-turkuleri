@@ -1,0 +1,52 @@
+{
+  "slug": "yagar-yagmur-yer-yas-olur",
+  "baslik": "Yağar Yağmur Yer Yaş Olur",
+  "yore": "Denizli",
+  "hikaye": "Yağar Yağmur Yer Yaş Olur, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağar yağmur yer yaş olur",
+        "Uçan da kuşlar bidanem sarhoş olur",
+        "Bade içen bir hoş olur",
+        "Ah gidi baygın ben olaydım",
+        "Kokulacak gülün ben olaydım",
+        "Halime de kızının uçkuru",
+        "Çözmem diye hıçkırı",
+        "Yağar yağmur kirsesine",
+        "Avrupa da çökmüş fidanım ensesine",
+        "Ben bilirim aman aman yar sesine",
+        "Yağar yağmur burgam burgam",
+        "Kadifeli yastık telli yorgan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ya%C4%9Far%20Ya%C4%9Fmur%20Yer%20Ya%C5%9F%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ya%C4%9Far%20Ya%C4%9Fmur%20Yer%20Ya%C5%9F%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yağar Yağmur Yer Yaş Olur",
+      "url": "https://tr.wikisource.org/wiki/Ya%C4%9Far_Ya%C4%9Fmur_Yer_Ya%C5%9F_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "dam-ustunde-uzun-uzun-bacalar",
+  "baslik": "Dam Üstünde Uzun Uzun Bacalar",
+  "yore": "Malatya",
+  "hikaye": "Dam Üstünde Uzun Uzun Bacalar, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam üstünde uzun uzun bacalar",
+        "Bizim evde uzun olur geceler aman, aman",
+        "Ah gülüm ey aman da, güzelim aman aman, oy",
+        "Sılada nazlı yar dilde heceler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ölürsem beni yara bildirin",
+        "Ah hayın eller eller eller eller eller oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam üstünde ufak ufak çızgılar",
+        "Yüreğime bir ok değmiş sızılar aman, aman",
+        "Ah gülüm ey aman da, güzelim aman aman, oy",
+        "Sıladaki yari gönül arzular"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ölürsem beni yara bildirin",
+        "Ah hayın eller eller eller eller eller oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dam%20%C3%9Cst%C3%BCnde%20Uzun%20Uzun%20Bacalar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dam%20%C3%9Cst%C3%BCnde%20Uzun%20Uzun%20Bacalar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dam Üstünde Uzun Uzun Bacalar",
+      "url": "https://tr.wikisource.org/wiki/Dam_%C3%9Cst%C3%BCnde_Uzun_Uzun_Bacalar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

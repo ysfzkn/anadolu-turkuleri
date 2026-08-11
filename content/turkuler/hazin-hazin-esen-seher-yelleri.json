@@ -1,0 +1,53 @@
+{
+  "slug": "hazin-hazin-esen-seher-yelleri",
+  "baslik": "Hazin Hazin Esen Seher Yelleri",
+  "yore": "Erzincan",
+  "hikaye": "Hazin Hazin Esen Seher Yelleri, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hazin hazin esen seher yelleri",
+        "Hiç bülbül öter mi gül olmayınca",
+        "Her âşık dünyada murad alamaz",
+        "Yanıp ateşlere kül olmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşık isen dost bağından nuş eyle",
+        "Arif ol daima gönül hoş eyle",
+        "Her an enginlere akıp çoş eyle",
+        "Ummana varılmaz sel olmayınca"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hazin%20Hazin%20Esen%20Seher%20Yelleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hazin%20Hazin%20Esen%20Seher%20Yelleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hazin Hazin Esen Seher Yelleri",
+      "url": "https://tr.wikisource.org/wiki/Hazin_Hazin_Esen_Seher_Yelleri",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

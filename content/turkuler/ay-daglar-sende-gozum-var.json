@@ -1,0 +1,83 @@
+{
+  "slug": "ay-daglar-sende-gozum-var",
+  "baslik": "Ay Dağlar Sende Gözüm Var",
+  "yore": "Kars",
+  "hikaye": "Ay Dağlar Sende Gözüm Var, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay dağlar sende gözüm var",
+        "Ay mendederde dözüm var",
+        "Haber verin yar gelsin",
+        "Ay yüreğimde sözüm var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel bize gel bize gel",
+        "Gurbanam o kaş göze yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay su gelir arhanağa",
+        "Ay dolanır çarhanaya",
+        "Menden öz yarim küsüp",
+        "Ay bilmirem harhanağa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel bize gel bize gel",
+        "Gurbanam o kaş göze yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay men aşıgem gence vay",
+        "Ay şeki şirvan gence vay",
+        "Yar yardan ayrılsa da",
+        "Ay mehebbet ölünce yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel bize gel bize gel",
+        "Gurbanam o kaş göze yar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ay%20Da%C4%9Flar%20Sende%20G%C3%B6z%C3%BCm%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ay%20Da%C4%9Flar%20Sende%20G%C3%B6z%C3%BCm%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ay Dağlar Sende Gözüm Var",
+      "url": "https://tr.wikisource.org/wiki/Ay_Da%C4%9Flar_Sende_G%C3%B6z%C3%BCm_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "suya-iner-tavsanlar",
+  "baslik": "Suya İner Tavşanlar",
+  "yore": "Aydın",
+  "hikaye": "Suya İner Tavşanlar, Vikikaynak'ın Aydın türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya iner tavşanlar",
+        "Yine oldu akşamlar (of)",
+        "A benim nazlı yârim",
+        "Nirelerde akşamlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amansın minnoş minnoş",
+        "Güzelsin minnoş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derelerde harım var",
+        "İçi dolu darım var (of)",
+        "Sen gelmezsen gelmeyver",
+        "Senden güzel yârim var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amansın minnoş minnoş",
+        "Güzelsin minnoş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Soğuk sular oleydim",
+        "Kız destine doleydim (of)",
+        "Annen evde yok olsa",
+        "Nişanlın ben oleydim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amansın minnoş minnoş",
+        "Güzelsin minnoş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Suya%20%C4%B0ner%20Tav%C5%9Fanlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Suya%20%C4%B0ner%20Tav%C5%9Fanlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Suya İner Tavşanlar (Aydın)",
+      "url": "https://tr.wikisource.org/wiki/Suya_%C4%B0ner_Tav%C5%9Fanlar_(Ayd%C4%B1n)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Aydın",
+    "anonim",
+    "açık arşiv"
+  ]
+}

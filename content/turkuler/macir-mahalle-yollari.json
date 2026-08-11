@@ -1,0 +1,71 @@
+{
+  "slug": "macir-mahalle-yollari",
+  "baslik": "Macir Mahalle Yolları",
+  "yore": "Zonguldak",
+  "hikaye": "Macir Mahalle Yolları, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Macir mahalle yolları",
+        "Yâr sıvamış kolları",
+        "Gelin olmuş gidiyor",
+        "Macir mahalle kızları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım yarim ben yandım",
+        "Yar sesine uyandım",
+        "Yar seni gelecek diye",
+        "Macir mahalleyi dolandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Macir mahalleden geçtin mi",
+        "Beni yâri seçtin mi",
+        "Sen o yari seçince",
+        "Eskisinden geçtin mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım yarim ben yandım",
+        "Yâr sesine uyandım",
+        "Yâr seni gelecek diye",
+        "Macir mahalleyi dolandım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Macir%20Mahalle%20Yollar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Macir%20Mahalle%20Yollar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Macir Mahalle Yolları",
+      "url": "https://tr.wikisource.org/wiki/Macir_Mahalle_Yollar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

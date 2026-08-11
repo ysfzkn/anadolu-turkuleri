@@ -1,0 +1,71 @@
+{
+  "slug": "kizil-sogut",
+  "baslik": "Kızıl Söğüt",
+  "yore": "Kütahya",
+  "hikaye": "Kızıl Söğüt, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başı yanık düzü",
+        "Çayırda otlar koyun kuzu",
+        "Kalemde kaşlar gamze yanak",
+        "Benim sevdiğim ümmü kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tepeden akar uşak özü",
+        "Gönlüme düştü sevda közü",
+        "Anam istemez babam almaz",
+        "Pınarmı oldu kömür gözü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar başında kızıl söğüt",
+        "Gönül dinlemez anam öğüt",
+        "Duvak başında ağlar gider",
+        "Gönlüm gamlandı söyler ağıt"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızıl sögüt dalı salınır",
+        "Davullar kurulmuş çalınır",
+        "Yedi kahve arar eldeyim",
+        "Gözüm görmez gönül daralır"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1z%C4%B1l%20S%C3%B6%C4%9F%C3%BCt%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1z%C4%B1l%20S%C3%B6%C4%9F%C3%BCt",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kızıl Söğüt",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1z%C4%B1l_S%C3%B6%C4%9F%C3%BCt",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

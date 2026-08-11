@@ -1,0 +1,53 @@
+{
+  "slug": "geceler-yarim-oldu",
+  "baslik": "Geceler Yârim Oldu",
+  "yore": "Şanlıurfa",
+  "hikaye": "Geceler Yârim Oldu, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geceler yârim oldu aman aman garibem",
+        "Ağlamak kârım oldu aman aman garibem",
+        "Her dertten yıkılmazdım aman aman garibem",
+        "Sebebim zalim oldu aman aman garibem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bayram gelmiş neyime aman aman garibem",
+        "Kan damlar yüreğime aman aman garibem",
+        "Yaralarım sızlıyor aman aman garibem",
+        "Doktor benim neyime aman aman garibem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Geceler%20Y%C3%A2rim%20Oldu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Geceler%20Y%C3%A2rim%20Oldu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Geceler Yârim Oldu",
+      "url": "https://tr.wikisource.org/wiki/Geceler_Y%C3%A2rim_Oldu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

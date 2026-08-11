@@ -118,6 +118,7 @@ export default function TurkuSayfasi({
         />
         <ListeyeEkle turkuSlug={turku.slug} />
         <RepertuvaraEkle turkuSlug={turku.slug} />
+        <Link href={`/soy-agaci?turku=${turku.slug}`} className="inline-flex min-h-11 items-center rounded-xl border border-cini/30 bg-cini/5 px-4 text-sm font-semibold text-cini-dark hover:bg-cini hover:text-white">◇ Soy ağacında gör</Link>
       </section>
 
       {/* Hikâye */}
@@ -168,6 +169,11 @@ export default function TurkuSayfasi({
       )}
 
       <MotifBorder className="my-8 opacity-70" />
+
+      <section className="mb-10 overflow-hidden rounded-3xl border border-toprak/25 bg-gradient-to-br from-ceviz to-cini-dark p-6 text-parsomen shadow-motif sm:flex sm:items-center sm:justify-between sm:gap-6">
+        <div><p className="text-xs font-semibold uppercase tracking-[.18em] text-toprak-light">Yaşayan Hafıza</p><h2 className="mt-2 font-serif text-2xl font-semibold">Bu türküyle ilgili bir anlatın var mı?</h2><p className="mt-2 max-w-xl text-sm leading-6 text-parsomen/65">Ailenden duyduğun hikâyeyi, yöresel söz farkını, eski fotoğrafı veya kaynak kişi bilgisini incelememiz için gönder.</p></div>
+        <Link href={`/katki?turku=${turku.slug}`} className="mt-5 inline-flex min-h-12 shrink-0 items-center rounded-xl bg-parsomen px-5 font-semibold text-ceviz sm:mt-0">Arşive katkı ver →</Link>
+      </section>
 
       {/* Paylaş */}
       <section className="mb-10">

@@ -1,0 +1,56 @@
+{
+  "slug": "evlerim-evlerim-saray-evlerim",
+  "baslik": "Evlerim Evlerim Saray Evlerim",
+  "yore": "Eskişehir",
+  "hikaye": "Evlerim Evlerim Saray Evlerim, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerim evlerim (yar amman amman) saray evlerim (amman amman)",
+        "Ben onun içinde gönlüm eylerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü (yar amman amman) yüksek kaldırım (amman amman)",
+        "Kaldırımdan düştüm beni kaldırın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman kralın kızı (yar amman amman) vay kralın kızı (amman amman)",
+        "Haydi gülüm gel sallan dolan gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Evlerim%20Evlerim%20Saray%20Evlerim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Evlerim%20Evlerim%20Saray%20Evlerim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Evlerim Evlerim Saray Evlerim",
+      "url": "https://tr.wikisource.org/wiki/Evlerim_Evlerim_Saray_Evlerim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

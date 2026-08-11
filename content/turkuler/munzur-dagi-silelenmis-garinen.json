@@ -1,0 +1,53 @@
+{
+  "slug": "munzur-dagi-silelenmis-garinen",
+  "baslik": "Munzur Dağı Silelenmiş Garinen",
+  "yore": "Erzincan",
+  "hikaye": "Munzur Dağı Silelenmiş Garinen, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Munzur dağı silelenmiş garinen (oy oy)",
+        "Aram açık ela gözlü yarınan",
+        "Eller düğün bayram eder yarınan (oy oy)",
+        "Benim günüm geçer ah-u zâr'ınan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Selvinin dalına yaslanmıyasın (oy oy)",
+        "Yağan yağmur ile ıslanmayasın",
+        "El gızı dediğin ezrail dostu (oy oy)",
+        "Yalan sözlerine aldanmayasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Munzur%20Da%C4%9F%C4%B1%20Silelenmi%C5%9F%20Garinen%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Munzur%20Da%C4%9F%C4%B1%20Silelenmi%C5%9F%20Garinen",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Munzur Dağı Silelenmiş Garinen",
+      "url": "https://tr.wikisource.org/wiki/Munzur_Da%C4%9F%C4%B1_Silelenmi%C5%9F_Garinen",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

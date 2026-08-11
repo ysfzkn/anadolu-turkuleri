@@ -1,0 +1,71 @@
+{
+  "slug": "aksam-oldu-yakamadim-gazimi-istanbul",
+  "baslik": "Akşam Oldu Yakamadım Gazımı",
+  "yore": "İstanbul",
+  "hikaye": "Akşam Oldu Yakamadım Gazımı, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam oldu yakamadım gazımı",
+        "Akşam oldu yakamadım gazımı",
+        "Kadir Mevla'm böyle yazmış yazımı",
+        "Kadir Mevla'm böyle yazmış yazımı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Avucuma alamadım nazlımı",
+        "Avucuma alamadım nazlımı",
+        "Sen uyu ben sana kurban olayım",
+        "Uyu ey nazlı nevcivanım uyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üsküdar'ın karşısında Beşiktaş",
+        "Üsküdar'ın karşısında Beşiktaş",
+        "Ne anam var ne babam var ne karadaş",
+        "Ne anam var ne babam var ne karadaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara toprak oldu bana arkadaş",
+        "Kara toprak oldu bana arkadaş",
+        "Uyu ey nazlı nevcivanım uyu",
+        "Sen uyu ben sana kurban olayım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ak%C5%9Fam%20Oldu%20Yakamad%C4%B1m%20Gaz%C4%B1m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ak%C5%9Fam%20Oldu%20Yakamad%C4%B1m%20Gaz%C4%B1m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Akşam Oldu Yakamadım Gazımı (İstanbul)",
+      "url": "https://tr.wikisource.org/wiki/Ak%C5%9Fam_Oldu_Yakamad%C4%B1m_Gaz%C4%B1m%C4%B1_(%C4%B0stanbul)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

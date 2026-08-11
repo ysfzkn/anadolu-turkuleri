@@ -1,0 +1,64 @@
+{
+  "slug": "gine-gordum-elif-kizin-yuzunu",
+  "baslik": "Gine Gördüm Elif Kızın Yüzünü",
+  "yore": "Yozgat",
+  "hikaye": "Gine Gördüm Elif Kızın Yüzünü, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gine gördüm Elif (de) kızın yüzünü (de yüzünü aman)",
+        "Duman da sandım şalvarının tozunu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(vay vay Elif'im gel gel nazlı da yarim sallan da gel)",
+        "Elif çıkmış pencereden el eder (de el eder aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşıyınan gözü beni del'eder",
+        "(vay vay Elif'im gel gel nazlı da yarim sallan da gel)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir kuş konmuş serayının başına (da başına aman)",
+        "Güneş (de) cavmış kirpiğine kaşına",
+        "(vay vay Elif'im gel gel nazlı da yarim sallan da gel)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20G%C3%B6rd%C3%BCm%20Elif%20K%C4%B1z%C4%B1n%20Y%C3%BCz%C3%BCn%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20G%C3%B6rd%C3%BCm%20Elif%20K%C4%B1z%C4%B1n%20Y%C3%BCz%C3%BCn%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Gördüm Elif Kızın Yüzünü",
+      "url": "https://tr.wikisource.org/wiki/Gine_G%C3%B6rd%C3%BCm_Elif_K%C4%B1z%C4%B1n_Y%C3%BCz%C3%BCn%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

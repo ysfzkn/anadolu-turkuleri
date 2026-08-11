@@ -1,0 +1,62 @@
+{
+  "slug": "yemenimin-incesi-aman-aman",
+  "baslik": "Yemenimin incesi aman aman",
+  "yore": "Manisa",
+  "hikaye": "Yemenimin incesi aman aman, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenimin incesi aman aman",
+        "Yemenimin incesi aman aman",
+        "Gönlümün eğlencesi aman",
+        "Gülüm aman ben sana yandım gel gel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenimin uçları aman aman",
+        "Yemenimin uçları aman aman",
+        "Çıkamam yokuşları aman",
+        "Gülüm aman ben sana yandım gel gel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenimin oyası aman aman",
+        "Yemenimin oyası aman aman",
+        "Saramadım doyası aman",
+        "Gülüm aman ben sana yandım gel gel aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yemenimin%20incesi%20aman%20aman%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yemenimin%20incesi%20aman%20aman",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yemenimin incesi aman aman",
+      "url": "https://tr.wikisource.org/wiki/Yemenimin_incesi_aman_aman",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

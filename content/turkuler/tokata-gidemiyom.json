@@ -1,0 +1,52 @@
+{
+  "slug": "tokata-gidemiyom",
+  "baslik": "Tokat'a Gidemiyom",
+  "yore": "Tokat",
+  "hikaye": "Tokat'a Gidemiyom, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tokat'a gidemiyom yârim sana fistan alayım",
+        "::Ah nerelerine nerelerine",
+        "::Bilmiyon mu kömür gözlüm",
+        "::Aha buralarıma buralarıma",
+        "::Fadime’m fistan kırmalar",
+        "::Ceviz dalı ırgalar",
+        "::Sevdiğini gören kızlar",
+        "::Sağını da solunu ırgalar",
+        "Tokat'a gidemiyom yârim sana potin alayım",
+        "::Ah nerelerine nerelerine",
+        "::Bilmiyon mu kömür gözlüm",
+        "::Aha buralarıma buralarıma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tokat'a%20Gidemiyom%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tokat'a%20Gidemiyom",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tokat'a Gidemiyom",
+      "url": "https://tr.wikisource.org/wiki/Tokat'a_Gidemiyom",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

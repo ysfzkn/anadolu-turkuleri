@@ -1,0 +1,62 @@
+{
+  "slug": "kadir-mevlam-senden-bir-dilegim-var-erzincan",
+  "baslik": "Kadir Mevlam Senden Bir Dileğim Var",
+  "yore": "Erzincan",
+  "hikaye": "Kadir Mevlam Senden Bir Dileğim Var, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadir Mevlâm senden bir dileğim var",
+        "Beni muhanete muhtaç eyleme",
+        "Yedi deryalara gark eyle beni",
+        "Yine muhanete muhtaç eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muhanetin suyu dolayı akar",
+        "Aktığı yerleri sel olur yıkar",
+        "İyilik etmeden başına kakar",
+        "İşte böylesine muhtaç eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muhanetin sözü zehirden oktur",
+        "Lütfuna kerem et insafı yoktur",
+        "Sağ gözün sol göze faydası yoktur",
+        "Sol gözü sağ göze muhtaç eyleme"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kadir%20Mevlam%20Senden%20Bir%20Dile%C4%9Fim%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kadir%20Mevlam%20Senden%20Bir%20Dile%C4%9Fim%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kadir Mevlam Senden Bir Dileğim Var (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Kadir_Mevlam_Senden_Bir_Dile%C4%9Fim_Var_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

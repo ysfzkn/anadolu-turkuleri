@@ -1,0 +1,77 @@
+{
+  "slug": "arabaci-arabaci-iste-sana-ben-kiraci",
+  "baslik": "Arabacı Arabacı İşte Sana Ben Kiracı",
+  "yore": "İstanbul",
+  "hikaye": "Arabacı Arabacı İşte Sana Ben Kiracı, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabacı arabacı",
+        "İşte sana ben kiracı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yallah yallah yallah yallah",
+        "Haydindi tıkır tıkır yallah yallah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arabaya da binelim",
+        "Beyoğlu'na gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yallah yallah yallah yallah",
+        "Haydindi tıkır tıkır yallah yallah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu eğlence böyle mi olur",
+        "Aman beyim liraları da bozdur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yallah yallah yallah yallah",
+        "Haydindi tıkır tıkır yallah yallah"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arabac%C4%B1%20Arabac%C4%B1%20%C4%B0%C5%9Fte%20Sana%20Ben%20Kirac%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arabac%C4%B1%20Arabac%C4%B1%20%C4%B0%C5%9Fte%20Sana%20Ben%20Kirac%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arabacı Arabacı İşte Sana Ben Kiracı",
+      "url": "https://tr.wikisource.org/wiki/Arabac%C4%B1_Arabac%C4%B1_%C4%B0%C5%9Fte_Sana_Ben_Kirac%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

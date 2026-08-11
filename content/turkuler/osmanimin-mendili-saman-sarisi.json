@@ -1,0 +1,65 @@
+{
+  "slug": "osmanimin-mendili-saman-sarisi",
+  "baslik": "Osman'ımın Mendili Saman Sarısı",
+  "yore": "Denizli",
+  "hikaye": "Osman'ımın Mendili Saman Sarısı, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Osman'ımın mendili saman da sarısı (of of)",
+        "Osman'ıma gıydılar gece yarısı",
+        "Osman'ıma gıyanlar gahbeydi hepisi (of of)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Osman'ım Osman'ım zeybek Osman'ım",
+        "Osman'ıma gıyanlar olsun düşmanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Susuz derelerde güller de biter mi (of of)",
+        "Osman'sız evlerde duman tüter mi",
+        "Dünya malını neyleyim Osman'ımı dutar mı (of of)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açın gapıları Osman geliyor",
+        "Gerneşe gerneşe aslan geliyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Osman'%C4%B1m%C4%B1n%20Mendili%20Saman%20Sar%C4%B1s%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Osman'%C4%B1m%C4%B1n%20Mendili%20Saman%20Sar%C4%B1s%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Osman'ımın Mendili Saman Sarısı",
+      "url": "https://tr.wikisource.org/wiki/Osman'%C4%B1m%C4%B1n_Mendili_Saman_Sar%C4%B1s%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

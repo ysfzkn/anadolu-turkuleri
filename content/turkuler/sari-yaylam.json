@@ -1,0 +1,53 @@
+{
+  "slug": "sari-yaylam",
+  "baslik": "Sarı Yaylam",
+  "yore": "Mersin",
+  "hikaye": "Sarı Yaylam, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of! Sarı yaylam da seni yaylayamadım, başım kar iken.",
+        "Of! Yavrum, palazlarını avlayamadım, var iken.",
+        "Sende bu güzellik de bende gençlik var iken vay vay!",
+        "Çekip gider de yaylasına gözleri sürmeli bir gelin..."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of! Silifke'nin ırmağı da akar coşar, bulanır.",
+        "Of! Üçün birinci dağ yokuşu, dolanır.",
+        "Nice güzeller de Taşpınar'da sulanır vay vay!",
+        "Alırım atımı da koymam sende ay gelin..."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20Yaylam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20Yaylam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarı Yaylam",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1_Yaylam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

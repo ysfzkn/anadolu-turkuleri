@@ -1,0 +1,113 @@
+{
+  "slug": "yesin-onu-ninesi",
+  "baslik": "Yesin Onu Ninesi",
+  "yore": "Rize",
+  "hikaye": "Yesin Onu Ninesi, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Salina salina",
+        "Suya gidersun",
+        "Su değil maksadın yavrum",
+        "Seyran edersun",
+        "Sen bu güzelliklen yavrum",
+        "Çok naz edersun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anan var midur ?",
+        "Baban var midur ?",
+        "Seni bağa met ettiler",
+        "Asli var midur ?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O gözler o kaşlar o domiz",
+        "Yesun oni nenesi da",
+        "Yesun oni nenesi",
+        "Yesun oni nenesi da",
+        "Yesun oni nenesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Görmedum hayiruni",
+        "Of birdanem",
+        "O gözler o kaşlar o domiz",
+        "Yesun oni nenesi da",
+        "Yesun oni nenesi",
+        "Yesun oni nenesi da",
+        "Yesun oni nenesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy ben ne edeceğum",
+        "Of birdanem",
+        "Yürek yaralarumi ?",
+        "Yürek yaralarumi ?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldadi beni sevdam",
+        "Eyvah birdanem",
+        "Yedi paralarumi",
+        "Yedi paralarumi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olmadı alamadum",
+        "Of birdanem",
+        "Tonya'nun gaydasuni",
+        "Tonya'nun gaydasuni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beş tane sevda ettum",
+        "Eyvah birdanem",
+        "Görmedum faydasuni",
+        "Görmedum faydasuni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yesin%20Onu%20Ninesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yesin%20Onu%20Ninesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yesin Onu Ninesi",
+      "url": "https://tr.wikisource.org/wiki/Yesin_Onu_Ninesi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

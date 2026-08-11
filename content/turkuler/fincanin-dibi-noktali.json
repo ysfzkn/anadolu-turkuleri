@@ -1,0 +1,80 @@
+{
+  "slug": "fincanin-dibi-noktali",
+  "baslik": "Fincanın Dibi Noktalı",
+  "yore": "Kütahya",
+  "hikaye": "Fincanın Dibi Noktalı, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanın dibi de noktalı (amanın imanım)",
+        "Gelinler kızdan edalı (haydin di kızdan edalı)",
+        "Huysuz olanları merdivenden atmalı (amanın imanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "N'olaydı evlenmeyeydim",
+        "Haydin yar sevmeyeydim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanı tuzdan yaparlar",
+        "Gelini kızdan yaparlar",
+        "Urbayı bezden yaparlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "N'olaydı evlenmeyeydim",
+        "Haydin yar sevmeyeydim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanı taştan yaparlar",
+        "Sırmayı saçtan yaparlar",
+        "İnciyi dişten yaparlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "N'olaydı evlenmeyeydim",
+        "Haydin yar sevmeyeydim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fincan%C4%B1n%20Dibi%20Noktal%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fincan%C4%B1n%20Dibi%20Noktal%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fincanın Dibi Noktalı",
+      "url": "https://tr.wikisource.org/wiki/Fincan%C4%B1n_Dibi_Noktal%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

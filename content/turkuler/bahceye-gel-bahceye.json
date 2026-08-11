@@ -1,0 +1,62 @@
+{
+  "slug": "bahceye-gel-bahceye",
+  "baslik": "Bahçeye Gel Bahçeye",
+  "yore": "Ordu",
+  "hikaye": "Bahçeye Gel Bahçeye, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye gel bahçeye",
+        "Kuru fındık bulursun",
+        "Alacaksan al beni",
+        "Sonra pişman olursun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi, yavrum oymaktan",
+        "Yar gelir oynamaktan",
+        "Parmaklarım ağrıdı",
+        "Saz çalıp oynamaktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalda fındık tekleme",
+        "Yar saçların ekleme",
+        "Gidiyorum Ordu’dan",
+        "Gelir diye bekleme"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7eye%20Gel%20Bah%C3%A7eye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7eye%20Gel%20Bah%C3%A7eye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçeye Gel Bahçeye",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7eye_Gel_Bah%C3%A7eye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ordu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "sogudun-yapragi-narindir-narin",
+  "baslik": "Söğüdün Yaprağı Narindir Narin",
+  "yore": "Manisa",
+  "hikaye": "Söğüdün Yaprağı Narindir Narin, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C3%B6%C4%9F%C3%BCd%C3%BCn%20Yapra%C4%9F%C4%B1%20Narindir%20Narin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C3%B6%C4%9F%C3%BCd%C3%BCn%20Yapra%C4%9F%C4%B1%20Narindir%20Narin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Söğüdün Yaprağı Narindir Narin",
+      "url": "https://tr.wikisource.org/wiki/S%C3%B6%C4%9F%C3%BCd%C3%BCn_Yapra%C4%9F%C4%B1_Narindir_Narin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "sirin-nar-dane-dane",
+  "baslik": "Şirin Nar Dane Dane",
+  "yore": "Gaziantep",
+  "hikaye": "Şirin Nar Dane Dane, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirin nar dane dane",
+        "Gel güzel döne döne",
+        "Gül olup koklamadım",
+        "Felek ayırdı gene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyaz geyme üşürsün",
+        "Güzellikte menşursun",
+        "Neyim güzel olduğun",
+        "Yad elnen konuşursun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderim dur diyen yok",
+        "Kebap oldum yiyen yok",
+        "Ayrılık gömleğini",
+        "Benden başka giyen yok"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eirin%20Nar%20Dane%20Dane%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eirin%20Nar%20Dane%20Dane",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şirin Nar Dane Dane",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eirin_Nar_Dane_Dane",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

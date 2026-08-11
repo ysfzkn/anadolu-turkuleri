@@ -1,0 +1,71 @@
+{
+  "slug": "yaves-yaves-esen-seher-yeli-mi",
+  "baslik": "Yaveş Yaveş Esen Seher Yeli mi",
+  "yore": "Denizli",
+  "hikaye": "Yaveş Yaveş Esen Seher Yeli mi, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaveş yaveş esen seher yeli mi",
+        "Benim gönlüm divane mi deli mı (aman aman aman yar)",
+        "Galk gidelim gara gözlüm burladan",
+        "Çekilip durmuyor gurbetin halı (aman aman aman yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hıkkıdık duttu beni",
+        "Duttu da guruttu beni",
+        "Seni gidi zalımın gızı",
+        "Gitti de unuttu beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahınan esen seher yeli",
+        "Galemden incedir yarımın beli (aman aman aman yar)",
+        "Köşelerden melil melil bakarım",
+        "Yoksa bugün ayrılığın günü mü (aman aman aman yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hıkkıdık duttu beni",
+        "Duttu da guruttu beni",
+        "Seni gidi zalımın gızı",
+        "Gitti de unuttu beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yave%C5%9F%20Yave%C5%9F%20Esen%20Seher%20Yeli%20mi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yave%C5%9F%20Yave%C5%9F%20Esen%20Seher%20Yeli%20mi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaveş Yaveş Esen Seher Yeli mi",
+      "url": "https://tr.wikisource.org/wiki/Yave%C5%9F_Yave%C5%9F_Esen_Seher_Yeli_mi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

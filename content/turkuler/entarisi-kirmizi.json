@@ -1,0 +1,67 @@
+{
+  "slug": "entarisi-kirmizi",
+  "baslik": "Entarisi Kırmızı",
+  "yore": "Eskişehir",
+  "hikaye": "Entarisi Kırmızı, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi kırmızı",
+        "Ben annemin bir kızı",
+        "Beni alacak oğlan",
+        "Teyyarenin yıldızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynan kızlar oyunlara ben yandım",
+        "Ben yandım sevip sevip aldandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi al basma",
+        "Alıp duvara asma",
+        "Sen benimsin ben senin",
+        "Her lafa kulak asma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynan kızlar oyunlara ben yandım",
+        "Ben yandım sevip sevip aldandım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Entarisi%20K%C4%B1rm%C4%B1z%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Entarisi%20K%C4%B1rm%C4%B1z%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Entarisi Kırmızı",
+      "url": "https://tr.wikisource.org/wiki/Entarisi_K%C4%B1rm%C4%B1z%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

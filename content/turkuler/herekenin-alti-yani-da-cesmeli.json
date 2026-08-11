@@ -1,0 +1,79 @@
+{
+  "slug": "herekenin-alti-yani-da-cesmeli",
+  "baslik": "Hereke'nin Altı Yanı da Çeşmeli",
+  "yore": "Kütahya",
+  "hikaye": "Hereke'nin Altı Yanı da Çeşmeli, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Herekenin alt yanı da çeşmeli",
+        "Cavır cavır Fadime'yi fincana goyup (aman da) içmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A Fadime'm nerden geliyorunda tarladan",
+        "Elmalı peşgir can Fadime'yi (aman da) parladan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Herekenin bağlarında üzüm yok",
+        "Varsın gitsin can Fadime'de (aman da) gözüm yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A Fadime'm nerden geliyorun da hemamdan",
+        "Terlemişsin ben bilemiyom (amanda) simandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Herekenin alt yanında alanı",
+        "Garışmasın ayan ile amanda imamı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A Fadime'm nerden geliyorunda tarladan",
+        "Elmalı peşgir can Fadime'yi (aman da) parladan",
+        "A Fadime'm nerden geliyorunda hemamdan",
+        "Terlemişsin ben bilemiyom (aman da) simandan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hereke'nin%20Alt%C4%B1%20Yan%C4%B1%20da%20%C3%87e%C5%9Fmeli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hereke'nin%20Alt%C4%B1%20Yan%C4%B1%20da%20%C3%87e%C5%9Fmeli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hereke'nin Altı Yanı da Çeşmeli",
+      "url": "https://tr.wikisource.org/wiki/Hereke'nin_Alt%C4%B1_Yan%C4%B1_da_%C3%87e%C5%9Fmeli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

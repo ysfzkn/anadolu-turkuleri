@@ -1,0 +1,62 @@
+{
+  "slug": "bir-guzelin-hasretinden-ahindan",
+  "baslik": "Bir Güzelin Hasretinden Ahından",
+  "yore": "Tokat",
+  "hikaye": "Bir Güzelin Hasretinden Ahından, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir güzelin hasretinden ahından (canan ahından)",
+        "Tutuştu her yanım da yandı ha yandı",
+        "Âşık oldum onun mah cemaline (mah cemaline)",
+        "Tutuştu her yanım da yandı ha yandı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim derdim senin derdine taydır",
+        "Bir güzel sevmişem kaşları yaydır",
+        "Saatim gün geçer her günüm aydır",
+        "Üç yüz altmış beş günüm de yandı ha yandı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sıtkı'yam çekmişem gayet zarı ben",
+        "Dilerim ki muradıma erem ben",
+        "Bir hayırsız yar elinde kaldım ben",
+        "Ağzımda dillerim yandı ha yandı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20G%C3%BCzelin%20Hasretinden%20Ah%C4%B1ndan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20G%C3%BCzelin%20Hasretinden%20Ah%C4%B1ndan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Güzelin Hasretinden Ahından",
+      "url": "https://tr.wikisource.org/wiki/Bir_G%C3%BCzelin_Hasretinden_Ah%C4%B1ndan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

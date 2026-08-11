@@ -1,0 +1,52 @@
+{
+  "slug": "erzurum-carsi-pazar",
+  "baslik": "Erzurum Çarşı Pazar",
+  "yore": "Erzurum",
+  "hikaye": "Erzurum Çarşı Pazar, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum çarşı pazar leylim aman aman,",
+        "Leylim aman aman leylim aman aman suna yarim.",
+        "İçinde bir kız gezer oy nenen ölsün sarı gelin aman,",
+        "Sarı gelin aman sarı gelin aman suna yarim.",
+        "Elinde divit kalem leylim aman aman,",
+        "Leylim aman aman leylim aman aman suna yarim.",
+        "Katlime ferman yazar ay nenen ölsün sarı gelin aman,",
+        "Sarı gelin aman sarı gelin aman suna yarim.",
+        "Seni vermem ellere leylim aman aman,",
+        "Leylim aman aman leylim aman aman suna yarim.",
+        "Niceki bu canımsa ay nenen ölsün sarı gelin aman,",
+        "Sarı gelin aman sarı gelin aman suna yarim."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzurum%20%C3%87ar%C5%9F%C4%B1%20Pazar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzurum%20%C3%87ar%C5%9F%C4%B1%20Pazar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erzurum Çarşı Pazar",
+      "url": "https://tr.wikisource.org/wiki/Erzurum_%C3%87ar%C5%9F%C4%B1_Pazar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "efeler-geliyor-dort-atli",
+  "baslik": "Efeler Geliyor Dört Atlı",
+  "yore": "Manisa",
+  "hikaye": "Efeler Geliyor Dört Atlı, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Efeler (de) geliyor dört atlı",
+        "Cepkenleri kanatlı",
+        "Sarıca (da) efeyi vurmuşlar (haydide gelin efeler)",
+        "Şahlanıyor kır atı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelir de söğüt soyundan",
+        "Mavzer düştü kolundan",
+        "Onbir kurşun yesem de (haydide gelin efeler)",
+        "Yine de dönmem yolumdan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Efeler%20Geliyor%20D%C3%B6rt%20Atl%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Efeler%20Geliyor%20D%C3%B6rt%20Atl%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Efeler Geliyor Dört Atlı",
+      "url": "https://tr.wikisource.org/wiki/Efeler_Geliyor_D%C3%B6rt_Atl%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

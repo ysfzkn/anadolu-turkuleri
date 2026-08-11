@@ -1,0 +1,66 @@
+{
+  "slug": "acildi-laleler-guller",
+  "baslik": "Açıldı Laleler Güller",
+  "yore": "Muş",
+  "hikaye": "Açıldı Laleler Güller, Vikikaynak'ın Muş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açılmış laleler güller",
+        "Uzar gider Muş Ovası",
+        "Güzeller kol kola girmiş",
+        "Gezer gider Muş Ovası",
+        "Muş Ovası, Muş OvasıGarip aşıklar yuvası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karasu akar boyunca",
+        "Murat suyu gider ince",
+        "Dolaşır gider boyunca",
+        "Şen olası Muş Ovası",
+        "Muş Ovası, Muş Ovası",
+        "Muş Ovası, Muş OvasıGarip aşıklar yuvası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaz gelince çayır çimen",
+        "Güz gelince basar duman",
+        "Aşıkların eder figan",
+        "Uzar gider Muş Ovası",
+        "Muş Ovası, Muş OvasıGarip aşıklar yuvası"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C3%A7%C4%B1ld%C4%B1%20Laleler%20G%C3%BCller%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C3%A7%C4%B1ld%C4%B1%20Laleler%20G%C3%BCller",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Açıldı Laleler Güller",
+      "url": "https://tr.wikisource.org/wiki/A%C3%A7%C4%B1ld%C4%B1_Laleler_G%C3%BCller",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

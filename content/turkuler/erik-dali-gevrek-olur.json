@@ -1,0 +1,73 @@
+{
+  "slug": "erik-dali-gevrek-olur",
+  "baslik": "Erik Dalı Gevrek Olur",
+  "yore": "Isparta",
+  "hikaye": "Erik Dalı Gevrek Olur, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erik de dalı gevrek olur",
+        "Basmaya gelmez amman amman imanım",
+        "Elinde kızı nazlı olur",
+        "Üzmeye gelmez amman amman imanımm",
+        "Küsmeye gelmez"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "A güzel yürüyüşüne ben yandım",
+        "Güzelim sözlerine aldandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erik de dalı pek incedir",
+        "Eymeye gelmez amman amman imanım",
+        "Elin de kızı nazik olur",
+        "Deymeye gelmez amman amman imanım",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erik de dalı kırıldı",
+        "Elimde kaldı amman amman imanım",
+        "Elin de kızı pek güzelmiş",
+        "Gözümde kaldı amman amman imanım",
+        "Bağlantı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erik%20Dal%C4%B1%20Gevrek%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erik%20Dal%C4%B1%20Gevrek%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erik Dalı Gevrek Olur",
+      "url": "https://tr.wikisource.org/wiki/Erik_Dal%C4%B1_Gevrek_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

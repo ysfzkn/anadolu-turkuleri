@@ -1,0 +1,62 @@
+{
+  "slug": "bu-kadar-cevretme-aziz-sultanim",
+  "baslik": "Bu Kadar Cevretme Aziz Sultanım",
+  "yore": "Tokat",
+  "hikaye": "Bu Kadar Cevretme Aziz Sultanım, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu kadar cevretme (hey dost) aziz sultanım",
+        "Ne olur insafa (hey dost) gel bazı bazı",
+        "Lütfu insan eyle (hey dost) çeşm-i meralım",
+        "Yaralı gönlümü sar bazı bazı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Coşkun sular gibi (hey dost) çağlayıp akma",
+        "Aşkın hançerini (hey dost) sineme çakma",
+        "Noksanım var ise (hey dost) kusura bakma",
+        "Bildiğinden şaşar kul bazı bazı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sefil kemter eydür (hey dost) leb-i balımsın",
+        "Canımın cananı (hey dost) servi dalımsın",
+        "Sen bir merhametli (hey dost) gönlü ganisin",
+        "Bendelere selam sal bazı bazı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bu%20Kadar%20Cevretme%20Aziz%20Sultan%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bu%20Kadar%20Cevretme%20Aziz%20Sultan%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bu Kadar Cevretme Aziz Sultanım",
+      "url": "https://tr.wikisource.org/wiki/Bu_Kadar_Cevretme_Aziz_Sultan%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

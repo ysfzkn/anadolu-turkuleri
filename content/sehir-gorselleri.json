@@ -270,5 +270,117 @@
     "kaynakUrl": "https://commons.wikimedia.org/wiki/File:D%C3%BCzce-435.jpg",
     "lisans": "CC BY-SA 3.0",
     "sanatci": "İncelemeelemani"
+  },
+  "bingol": {
+    "src": "/yoreler/bingol.webp",
+    "alt": "Bingöl kent ve kültür görünümü",
+    "baslik": "Bingöl",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Bingolll"
+  },
+  "bitlis": {
+    "src": "/yoreler/bitlis.webp",
+    "alt": "Bitlis kent ve kültür görünümü",
+    "baslik": "Bitlis",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:B%C3%AAdlis.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Dûrzan"
+  },
+  "burdur": {
+    "src": "/yoreler/burdur.webp",
+    "alt": "Burdur kent ve kültür görünümü",
+    "baslik": "Burdur",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg",
+    "lisans": "CC BY 3.0",
+    "sanatci": "Nihat1988"
+  },
+  "cankiri": {
+    "src": "/yoreler/cankiri.webp",
+    "alt": "Çankırı kent ve kültür görünümü",
+    "baslik": "Çankırı",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg",
+    "lisans": "Public domain",
+    "sanatci": "XperfectTR"
+  },
+  "hakkari": {
+    "src": "/yoreler/hakkari.webp",
+    "alt": "Hakkâri kent ve kültür görünümü",
+    "baslik": "Hakkâri",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg",
+    "lisans": "Public domain",
+    "sanatci": "VOA"
+  },
+  "mersin": {
+    "src": "/yoreler/mersin.webp",
+    "alt": "Mersin kent ve kültür görünümü",
+    "baslik": "Mersin",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Collage_of_Mersin.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Catholic Church of Mersin.jpg:Nedim Ardoğa 126 Mersin.07.2006 resize.JPG:Avniyazici 131 Mersin.07.2006 resize.JPG:Avniyazici Kongre ve kültür merkezi.jpg:Nedim Ardoğa Sportshall in Mersin, Turkey.JPG:Nedim Ardoğa"
+  },
+  "mugla": {
+    "src": "/yoreler/mugla.webp",
+    "alt": "Muğla kent ve kültür görünümü",
+    "baslik": "Muğla",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Mu%C4%9Fla_188.JPG",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Perencal"
+  },
+  "siirt": {
+    "src": "/yoreler/siirt.webp",
+    "alt": "Siirt kent ve kültür görünümü",
+    "baslik": "Siirt",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_center.jpg",
+    "lisans": "Public domain",
+    "sanatci": "No machine-readable author provided. Veleye assumed (based on copyright claims)."
+  },
+  "usak": {
+    "src": "/yoreler/usak.webp",
+    "alt": "Uşak kent ve kültür görünümü",
+    "baslik": "Uşak",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Antikle_Kirche_von_Sebaste%2C_bei_Selcikler_(Usak).JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Elmas2014"
+  },
+  "van": {
+    "src": "/yoreler/van.webp",
+    "alt": "Van kent ve kültür görünümü",
+    "baslik": "Van",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_of_Van_(view_from_Van_Kalesi).jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "EvgenyGenkin"
+  },
+  "karaman": {
+    "src": "/yoreler/karaman.webp",
+    "alt": "Karaman kent ve kültür görünümü",
+    "baslik": "Karaman",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Karaman_Yunus_Emre_Camisi_2163.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Dosseman"
+  },
+  "bartin": {
+    "src": "/yoreler/bartin.webp",
+    "alt": "Bartın kent ve kültür görünümü",
+    "baslik": "Bartın",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bart%C4%B1n_45.JPG",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Vikiçizer"
+  },
+  "igdir": {
+    "src": "/yoreler/igdir.webp",
+    "alt": "Iğdır kent ve kültür görünümü",
+    "baslik": "Iğdır",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:I%C4%9Fd%C4%B1r_ve_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg",
+    "lisans": "CC0",
+    "sanatci": "Sabri76"
+  },
+  "kilis": {
+    "src": "/yoreler/kilis.webp",
+    "alt": "Kilis kent ve kültür görünümü",
+    "baslik": "Kilis",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Kilis_city_center.jpg",
+    "lisans": "Public domain",
+    "sanatci": "Brian Dell"
   }
 }

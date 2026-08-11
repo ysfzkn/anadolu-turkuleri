@@ -1,0 +1,67 @@
+{
+  "slug": "ak-koyun-meler-gelir",
+  "baslik": "Ak Koyun Meler Gelir",
+  "yore": "Yozgat",
+  "hikaye": "Ak Koyun Meler Gelir, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak koyun meler gelir",
+        "Dağları deler gelir (vay)",
+        "Hakikatlı yar olsa",
+        "Geceyi böler gelir (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of güzelim sümbülüm bir gülüm aman",
+        "Aman aman ben yandım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak koyun kara koyun",
+        "Yaremi derin oyun (vay)",
+        "Ben bu dertten ölürsem",
+        "Adımı dertli koyun (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of güzelim sümbülüm bir gülüm aman",
+        "Aman aman ben yandım aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ak%20Koyun%20Meler%20Gelir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ak%20Koyun%20Meler%20Gelir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ak Koyun Meler Gelir (Yozgat)",
+      "url": "https://tr.wikisource.org/wiki/Ak_Koyun_Meler_Gelir_(Yozgat)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

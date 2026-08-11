@@ -1,0 +1,62 @@
+{
+  "slug": "hasta-oldum-derdine",
+  "baslik": "Hasta Oldum Derdine",
+  "yore": "Trabzon",
+  "hikaye": "Hasta Oldum Derdine, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasta oldum derdune",
+        "Oku bağa yasini oku",
+        "Gün boyunca ağlayıp da",
+        "Yiyesun gözyaşını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel geç evun başından",
+        "Evun başu şen olsun",
+        "Çağır beni geleyim da",
+        "Gelmeyenler körolsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kemençemin kulağı",
+        "Eruktendir erukten",
+        "Ben nasıl ayrılayım da",
+        "Senin gibi ferukten"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hasta%20Oldum%20Derdine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hasta%20Oldum%20Derdine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hasta Oldum Derdine",
+      "url": "https://tr.wikisource.org/wiki/Hasta_Oldum_Derdine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

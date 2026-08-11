@@ -1,0 +1,70 @@
+{
+  "slug": "eminem-pazar-misin",
+  "baslik": "Eminem Pazar mısın",
+  "yore": "Ordu",
+  "hikaye": "Eminem Pazar mısın, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem pazar mısın?",
+        "Şeftali soyar mısın?",
+        "Şeftali şöyle dursun",
+        "Benimle kaçar mısın?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Dalgın da Eminem oy",
+        "Baygın da Eminem oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem gonca mısın?",
+        "Çayırda yonca mısın?",
+        "Kaçıracağım seni",
+        "Kalıp da gelmez misin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem ince belin",
+        "Güllü anama gelin",
+        "Kaçıracağım seni",
+        "Olacaksın sen benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eminem%20Pazar%20m%C4%B1s%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eminem%20Pazar%20m%C4%B1s%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eminem Pazar mısın",
+      "url": "https://tr.wikisource.org/wiki/Eminem_Pazar_m%C4%B1s%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ordu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

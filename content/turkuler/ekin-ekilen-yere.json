@@ -1,0 +1,71 @@
+{
+  "slug": "ekin-ekilen-yere",
+  "baslik": "Ekin Ekilen Yere",
+  "yore": "Yozgat",
+  "hikaye": "Ekin Ekilen Yere, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin ekilen yere",
+        "Sapı bükülen yere",
+        "Can kurban canım kurban (da)",
+        "Kekil dökülen yere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman deyin bir gelin",
+        "Suyun yolları serin",
+        "Gördüm ayağı yalın (da)",
+        "Tombul bilekli gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Süpürgesi yoncadan",
+        "Gayet beli inceden",
+        "Ben seni sakınırım da",
+        "Yerdeki karıncadan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak gelin topak gelin",
+        "Yaslanayım dizine",
+        "Yaslanayım dizine (de)",
+        "Bakam ela gözüne"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ekin%20Ekilen%20Yere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ekin%20Ekilen%20Yere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ekin Ekilen Yere",
+      "url": "https://tr.wikisource.org/wiki/Ekin_Ekilen_Yere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

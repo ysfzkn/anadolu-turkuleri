@@ -1,0 +1,55 @@
+{
+  "slug": "kutahyanin-pinarlari-akisir",
+  "baslik": "Kütahya'nın Pınarları Akışır",
+  "yore": "Kütahya",
+  "hikaye": "Kütahya'nın Pınarları Akışır, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kütahya’nın pınarları akışır",
+        "Zaptiyeler kol kol olmuş bakışır",
+        "Asalı’ya çuha şalvar yakışır",
+        "Aman aman Vehbi’m öyle de böyle olur mu?",
+        "Ah sen ölürsen dünya bana kalır mı?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Salın geldi musallaya dayandı",
+        "Kar beyaz Vehbi'm al kanlara boyandı",
+        "Seni doğuran ana nasıl dayandı",
+        "Aman aman Deli Düve öyle de böyle olur mu?",
+        "Ah ben ölürsem dünya sana kalır mı?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C3%BCtahya'n%C4%B1n%20P%C4%B1narlar%C4%B1%20Ak%C4%B1%C5%9F%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C3%BCtahya'n%C4%B1n%20P%C4%B1narlar%C4%B1%20Ak%C4%B1%C5%9F%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kütahya'nın Pınarları Akışır",
+      "url": "https://tr.wikisource.org/wiki/K%C3%BCtahya'n%C4%B1n_P%C4%B1narlar%C4%B1_Ak%C4%B1%C5%9F%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

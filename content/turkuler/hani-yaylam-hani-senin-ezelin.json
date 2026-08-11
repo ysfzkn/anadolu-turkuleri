@@ -1,0 +1,62 @@
+{
+  "slug": "hani-yaylam-hani-senin-ezelin",
+  "baslik": "Hani Yaylam Hani Senin Ezelin",
+  "yore": "Erzurum",
+  "hikaye": "Hani Yaylam Hani Senin Ezelin, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hani yaylam hani senin ezelin (ey ezelin)",
+        "Güz gelende döker bağlar (ey) gazelin (ey gazelin)",
+        "Yayla senin heç gelmez mi gözelin (ey gözelin)",
+        "Hani yaylam hani senin ezelin (ey ezelin ey ezelin ey ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaz olanda yayla yayla otlanır (ey otlanır)",
+        "Arap atlar topuğundan etlenir (ey etlenir)",
+        "O yaylada goyun guzi beslenir (ey beslenir)",
+        "Hani yaylam hani senin ezelin (ey ezelin ey ezelin ey ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaz gelende yayla seni gezmeli (ey gezmeli)",
+        "Kalem alıp kaşın gözün yazmalı (ey yazmalı)",
+        "Ne hoş olur o yaylanın gözeli (ey gözeli)",
+        "Hani yaylam hani senin ezelin (ey ezelin ey ezelin ey ey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hani%20Yaylam%20Hani%20Senin%20Ezelin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hani%20Yaylam%20Hani%20Senin%20Ezelin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hani Yaylam Hani Senin Ezelin",
+      "url": "https://tr.wikisource.org/wiki/Hani_Yaylam_Hani_Senin_Ezelin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

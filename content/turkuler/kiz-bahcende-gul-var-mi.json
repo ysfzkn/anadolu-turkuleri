@@ -1,0 +1,67 @@
+{
+  "slug": "kiz-bahcende-gul-var-mi",
+  "baslik": "Kız Bahçende Gül Var mı",
+  "yore": "Kastamonu",
+  "hikaye": "Kız Bahçende Gül Var mı, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız bahçende gül varmı",
+        "Dalında bülbül varmı",
+        "Bu akşam geleceğim",
+        "Tenhalarda yer varmı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi saray çeşmesine",
+        "Ben yandım badem ezmesine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız bahçende mor meni",
+        "Verem ettin sen beni",
+        "Nasıl verem olmayayım",
+        "Eller sarıyor seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi saray çeşmesine",
+        "Ben yandım badem ezmesine"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1z%20Bah%C3%A7ende%20G%C3%BCl%20Var%20m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1z%20Bah%C3%A7ende%20G%C3%BCl%20Var%20m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kız Bahçende Gül Var mı",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1z_Bah%C3%A7ende_G%C3%BCl_Var_m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

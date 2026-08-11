@@ -1,0 +1,71 @@
+{
+  "slug": "konyaliya-guzel-derler",
+  "baslik": "Konyalıya Güzel Derler",
+  "yore": "Konya",
+  "hikaye": "Konyalıya Güzel Derler, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konyalıya güzel derler gözlerini süzer derler",
+        "Efelerle gezer derler dilberim vay",
+        "Şu dağları serin derler Konya’lıyı şirin derler",
+        "Muhabbeti derin derler; Konya’lım vay",
+        "Hoy anam edalısın niçin gülüm cefalısın",
+        "Bilirim sen sefalısın vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yumuşacık elleri o incecik belleri",
+        "Bir ileri bir geri yürü yürü yürü yürü vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konya’lının gözlerine can dayanmaz sözlerine",
+        "Düştü başım dizlerine işvelim vay",
+        "Konya’lının endamına gül vurulmuş gerdanına",
+        "Varabilsem ah yanına vurgunum vay",
+        "İçer içer mest olur efem bize dost olur",
+        "Bu işte bir kast olur vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yumuşacık elleri o incecik belleri",
+        "Bir ileri bir geri yürü yürü yürü yürü vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Konyal%C4%B1ya%20G%C3%BCzel%20Derler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Konyal%C4%B1ya%20G%C3%BCzel%20Derler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Konyalıya Güzel Derler",
+      "url": "https://tr.wikisource.org/wiki/Konyal%C4%B1ya_G%C3%BCzel_Derler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

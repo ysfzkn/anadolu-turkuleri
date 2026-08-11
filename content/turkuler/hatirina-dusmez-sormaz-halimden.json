@@ -1,0 +1,62 @@
+{
+  "slug": "hatirina-dusmez-sormaz-halimden",
+  "baslik": "Hatırına Düşmez Sormaz Halimden",
+  "yore": "Tokat",
+  "hikaye": "Hatırına Düşmez Sormaz Halimden, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hatırına düşmez sormaz halimden",
+        "Kirpikleri siyah kalem kaşlı yâr durnam durnam yareli durnam allıdır sunam ey",
+        "Fikrin zikrin çıkmaz oldu aklımdan",
+        "Kendi melül melül gözü yaşlı yâr durnam durnam yareli durnam allıdır sunam ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül aşk atına binip yarışmaz",
+        "Gâm-ı hicran devranına karışmaz durnam durnam yareli durnam allıdırsunam ey",
+        "Çoktan beri küsülüyüz barışmaz",
+        "Beniminen mercimeği taşlı yâr durnam durnam yareli durnam allıdır sunam ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dertli seri sefil gurbet ellerde",
+        "Bir zaman şöhreti gezer dillerde durnam durnam yareli durnam allıdır sunam ey",
+        "Yârim gelir deyi gözü yollarda",
+        "Anadan gülmedik garip başlı yâr durnam durnam yareli durnam allıdır sunam ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hat%C4%B1r%C4%B1na%20D%C3%BC%C5%9Fmez%20Sormaz%20Halimden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hat%C4%B1r%C4%B1na%20D%C3%BC%C5%9Fmez%20Sormaz%20Halimden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hatırına Düşmez Sormaz Halimden",
+      "url": "https://tr.wikisource.org/wiki/Hat%C4%B1r%C4%B1na_D%C3%BC%C5%9Fmez_Sormaz_Halimden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

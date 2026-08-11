@@ -1,0 +1,52 @@
+{
+  "slug": "yagmur-yagar-her-dereler-sel-alir",
+  "baslik": "Yağmur Yağar Her Dereler Sel Alır",
+  "yore": "Kütahya",
+  "hikaye": "Yağmur Yağar Her Dereler Sel Alır, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağmur yağar amanın aman",
+        "Her dereler kadınım sel alır ey",
+        "Gurbete gidenin yarin el alır ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El almazsa amanın aman",
+        "Yanar yanar kadınım kül olur ey",
+        "Amandı allah aman al başımdan sevdayı",
+        "Genç yaşımda aman zindan ettin dünyayı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ya%C4%9Fmur%20Ya%C4%9Far%20Her%20Dereler%20Sel%20Al%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ya%C4%9Fmur%20Ya%C4%9Far%20Her%20Dereler%20Sel%20Al%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yağmur Yağar Her Dereler Sel Alır",
+      "url": "https://tr.wikisource.org/wiki/Ya%C4%9Fmur_Ya%C4%9Far_Her_Dereler_Sel_Al%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

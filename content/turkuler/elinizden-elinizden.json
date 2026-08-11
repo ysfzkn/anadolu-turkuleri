@@ -1,0 +1,65 @@
+{
+  "slug": "elinizden-elinizden",
+  "baslik": "Elinizden Elinizden",
+  "yore": "Konya",
+  "hikaye": "Elinizden Elinizden, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yar yar",
+        "Elinizden elinizden",
+        "Kurtulaydım dilinizden (amman)",
+        "Yeşil başlı ördek olsam",
+        "Sular içmem gölünüzden (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yar yar",
+        "İnce çayır biçilir mi",
+        "Soğuk sular içilir mi (amman)",
+        "Bana yardan geç diyorlar",
+        "Yar tatlıdır geçilir mi (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yar yar",
+        "Ezmeyinem ezmeyinem",
+        "Yar bulunmaz gezmeyinen (amman)",
+        "Mezarımı kızlar kazsın",
+        "Gümüş saplı kazmayınan (amman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elinizden%20Elinizden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elinizden%20Elinizden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elinizden Elinizden",
+      "url": "https://tr.wikisource.org/wiki/Elinizden_Elinizden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

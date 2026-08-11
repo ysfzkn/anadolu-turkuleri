@@ -1,0 +1,80 @@
+{
+  "slug": "mapushane-icinde-uc-agac-incir",
+  "baslik": "Mapushane İçinde Üç Ağaç İncir",
+  "yore": "Karabük",
+  "hikaye": "Mapushane İçinde Üç Ağaç İncir, Vikikaynak'ın Karabük türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karabük yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapushane içinde üç ağaç incir",
+        "Ellerim kelepçe boynumda zincir",
+        "Zencirin yerleri durmadan sancır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Osmanım Osmanım zeybek Osmanım",
+        "Osman olduğuma ben de pişmanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açın kapıları Osman geliyor",
+        "Kır atın üstünde aslan geliyor",
+        "Salını salını yosmam geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Osmanım Osmanım zeybek Osmanım",
+        "Osman olduğuma ben de pişmanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapushane içinde yanıyor gazlar",
+        "Akşamdan akşama çalınır sazlar",
+        "Çok kışlar çürüdük gelmedi yazlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Osmanım Osmanım zeybek Osmanım",
+        "Osman olduğuma ben de pişmanım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mapushane%20%C4%B0%C3%A7inde%20%C3%9C%C3%A7%20A%C4%9Fa%C3%A7%20%C4%B0ncir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mapushane%20%C4%B0%C3%A7inde%20%C3%9C%C3%A7%20A%C4%9Fa%C3%A7%20%C4%B0ncir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mapushane İçinde Üç Ağaç İncir",
+      "url": "https://tr.wikisource.org/wiki/Mapushane_%C4%B0%C3%A7inde_%C3%9C%C3%A7_A%C4%9Fa%C3%A7_%C4%B0ncir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karabük",
+    "anonim",
+    "açık arşiv"
+  ]
+}

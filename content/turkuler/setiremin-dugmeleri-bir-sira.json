@@ -1,0 +1,65 @@
+{
+  "slug": "setiremin-dugmeleri-bir-sira",
+  "baslik": "Setiremin Düğmeleri Bir Sıra",
+  "yore": "İstanbul",
+  "hikaye": "Setiremin Düğmeleri Bir Sıra, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Setiremin (aman) düğmeleri bir sıra",
+        "Çektim atımı ben gidiyorum Mısır'a",
+        "Bakma yârim (aman) dün geceki kusura"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım (aman) Kadıköylüm pek yazık oldu şanına",
+        "Üç beş liraya bir gece alsam yanıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Setiremin (aman) düğmeleri basmadır",
+        "Benim yârim kara kaşlı, kara gözlü yosmadır",
+        "Hem yosmadır (aman) hem de güzel hasbadır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım (aman) Kadıköylüm pek yazık oldu şanına",
+        "Üç beş liraya bir gece alsam yanıma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Setiremin%20D%C3%BC%C4%9Fmeleri%20Bir%20S%C4%B1ra%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Setiremin%20D%C3%BC%C4%9Fmeleri%20Bir%20S%C4%B1ra",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Setiremin Düğmeleri Bir Sıra",
+      "url": "https://tr.wikisource.org/wiki/Setiremin_D%C3%BC%C4%9Fmeleri_Bir_S%C4%B1ra",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "murat-dagi",
+  "baslik": "Murat Dağı",
+  "yore": "Kütahya",
+  "hikaye": "Murat Dağı, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kurt köyü derler bizim köyümüze",
+        "Kıra düşer kar yağar güzümüze",
+        "Karda yatar yanarız sevdamızdan",
+        "Efe derler de bizim özümüze"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Murat dağı görünmez kör dumandan",
+        "Yar istesem verir mi sor babandan",
+        "Bahar geçti yaz geçti kaldık güze",
+        "Bizim düğün ne zaman sor anandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yel değmez çal arası beylik düzü",
+        "Ağlamış da ıslanmış allık yüzü",
+        "Ağlama kara gözlüm selvi boylum",
+        "Ayıramaz gül yüzlüm ellik bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Murat dağı görünmez kör dumandan",
+        "Yar istesem verir mi sor babandan",
+        "Bahar geçti yaz geçti kaldık güze",
+        "Bizim düğün ne zaman sor anandan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Murat%20Da%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Murat%20Da%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Murat Dağı",
+      "url": "https://tr.wikisource.org/wiki/Murat_Da%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

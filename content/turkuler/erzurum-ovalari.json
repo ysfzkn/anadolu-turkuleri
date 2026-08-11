@@ -1,0 +1,53 @@
+{
+  "slug": "erzurum-ovalari",
+  "baslik": "Erzurum Ovaları",
+  "yore": "Erzurum",
+  "hikaye": "Erzurum Ovaları, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum ovaları (eğil oy dağlar yıkıl oy daşlar gar yağsın)",
+        "Yayılır develeri (hop de yarim ordadır gözü yoldadır bu cumartesi tez gelsin)",
+        "Oturmuş goyun sağar (eğil oy dağlar yıkıl oy daşlar gar yağsın)",
+        "Terlemiş ağ elleri (hop de yarim ordadır gözü yoldadır bu cumartesi tez gelsin)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum kıştan ağlar (eğil oy dağlar yıkıl oy daşlar gar yağsın)",
+        "Kebabı şişten ağlar (hop de yarim ordadır gözü yoldadır bu cumartesi tez gelsin)",
+        "Belini kemer sıkmış (eğil oy dağlar yıkıl oy daşlar gar yağsın)",
+        "Al yanak saçtan ağlar (hop de yarim ordadır gözü yoldadır bu cumartesi tez gelsin)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzurum%20Ovalar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzurum%20Ovalar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erzurum Ovaları",
+      "url": "https://tr.wikisource.org/wiki/Erzurum_Ovalar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

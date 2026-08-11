@@ -1,0 +1,53 @@
+{
+  "slug": "ne-elmadir-ne-de-nar",
+  "baslik": "Ne Elmadır Ne de Nar",
+  "yore": "Çorum",
+  "hikaye": "Ne Elmadır Ne de Nar, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne elmalıdır ne de nar (ne de nar)",
+        "Gönül çeker ah-u zar (ah-u zar)",
+        "Her derdin çaresi var (nazlı yar)",
+        "Benimki de sensin yar (sensin yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yarim zülfün taranmış (taranmış)",
+        "Benim bahtım karaymış (nazlı yar)",
+        "Hasta mısın sevdiğim (nazlı yar)",
+        "Neden benzin saranmış (sevdiğim)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ne%20Elmad%C4%B1r%20Ne%20de%20Nar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ne%20Elmad%C4%B1r%20Ne%20de%20Nar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ne Elmadır Ne de Nar",
+      "url": "https://tr.wikisource.org/wiki/Ne_Elmad%C4%B1r_Ne_de_Nar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

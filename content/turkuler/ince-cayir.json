@@ -1,0 +1,53 @@
+{
+  "slug": "ince-cayir",
+  "baslik": "İnce Çayır",
+  "yore": "Mersin",
+  "hikaye": "İnce Çayır, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnce çayır biçilir mi?",
+        "Sular soğuk içilir mi aman?",
+        "Ağam ben yandım paşam ben yandım",
+        "Ellerin köyünde yalınız kaldım ..."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana yardan geç diyorlar",
+        "Yar tatlıdır geçilir mi aman?",
+        "Ağam ben yandım paşam ben yandım",
+        "Ellerin köyünde yalınız kaldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0nce%20%C3%87ay%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0nce%20%C3%87ay%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İnce Çayır",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0nce_%C3%87ay%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

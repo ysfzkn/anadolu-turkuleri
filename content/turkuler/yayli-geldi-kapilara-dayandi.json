@@ -1,0 +1,65 @@
+{
+  "slug": "yayli-geldi-kapilara-dayandi",
+  "baslik": "Yaylı Geldi Kapılara Dayandı",
+  "yore": "Karaman",
+  "hikaye": "Yaylı Geldi Kapılara Dayandı, Vikikaynak'ın Karaman türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karaman yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylı geldi kapılara dayandı",
+        "Allı gelinkaryoladan uyandı",
+        "Âh seni vuran zâlim nasıl dayandı",
+        "Âman nalbant kıyma da benim cânıma",
+        "Bu mesullük kalmaz senin yanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pazar yeri eğil eğil eğiler",
+        "Kavakta kuşlar çiğil çiğil çağılar",
+        "Bu dert beni iflah etmez yeğiler",
+        "Kıyma da nalbant kıyma da benim cânıma",
+        "Bu mesullük kalmaz senin yanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Âh vara vara iki sokak arası",
+        "Yaktı beni kaşlarının karası",
+        "Sende kurşun bende kama yarası",
+        "Kıyma da nalbant kıyma benim cânıma",
+        "Bu mesullük kalmaz senin yanına"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yayl%C4%B1%20Geldi%20Kap%C4%B1lara%20Dayand%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yayl%C4%B1%20Geldi%20Kap%C4%B1lara%20Dayand%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaylı Geldi Kapılara Dayandı",
+      "url": "https://tr.wikisource.org/wiki/Yayl%C4%B1_Geldi_Kap%C4%B1lara_Dayand%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karaman",
+    "anonim",
+    "açık arşiv"
+  ]
+}

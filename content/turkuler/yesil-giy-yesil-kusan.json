@@ -1,0 +1,89 @@
+{
+  "slug": "yesil-giy-yesil-kusan",
+  "baslik": "Yeşil Giy Yeşil Kuşan",
+  "yore": "Denizli",
+  "hikaye": "Yeşil Giy Yeşil Kuşan, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil giy yeşil kuşan (yanay da yananay da)",
+        "Yeşil çimene döşen (yanay da yana nay)",
+        "Acep iflah olur mu (yanay da yananay da)",
+        "Senin aşkına düşen (yanay da yana nay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alalım kaçalım (yanay da yana nay)",
+        "Sarılalım uçalım (yanay da yana nay)",
+        "Sarılmakla baş olmaz (yanay da yana nay)",
+        "Gel beraber kaçalım (yanay da yana nay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kayısıdır kayısı (yanay da yananay da)",
+        "Yere düştü yarısı (yanay da yana nay)",
+        "Beni yardan ayıran (yanay da yananay da)",
+        "Dayısıdır dayısı (yanay da yana nay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alalım kaçalım (yanay da yana nay)",
+        "Sarılalım uçalım (yanay da yana nay)",
+        "Sarılmakla baş olmaz (yanay da yana nay)",
+        "Gel beraber kaçalım (yanay da yana nay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kabağın kökeniyim (yanay da yananay da)",
+        "Sapının bükeniyim (yanay da yana nay)",
+        "Ben güzeli alacam (yanay da yananay da)",
+        "Çirkine tövbeliyim (yanay da yana nay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alalım kaçalım (yanay da yana nay)",
+        "Sarılalım uçalım (yanay da yana nay)",
+        "Sarılmakla baş olmaz (yanay da yana nay)",
+        "Gel beraber kaçalım (yanay da yana nay)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ye%C5%9Fil%20Giy%20Ye%C5%9Fil%20Ku%C5%9Fan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ye%C5%9Fil%20Giy%20Ye%C5%9Fil%20Ku%C5%9Fan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yeşil Giy Yeşil Kuşan",
+      "url": "https://tr.wikisource.org/wiki/Ye%C5%9Fil_Giy_Ye%C5%9Fil_Ku%C5%9Fan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "zaten-benim-bahtim-kara",
+  "baslik": "Zaten Benim Bahtım Kara",
+  "yore": "Gaziantep",
+  "hikaye": "Zaten Benim Bahtım Kara, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zaten benim bahtım kara (oy)",
+        "Ne yapayım kırık zara (oy)",
+        "Gönül düştü güzel yare (oy)",
+        "Can dayanmaz Hasan Dağı (oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasan Dağı iki çatal (oy)",
+        "Ortasında güller biter (oy)",
+        "Senin derdin benden beter (oy)",
+        "Ben de yandım Hasan Dağı (oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasan Dağı'nda bir yâd sevdim (oy)",
+        "Ben şaştım yolum bitirdim (oy)",
+        "Uğruna ömrüm bitirdim (oy)",
+        "Yâr sevmek zor Hasan Dağı (oy)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zaten%20Benim%20Baht%C4%B1m%20Kara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zaten%20Benim%20Baht%C4%B1m%20Kara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zaten Benim Bahtım Kara",
+      "url": "https://tr.wikisource.org/wiki/Zaten_Benim_Baht%C4%B1m_Kara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

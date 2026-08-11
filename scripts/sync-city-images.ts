@@ -29,8 +29,13 @@ function adAnahtari(ad: string): string {
   return ad.toLocaleLowerCase("tr-TR").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
-async function json(url: string): Promise<any> {
+async function json(url: string, deneme = 0): Promise<any> {
   const yanit = await fetch(url, { headers: { "User-Agent": UA } });
+  if ((yanit.status === 429 || yanit.status >= 500) && deneme < 8) {
+    const yenidenDene = Number(yanit.headers.get("retry-after") ?? "0") * 1000;
+    await bekle(Math.max(yenidenDene, Math.min(60_000, 3000 * 2 ** deneme)));
+    return json(url, deneme + 1);
+  }
   if (!yanit.ok) throw new Error(`${yanit.status} ${url}`);
   return yanit.json();
 }
@@ -69,7 +74,7 @@ async function gorselIndir(url: string, deneme = 0): Promise<Buffer | undefined>
   return Buffer.from(await yanit.arrayBuffer());
 }
 
-function parcalaraAyir<T>(dizi: T[], boyut = 40): T[][] {
+function parcalaraAyir<T>(dizi: T[], boyut = 20): T[][] {
   return Array.from({ length: Math.ceil(dizi.length / boyut) }, (_, i) =>
     dizi.slice(i * boyut, (i + 1) * boyut),
   );
@@ -108,6 +113,7 @@ async function main() {
       const dosya = varlik.claims?.P18?.[0]?.mainsnak?.datavalue?.value;
       if (dosya) qdanDosya.set(q, dosya);
     }
+    await bekle(1000);
   }
 
   const dosyalar = Array.from(new Set(qdanDosya.values()));
@@ -120,6 +126,7 @@ async function main() {
       const ii = sayfa.imageinfo?.[0];
       if (ii) bilgi.set(sayfa.title.replace(/^File:/, ""), ii);
     }
+    await bekle(1000);
   }
 
   const manifest: Record<string, Gorsel> = fs.existsSync(MANIFEST)

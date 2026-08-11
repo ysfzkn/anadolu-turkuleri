@@ -1,0 +1,74 @@
+{
+  "slug": "bir-ay-dogar",
+  "baslik": "Bir Ay Doğar",
+  "yore": "Malatya",
+  "hikaye": "Bir Ay Doğar, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ay doğar ilk akşamdan geceden (Nedem nedem geceden)",
+        "Şavkı vurur pencereden bacadan",
+        "Dağlar gışımış yolcu üşümüş perişanım ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uykusuz mu kaldın dünkü geceden (Nedem nedem geceden)",
+        "Uyan uyan yar sinene sar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar gışımış yolcum üşümüş perişanım ben",
+        "Dağlar haramı açma yaramı nasıl edem ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başından aşırdın beni (Nedem nedem yar beni)",
+        "Tükenmez dertlere düşürdün beni",
+        "Dağlar gışımış yolcum üşümüş perişanım ben",
+        "Madem soysuz göynün bende yoğudu (Nedem nedem yoğudu)",
+        "Niye doğru yoldan şaşırdın beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar kışımış yolcum üşümüş",
+        "Dağlar haramı açma yaramı nasıl edem ben"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ay%20Do%C4%9Far%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ay%20Do%C4%9Far",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Ay Doğar",
+      "url": "https://tr.wikisource.org/wiki/Bir_Ay_Do%C4%9Far",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

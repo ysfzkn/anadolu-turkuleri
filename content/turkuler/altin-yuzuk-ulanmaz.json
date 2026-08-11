@@ -1,0 +1,67 @@
+{
+  "slug": "altin-yuzuk-ulanmaz",
+  "baslik": "Altın Yüzük Ulanmaz",
+  "yore": "Kırıkkale",
+  "hikaye": "Altın Yüzük Ulanmaz, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük ulanmaz",
+        "Suya atsan bulanmaz",
+        "El kızı değil mi ki",
+        "Kurban olsan inanmaz."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen az doldur sevdiğim içemiyom ben",
+        "Ne kadar güzelisen geçemiyom ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük yaptırdım",
+        "Samsun usdalarına",
+        "Doktor ilaç vermiyo",
+        "Sevda hastalarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen az doldur sevdiğim içemiyom ben",
+        "Ne kadar güzelisen geçemiyom ben"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Alt%C4%B1n%20Y%C3%BCz%C3%BCk%20Ulanmaz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Alt%C4%B1n%20Y%C3%BCz%C3%BCk%20Ulanmaz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Altın Yüzük Ulanmaz",
+      "url": "https://tr.wikisource.org/wiki/Alt%C4%B1n_Y%C3%BCz%C3%BCk_Ulanmaz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

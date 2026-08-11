@@ -1,0 +1,75 @@
+{
+  "slug": "canimsin-ogretmenim",
+  "baslik": "Canımsın Öğretmenim",
+  "yore": "İstanbul",
+  "hikaye": "Canımsın Öğretmenim, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanlık dünyama,",
+        "Işıksın öğretmenim",
+        "Bilginin bekçisi,",
+        "Canımsın öğretmenim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Işıksın yolumda,",
+        "Kuvvetsin kolumda,",
+        "Açtın kollarını bana",
+        "Canımsın öğretmenim",
+        "Her sözün bir hazine",
+        "Bakışın ve sevginle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalpten izin silinmez",
+        "Senden başkası övülmez",
+        "Sevginin eşi bulunmaz",
+        "Canımsın öğretmenim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Işıksın yolumda,",
+        "Kuvvetsin kolumda,",
+        "Açtın kollarını bana",
+        "Canımsın öğretmenim",
+        "Her sözün bir hazine",
+        "Bakışın ve sevginle"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Can%C4%B1ms%C4%B1n%20%C3%96%C4%9Fretmenim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Can%C4%B1ms%C4%B1n%20%C3%96%C4%9Fretmenim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Canımsın Öğretmenim",
+      "url": "https://tr.wikisource.org/wiki/Can%C4%B1ms%C4%B1n_%C3%96%C4%9Fretmenim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

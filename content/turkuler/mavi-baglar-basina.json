@@ -1,0 +1,86 @@
+{
+  "slug": "mavi-baglar-basina",
+  "baslik": "Mavi Bağlar Başına",
+  "yore": "Diyarbakır",
+  "hikaye": "Mavi Bağlar Başına, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi bağlar başına",
+        "Gül koyar o zülfüne",
+        "Seni sevdim seveli",
+        "Düştüm aşkın peşine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman amman amman amman",
+        "Ben sana oldum hayran",
+        "Ben sana oldum kurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar istemez ne olur",
+        "Ateşten gömlek olur",
+        "Bu derdi çekenler de",
+        "Kahrından verem olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman amman amman amman",
+        "Ben sana oldum hayran",
+        "Ben sana oldum kurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbülün var kafesi",
+        "Geliyor yanık sesi",
+        "Sevdaya tutulanın",
+        "Var mı hiç kimsesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman amman amman amman",
+        "Ben sana oldum hayran",
+        "Ben sana oldum kurban"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mavi%20Ba%C4%9Flar%20Ba%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mavi%20Ba%C4%9Flar%20Ba%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mavi Bağlar Başına",
+      "url": "https://tr.wikisource.org/wiki/Mavi_Ba%C4%9Flar_Ba%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

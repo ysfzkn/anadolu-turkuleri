@@ -1,0 +1,34 @@
+{
+  "slug": "dersini-almis-da-ediyor-ezber",
+  "baslik": "Dersini Almış da Ediyor Ezber",
+  "yore": "Yozgat",
+  "hikaye": "Dersini Almış da Ediyor Ezber, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dersini%20Alm%C4%B1%C5%9F%20da%20Ediyor%20Ezber%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dersini%20Alm%C4%B1%C5%9F%20da%20Ediyor%20Ezber",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dersini Almış da Ediyor Ezber",
+      "url": "https://tr.wikisource.org/wiki/Dersini_Alm%C4%B1%C5%9F_da_Ediyor_Ezber",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

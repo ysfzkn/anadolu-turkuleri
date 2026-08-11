@@ -1,0 +1,48 @@
+{
+  "slug": "hem-okudum-hem-yazdim",
+  "baslik": "Hem Okudum Hem Yazdım",
+  "yore": "Çorum",
+  "hikaye": "Hem Okudum Hem Yazdım, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hem okudum hemi de yazdım",
+        "Yalan dünya senden bezdim of...",
+        "Dağlar koyağını gezdim",
+        "Yiten yavru bulunur mu... vayEl yazıya el yazıyaDuman çökmüş çöl yazıya of...Kurban olam kurban olamBeşikte yatan kuzuya... vay",
+        "Elveriyor elveriyor",
+        "Orta direk bel veriyor of...",
+        "Açtım baktım al yorganı",
+        "Mehmed’im can veriyor..vayAtalardan aldım öğütDerelere diktim söğüt of...Hep kırılsın Avşar eliMehmet gitti babayiğit ... vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hem%20Okudum%20Hem%20Yazd%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hem%20Okudum%20Hem%20Yazd%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hem Okudum Hem Yazdım",
+      "url": "https://tr.wikisource.org/wiki/Hem_Okudum_Hem_Yazd%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

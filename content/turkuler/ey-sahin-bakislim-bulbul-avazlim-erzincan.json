@@ -1,0 +1,99 @@
+{
+  "slug": "ey-sahin-bakislim-bulbul-avazlim-erzincan",
+  "baslik": "Ey Şahin Bakışlım Bülbül Avazlım",
+  "yore": "Erzincan",
+  "hikaye": "Ey Şahin Bakışlım Bülbül Avazlım, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey şahin bakışlım bülbül avazlım",
+        "Bir eli kadehli bir eli sazlım",
+        "İşte ben gidiyom kal ahu gözlüm",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüdey hüdey hüdey",
+        "Dem dem dem dem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yolda harami çok engel arada",
+        "Ayırma sevdiğim demde sırada",
+        "Özüm gider ama gönlüm burada",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüdey hüdey hüdey",
+        "Dem dem dem dem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ta ezelden ezel sevgim sevginde",
+        "Şu iki cihanda kevn-ü mekanda",
+        "Nizam başlarında ulu divanda",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüdey hüdey hüdey",
+        "Dem dem dem dem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kul Hüseynim der ki gül benzim soluk",
+        "Serimize yazılmıştır ayrılık",
+        "Vallahi sevdiğim gönüller birlik",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüdey hüdey hüdey",
+        "Dem dem dem dem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ey%20%C5%9Eahin%20Bak%C4%B1%C5%9Fl%C4%B1m%20B%C3%BClb%C3%BCl%20Avazl%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ey%20%C5%9Eahin%20Bak%C4%B1%C5%9Fl%C4%B1m%20B%C3%BClb%C3%BCl%20Avazl%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ey Şahin Bakışlım Bülbül Avazlım (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Ey_%C5%9Eahin_Bak%C4%B1%C5%9Fl%C4%B1m_B%C3%BClb%C3%BCl_Avazl%C4%B1m_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

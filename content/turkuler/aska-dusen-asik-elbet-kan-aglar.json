@@ -1,0 +1,80 @@
+{
+  "slug": "aska-dusen-asik-elbet-kan-aglar",
+  "baslik": "Aşka düşen aşık elbet kan ağlar",
+  "yore": "Çorum",
+  "hikaye": "Aşka düşen aşık elbet kan ağlar, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşka düşen aşık elbet kan ağlar",
+        "Gidenler gelmiyor da yaslıdır sağlar",
+        "Kerbela çölünde hayrandı sağlar (oy)",
+        "Ayrılık derdinin dermanı nedir (dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dosta hasretlik ateşten çember",
+        "Ah eder ağlardı Ali'ye Kamber",
+        "Kenan ellerinde Yakup peygamber (of)",
+        "Ayrılık derdinin dermanı nedir (dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yusuf'un cemali benzerdir mah'a",
+        "Kul edip sattılar yeter mi baha",
+        "Yusuf'u zindana salan Züleyha (of)",
+        "Ayrılık derdinin dermanı nedir (dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Terketti elini de İsfihan'ını",
+        "Aldırdı elinden Aslıhan'ını",
+        "Kerem'den sorayım müşkül halını",
+        "Ayrılık derdinin dermanı nedir (dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sahrada bir derviş gezerdi dargın",
+        "Aslanlar niyazbend olurdu hergün",
+        "Leyla Leyla diye ağlayan Mecnun",
+        "Ayrılık derdinin dermanı nedir (dost)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fka%20d%C3%BC%C5%9Fen%20a%C5%9F%C4%B1k%20elbet%20kan%20a%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fka%20d%C3%BC%C5%9Fen%20a%C5%9F%C4%B1k%20elbet%20kan%20a%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşka düşen aşık elbet kan ağlar",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fka_d%C3%BC%C5%9Fen_a%C5%9F%C4%B1k_elbet_kan_a%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "anam-aglar-bas-ucumda-oturur",
+  "baslik": "Anam Ağlar Baş Ucumda Oturur",
+  "yore": "Kırşehir",
+  "hikaye": "Anam Ağlar Baş Ucumda Oturur, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anam ağlar baş ucumda oturur",
+        "Derdim elli iken yüze yetirir",
+        "Bu dert beni yiye yiye bitirir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El çek tabip el çek benim yaramdan",
+        "Ölürüm gurtulmam ben bu yaramdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anama babama yüzüm kalmadı",
+        "Bir su ver demeye sözüm kalmadı",
+        "Doktora tabibe lüzum kalmadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El çek tabip el çek benim yaramdan",
+        "Ölürüm gurtulmam ben bu yaramdan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Anam%20A%C4%9Flar%20Ba%C5%9F%20Ucumda%20Oturur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Anam%20A%C4%9Flar%20Ba%C5%9F%20Ucumda%20Oturur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Anam Ağlar Baş Ucumda Oturur",
+      "url": "https://tr.wikisource.org/wiki/Anam_A%C4%9Flar_Ba%C5%9F_Ucumda_Oturur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

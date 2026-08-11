@@ -1,0 +1,61 @@
+{
+  "slug": "ay-oglan-tatar-misin-bursa",
+  "baslik": "Ay Oğlan Tatar mısın",
+  "yore": "Bursa",
+  "hikaye": "Ay Oğlan Tatar mısın, Vikikaynak'ın Bursa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bursa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay oğlan tatar mısın",
+        "Şeftali satar mısın",
+        "Şeftali şöyle dursun (ay oğlan)",
+        "Benimle kaçar mısın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Haydi yârim kaya başına kaya başına",
+        "Al beni yanına yanıbaşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay oğlan imana gel",
+        "Dolaş da pınara gel",
+        "Hiç bahanen yoğusa (ay oğlan)",
+        "Elini yumağa gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ay%20O%C4%9Flan%20Tatar%20m%C4%B1s%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ay%20O%C4%9Flan%20Tatar%20m%C4%B1s%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ay Oğlan Tatar mısın",
+      "url": "https://tr.wikisource.org/wiki/Ay_O%C4%9Flan_Tatar_m%C4%B1s%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bursa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

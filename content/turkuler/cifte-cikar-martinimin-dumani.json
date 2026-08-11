@@ -1,0 +1,65 @@
+{
+  "slug": "cifte-cikar-martinimin-dumani",
+  "baslik": "Çifte Çıkar Martinimin Dumanı",
+  "yore": "Kastamonu",
+  "hikaye": "Çifte Çıkar Martinimin Dumanı, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çifte çıkar martinimin dumanı ey",
+        "Yoktur da zalımların dini imanı",
+        "Şimdi gelir mahpusların fermanı ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül gülistanlık olsun şu inebolu",
+        "Beni de vuran zalim amucamun oğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sisli kaya derler bir kara taşdır ey",
+        "Beni de vuranlar da dört arkadaştır",
+        "Siyah yamçım bana da yoldaştır ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül gülistanlık olsun şu İnebolu",
+        "Beni de vuran zalim amucamun oğlu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ifte%20%C3%87%C4%B1kar%20Martinimin%20Duman%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ifte%20%C3%87%C4%B1kar%20Martinimin%20Duman%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çifte Çıkar Martinimin Dumanı",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ifte_%C3%87%C4%B1kar_Martinimin_Duman%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

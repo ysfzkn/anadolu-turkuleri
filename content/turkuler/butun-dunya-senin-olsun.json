@@ -1,0 +1,62 @@
+{
+  "slug": "butun-dunya-senin-olsun",
+  "baslik": "Bütün Dünya Senin Olsun",
+  "yore": "Erzincan",
+  "hikaye": "Bütün Dünya Senin Olsun, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bütün dünya senin olsun",
+        "Bir dost bir post yeter bana",
+        "Atlas libas senin olsun",
+        "Bir dost bir post yeter bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyler tahtından inerler",
+        "Ayaksız ata binerler",
+        "Toprağa gömüp dönerler",
+        "Bir dost bir post yeter bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sonu yok dünyada n'olur",
+        "Ecel gelir seni bulur",
+        "Seyit sefile'm işin bilir",
+        "Bir dost bir post yeter bana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BCt%C3%BCn%20D%C3%BCnya%20Senin%20Olsun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BCt%C3%BCn%20D%C3%BCnya%20Senin%20Olsun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bütün Dünya Senin Olsun",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BCt%C3%BCn_D%C3%BCnya_Senin_Olsun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

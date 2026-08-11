@@ -1,0 +1,74 @@
+{
+  "slug": "ince-giyerim-ince",
+  "baslik": "İnce Giyerim İnce",
+  "yore": "Tekirdağ",
+  "hikaye": "İnce Giyerim İnce, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnce giyerim ince,×2",
+        "Pembe yakışır gence.×2",
+        "İnsan bir hoş oluyor,×2",
+        "Sevdiğini görünce.×2"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of sen yana ben cama,×2",
+        "Of sen yana ben yana ×2",
+        "İkimizin resmini çıkarsınlar yan ×2yana.",
+        "Derelerin çakılı, nerden aldın ×2akılı.",
+        "Döne döne oynuyor, ağabeyimin çakırı.×2"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of sen yana ben cama,×2",
+        "Of sen ben yana ×2",
+        "İkimizin resmini çıkarsınlar yan yana.×2",
+        "Dereler çakıl taşlı,×2",
+        "Ördekler yeşil başlı.×2"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim sevdiğim dilber,×2",
+        "Al yanak kalem kaşlı.×2",
+        "Of sen yana ben cama,×2",
+        "Of sen yana ben yana ×2",
+        "İkimizin resmini çıkarsınlar yan yana.×2"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0nce%20Giyerim%20%C4%B0nce%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0nce%20Giyerim%20%C4%B0nce",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İnce Giyerim İnce",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0nce_Giyerim_%C4%B0nce",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "suya-dustu-gulumuz",
+  "baslik": "Suya Düştü Gülümüz",
+  "yore": "Tokat",
+  "hikaye": "Suya Düştü Gülümüz, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya düştü gülümüz hanım kızlar kızlar canım kızlar kızlar",
+        "Ötmüyor bülbülümüz hanım kızlar kızlar canım kızlar kızlar",
+        "Sen orada ben burada hanım kızlar kızlar canım kızlar kızlar",
+        "Geçti cahil ömrümüz hanım kızlar kızlar canım kızlar kızlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fındık fıstık olur mu hanım kızlar kızlar canım kızlar kızlar",
+        "Ateş yastık olur mu hanım kızlar kızlar canım kızlar kızlar",
+        "Selam söylen yârime hanım kızlar kızlar canım kızlar kızlar",
+        "Böyle dostluk olur mu hanım kızlar kızlar canım kızlar kızlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kestirdim kekilleri hanım kızlar kızlar canım kızlar kızlar",
+        "Yana değiyor yana hanım kızlar kızlar canım kızlar kızlar",
+        "Yârimin bakışları hanım kızlar kızlar canım kızlar kızlar",
+        "Cana değiyor cana hanım kızlar kızlar canım kızlar kızlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Suya%20D%C3%BC%C5%9Ft%C3%BC%20G%C3%BCl%C3%BCm%C3%BCz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Suya%20D%C3%BC%C5%9Ft%C3%BC%20G%C3%BCl%C3%BCm%C3%BCz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Suya Düştü Gülümüz",
+      "url": "https://tr.wikisource.org/wiki/Suya_D%C3%BC%C5%9Ft%C3%BC_G%C3%BCl%C3%BCm%C3%BCz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

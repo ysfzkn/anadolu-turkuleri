@@ -1,0 +1,71 @@
+{
+  "slug": "asip-asip-karli-daglar-gelirsin",
+  "baslik": "Aşıp Aşıp Karlı Dağlar Gelirsin",
+  "yore": "Tokat",
+  "hikaye": "Aşıp Aşıp Karlı Dağlar Gelirsin, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey aşıp aşıp garlı dağlar gelirsin",
+        "Eyler durnam eylen bir haber sorayım",
+        "Bizim elden ne haber bilirsin",
+        "Eylen durnam eylen haber sorayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey ela gözlerini sevdiğim dilber",
+        "Ben senin derdinden yanar ağlarım",
+        "Kime arzedeyim garip halimi",
+        "Eylen durnam eylen haber sorayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı da durnam gelirsin allı sunam gelirsin ey",
+        "Beyler sorayım teli durnam sorayım ey",
+        "Sarı da durnam bilirsin allı sunam bilirsin ey",
+        "Beyler sorayım telli durnam sorayım ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarıd a durnam yâr dilber allı sunam yâr dilber ey",
+        "Beyler ağlarım telli sunam ağlarım ey",
+        "Sarı da durnam halimi allı sunam halimi ey",
+        "Beyler sorayım telli durnam sorayım ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9F%C4%B1p%20A%C5%9F%C4%B1p%20Karl%C4%B1%20Da%C4%9Flar%20Gelirsin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9F%C4%B1p%20A%C5%9F%C4%B1p%20Karl%C4%B1%20Da%C4%9Flar%20Gelirsin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşıp Aşıp Karlı Dağlar Gelirsin",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9F%C4%B1p_A%C5%9F%C4%B1p_Karl%C4%B1_Da%C4%9Flar_Gelirsin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

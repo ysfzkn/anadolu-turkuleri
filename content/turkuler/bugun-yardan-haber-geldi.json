@@ -1,0 +1,80 @@
+{
+  "slug": "bugun-yardan-haber-geldi",
+  "baslik": "Bugün Yardan Haber Geldi",
+  "yore": "Malatya",
+  "hikaye": "Bugün Yardan Haber Geldi, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün yardan haber geldi",
+        "Bir bi yandan bir bi yandan",
+        "Eğildim bir buse aldım",
+        "Bir bi yandan bir bi yandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzel olanı severler",
+        "Yanağından gül dererler",
+        "Kulakta mengüş küpeler",
+        "Bir bi yandan bir bi yandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baş koydum yarin dizine",
+        "Uykular girmez gözüme",
+        "Ağ ellerin sür yüzüme",
+        "Bir bi yandan bir bi yandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şekerden şerbet ezerler",
+        "İnce tülbende süzerler",
+        "Dört yanım almış güzeller",
+        "Bir bi yandan bir bi yandan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Sultan'ım* gel yanıma",
+        "Seni sarayım canıma",
+        "Dola kolların boynuma",
+        "Bir bi yandan bir bi yandan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Yardan%20Haber%20Geldi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Yardan%20Haber%20Geldi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Yardan Haber Geldi",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Yardan_Haber_Geldi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

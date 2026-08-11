@@ -1,0 +1,71 @@
+{
+  "slug": "kaslarinin-karesi",
+  "baslik": "Kaşlarının Karesi",
+  "yore": "Çorum",
+  "hikaye": "Kaşlarının Karesi, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşlarının karesi",
+        "Kalbimdedir yaresi",
+        "Öyle bir derde düştüm",
+        "Nedir bunun çaresi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapısına kapısına kul oldum",
+        "Ben o yarin yapısına vuruldum",
+        "Bir vefasız yüzünden",
+        "Yandım yandım kül oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hep böyle dolaşılmaz",
+        "Karlı dağlar aşılmaz",
+        "Yarinden ayrılanlar",
+        "Kolayca kavuşulmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapısına kapısına kul oldum",
+        "Ben o yarin yapısına vuruldum",
+        "Bir vefasız yüzünden",
+        "Yandım yandım kül oldum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ka%C5%9Flar%C4%B1n%C4%B1n%20Karesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ka%C5%9Flar%C4%B1n%C4%B1n%20Karesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaşlarının Karesi",
+      "url": "https://tr.wikisource.org/wiki/Ka%C5%9Flar%C4%B1n%C4%B1n_Karesi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

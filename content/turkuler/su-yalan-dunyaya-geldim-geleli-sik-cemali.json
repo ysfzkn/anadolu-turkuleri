@@ -1,0 +1,89 @@
+{
+  "slug": "su-yalan-dunyaya-geldim-geleli-sik-cemali",
+  "baslik": "Şu Yalan Dünyaya Geldim Geleli (Âşık Cemalî)",
+  "yore": "Mersin",
+  "hikaye": "Şu Yalan Dünyaya Geldim Geleli (Âşık Cemalî), Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu yalan dünyaya geldim geleli",
+        "Anlamadım birile derdimi",
+        "Ölüp kurtulamadım elin dilinden",
+        "Götürdüm serimde bile derdimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekeyim alnımda böyledir yazı",
+        "Kâr etti bağrıma illerin sözü",
+        "Dert için yaratmış yaradan bizi",
+        "Yükletsem file götürmez derdimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oklandı felekten sînem de yaşlı",
+        "Azgın yârelerim saran olur mu",
+        "İki eller kınalı, gözler yaşlı",
+        "Anıp ardımızdan soran olur mu?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek sen düşürdün beni dillere",
+        "Bülbül arzu çekip kaldı güllere",
+        "Yeşil turna indi bizim göllere",
+        "Yâd avcı uğrayıp vuran olur mu?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nasıl terk edeyim çeşmirûşeni",
+        "Aldır bağladığı, yeşil kuşanı",
+        "Bir gümüş hâtemdir yârin nişâni",
+        "Bilmem ikrârında duran olur mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemâli bağlandı yârin alına",
+        "Hiçbir tamáh yoktur dünya malına",
+        "Nice ben gibi bir dostun yoluna",
+        "Canını bahşedip veren olur mu?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Yalan%20D%C3%BCnyaya%20Geldim%20Geleli%20(%C3%82%C5%9F%C4%B1k%20Cemal%C3%AE)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Yalan%20D%C3%BCnyaya%20Geldim%20Geleli%20(%C3%82%C5%9F%C4%B1k%20Cemal%C3%AE)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Yalan Dünyaya Geldim Geleli (Âşık Cemalî)",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Yalan_D%C3%BCnyaya_Geldim_Geleli_(%C3%82%C5%9F%C4%B1k_Cemal%C3%AE)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

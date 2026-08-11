@@ -1,0 +1,61 @@
+{
+  "slug": "bebegin-besigi-camdan",
+  "baslik": "Bebeğin Beşiği Çamdan",
+  "yore": "Erzincan",
+  "hikaye": "Bebeğin Beşiği Çamdan, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bebeğin beşiği çamdan",
+        "Yuvarlandı düştü damdan",
+        "Bey babası gelir Şam’dan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nenni bebek oy oy oy oy oy",
+        "Bebek beni deleyledi",
+        "Yaktı yaktı kül eyledi",
+        "Her gapuya gul eyledi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yavrum guzim bebek oy ooy oy oy oy",
+        "Deveyi deveye çattım",
+        "Yuların boynuna attım",
+        "Bebeği dallara attım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bebe%C4%9Fin%20Be%C5%9Fi%C4%9Fi%20%C3%87amdan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bebe%C4%9Fin%20Be%C5%9Fi%C4%9Fi%20%C3%87amdan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bebeğin Beşiği Çamdan (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Bebe%C4%9Fin_Be%C5%9Fi%C4%9Fi_%C3%87amdan_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

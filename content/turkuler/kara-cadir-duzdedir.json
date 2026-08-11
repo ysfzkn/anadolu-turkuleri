@@ -1,0 +1,53 @@
+{
+  "slug": "kara-cadir-duzdedir",
+  "baslik": "Kara Çadır Düzdedir",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Kara Çadır Düzdedir, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara çadır düzdedir (amman amman Emine’m)",
+        "Top zülüfler yüzdedir (yavru da güzel Emine’m)",
+        "On iki gelin sevdim (amman amman Emine’m)",
+        "Gene gönlüm kızdadır (yavru da güzel Emine’m)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim dereye durdum (amman amman Emine’m)",
+        "Bir çift güvercin vurdum (yavru da güzel Emine’m)",
+        "Bir güzelin uğruna (amman amman Emine’m)",
+        "On beş altın bozdurdum (yavru da güzel Emine’m)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kara%20%C3%87ad%C4%B1r%20D%C3%BCzdedir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kara%20%C3%87ad%C4%B1r%20D%C3%BCzdedir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kara Çadır Düzdedir",
+      "url": "https://tr.wikisource.org/wiki/Kara_%C3%87ad%C4%B1r_D%C3%BCzdedir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

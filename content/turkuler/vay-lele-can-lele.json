@@ -1,0 +1,80 @@
+{
+  "slug": "vay-lele-can-lele",
+  "baslik": "Vay Lele Can Lele",
+  "yore": "Van",
+  "hikaye": "Vay Lele Can Lele, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun tarlanın ucu (Vay lele can lele)",
+        "Çift gezer iki bacı (Vay lele can lele)",
+        "Büyüğü şöyle böyle (Vay lele can lele)",
+        "Küçüğü can ilacı (Vay lele can lele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan geliyor dağdan (Vay lele can lele)",
+        "Elinde sarı yağdan (Vay lele can lele)",
+        "Senin derdin değil mi (Vay lele can lele)",
+        "Beni böyle sarartan (Vay lele can lele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altınım turalıdır (Vay lele can lele)",
+        "Sevdiğim buralıdır (Vay lele can lele)",
+        "Gelme, geçme karşımdan (Vay lele can lele)",
+        "Yüreğim yaralıdır (Vay lele can lele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altınım var el gibi (Vay lele can lele)",
+        "Ne duruyon el gibi (Vay lele can lele)",
+        "Sen benimsin ben senin (Vay lele can lele)",
+        "Kazanılmış mal gibi (Vay lele can lele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altını ezdireyim (Vay lele can lele)",
+        "Sarrafa bozdurayım (Vay lele can lele)",
+        "İpek mendil değilsin (Vay lele can lele)",
+        "Cebimde gezdireyim (Vay lele can lele)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vay%20Lele%20Can%20Lele%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vay%20Lele%20Can%20Lele",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vay Lele Can Lele",
+      "url": "https://tr.wikisource.org/wiki/Vay_Lele_Can_Lele",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "anonim",
+    "açık arşiv"
+  ]
+}

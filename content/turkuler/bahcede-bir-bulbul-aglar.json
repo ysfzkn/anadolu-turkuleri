@@ -1,0 +1,80 @@
+{
+  "slug": "bahcede-bir-bulbul-aglar",
+  "baslik": "Bahçede Bir Bülbül Ağlar",
+  "yore": "Malatya",
+  "hikaye": "Bahçede Bir Bülbül Ağlar, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçede bir bülbül ağlar",
+        "Gülün elinden elinden",
+        "Gazel dökmüş solmuş bağlar",
+        "Yelin elinden elinden (leyli leyli leyli leyli)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam olur güneş batar",
+        "Viranda baykuşlar öter",
+        "Ferhat da külüngün atar",
+        "Yarin elinden elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derelerde sular çağlar",
+        "Hastadan ne bilir sağlar",
+        "Başı duman duman dağlar",
+        "Karın elinden elinden (leyli leyli leyli leyli)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erisin dağların karı",
+        "Gönül çeker ah-u zarı",
+        "Dökülmüş bahçenin varı",
+        "Samın elinden elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüseyni'yem sözün söyler",
+        "Bilmem felek beni neyler",
+        "Mecnun da leylasın arar",
+        "Çölün elinden elinden (leyli leyli leyli leyli)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7ede%20Bir%20B%C3%BClb%C3%BCl%20A%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7ede%20Bir%20B%C3%BClb%C3%BCl%20A%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçede Bir Bülbül Ağlar",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7ede_Bir_B%C3%BClb%C3%BCl_A%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

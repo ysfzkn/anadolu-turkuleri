@@ -1,0 +1,55 @@
+{
+  "slug": "zabah-oldu-gayinnam-da-geldi",
+  "baslik": "Zabah Oldu Gayınnam da Geldi",
+  "yore": "Kastamonu",
+  "hikaye": "Zabah Oldu Gayınnam da Geldi, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zabah oldu gayınnam da geldi",
+        "Nedür halın gelin hanım dedi",
+        "Ah goca ciğeri kediler yedi",
+        "Gözün kör olsun gelin hanım dedi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağşam oldu efendim de geldi",
+        "Nedür halin bire hanım dedi",
+        "Ah gara ciğeri kediler yedi",
+        "Gözün kör olsun seni garı dedi",
+        "Çağırın imamı muhtarı dedi",
+        "Boş kahadımı elime de vedi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zabah%20Oldu%20Gay%C4%B1nnam%20da%20Geldi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zabah%20Oldu%20Gay%C4%B1nnam%20da%20Geldi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zabah Oldu Gayınnam da Geldi",
+      "url": "https://tr.wikisource.org/wiki/Zabah_Oldu_Gay%C4%B1nnam_da_Geldi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

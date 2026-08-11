@@ -1,0 +1,83 @@
+{
+  "slug": "ben-kalender-mesrebim",
+  "baslik": "Ben Kalender Meşrebim",
+  "yore": "İstanbul",
+  "hikaye": "Ben Kalender Meşrebim, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben kalender meşrebim güzel çirkin aramam",
+        "Gönlüme bir eğlence isterim olsun",
+        "Ben kalender meşrebim güzel çirkin aramam",
+        "Gönlüme bir eğlence isterim olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saçları samur, gözleri mahmur, biraz da şirin olsun",
+        "Saçları samur, gözleri mahmur, biraz da şirin olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşı gözü kara olursa olsun",
+        "Yanağında bir beni mutlaka olsun",
+        "Kaşı gözü kara olursa olsun",
+        "Yanağında bir beni mutlaka olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Endamı şanlı, sohbeti tatlı, biraz da şahin olsun",
+        "Endamı şanlı, sohbeti tatlı, biraz da şahin olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yan bakışı yaksın, cilvesi yıksın",
+        "Olursa böylesi böylesi olsun",
+        "Yan bakışı yaksın cilvesi yıksın",
+        "Olursa böylesi böylesi olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gözleri şahbaz gerdanı beyaz, biraz da tombul olsun",
+        "Gözleri şahbaz gerdanı beyaz, biraz da tombul olsun"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Kalender%20Me%C5%9Frebim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Kalender%20Me%C5%9Frebim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Kalender Meşrebim",
+      "url": "https://tr.wikisource.org/wiki/Ben_Kalender_Me%C5%9Frebim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

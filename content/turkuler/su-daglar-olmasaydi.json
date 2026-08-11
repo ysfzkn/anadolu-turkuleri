@@ -1,0 +1,62 @@
+{
+  "slug": "su-daglar-olmasaydi",
+  "baslik": "Şu Dağlar Olmasaydı",
+  "yore": "Isparta",
+  "hikaye": "Şu Dağlar Olmasaydı, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dağlar olmasaydı",
+        "Lalesi solmasaydı",
+        "Ölüm allah'ın emri",
+        "Ayrılık olmasaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al yazmam dalda kaldı",
+        "Gözlerim yolda kaldı",
+        "Yıkılası meyhane",
+        "Serhoşum nerde kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al yazmanın oyası",
+        "Yüzüne vurdu",
+        "Boyası alcam dedi",
+        "Almadı Allah'ından bulası"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Da%C4%9Flar%20Olmasayd%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Da%C4%9Flar%20Olmasayd%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Dağlar Olmasaydı",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Da%C4%9Flar_Olmasayd%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

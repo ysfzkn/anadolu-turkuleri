@@ -1,0 +1,55 @@
+{
+  "slug": "actim-perdeyi-durnami-gordum",
+  "baslik": "Açtım Perdeyi Durnamı Gördüm",
+  "yore": "Kırıkkale",
+  "hikaye": "Açtım Perdeyi Durnamı Gördüm, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman)",
+        "Açtım perdeyi de (of) durnamı gördüm",
+        "Dost yüzünden artar efkarım derdim (of of vay derdim)",
+        "Yarenler aşkına da bir selam verdim (of of vay verdim)",
+        "Durna ben mahkumum avcı değilim (vay degilim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman)",
+        "Eğer durnam varırsan bizim ellere",
+        "Selam söyle orda açan güllere (of of of güllere)",
+        "Söyleyin derdimi esen yellere",
+        "Durna ben mahkumum avcı değilim (of of degilim)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C3%A7t%C4%B1m%20Perdeyi%20Durnam%C4%B1%20G%C3%B6rd%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C3%A7t%C4%B1m%20Perdeyi%20Durnam%C4%B1%20G%C3%B6rd%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Açtım Perdeyi Durnamı Gördüm",
+      "url": "https://tr.wikisource.org/wiki/A%C3%A7t%C4%B1m_Perdeyi_Durnam%C4%B1_G%C3%B6rd%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

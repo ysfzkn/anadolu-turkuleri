@@ -1,0 +1,56 @@
+{
+  "slug": "katinanin-elinde-makina-dikemez",
+  "baslik": "Katina'nın Elinde Makina Dikemez",
+  "yore": "İstanbul",
+  "hikaye": "Katina'nın Elinde Makina Dikemez, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Katinanın elinde makina dikemez ah dikemez",
+        "Dikmek de bilmez nazlı mari Katinam getir dikelim getir dikelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Katinanın elinde makas biçemez ah biçemez",
+        "Biçmek de bilmez nazlı mari Katinam getir biçelim getir biçelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Katinanın elinde mastika içemez ah içemez",
+        "İçmek de bilmez nazlı mari Katinam getir içelim getir içelim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Katina'n%C4%B1n%20Elinde%20Makina%20Dikemez%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Katina'n%C4%B1n%20Elinde%20Makina%20Dikemez",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Katina'nın Elinde Makina Dikemez",
+      "url": "https://tr.wikisource.org/wiki/Katina'n%C4%B1n_Elinde_Makina_Dikemez",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

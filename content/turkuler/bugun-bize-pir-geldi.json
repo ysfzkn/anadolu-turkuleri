@@ -1,0 +1,52 @@
+{
+  "slug": "bugun-bize-pir-geldi",
+  "baslik": "Bugün Bize Pir Geldi",
+  "yore": "Erzincan",
+  "hikaye": "Bugün Bize Pir Geldi, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün bize Pir geldi, Gülleri tazeledi",
+        "Önü sıra Kanber'le, Ali Mürteza geldi",
+        "::(La ilahe illallah)",
+        "::(İllallah şah illallah)",
+        "Ali Mürteza şahım, Yüzüdür kıblegahım",
+        "Miraçtaki Muhammed, Alemde padişahım",
+        "::(La ilahe illallah)",
+        "::(İllallah şah illallah)",
+        "Padişahım yaradan, Okur aktan karadan",
+        "Ben pirden ayrı düştüm, Yüz yıl geçti aradan",
+        "Aramı uzattılar, Yarama tuz attılar",
+        ":(La ilahe illallah)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Bize%20Pir%20Geldi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Bize%20Pir%20Geldi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Bize Pir Geldi",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Bize_Pir_Geldi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

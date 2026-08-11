@@ -1,0 +1,53 @@
+{
+  "slug": "vardim-dostun-bahcasina",
+  "baslik": "Vardım Dostun Bahçasına",
+  "yore": "Tunceli",
+  "hikaye": "Vardım Dostun Bahçasına, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım dostun bahçasına",
+        "Dost bahçası küllü güldür",
+        "Oturmuş tahtı sarayına",
+        "Taht-ı saray küllü güldür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülden terazi yaparlar",
+        "Gülü gülünen tartarlar",
+        "Gül alırlar gül satarlar",
+        "Çarşı pazar küllü güldür"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vard%C4%B1m%20Dostun%20Bah%C3%A7as%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vard%C4%B1m%20Dostun%20Bah%C3%A7as%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vardım Dostun Bahçasına",
+      "url": "https://tr.wikisource.org/wiki/Vard%C4%B1m_Dostun_Bah%C3%A7as%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

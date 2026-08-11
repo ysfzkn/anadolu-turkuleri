@@ -1,0 +1,73 @@
+{
+  "slug": "melal-zeybek",
+  "baslik": "Melal Zeybek",
+  "yore": "Kütahya",
+  "hikaye": "Melal Zeybek, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabutumun altı çatlak",
+        "Sol böğrümden girdi bıçak",
+        "Yâr yâr aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni vuran benden da alçak",
+        "Uyan Melal uyan da civanım gör beni",
+        "Çama Martin astım",
+        "Saat beşte Simav'ı bastım",
+        "Yâr yâr aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu Simav'da kulak kestim",
+        "Uyan Melal uyan da civanım sar beni",
+        "Evlerinin önü nane",
+        "Ben kül oldum yane yane",
+        "Yâr yâr aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kâfir isen gel imana",
+        "Uyan Melal uyan da kardeşim gör beni",
+        "Evlerinin önü marul",
+        "Kanım akar harıl harıl",
+        "Yâr yâr aman aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Melal%20Zeybek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Melal%20Zeybek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Melal Zeybek",
+      "url": "https://tr.wikisource.org/wiki/Melal_Zeybek",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

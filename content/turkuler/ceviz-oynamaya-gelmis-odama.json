@@ -1,0 +1,53 @@
+{
+  "slug": "ceviz-oynamaya-gelmis-odama",
+  "baslik": "Ceviz Oynamaya Gelmiş Odama",
+  "yore": "Kayseri",
+  "hikaye": "Ceviz Oynamaya Gelmiş Odama, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ceviz oynamaya gelmiş odama,",
+        "Nişanlın da bu mu derler adama",
+        "Dayanamam senin kara sevdana",
+        "Aman aman olmuyor.Eş eşini bulmuyor.Kara yağız genç oğlan,Niye gönlün olmuyor?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asker bayrağını burca diktiler",
+        "Küçücük yarimi asker ettiler,",
+        "Ben doymadan yarim alıp gittiler…",
+        "Asker oldu yarim gitti kışlaya,Ben beklerim yarim gelsin sılaya,"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ceviz%20Oynamaya%20Gelmi%C5%9F%20Odama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ceviz%20Oynamaya%20Gelmi%C5%9F%20Odama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ceviz Oynamaya Gelmiş Odama",
+      "url": "https://tr.wikisource.org/wiki/Ceviz_Oynamaya_Gelmi%C5%9F_Odama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

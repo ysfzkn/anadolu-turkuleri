@@ -1,0 +1,65 @@
+{
+  "slug": "su-karsiki-dagda-bir-yesil-cadir",
+  "baslik": "Şu Karşıki Dağda Bir Yeşil Çadır",
+  "yore": "Tekirdağ",
+  "hikaye": "Şu Karşıki Dağda Bir Yeşil Çadır, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu karşıki dağda bir yeşil çadır",
+        "Çadırın içinde ah bir civân yatır",
+        "O civân bilmiyor hiç gönül hatır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylâ'nın aşkına dağlar mekânım",
+        "Sevdâ ne müşkül âh yanar ağlarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıda yananı fener mi sandın",
+        "Salınıp gezeni âh yârin mi sandın",
+        "Bu güzellik sende kalır mı sandın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylâ'nın aşkına dağlar mekânım",
+        "Sevdâ ne müşkül âh yanar ağlarım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Kar%C5%9F%C4%B1ki%20Da%C4%9Fda%20Bir%20Ye%C5%9Fil%20%C3%87ad%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Kar%C5%9F%C4%B1ki%20Da%C4%9Fda%20Bir%20Ye%C5%9Fil%20%C3%87ad%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Karşıki Dağda Bir Yeşil Çadır",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Kar%C5%9F%C4%B1ki_Da%C4%9Fda_Bir_Ye%C5%9Fil_%C3%87ad%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

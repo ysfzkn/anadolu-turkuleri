@@ -1,0 +1,86 @@
+{
+  "slug": "darildin-mi-gulum-bana",
+  "baslik": "Darıldın mı Gülüm Bana",
+  "yore": "İstanbul",
+  "hikaye": "Darıldın mı Gülüm Bana, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Darildin mi gülüm bana",
+        "Hiç bakmiyorsun bu yana",
+        "Darıldınsa barışalım",
+        "Kumru gibi koklaşalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmerim güzelim tuti dillim",
+        "Ben yanıyorum aman",
+        "Allah çok seviyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Her zaman üzersin beni",
+        "Yaramaz çapkın seni",
+        "Benim hiç günahım yoktur",
+        "Baştan sen çıkardın beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmerim güzelim tuti dillim",
+        "Ben yanıyorum aman",
+        "Allah çok seviyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gün nadim olacaksin",
+        "Beni çok arayacaksın",
+        "Ah edip ben ağladıkça",
+        "Allah'ından bulacaksin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmerim güzelim tuti dillim",
+        "Ben yanıyorum aman",
+        "Allah çok seviyorum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dar%C4%B1ld%C4%B1n%20m%C4%B1%20G%C3%BCl%C3%BCm%20Bana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dar%C4%B1ld%C4%B1n%20m%C4%B1%20G%C3%BCl%C3%BCm%20Bana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Darıldın mı Gülüm Bana",
+      "url": "https://tr.wikisource.org/wiki/Dar%C4%B1ld%C4%B1n_m%C4%B1_G%C3%BCl%C3%BCm_Bana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "ben-bugun-bir-sey-isittim",
+  "baslik": "Ben Bugün Bir Şey İşittim",
+  "yore": "İstanbul",
+  "hikaye": "Ben Bugün Bir Şey İşittim, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bugün bir şey işittim",
+        "Ben bugün bir şey işittim",
+        "Bittim ah efendim bittim",
+        "Bittim ah efendim bittim",
+        "Beni de beyim terk eylemiş",
+        "Beni de beyim terk eylemiş",
+        "Üzerime bir yar sevmiş",
+        "Üzerime bir yar sevmiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da cici beyime vay vay vay",
+        "Sancım tuttu ay ay ay",
+        "Aman da cici beyime vay vay vay",
+        "Sancım tuttu ay ay ay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bu işe pek üzüldüm",
+        "Ben bu işe pek üzüldüm",
+        "Kederimden çok süzüldüm",
+        "Kederimden çok süzüldüm",
+        "Dünya benim ne umurum",
+        "Dünya benim ne umurum",
+        "istersen neler bulurum",
+        "Ne cici beyler bulurum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da cici beyime vay vay vay",
+        "Sancım tuttu ay ay ay",
+        "Aman da cici beyime vay vay vay",
+        "Sancım tuttu ay ay ay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Bug%C3%BCn%20Bir%20%C5%9Eey%20%C4%B0%C5%9Fittim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Bug%C3%BCn%20Bir%20%C5%9Eey%20%C4%B0%C5%9Fittim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Bugün Bir Şey İşittim",
+      "url": "https://tr.wikisource.org/wiki/Ben_Bug%C3%BCn_Bir_%C5%9Eey_%C4%B0%C5%9Fittim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

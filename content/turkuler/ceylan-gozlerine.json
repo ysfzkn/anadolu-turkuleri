@@ -1,0 +1,71 @@
+{
+  "slug": "ceylan-gozlerine",
+  "baslik": "Ceylan Gözlerine",
+  "yore": "Erzurum",
+  "hikaye": "Ceylan Gözlerine, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ceylan gözlerine kurban olduğum",
+        "Tanrı selamını almaz mısınız",
+        "Mevla sizi süs için mi yarattı",
+        "Biz gel demeyince gelmez misiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gurbete gidenler azığın alır",
+        "Kimisi giderken kimisi kalır",
+        "Kimi sevap için Kabeye varır",
+        "Kabe kapınızda bilmez misiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadır kaşınız yaydan nic'olur",
+        "Bugün dünya yarın ahret nic'olur",
+        "Bir gönül yapması yüz bin hac olur",
+        "Siz gönül yapmasın bilmez misiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sümmani'yem ey dil yare n'iderim",
+        "Başım alır diyar diyar giderim",
+        "Yarın mahşer günü dava ederim",
+        "Siz mahşer yerine gelmez misiniz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ceylan%20G%C3%B6zlerine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ceylan%20G%C3%B6zlerine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ceylan Gözlerine",
+      "url": "https://tr.wikisource.org/wiki/Ceylan_G%C3%B6zlerine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

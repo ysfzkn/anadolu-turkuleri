@@ -1,0 +1,67 @@
+{
+  "slug": "gine-celallendi-meram-baglari",
+  "baslik": "Gine Celallendi Meram Bağları",
+  "yore": "Konya",
+  "hikaye": "Gine Celallendi Meram Bağları, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gine celallendi meram bağları (yar yar yar ey)",
+        "(Aman) Bize mesken oldu mapushane damları (yar yar)",
+        "(Haydi) Bize mesken oldu mapushane damları (aman yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bize de idam emri isteği konya beyleri (yar yar yar ey)",
+        "(Aman) Çok çağırdım hain arkadaşım gelmedi (yar yar)",
+        "(Haydi) Çok çağırdım hain arkadaşım gelmedi (aman yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekin atları da vurun koşumu (yar yar yar ey)",
+        "(Aman) Bilemedim ben de emsalimi dostumu (yar yar)",
+        "(Haydi) Bilemedim ben de emsalimi dostumu (aman yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ulam ulam ulalı ak elleri kınalı (yar yar yar ey)",
+        "(Aman) Şuralardan gelip gelip geçen gül benim (yar yar)",
+        "(Haydi) Şuralardan gelip gelip geçen gül benim (aman yar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20Celallendi%20Meram%20Ba%C4%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20Celallendi%20Meram%20Ba%C4%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Celallendi Meram Bağları",
+      "url": "https://tr.wikisource.org/wiki/Gine_Celallendi_Meram_Ba%C4%9Flar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

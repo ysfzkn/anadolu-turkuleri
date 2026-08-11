@@ -1,0 +1,62 @@
+{
+  "slug": "gokte-ucan-huma-kusu",
+  "baslik": "Gökte Uçan Huma Kuşu",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Gökte Uçan Huma Kuşu, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte uçan huma kuşu",
+        "Ne bilir dalın kıymatın",
+        "Gargayı kondurman dala",
+        "Ne bilir gülün kıymatın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çift sürüp ekin ekmeyen",
+        "Meydana sofra dökmeyen",
+        "Arının kahrın çekmeyen",
+        "Ne bilir balın kıymatın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mencilisten söz atanlar",
+        "Gerçeğe yalan katarlar",
+        "Sonra beyliğe yetenler",
+        "Ne bilir elin kıvmatın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6kte%20U%C3%A7an%20Huma%20Ku%C5%9Fu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6kte%20U%C3%A7an%20Huma%20Ku%C5%9Fu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gökte Uçan Huma Kuşu",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6kte_U%C3%A7an_Huma_Ku%C5%9Fu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

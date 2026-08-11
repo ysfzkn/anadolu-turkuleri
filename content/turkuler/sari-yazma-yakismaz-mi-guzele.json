@@ -1,0 +1,53 @@
+{
+  "slug": "sari-yazma-yakismaz-mi-guzele",
+  "baslik": "Sarı Yazma Yakışmaz mı Güzele",
+  "yore": "Kırşehir",
+  "hikaye": "Sarı Yazma Yakışmaz mı Güzele, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı yazma yakışmaz mı güzele",
+        "Sarardı gül benzim döndü gazele",
+        "Ben gidiyom sen yarini tazele",
+        "Al da beni daştan daşa çal güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevda köşesine bıraktım postu",
+        "Muhabbet kadimdir unutmam dostu",
+        "Aman ak ellere de olayım desti",
+        "Al da beni daştan daşa çal güzel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20Yazma%20Yak%C4%B1%C5%9Fmaz%20m%C4%B1%20G%C3%BCzele%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20Yazma%20Yak%C4%B1%C5%9Fmaz%20m%C4%B1%20G%C3%BCzele",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarı Yazma Yakışmaz mı Güzele",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1_Yazma_Yak%C4%B1%C5%9Fmaz_m%C4%B1_G%C3%BCzele",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

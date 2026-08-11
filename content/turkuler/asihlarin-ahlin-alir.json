@@ -1,0 +1,89 @@
+{
+  "slug": "asihlarin-ahlin-alir",
+  "baslik": "Aşıhların Ahlın Alır",
+  "yore": "Erzurum",
+  "hikaye": "Aşıhların Ahlın Alır, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşıhların ahlın alır",
+        "Gerdanda halların senin",
+        "Aşığı çöllere salır",
+        "Görünse tellerin senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ariflerin irfanına",
+        "Karşu bırakmış şanına",
+        "Cem eylemiş divanına",
+        "Dest beste kulların senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hurileri raksa salar",
+        "Gözlerinden sürme talar",
+        "Şahların tacını çalar",
+        "Dür döker dillerin senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dildâdeler giryan olur",
+        "Ciğerleri büryan olur",
+        "Divaneler üryan olur",
+        "Görünse illerin senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geysûlerin bad-ı sabâ",
+        "Kaldırsa etse berheva",
+        "Güneş gibi verir ziya",
+        "Neşr olsa tellerin senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dertlilere derman eder",
+        "Katreleri umman eder",
+        "Lütfi’yi zül firman eder",
+        "Hikmet makallerin seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9F%C4%B1hlar%C4%B1n%20Ahl%C4%B1n%20Al%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9F%C4%B1hlar%C4%B1n%20Ahl%C4%B1n%20Al%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşıhların Ahlın Alır",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9F%C4%B1hlar%C4%B1n_Ahl%C4%B1n_Al%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

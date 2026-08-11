@@ -1,0 +1,67 @@
+{
+  "slug": "igdenin-dallari-yerdedir-yerde",
+  "baslik": "İğdenin Dalları Yerdedir Yerde",
+  "yore": "Çorum",
+  "hikaye": "İğdenin Dalları Yerdedir Yerde, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İğdenin dalları yerdedir yerde",
+        "Gız siyah kekilin yüzüne perde",
+        "Irast gelir isek bir tenhe yerde",
+        "Söz almadan salar mıyım ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sunam al beni aman sar beni",
+        "Sevdim bir hoşum içtim serhoşum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deve yüksek atamadım urganı",
+        "Üşüdükçe çek üstüne yorganı",
+        "Yedi yıldır derde derman aradım",
+        "Acep sende m'ola derdim dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sunam al beni aman sar beni",
+        "Sevdim bir hoşum içtim serhoşum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0%C4%9Fdenin%20Dallar%C4%B1%20Yerdedir%20Yerde%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0%C4%9Fdenin%20Dallar%C4%B1%20Yerdedir%20Yerde",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İğdenin Dalları Yerdedir Yerde",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0%C4%9Fdenin_Dallar%C4%B1_Yerdedir_Yerde",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

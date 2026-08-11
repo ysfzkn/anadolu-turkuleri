@@ -1,0 +1,86 @@
+{
+  "slug": "pinar-basinda-durma",
+  "baslik": "Pınar Başında Durma",
+  "yore": "Kars",
+  "hikaye": "Pınar Başında Durma, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar başında durma",
+        "Pınarı bulandırma",
+        "Senin yarın burda yoh",
+        "Gözlerini dolandırma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hay gede sıhma golumi",
+        "Gırarsın gol bağımi",
+        "Tökersin gül yağımi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar başı su başı",
+        "Kemadır yarın gaşı",
+        "Ben yardan ayrılalı",
+        "Durmaz gözümün yaşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hay gede sıhma golumi",
+        "Gırarsın gol bağımi",
+        "Tökersin gül yağımi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınara vurdum gazma",
+        "Güzeller bağlar yazma",
+        "Yar üstüne yar sevdim",
+        "Yaradan günah yazma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hay gede sıhma golumi",
+        "Gırarsın gol bağımi",
+        "Tökersin gül yağımi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=P%C4%B1nar%20Ba%C5%9F%C4%B1nda%20Durma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/P%C4%B1nar%20Ba%C5%9F%C4%B1nda%20Durma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pınar Başında Durma",
+      "url": "https://tr.wikisource.org/wiki/P%C4%B1nar_Ba%C5%9F%C4%B1nda_Durma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

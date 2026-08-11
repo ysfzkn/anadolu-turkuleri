@@ -1,0 +1,50 @@
+{
+  "slug": "atim-atim-kiratim",
+  "baslik": "Atım Atım Kıratım",
+  "yore": "Muş",
+  "hikaye": "Atım Atım Kıratım, Vikikaynak'ın Muş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atım atım kır atım,",
+        "diloy loy diloy loy, diloy malım",
+        "Geliyor adım adım,",
+        "kara (kömür) gözleren yandım (kurbanım)",
+        "Çüt kaşın arasında.",
+        "Kaldı menim muradım.",
+        "Atımın boynu kara",
+        "Binem gidem sefere",
+        "Yan gelem yan gelmeyem",
+        "Ağlasın bahtı kara."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=At%C4%B1m%20At%C4%B1m%20K%C4%B1rat%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/At%C4%B1m%20At%C4%B1m%20K%C4%B1rat%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Atım Atım Kıratım",
+      "url": "https://tr.wikisource.org/wiki/At%C4%B1m_At%C4%B1m_K%C4%B1rat%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

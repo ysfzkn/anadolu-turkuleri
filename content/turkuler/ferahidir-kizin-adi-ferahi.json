@@ -1,0 +1,51 @@
+{
+  "slug": "ferahidir-kizin-adi-ferahi",
+  "baslik": "Ferâhî’dir Kızın Adı Ferâhî",
+  "yore": "Manisa",
+  "hikaye": "Ferâhî’dir Kızın Adı Ferâhî, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ferâhî’dir kızın adı",
+        "Ferâhî of yandım esmere",
+        "Aman aman Ferâhî"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar şavkı vurur",
+        "Odayı ah ah yandım aman esmere",
+        "Aman aman Ferâhî"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fer%C3%A2h%C3%AE%E2%80%99dir%20K%C4%B1z%C4%B1n%20Ad%C4%B1%20Fer%C3%A2h%C3%AE%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fer%C3%A2h%C3%AE%E2%80%99dir%20K%C4%B1z%C4%B1n%20Ad%C4%B1%20Fer%C3%A2h%C3%AE",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ferâhî’dir Kızın Adı Ferâhî",
+      "url": "https://tr.wikisource.org/wiki/Fer%C3%A2h%C3%AE%E2%80%99dir_K%C4%B1z%C4%B1n_Ad%C4%B1_Fer%C3%A2h%C3%AE",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

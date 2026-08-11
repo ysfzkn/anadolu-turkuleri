@@ -1,0 +1,53 @@
+{
+  "slug": "ben-razi-degilem-hicrana-gama",
+  "baslik": "Ben Razı Değilem Hicrana Gama",
+  "yore": "Erzurum",
+  "hikaye": "Ben Razı Değilem Hicrana Gama, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben razı değilem hicrana gama",
+        "Garip gönlüm haldan hala salan var",
+        "Sabavetten beri bir yol gözlerim",
+        "El zanneder uzahlarda kalan var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sümmani'yem ya rab gönlüm hoş eyle",
+        "Ya sabır ver ya bağrım taş eyle",
+        "Ya bir çifk kanat ver da kuş eyle",
+        "Tez ulaşam yar bağında talan var"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Raz%C4%B1%20De%C4%9Filem%20Hicrana%20Gama%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Raz%C4%B1%20De%C4%9Filem%20Hicrana%20Gama",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Razı Değilem Hicrana Gama",
+      "url": "https://tr.wikisource.org/wiki/Ben_Raz%C4%B1_De%C4%9Filem_Hicrana_Gama",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

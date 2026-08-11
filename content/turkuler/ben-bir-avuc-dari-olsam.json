@@ -1,0 +1,83 @@
+{
+  "slug": "ben-bir-avuc-dari-olsam",
+  "baslik": "Ben Bir Avuç Darı Olsam",
+  "yore": "Iğdır",
+  "hikaye": "Ben Bir Avuç Darı Olsam, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir avuç darı olup yere Dökülecek Olsam,",
+        "Goy beni nice neylersin balam? sen beni nice neylersin?",
+        "Goy beni nice neylersin balam? sen beni nice neylersin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen bir avuç darı olup yere serpilecek Olsan,",
+        "Ben bir güzel toyuk olup balam seni de yesem neylersin?",
+        "Ben bir güzel toyuk olup balam seni de yesem neylersin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir güzel ceylan olup dağa da çıkacak Olsam ,",
+        "Goy beni nice neylersin balam? Sen beni nice neylersin?",
+        "Goy beni nice neylersin balam? Sen beni nice neylersin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir güzel avcı olup peşine gelecek olsam,",
+        "Seni de vursam neylersin balam? Seni de vursam neylersin?",
+        "Seni de vursam neylersin balam? Seni de vursam neylersin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir güzel alma olup sandığa girecek olsam,",
+        "Goy beni nice neylersin balam? Sen beni nice neylersin?",
+        "Goy beni nice neylersin balam? Sen beni nice neylersin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir güzel açar olup sandığı açacak olsam,",
+        "Seni de yersem neylersin balam? Seni de yesem neylersin?",
+        "Seni de yersem neylersin balam? Seni de yesem neylersin?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Bir%20Avu%C3%A7%20Dar%C4%B1%20Olsam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Bir%20Avu%C3%A7%20Dar%C4%B1%20Olsam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Bir Avuç Darı Olsam",
+      "url": "https://tr.wikisource.org/wiki/Ben_Bir_Avu%C3%A7_Dar%C4%B1_Olsam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

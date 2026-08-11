@@ -1,0 +1,71 @@
+{
+  "slug": "anamur-yollari-kayrakta-cakilli",
+  "baslik": "Anamur Yolları Kayrakta Çakıllı",
+  "yore": "Mersin",
+  "hikaye": "Anamur Yolları Kayrakta Çakıllı, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anamur yolları yar yar,",
+        "Kayrak da çakıllı a canım.",
+        "Öyle bir yar sevdim yar yar,",
+        "Uyar da akıllı a canım.",
+        "Sürmelim aman,",
+        "Ben yandım aman,",
+        "Sevmişim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anamur üstüne yar yar",
+        "Duman da bürüdü a canım,",
+        "Herkes sevdiğini yar yar,",
+        "Aldı da yürüdü a canım.",
+        "Sürmelim aman,",
+        "Ben yandım aman,",
+        "Sevmişim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anamur yolları yar yar,",
+        "Dardır da geçilmez a canım.",
+        "Soğuktur suları yar yar,",
+        "Bir tas da içilmez a canım.",
+        "Sürmelim aman,",
+        "Ben yandım aman,",
+        "Sevmişim aman."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Anamur%20Yollar%C4%B1%20Kayrakta%20%C3%87ak%C4%B1ll%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Anamur%20Yollar%C4%B1%20Kayrakta%20%C3%87ak%C4%B1ll%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Anamur Yolları Kayrakta Çakıllı",
+      "url": "https://tr.wikisource.org/wiki/Anamur_Yollar%C4%B1_Kayrakta_%C3%87ak%C4%B1ll%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "neden-garip-garip-otersin-bulbul",
+  "baslik": "Neden Garip Garip Ötersin Bülbül",
+  "yore": "Kırşehir",
+  "hikaye": "Neden Garip Garip Ötersin Bülbül, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Neden garip garip ötersin bülbül (oy)",
+        "Yoksa sen de bahtı kareli misin (ey ey)",
+        "Durmaz feryat edip coşarsın bülbül (oy)",
+        "Sen de benim gibi yareli misin (ey ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu derdin elinden oldum biçare (oy)",
+        "Aradım derdime bulmadım çare (ey ey)",
+        "Yüreğimde vardır bilinmez yare (oy)",
+        "Sen de yüreğinden yareli misin (ey ey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Neden%20Garip%20Garip%20%C3%96tersin%20B%C3%BClb%C3%BCl%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Neden%20Garip%20Garip%20%C3%96tersin%20B%C3%BClb%C3%BCl",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Neden Garip Garip Ötersin Bülbül",
+      "url": "https://tr.wikisource.org/wiki/Neden_Garip_Garip_%C3%96tersin_B%C3%BClb%C3%BCl",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

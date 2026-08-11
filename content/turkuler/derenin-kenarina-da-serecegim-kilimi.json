@@ -1,0 +1,65 @@
+{
+  "slug": "derenin-kenarina-da-serecegim-kilimi",
+  "baslik": "Derenin Kenarına da Sereceğim Kilimi",
+  "yore": "Trabzon",
+  "hikaye": "Derenin Kenarına da Sereceğim Kilimi, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derenin kenarına da sereceğim kilimi",
+        "Geçer yürek yangununda sevdüğüm",
+        "Alalum birbirini da alalum birbirini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere kunduzu misun da sabah yıldızi misun",
+        "Geleceğüm peşinada, bedelini alacağ misun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuş uştu yavri kaldıda, gökyüzü mavi kaldı",
+        "Anahtar yar koynunda da sevduğum",
+        "Gönlüm kilitli kaldi da, gönlüm kilitli kaldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağmur yağayi yağmurda, dereler akar durur",
+        "Ben sevdum eller aldi da acısı beni bulur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Derenin%20Kenar%C4%B1na%20da%20Serece%C4%9Fim%20Kilimi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Derenin%20Kenar%C4%B1na%20da%20Serece%C4%9Fim%20Kilimi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Derenin Kenarına da Sereceğim Kilimi",
+      "url": "https://tr.wikisource.org/wiki/Derenin_Kenar%C4%B1na_da_Serece%C4%9Fim_Kilimi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

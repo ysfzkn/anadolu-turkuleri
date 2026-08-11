@@ -1,0 +1,80 @@
+{
+  "slug": "hurmuz-gelin",
+  "baslik": "Hürmüz Gelin",
+  "yore": "Sinop",
+  "hikaye": "Hürmüz Gelin, Vikikaynak'ın Sinop türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Sinop yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç gün evvel geldi gelin alıcı",
+        "Denizde de boğuldu yoktur ilâcı",
+        "Anam babam kime olsun davacı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Almada dalgam alma yeni gelini",
+        "Gümüş de kemer sıkmış belini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çeyizim sandıkta basılı kaldı",
+        "Elbisem duvarda asılı kaldı",
+        "Benim nazlı yârim kimlere kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Almada dalgam alma yeni gelini",
+        "Gümüş de kemer sıkmış belini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydin kızlar kalkın yola duralım",
+        "Hürmüz Gelin geçecek onu görelim",
+        "Öylen namazını biz de kılalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Almada dalgam alma yeni gelini",
+        "Gümüş de kemer sıkmış belini"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=H%C3%BCrm%C3%BCz%20Gelin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/H%C3%BCrm%C3%BCz%20Gelin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hürmüz Gelin",
+      "url": "https://tr.wikisource.org/wiki/H%C3%BCrm%C3%BCz_Gelin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sinop",
+    "anonim",
+    "açık arşiv"
+  ]
+}

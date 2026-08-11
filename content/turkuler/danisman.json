@@ -1,0 +1,71 @@
+{
+  "slug": "danisman",
+  "baslik": "Danışman",
+  "yore": "Mersin",
+  "hikaye": "Danışman, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İndim gettim danışmanın düzüne",
+        "Nalet olsun çirkinlerin yüzüne",
+        "Haydi ,haydi, haydi atamaz oldum",
+        "Şu gecenin ayazından yatamaz oldum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğri büğrü Danışman'ın yolları",
+        "Kardan beyaz o güzelin kolları",
+        "Haydi, haydi, haydi atamaz oldum",
+        "Danışmanın cümbüşünden yatamaz oldum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine varamadım köpekten",
+        "Al uçkuru çözemedim göbek'ten",
+        "Haydi, haydi, haydi atamaz oldum.",
+        "Danışmanın cümbüşünden yatamaz oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gün görünmez menengicin dalından,",
+        "Kimse bilmez ben garibin halından",
+        "Haydi, haydi, haydi atlı'da geliyor.",
+        "Şu kızın nameleri datlıda geliyor."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dan%C4%B1%C5%9Fman%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dan%C4%B1%C5%9Fman",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Danışman",
+      "url": "https://tr.wikisource.org/wiki/Dan%C4%B1%C5%9Fman",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

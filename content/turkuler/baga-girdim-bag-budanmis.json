@@ -1,0 +1,61 @@
+{
+  "slug": "baga-girdim-bag-budanmis",
+  "baslik": "Bağa Girdim Bağ Budanmış",
+  "yore": "Tekirdağ",
+  "hikaye": "Bağa Girdim Bağ Budanmış, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa girdim bağ budanmış,",
+        "Bağa bülbül dadanmış.",
+        "On beş yaşında da Nazife de Hanım,",
+        "Kimlere aldanmış."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım Şarköy'ün yoluna,",
+        "Sıra sıra zeytinler.",
+        "On beş yaşında da Nazife de Hanım'a,",
+        "Yazık ettiler."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O tepeden bu tepeye, oyun olur mu?",
+        "On beş yaşında da Nazife de Hanım'a,",
+        "Doyum olur mu?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C4%9Fa%20Girdim%20Ba%C4%9F%20Budanm%C4%B1%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C4%9Fa%20Girdim%20Ba%C4%9F%20Budanm%C4%B1%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bağa Girdim Bağ Budanmış",
+      "url": "https://tr.wikisource.org/wiki/Ba%C4%9Fa_Girdim_Ba%C4%9F_Budanm%C4%B1%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "agacliktan-arar-gelir",
+  "baslik": "Ağaçlıktan Arar Gelir",
+  "yore": "Nevşehir",
+  "hikaye": "Ağaçlıktan Arar Gelir, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağaçlıktan arar gelir",
+        "Pınarlara sorar gelir",
+        "Gergefini örer gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Telli yârim tüllü yârim",
+        "Top zülüflü tüllü yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağaçlığın arasında",
+        "Top güllerin sırasında",
+        "Melek bunun neresinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Telli yârim tüllü yârim",
+        "Top zülüflü tüllü yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başında durmuş",
+        "Top gülleri orda dermiş",
+        "Her geçene beni sormuş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Telli yârim tüllü yârim",
+        "Top zülüflü tüllü yârim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Fa%C3%A7l%C4%B1ktan%20Arar%20Gelir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Fa%C3%A7l%C4%B1ktan%20Arar%20Gelir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağaçlıktan Arar Gelir",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Fa%C3%A7l%C4%B1ktan_Arar_Gelir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Nevşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

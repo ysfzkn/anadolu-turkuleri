@@ -1,0 +1,67 @@
+{
+  "slug": "tipir-tipir-yurursun",
+  "baslik": "Tıpır Tıpır Yürürsün",
+  "yore": "Kütahya",
+  "hikaye": "Tıpır Tıpır Yürürsün, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tıpır tıpır yürürsün",
+        "(Aman) samur kürkü sürürsün",
+        "Sen bir vezir kızısın",
+        "(Aman) niçin yayan yürürsün"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Ayşe'm menevşem",
+        "Yoruldum böyle her akşam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kiremitten su damlar",
+        "(Aman) bir kız verin adamlar",
+        "Bir kız bize çok mudur",
+        "(Aman) mahlenizde yok mudur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Ayşe'm menevşem",
+        "Yoruldum böyle her akşam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=T%C4%B1p%C4%B1r%20T%C4%B1p%C4%B1r%20Y%C3%BCr%C3%BCrs%C3%BCn%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/T%C4%B1p%C4%B1r%20T%C4%B1p%C4%B1r%20Y%C3%BCr%C3%BCrs%C3%BCn",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tıpır Tıpır Yürürsün",
+      "url": "https://tr.wikisource.org/wiki/T%C4%B1p%C4%B1r_T%C4%B1p%C4%B1r_Y%C3%BCr%C3%BCrs%C3%BCn",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

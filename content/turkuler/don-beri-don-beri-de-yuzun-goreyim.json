@@ -1,0 +1,60 @@
+{
+  "slug": "don-beri-don-beri-de-yuzun-goreyim",
+  "baslik": "Dön Beri Dön Beri de Yüzün Göreyim",
+  "yore": "Şanlıurfa",
+  "hikaye": "Dön Beri Dön Beri de Yüzün Göreyim, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dön beri dön beri de yüzün göreyim",
+        "Yüzün görenlere hayran olayım",
+        "Gel gülüm gel ha gel gel",
+        "Gel şirin gel ha gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nay ni nay nay na",
+        "Ni nay nay ni nay",
+        "Na ni na ni nay nay ni nay ni nay nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir canım var sana vereyim",
+        "Gidem yar eylenem",
+        "Belki de gelmeyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=D%C3%B6n%20Beri%20D%C3%B6n%20Beri%20de%20Y%C3%BCz%C3%BCn%20G%C3%B6reyim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/D%C3%B6n%20Beri%20D%C3%B6n%20Beri%20de%20Y%C3%BCz%C3%BCn%20G%C3%B6reyim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dön Beri Dön Beri de Yüzün Göreyim",
+      "url": "https://tr.wikisource.org/wiki/D%C3%B6n_Beri_D%C3%B6n_Beri_de_Y%C3%BCz%C3%BCn_G%C3%B6reyim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

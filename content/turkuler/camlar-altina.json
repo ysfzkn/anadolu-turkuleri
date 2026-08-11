@@ -1,0 +1,56 @@
+{
+  "slug": "camlar-altina",
+  "baslik": "Çamlar Altına",
+  "yore": "Tokat",
+  "hikaye": "Çamlar Altına, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çamlar altına (aman aman) çamlar altına",
+        "Giyin de kuşan gel Naciye’m güller altına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi de destim var (aman aman) mavi de destim var",
+        "Çok sallanma hovarda Naciye’m benim de dostum var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tren de yoluna (aman aman) tren de yoluna",
+        "Tren de yolları kalabalık Naciye’m gel gir koluma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87amlar%20Alt%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87amlar%20Alt%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çamlar Altına",
+      "url": "https://tr.wikisource.org/wiki/%C3%87amlar_Alt%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

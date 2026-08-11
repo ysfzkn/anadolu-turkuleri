@@ -1,0 +1,83 @@
+{
+  "slug": "vay-bana-vaylar-bana",
+  "baslik": "Vay Bana Vaylar Bana",
+  "yore": "Konya",
+  "hikaye": "Vay Bana Vaylar Bana, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay bana vaylar bana",
+        "Yıl oldu aylar bana",
+        "Susadım su isterim",
+        "Su vermez çaylar bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ömrüm ömrüm hopla mavilim",
+        "Vay aman al beni yanında sakla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tesbihimde mercanım",
+        "Neren ağrıyor canım",
+        "Meram'daki bağları",
+        "Satar sana harcarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ömrüm ömrüm hopla mavilim",
+        "Vay aman al beni yanında sakla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derviş geldi hu dedi",
+        "Çevir bendi su geldi",
+        "Ellere düğün bayram",
+        "Bize haktan bu geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ömrüm ömrüm hopla mavilim",
+        "Vay aman al beni yanında sakla"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vay%20Bana%20Vaylar%20Bana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vay%20Bana%20Vaylar%20Bana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vay Bana Vaylar Bana",
+      "url": "https://tr.wikisource.org/wiki/Vay_Bana_Vaylar_Bana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

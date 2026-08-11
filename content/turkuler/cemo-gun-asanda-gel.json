@@ -1,0 +1,95 @@
+{
+  "slug": "cemo-gun-asanda-gel",
+  "baslik": "Cemo Gün Aşanda Gel",
+  "yore": "Şanlıurfa",
+  "hikaye": "Cemo Gün Aşanda Gel, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemo gün aşan da gel",
+        "Bahçayı dolan da gel",
+        "Bahçadan gelemezsen",
+        "Pencereden gaç ta gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gaşların mildir Cemo",
+        "Gel beni güldür Cemo",
+        "Heç de güzel değilsin",
+        "Aklımı aldın Cemo"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Cemo vay Cemo oy Cemo vah Cemile",
+        "Hayran ismine Cemo gurban ismine Cemo",
+        "Vah Cemo vah Cemo vah Cemo le Cemile"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülleri düşürürsün",
+        "Cemo ne düşünürsün",
+        "Düşünme kölen olam",
+        "Aklımı kaçırırsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Cemo vay Cemo oy Cemo vah Cemile",
+        "Hayran ismine Cemo gurban ismine Cemo",
+        "Vah Cemo vah Cemo vah Cemo le Cemile"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alçacık duvardayım",
+        "Baş açık hovardayım",
+        "Nerde Cemo mu bulsam",
+        "Akşam sabah ordayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Cemo vay Cemo oy Cemo vah Cemile",
+        "Hayran ismine Cemo gurban ismine Cemo",
+        "Vah Cemo vah Cemo vah Cemo le Cemile"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cemo%20G%C3%BCn%20A%C5%9Fanda%20Gel%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cemo%20G%C3%BCn%20A%C5%9Fanda%20Gel",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cemo Gün Aşanda Gel",
+      "url": "https://tr.wikisource.org/wiki/Cemo_G%C3%BCn_A%C5%9Fanda_Gel",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

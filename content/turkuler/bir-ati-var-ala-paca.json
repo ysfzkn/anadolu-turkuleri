@@ -1,0 +1,52 @@
+{
+  "slug": "bir-ati-var-ala-paca",
+  "baslik": "Bir Atı Var Ala Paça",
+  "yore": "Kars",
+  "hikaye": "Bir Atı Var Ala Paça, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir atı var Ala Paça peh, peh, peh,",
+        "Mecal vermez kırat kaça hey, hey, hey",
+        "Az kaldı ortamdan biçeAğam kim, Paşam kim, Nigar kim, Hanım kim Kiziroğlu Mustafa BeyBir beyin oğlu Zor beyin oğlu",
+        "Hay edende haya teper peh, peh, peh",
+        "Huy edende huya teper hey, hey, hey",
+        "Köroğlunu suya teper",
+        "Kiziroğlu Mustafa BeyBir beyin oğlu Zor beyin oğlu",
+        "Bir fendinen geldi geçti peh, peh, peh",
+        "Kiziroğlu Mustafa Bey hey, hey, hey",
+        "Hışmı dağı deldi geçti",
+        "Ağam kim, Paşam kim, Nigar kim, Hanım kim",
+        "NAKARAT"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20At%C4%B1%20Var%20Ala%20Pa%C3%A7a%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20At%C4%B1%20Var%20Ala%20Pa%C3%A7a",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Atı Var Ala Paça",
+      "url": "https://tr.wikisource.org/wiki/Bir_At%C4%B1_Var_Ala_Pa%C3%A7a",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

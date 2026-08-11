@@ -1,0 +1,45 @@
+{
+  "slug": "bahceye-indim-ki-asma-salincak",
+  "baslik": "Bahçeye İndim ki Asma Salıncak",
+  "yore": "İstanbul",
+  "hikaye": "Bahçeye İndim ki Asma Salıncak, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye indim ki asma salıncak",
+        "Yâr gelip yâr gelip sallanacak",
+        "Akşamdan sonra neler olacak",
+        "Yâr gelip yâr gelip sallanacak",
+        "Benim güzel yârim sallanacak"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7eye%20%C4%B0ndim%20ki%20Asma%20Sal%C4%B1ncak%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7eye%20%C4%B0ndim%20ki%20Asma%20Sal%C4%B1ncak",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçeye İndim ki Asma Salıncak",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7eye_%C4%B0ndim_ki_Asma_Sal%C4%B1ncak",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

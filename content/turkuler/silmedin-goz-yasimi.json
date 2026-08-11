@@ -1,0 +1,56 @@
+{
+  "slug": "silmedin-goz-yasimi",
+  "baslik": "Silmedin Göz Yaşımı",
+  "yore": "Diyarbakır",
+  "hikaye": "Silmedin Göz Yaşımı, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Silmedin göz yaşımı aşkın ile ağlayanın",
+        "Vay ahvaline zalim sana bel bağlayanın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öyle zahm açtı nigahın kılıcı sineme ki",
+        "Parelendi ciğeri yarelerim bağlayanın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şem'a pervaneyi yaktığı için yanmadadır",
+        "Ciğeri dağlanır elbette ciğer dağlayanın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Silmedin%20G%C3%B6z%20Ya%C5%9F%C4%B1m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Silmedin%20G%C3%B6z%20Ya%C5%9F%C4%B1m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Silmedin Göz Yaşımı",
+      "url": "https://tr.wikisource.org/wiki/Silmedin_G%C3%B6z_Ya%C5%9F%C4%B1m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

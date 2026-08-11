@@ -1,0 +1,71 @@
+{
+  "slug": "avlunuzda-daim-armut-oluyor",
+  "baslik": "Avlunuzda Daim Armut Oluyor",
+  "yore": "Trabzon",
+  "hikaye": "Avlunuzda Daim Armut Oluyor, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Avlunuzda daim armut oluyor",
+        "Razı olmayasın seni ele verirlerse",
+        "Yüreğim inciniyor dövdüklerinde seni",
+        "Bu tarafa gel burada bekleyeceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Işığım benim öte taraftan şarkı söylüyor",
+        "Biliyorum ki sesi beni çağırıyor",
+        "Yüreğim bir güzel haykırıyor",
+        "Bekle geleceğim ışığım benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saçlarını omzuma örtmüştüm",
+        "Söylüyordun çok üşümüştüm",
+        "O gün şeytanları üstüme sardın",
+        "Böylelikle nasıl baş edeceğiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başını açınca yan yana otururken",
+        "Sarılırdı sırmalar ince beline",
+        "Ne söyledin hatırlıyor musun saçını tararken",
+        "Bunları unuttun ey ışığım benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Avlunuzda%20Daim%20Armut%20Oluyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Avlunuzda%20Daim%20Armut%20Oluyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Avlunuzda Daim Armut Oluyor",
+      "url": "https://tr.wikisource.org/wiki/Avlunuzda_Daim_Armut_Oluyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

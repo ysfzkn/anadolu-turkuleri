@@ -1,0 +1,98 @@
+{
+  "slug": "ak-deveyi-katerlemis-gidiyor",
+  "baslik": "Ak Deveyi Katerlemiş Gidiyor",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Ak Deveyi Katerlemiş Gidiyor, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak deveyi katerlemiş gidiyor",
+        "Türkmen kızı bir ormanın içinde",
+        "Sırtında bir çocuk deve güdüyor",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Niceleri deve çeker buncalar",
+        "Her bakışı ciğerimi kancalar",
+        "Kucağında çocuğuna nen çalar",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak gerdanda sıra benler sayılır",
+        "Seni gören yiğit düşer bayılır",
+        "Sağda deve solda koyun yayılır",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Durdu yol üstüne beni eğledi",
+        "Kement attı kollarımı bağladı",
+        "Yahyalı'dan olduğunu söyledi",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çiçeklerle donatmıştır başını",
+        "Üç dört günlük ay zannettim kaşını",
+        "Uzatır boynunu arar eşini",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara çadır düz ovada yüzüyor",
+        "Her bakışı ciğerimi eziyor",
+        "Ceylanlara yoldaş olmuş geziyor",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüseyin'im der ki bana mı kasdı",
+        "Esen rüzgarlar da zülfüne esti",
+        "Kozan'a giderken yolumu kesti",
+        "Türkmen kızı bir ormanın içinde"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ak%20Deveyi%20Katerlemi%C5%9F%20Gidiyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ak%20Deveyi%20Katerlemi%C5%9F%20Gidiyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ak Deveyi Katerlemiş Gidiyor",
+      "url": "https://tr.wikisource.org/wiki/Ak_Deveyi_Katerlemi%C5%9F_Gidiyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "halimi-arzettim-daglara-dasa",
+  "baslik": "Halimi Arzettim Dağlara Daşa",
+  "yore": "Çorum",
+  "hikaye": "Halimi Arzettim Dağlara Daşa, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muhannetin gahzı elin derdine",
+        "(Efendim aloğlu gül yüzlüm piroğlu)",
+        "Dayanılmaz acı tatlı zehriye",
+        "(Sevdiğim efendim)",
+        "Goca gızılırmak fırat nehrine",
+        "(Efendim aloğlu gül yüzlüm piroğlu)",
+        "Dedim götürmüyor bu gam yükünü",
+        "(Sevdiğim efendim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşık Haydar derki bu ahır çağı",
+        "(Efendim aloğlu gül yüzlüm piroğlu)",
+        "Bilenmiş geliyor ecel bıçağı",
+        "(Sevdiğim efendim)",
+        "Gök yüzünde uçan posta uçağı",
+        "(Efendim aloğlu gül yüzlüm piroğlu)",
+        "Dedim götürmüyor bu gam yükünü",
+        "(Sevdiğim efendim)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Halimi%20Arzettim%20Da%C4%9Flara%20Da%C5%9Fa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Halimi%20Arzettim%20Da%C4%9Flara%20Da%C5%9Fa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Halimi Arzettim Dağlara Daşa",
+      "url": "https://tr.wikisource.org/wiki/Halimi_Arzettim_Da%C4%9Flara_Da%C5%9Fa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

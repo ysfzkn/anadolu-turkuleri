@@ -1,0 +1,71 @@
+{
+  "slug": "e-caykara-caykara",
+  "baslik": "E Çaykara Çaykara",
+  "yore": "Trabzon",
+  "hikaye": "E Çaykara Çaykara, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "E Çaykara Çaykara",
+        "Dört dağın arasında",
+        "Güneş almadı ona",
+        "Çamlar arasında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sar beline beline",
+        "Gaytanı yedi keren",
+        "Çok da güzel deyilsun",
+        "Sevdim seni bir keren"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sar beline beline",
+        "Gaytanı dolan dolan",
+        "Kız alacağum seni",
+        "Öyle mahcup oturma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "E deremen deremen",
+        "Issız yere dönersin",
+        "Ne mutli olsun sana",
+        "Ne güzeller görersin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=E%20%C3%87aykara%20%C3%87aykara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/E%20%C3%87aykara%20%C3%87aykara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — E Çaykara Çaykara",
+      "url": "https://tr.wikisource.org/wiki/E_%C3%87aykara_%C3%87aykara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

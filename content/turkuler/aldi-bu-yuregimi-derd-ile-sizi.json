@@ -1,0 +1,55 @@
+{
+  "slug": "aldi-bu-yuregimi-derd-ile-sizi",
+  "baslik": "Aldı Bu Yüreğimi Derd ile Sızı",
+  "yore": "Malatya",
+  "hikaye": "Aldı Bu Yüreğimi Derd ile Sızı, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldı bu yüreğimi derd ile sızı (Suna gelin ağlama)",
+        "Dilerim allahtan kurtarsın bizi (derdi güzel ağlama)",
+        "Sen bir koyun ol bende bir kuzu (kuzun olam ağlama)",
+        "Beraber geçirsek baharı yazı (derdi güzel ağlama)",
+        "Ağlama ağlama yaren olam ağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıki yaylanın cılga yolları (Suna gelin ağlama)",
+        "Çağlayıp giderde dere suları (suna boylum ağlama)",
+        "Bize mesken oldu gurbet elleri (derdi güzel ağlama)",
+        "Soldu bu yaz ömrümüzün gülleri (derdi güzel ağlama)",
+        "Ağlama ağlama yaren olam ağlama"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ald%C4%B1%20Bu%20Y%C3%BCre%C4%9Fimi%20Derd%20ile%20S%C4%B1z%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ald%C4%B1%20Bu%20Y%C3%BCre%C4%9Fimi%20Derd%20ile%20S%C4%B1z%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aldı Bu Yüreğimi Derd ile Sızı",
+      "url": "https://tr.wikisource.org/wiki/Ald%C4%B1_Bu_Y%C3%BCre%C4%9Fimi_Derd_ile_S%C4%B1z%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

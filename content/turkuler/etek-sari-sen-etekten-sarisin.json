@@ -1,0 +1,71 @@
+{
+  "slug": "etek-sari-sen-etekten-sarisin",
+  "baslik": "Etek Sarı Sen Etekten Sarısın",
+  "yore": "Malatya",
+  "hikaye": "Etek Sarı Sen Etekten Sarısın, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Etek sarı sen etekten sarısın",
+        "Kurban olam Beydağı'nın karısın",
+        "Sordum o güzele kimin yarısın",
+        "Ben sormadan dolu gibi döküyü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gömlek almıştım hasa bezinden",
+        "Âlem düşman oldu senin yüzünden",
+        "Git sevdiğim sağlığınan gelirsem",
+        "Yar kör olam öpeceğim gözünden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gömlek almıştım kolu düğmeli",
+        "İnsan sevdiğine boyun eğmeli",
+        "Sevince de deste başı sevmeli",
+        "Kurban olam Arguvanlı geline"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sallanarak gelin indi pınara",
+        "Lütfeyle ki gelin atım sulana",
+        "Seni benden beni senden eyleyen",
+        "Ölmeye de mezar mezar dolana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Etek%20Sar%C4%B1%20Sen%20Etekten%20Sar%C4%B1s%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Etek%20Sar%C4%B1%20Sen%20Etekten%20Sar%C4%B1s%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Etek Sarı Sen Etekten Sarısın",
+      "url": "https://tr.wikisource.org/wiki/Etek_Sar%C4%B1_Sen_Etekten_Sar%C4%B1s%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

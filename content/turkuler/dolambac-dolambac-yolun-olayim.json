@@ -1,0 +1,54 @@
+{
+  "slug": "dolambac-dolambac-yolun-olayim",
+  "baslik": "Dolambaç Dolambaç Yolun Olayım",
+  "yore": "Samsun",
+  "hikaye": "Dolambaç Dolambaç Yolun Olayım, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dolambaç dolambaç yolun olayım",
+        "Açılmış bağçada gülün olayım",
+        "Sen gözelsin senin kölen olayım",
+        "Yağmur yağar su bağlanur göllere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gurban olam datlı dillere",
+        "Ben ölürüm de seni vermem ellere",
+        "Gel bana gel gözelim aman",
+        "Bu yıllık da böyle gezelim",
+        "Gezip düşmanlar bağın ezeyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dolamba%C3%A7%20Dolamba%C3%A7%20Yolun%20Olay%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dolamba%C3%A7%20Dolamba%C3%A7%20Yolun%20Olay%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dolambaç Dolambaç Yolun Olayım",
+      "url": "https://tr.wikisource.org/wiki/Dolamba%C3%A7_Dolamba%C3%A7_Yolun_Olay%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Samsun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

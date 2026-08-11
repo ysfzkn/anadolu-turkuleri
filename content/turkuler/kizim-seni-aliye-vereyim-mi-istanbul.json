@@ -1,0 +1,83 @@
+{
+  "slug": "kizim-seni-aliye-vereyim-mi-istanbul",
+  "baslik": "Kızım Seni Ali'ye Vereyim mi?",
+  "yore": "İstanbul",
+  "hikaye": "Kızım Seni Ali'ye Vereyim mi?, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızım seni Ali'ye vereyim mi?",
+        "Kızım seni Ali'ye vereyim mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstemem babacım istemem",
+        "Onun adı Ali",
+        "Belki de deli",
+        "İstemem babacım istemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızım seni Yaşar'a vereyim mi?",
+        "Kızım seni Yaşar'a vereyim mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstemem babacım istemem",
+        "Onun adı Yaşar",
+        "Alır beni boşar",
+        "İstemem babacım istemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızım seni sarhoşa vereyim mi?",
+        "Kızım seni sarhoşa vereyim mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İsterim babacım isterim",
+        "Onun adı sarhoş",
+        "Sever beni pek hoş",
+        "İsterim babacım isterim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1z%C4%B1m%20Seni%20Ali'ye%20Vereyim%20mi%3F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1z%C4%B1m%20Seni%20Ali'ye%20Vereyim%20mi%3F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kızım Seni Ali'ye Vereyim mi? (İstanbul)",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1z%C4%B1m_Seni_Ali'ye_Vereyim_mi%3F_(%C4%B0stanbul)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

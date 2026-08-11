@@ -1,0 +1,101 @@
+{
+  "slug": "alacatida-bir-yar-sevdim",
+  "baslik": "Alaçatı'da Bir Yâr Sevdim",
+  "yore": "İzmir",
+  "hikaye": "Alaçatı'da Bir Yâr Sevdim, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alaçatı'da bir yâr sevdim",
+        "Alaçatı'da bir yâr sevdim",
+        "Çıtır pıtır konuşuyor bilmem dilini",
+        "Çıtır pıtır konuşuyor bilmem dilini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi gidelim bizim odaya",
+        "Kollarını dola dola benim boynuma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seni seven oğlan neylesin malı",
+        "Seni seven oğlan neylesin malı",
+        "Yumdukça gözünden döker mercanı",
+        "Yumdukça gözünden döker mercanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Burnu fındık ağzı kahfe fincanı",
+        "Burnu fındık ağzı kahfe fincanı",
+        "Şeker mi şerbet mi Alaçatı kızı",
+        "Şeker mi şerbet mi Alaçatı kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi gidelim bizim odaya",
+        "Kollarını dola dola benim boynuma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Avrupalı kurban olsun sarı saçına",
+        "Avrupalı kurban olsun sarı saçına",
+        "İngilizi ,Fransızı değmez döşüne",
+        "İngilizi ,Fransızı değmez döşüne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amerikalı Belçikalı düşse peşine",
+        "Amerikalı Belçikalı düşse peşine",
+        "Bir ben kurban Alaçatı Kızı",
+        "Bir ben kurban Alaçatı Kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi haydi gidelim bizim odaya",
+        "Kollarını dola dola benim boynuma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ala%C3%A7at%C4%B1'da%20Bir%20Y%C3%A2r%20Sevdim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ala%C3%A7at%C4%B1'da%20Bir%20Y%C3%A2r%20Sevdim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Alaçatı'da Bir Yâr Sevdim",
+      "url": "https://tr.wikisource.org/wiki/Ala%C3%A7at%C4%B1'da_Bir_Y%C3%A2r_Sevdim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

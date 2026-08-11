@@ -1,0 +1,62 @@
+{
+  "slug": "aman-aman-jandarma",
+  "baslik": "Aman Aman Jandarma",
+  "yore": "İzmir",
+  "hikaye": "Aman Aman Jandarma, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of aman aman jandarma",
+        "Of aman aman jandarma",
+        "Her söze de aldanma",
+        "Her söze de aldanma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of faytona binelim",
+        "Of faytona binelim",
+        "Binelim Kordonda inelim",
+        "Binelim Kordonda inelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of aman aman Manisa",
+        "Of aman aman Manisa",
+        "Manisa yarim bana acısa",
+        "Manisa yarim bana acısa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aman%20Aman%20Jandarma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aman%20Aman%20Jandarma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aman Aman Jandarma",
+      "url": "https://tr.wikisource.org/wiki/Aman_Aman_Jandarma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

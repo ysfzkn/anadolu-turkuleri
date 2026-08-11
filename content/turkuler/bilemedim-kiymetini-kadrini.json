@@ -1,0 +1,71 @@
+{
+  "slug": "bilemedim-kiymetini-kadrini",
+  "baslik": "Bilemedim Kıymetini Kadrini",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Bilemedim Kıymetini Kadrini, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bilemedim kıymetini kadrini",
+        "Hata benim günah benim suç benim",
+        "Eliminen içtim aşkın zehrini",
+        "Hata benim günah benim suç benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kader aramıza çekti bir perde",
+        "Yoksulluk düşürdü çaresiz derde",
+        "Affetmem kendimi ulu mahşerde",
+        "Hata benim günah benim suç benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Körümüş gözlerim görmedim önü",
+        "Boşuna yormuşum eyvah ben beni",
+        "Bilirim göremem bir daha seni",
+        "Hata benim günah benim suç benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hüseyin'i yandırdın yar ataşlara",
+        "Daha sürme çekme kalem kaşlara",
+        "Vursam da başımı taştan taşlara",
+        "Hata benim günah benim suç benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bilemedim%20K%C4%B1ymetini%20Kadrini%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bilemedim%20K%C4%B1ymetini%20Kadrini",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bilemedim Kıymetini Kadrini",
+      "url": "https://tr.wikisource.org/wiki/Bilemedim_K%C4%B1ymetini_Kadrini",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

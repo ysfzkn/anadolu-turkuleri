@@ -1,0 +1,70 @@
+{
+  "slug": "degirmenin-bendine",
+  "baslik": "Değirmenin Bendine",
+  "yore": "Kırıkkale",
+  "hikaye": "Değirmenin Bendine, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmenin bendine,",
+        "Döner kendi kendine,",
+        "Yazık ettin a sevgilim",
+        "Hem bana hem kendine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "A güzelim bas gidelim yola gel yârim yola",
+        "Dola beyaz kollarını dola boynuma dola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda güllerim",
+        "Yaprağını yellerim",
+        "Konuşsanya sen yârim",
+        "Tutuldu mu dillerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden bakıyor",
+        "Açmış kitap okuyor",
+        "Güzel senin sevilerin",
+        "Can evimden yakıyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=De%C4%9Firmenin%20Bendine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/De%C4%9Firmenin%20Bendine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Değirmenin Bendine",
+      "url": "https://tr.wikisource.org/wiki/De%C4%9Firmenin_Bendine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

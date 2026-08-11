@@ -1,0 +1,73 @@
+{
+  "slug": "cay-icinde-dogme-tas",
+  "baslik": "Çay İçinde Döğme Taş",
+  "yore": "Diyarbakır",
+  "hikaye": "Çay İçinde Döğme Taş, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çay içinde döğme taş,",
+        "Gönlüm huni gözüm yaş.",
+        "Aklımı baştan aldı,",
+        "Orta boylu kalem kaş."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir mumdur iki mumdur üç mumdur,",
+        "Dört mumdur on dört mumdur.",
+        "Bana bir bade doldur,",
+        "Bu ne güzel düğündür ha ninnah,",
+        "Ha ninnah ha ninnah."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu küçe uzun küçe,",
+        "Küçeye serdim keçe.",
+        "Hak yoluna üç kurban,",
+        "Yar gele burdan geçe."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir mumdur iki mumdur üç mumdur,",
+        "Dört mumdur on dört mumdur.",
+        "Bana bir bade doldur,",
+        "Bu ne güzel düğündür ha ninnah,",
+        "Ha ninnah ha ninnah."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ay%20%C4%B0%C3%A7inde%20D%C3%B6%C4%9Fme%20Ta%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ay%20%C4%B0%C3%A7inde%20D%C3%B6%C4%9Fme%20Ta%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çay İçinde Döğme Taş",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ay_%C4%B0%C3%A7inde_D%C3%B6%C4%9Fme_Ta%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

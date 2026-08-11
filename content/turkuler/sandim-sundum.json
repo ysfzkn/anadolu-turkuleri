@@ -1,0 +1,85 @@
+{
+  "slug": "sandim-sundum",
+  "baslik": "Sandım Sundum",
+  "yore": "Mersin",
+  "hikaye": "Sandım Sundum, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "1)",
+        "Şu yamaçtan bir atlı çıktı",
+        "Ah ben ne bileyim",
+        "Emmim de oğlunu",
+        "Sandım sundum ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "2)",
+        "Bindirdiler ata",
+        "Ah ne bileyim ben",
+        "Gendi atımızı",
+        "Sandım sundum ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "3)",
+        "Diktiler de direği",
+        "Ah ne bileyim ben",
+        "Çadır da kuracak",
+        "Sandım sundum ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "4)",
+        "Altı ay sonra karnı şişti",
+        "Ah ne bileyim ben",
+        "Kabak ta yemiş",
+        "Sandım sundum ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "5)",
+        "Dokuz ay sonra bir şey çıktı",
+        "Ah ne bileyim ben",
+        "Tavşan da göceni",
+        "Sandım sundum ben"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sand%C4%B1m%20Sundum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sand%C4%B1m%20Sundum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sandım Sundum",
+      "url": "https://tr.wikisource.org/wiki/Sand%C4%B1m_Sundum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

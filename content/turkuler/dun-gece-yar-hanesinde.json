@@ -1,0 +1,68 @@
+{
+  "slug": "dun-gece-yar-hanesinde",
+  "baslik": "Dün Gece Yar Hanesinde",
+  "yore": "Erzurum",
+  "hikaye": "Dün Gece Yar Hanesinde, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Amman amman)",
+        "Dün gece yar hanesinde",
+        "Yastığım bir taş idi",
+        "Altım çamur üstüm yağmur",
+        "Gine gönlüm hoş idi",
+        "(amman amman)",
+        "Ben yandım seni bilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(amman amman) dağ ne kadar yüce olsa",
+        "Bir kenarı yol olur",
+        "Buna bayram günü derler",
+        "Dostla düşman bir olur",
+        "(amman amman)",
+        "Ben yandım seni bilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Amman amman) sen bugün nadan ile gezdin",
+        "Merak oldu bana sen bugün nadan ile gezdin",
+        "Merak oldu bana çeşmi mestimden bile süzdüm",
+        "Merak oldu bana (amman amman amman amman)",
+        "Ben yandım seni bilmem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=D%C3%BCn%20Gece%20Yar%20Hanesinde%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/D%C3%BCn%20Gece%20Yar%20Hanesinde",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dün Gece Yar Hanesinde",
+      "url": "https://tr.wikisource.org/wiki/D%C3%BCn_Gece_Yar_Hanesinde",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

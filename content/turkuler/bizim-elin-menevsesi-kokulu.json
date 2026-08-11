@@ -1,0 +1,62 @@
+{
+  "slug": "bizim-elin-menevsesi-kokulu",
+  "baslik": "Bizim Elin Menevşesi Kokulu",
+  "yore": "Malatya",
+  "hikaye": "Bizim Elin Menevşesi Kokulu, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim elin menevşesi kokulu",
+        "Yar geliyi çifte güller sokulu",
+        "Tarlalarda arpa buğday ekili",
+        "Kokar bahar günü gülü ellerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuşlar avaz eyler bülbüller öter",
+        "Açtığın yaralar sinemde yeter",
+        "Ayrılık çekerim ölümden beter",
+        "Varılmaz uzadı yolu ellerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meler koyun kuzuların arzular",
+        "Her taraftan ses veriyi yazılar",
+        "Bölük bölük yayılıyi kuzular",
+        "Meleşir sızılar dili ellerin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bizim%20Elin%20Menev%C5%9Fesi%20Kokulu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bizim%20Elin%20Menev%C5%9Fesi%20Kokulu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bizim Elin Menevşesi Kokulu",
+      "url": "https://tr.wikisource.org/wiki/Bizim_Elin_Menev%C5%9Fesi_Kokulu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

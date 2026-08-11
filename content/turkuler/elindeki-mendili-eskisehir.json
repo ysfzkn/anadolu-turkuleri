@@ -1,0 +1,80 @@
+{
+  "slug": "elindeki-mendili-eskisehir",
+  "baslik": "Elindeki Mendili",
+  "yore": "Eskişehir",
+  "hikaye": "Elindeki Mendili, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elindeki mendili",
+        "Yudur sevdiğim yudur",
+        "Gönül kimi severse",
+        "Dünya güzeli odur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilim lüle lüle",
+        "Ben düştüm gurbet ele",
+        "Yedi mendil eskittim",
+        "Gözyaşım sile sile"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bostan ektim bir evlek",
+        "Dadandı kara leylek",
+        "Leylek gözün kör olsun",
+        "Olacağız bir eylek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koca kapının üstü",
+        "Mendilim suya düştü",
+        "Mendilimi alırken",
+        "Gönlüm güzele düştü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yünlü çorabın koncu",
+        "Benim yârim oyuncu",
+        "Yârim mendil istiyor",
+        "Vermek boynumun borcu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elindeki%20Mendili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elindeki%20Mendili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elindeki Mendili (Eskişehir)",
+      "url": "https://tr.wikisource.org/wiki/Elindeki_Mendili_(Eski%C5%9Fehir)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

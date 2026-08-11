@@ -1,0 +1,68 @@
+{
+  "slug": "gidin-bulutlar-gidin",
+  "baslik": "Gidin Bulutlar Gidin",
+  "yore": "Kütahya",
+  "hikaye": "Gidin Bulutlar Gidin, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidin bulutlar gidin,",
+        "Yarime selâm edin...",
+        "Gel gel gel aman",
+        "Yarim uykuda ise,",
+        "Uykusun haram edin...",
+        "Ayle bir tanem ayle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gider isen uğurlar olsun,",
+        "Dağlar taslar yolun olsun...",
+        "Gel gel gel aman",
+        "Benden başka yar seversen,",
+        "İlâhi gözün kör olsun...",
+        "Ayle bir tanem ayle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyorum elveda,",
+        "Bu can yoluna feda...",
+        "Gel gel gel aman",
+        "Kavuşmadık yar olmaz,",
+        "Kavuştur beni huda...",
+        "Ayle bir tanem ayle"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gidin%20Bulutlar%20Gidin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gidin%20Bulutlar%20Gidin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gidin Bulutlar Gidin",
+      "url": "https://tr.wikisource.org/wiki/Gidin_Bulutlar_Gidin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "guzeller-de-donmus-yaylaya-gider",
+  "baslik": "Güzeller de Dönmüş Yaylaya Gider",
+  "yore": "Erzincan",
+  "hikaye": "Güzeller de Dönmüş Yaylaya Gider, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzellerde dönmüş yaylaya gider",
+        "İçlerinde biri yareler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardı sıra deste deste gül gider",
+        "Ellerinde güller pareler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çamurdere mil yazına yakındır",
+        "Ovasına gül ve çimen hakimdir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim komum düzeleğin miridir",
+        "İçlerinden biri yareler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çamurdere Piriz ile birleşir",
+        "İçlerinden biri yareler beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCzeller%20de%20D%C3%B6nm%C3%BC%C5%9F%20Yaylaya%20Gider%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCzeller%20de%20D%C3%B6nm%C3%BC%C5%9F%20Yaylaya%20Gider",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Güzeller de Dönmüş Yaylaya Gider",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BCzeller_de_D%C3%B6nm%C3%BC%C5%9F_Yaylaya_Gider",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

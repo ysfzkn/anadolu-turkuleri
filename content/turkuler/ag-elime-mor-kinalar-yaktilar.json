@@ -1,0 +1,62 @@
+{
+  "slug": "ag-elime-mor-kinalar-yaktilar",
+  "baslik": "Ağ Elime Mor Kınalar Yaktılar",
+  "yore": "Denizli",
+  "hikaye": "Ağ Elime Mor Kınalar Yaktılar, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağ elime mor kınalar yakdılar",
+        "Gaderim yok gurbetele saddılar",
+        "On iki yaşındı gelin etdiler",
+        "Ağlar ağlar göz yaşımı silerim of of"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Merdimenden endim endim yıkıldım",
+        "Mevlam izin verdi gine dikildim",
+        "Her çiçekten aldım aldım takındım",
+        "Gırmızı gül sende galdı tamahdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başındı n'asmalı pınar",
+        "Asması yıkılmış suları harlar",
+        "Galındı gal gal süpürgü çaldığım evler",
+        "Başım alıp gurbet ele giderim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9F%20Elime%20Mor%20K%C4%B1nalar%20Yakt%C4%B1lar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9F%20Elime%20Mor%20K%C4%B1nalar%20Yakt%C4%B1lar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağ Elime Mor Kınalar Yaktılar",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9F_Elime_Mor_K%C4%B1nalar_Yakt%C4%B1lar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

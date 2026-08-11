@@ -1,0 +1,92 @@
+{
+  "slug": "armudu-taslayalim-malatya",
+  "baslik": "Armudu Taşlayalım",
+  "yore": "Malatya",
+  "hikaye": "Armudu Taşlayalım, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armudu taşlıyalım",
+        "Altında kışlıyalım",
+        "Akşam oldu vakt'oldu",
+        "Eğlenceye başlıyalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey yallah yallah yallah",
+        "Hoppala yârim yaz geldi",
+        "Çarşıya kiraz geldi",
+        "Aldım beş okka kiraz",
+        "O da yâre az geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armudun altı kuyu",
+        "Uyu sevdiğim uyu",
+        "Ne çabuk serhoş oldun",
+        "İçtiğin üzüm suyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey yallah yallah yallah",
+        "Hoppala yârim yaz geldi",
+        "Çarşıya kiraz geldi",
+        "Aldım beş okka kiraz",
+        "O da yâre az geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armut dalda sallanır",
+        "Yere düşer ballanır",
+        "O yâr beni görünce",
+        "Hem güler hem nazlanır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey yallah yallah yallah",
+        "Hoppala yârim yaz geldi",
+        "Çarşıya kiraz geldi",
+        "Aldım beş okka kiraz",
+        "O da yâre az geldi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Armudu%20Ta%C5%9Flayal%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Armudu%20Ta%C5%9Flayal%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Armudu Taşlayalım",
+      "url": "https://tr.wikisource.org/wiki/Armudu_Ta%C5%9Flayal%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "atesim-yanmadan",
+  "baslik": "Ateşim Yanmadan",
+  "yore": "Hatay",
+  "hikaye": "Ateşim Yanmadan, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ateşim yanmadan tütünüm tüter (ah)",
+        "İrem bahçasında bülbülller öter",
+        "(Ey) bana bir iş oldu ölümden beter (ah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalmadı sabrı tahammül ağlarım hergün",
+        "Yarın hak divanında söylesem birgün"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Âşkın kemendini daktı boynuma (ah)",
+        "Felek komaz gidem kendi yoluma",
+        "Geyin urbaların gel gir koluma (ah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalmadı sabrı tahammül ağlarım hergün",
+        "Yarın hak divanında söylesem birgün"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ate%C5%9Fim%20Yanmadan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ate%C5%9Fim%20Yanmadan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ateşim Yanmadan",
+      "url": "https://tr.wikisource.org/wiki/Ate%C5%9Fim_Yanmadan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

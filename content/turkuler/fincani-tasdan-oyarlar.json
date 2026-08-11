@@ -1,0 +1,71 @@
+{
+  "slug": "fincani-tasdan-oyarlar",
+  "baslik": "Fincanı Taşdan Oyarlar",
+  "yore": "Eskişehir",
+  "hikaye": "Fincanı Taşdan Oyarlar, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanı taşdan oyarlar (amman)",
+        "İçine bade koyarlar",
+        "A kız bizi burda (da) duyarlar (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al kadeh ver bade",
+        "Dolduralım şişeyi",
+        "Kaldırın oynasın",
+        "Şu edalı Ayşe’yi",
+        "(Şu Bursalı Ayşe’yi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanın bir yanı pembe (amman)",
+        "Vallahi billahi gönlüm var sende",
+        "Ölürüm de ayrılamam var senden (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al kadeh ver bade",
+        "Dolduralım şişeyi",
+        "Kaldırın oynasın",
+        "Şu edalı Ayşe’yi",
+        "(Şu Bursalı Ayşe’yi)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fincan%C4%B1%20Ta%C5%9Fdan%20Oyarlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fincan%C4%B1%20Ta%C5%9Fdan%20Oyarlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fincanı Taşdan Oyarlar",
+      "url": "https://tr.wikisource.org/wiki/Fincan%C4%B1_Ta%C5%9Fdan_Oyarlar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

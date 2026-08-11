@@ -1,0 +1,88 @@
+{
+  "slug": "yaylanin-cimenine-kuzu-yayilir",
+  "baslik": "Yaylanın Çimenine Kuzu Yayılır",
+  "yore": "Trabzon",
+  "hikaye": "Yaylanın Çimenine Kuzu Yayılır, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylanın çimenine",
+        "Kuzu yayılır kuzu",
+        "Gün de bugünkü gündür",
+        "Sallan yosmanın kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman kızı çaçan kızı",
+        "Sen allar giy ben kırmızı",
+        "Çıkalım dağların başına",
+        "Sen gül yopla ben nergisi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmadan gel asmadan",
+        "Fistan giyer basmadan",
+        "Kalk gidelim sevdiğim",
+        "Devriyeler basmadan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman kızı çaçan kızı",
+        "Sen allar giy ben kırmızı",
+        "Çıkalım dağların başına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylanın çayırını",
+        "Tırbanla keseceğim",
+        "O soğuk sularından",
+        "Oturup içeceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylanın çayırını",
+        "Kestim kurutacağım",
+        "Siste kayboldu yârim",
+        "Ben nasıl bulacağım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yaylan%C4%B1n%20%C3%87imenine%20Kuzu%20Yay%C4%B1l%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yaylan%C4%B1n%20%C3%87imenine%20Kuzu%20Yay%C4%B1l%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaylanın Çimenine Kuzu Yayılır",
+      "url": "https://tr.wikisource.org/wiki/Yaylan%C4%B1n_%C3%87imenine_Kuzu_Yay%C4%B1l%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

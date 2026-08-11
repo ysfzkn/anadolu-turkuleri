@@ -1,0 +1,63 @@
+{
+  "slug": "aman-aman-nalbandim",
+  "baslik": "Aman Aman Nalbandım",
+  "yore": "Manisa",
+  "hikaye": "Aman Aman Nalbandım, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) aman aman nalbandım",
+        "(Nalbandım) saramadım aldandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) aman aman Menemen",
+        "(Menemen) ben bu işe gelemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) aman aman Bergama",
+        "(Bergama) kazan kazan ver bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) aman aman İzmir’im",
+        "(İzmir'im) alın beni gezdirin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aman%20Aman%20Nalband%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aman%20Aman%20Nalband%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aman Aman Nalbandım",
+      "url": "https://tr.wikisource.org/wiki/Aman_Aman_Nalband%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

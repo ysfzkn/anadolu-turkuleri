@@ -1,0 +1,81 @@
+{
+  "slug": "pinarin-basina-yagmaz-mi-dolu",
+  "baslik": "Pınarın Başına Yağmaz mı Dolu",
+  "yore": "Konya",
+  "hikaye": "Pınarın Başına Yağmaz mı Dolu, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başına yağmaz mı dolu,",
+        "Yarinden ayrılan olmaz mı deli.",
+        "Yarinden ayrılan olmaz mı deli."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Günde on beş kere gördüğüm yari,",
+        "Şimdi herşeylerden vazgeçti gönül.",
+        "Şimdi herşeylerden vazgeçti gönül."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ben yandım, şaşırdım kaldım,",
+        "Ellerin köyünde eğlendim kaldım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başında esmesin yeller,",
+        "Bugün efkârlıyım açmasın güller.",
+        "Bugün efkârlıyım açmasın güller."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yarimin methini etmesin eller,",
+        "Şimdi herşeylerden vazgeçti gönül.",
+        "Şimdi herşeylerden vazgeçti gönül."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman ben yandım, şaşırdım kaldım,",
+        "Ellerin köyünde eğlendim kaldım."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=P%C4%B1nar%C4%B1n%20Ba%C5%9F%C4%B1na%20Ya%C4%9Fmaz%20m%C4%B1%20Dolu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/P%C4%B1nar%C4%B1n%20Ba%C5%9F%C4%B1na%20Ya%C4%9Fmaz%20m%C4%B1%20Dolu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pınarın Başına Yağmaz mı Dolu",
+      "url": "https://tr.wikisource.org/wiki/P%C4%B1nar%C4%B1n_Ba%C5%9F%C4%B1na_Ya%C4%9Fmaz_m%C4%B1_Dolu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "elinde-sut-kulegi-kayseri",
+  "baslik": "Elinde Süt Küleği",
+  "yore": "Kayseri",
+  "hikaye": "Elinde Süt Küleği, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde süt küleği (of aman nazlı yar)",
+        "Sütden beyaz bileği (of aman nazlı yar)",
+        "Külek kulpun kırılsın (of aman nazlı yar)",
+        "Kırdın beyaz bileği (of aman nazlı yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte bulut uçuyor (of aman nazlı yar)",
+        "Ucu yağmur saçıyor (of aman nazlı yar)",
+        "Bıldırki sevdiklerim (of aman nazlı yar)",
+        "Bu yıl benden kaçıyor (of aman nazlı yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam başında dirgenlik (of aman nazlı yar)",
+        "Ne hoş olur ergenlik (of aman nazlı yar)",
+        "Ergenlikte yar sevmek (of aman nazlı yar)",
+        "O da bir bezirganlık (of aman nazlı yar)",
+        "Balınan bezirganlık (of aman nazlı yar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elinde%20S%C3%BCt%20K%C3%BCle%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elinde Süt Küleği (Kayseri)",
+      "url": "https://tr.wikisource.org/wiki/Elinde_S%C3%BCt_K%C3%BCle%C4%9Fi_(Kayseri)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

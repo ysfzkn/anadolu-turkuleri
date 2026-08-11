@@ -1,0 +1,65 @@
+{
+  "slug": "cabur-dagdan-kus-geliyor",
+  "baslik": "Cabur Dağdan Kuş Geliyor",
+  "yore": "Şanlıurfa",
+  "hikaye": "Cabur Dağdan Kuş Geliyor, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cabur Dağ’dan kuş geliyor",
+        "Mavzer sesi hoş geliyor",
+        "Bölük bölük giden asker",
+        "Geri dönmüş boş geliyor",
+        "Yazık oldu genç yaşına vayMemedim aslan MemedimMemedim civan MemedimDağlarda ceylan MemedimAğ demir Pulat Memedim vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cabur Dağ’ın mağarası",
+        "Şen olsun Urfa kalası",
+        "Bir yanını dert çürüttü",
+        "Bir yanı mavzer yarası",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cabur Dağ’da bağ olur mu?",
+        "Kara yazı ağ olur mu?",
+        "Bunca sene gurbet gezen,",
+        "Yüreğinde yağ olur mu?",
+        "NAKARAT"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cabur%20Da%C4%9Fdan%20Ku%C5%9F%20Geliyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cabur%20Da%C4%9Fdan%20Ku%C5%9F%20Geliyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cabur Dağdan Kuş Geliyor",
+      "url": "https://tr.wikisource.org/wiki/Cabur_Da%C4%9Fdan_Ku%C5%9F_Geliyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

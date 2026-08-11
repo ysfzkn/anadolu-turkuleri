@@ -1,0 +1,53 @@
+{
+  "slug": "deymen-benim-gamli-yasli-gonlume",
+  "baslik": "Deymen Benim Gamlı Yaslı Gönlüme",
+  "yore": "Tokat",
+  "hikaye": "Deymen Benim Gamlı Yaslı Gönlüme, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deymen benim gamlı yaslı gönlüme",
+        "Ben bir selvi boylu yârdan ayrıldım",
+        "Evvel bağban idim dostun bağında",
+        "Talan vurdu ayva nardan ayrıldım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turna gibi gökyüzünde dönende",
+        "Baykuş gibi viran yurda konanda",
+        "Çok ağladım ferhat gibi çöllerde",
+        "Ferhat gibi şirin yârdan ayrıldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Deymen%20Benim%20Gaml%C4%B1%20Yasl%C4%B1%20G%C3%B6nl%C3%BCme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Deymen%20Benim%20Gaml%C4%B1%20Yasl%C4%B1%20G%C3%B6nl%C3%BCme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Deymen Benim Gamlı Yaslı Gönlüme",
+      "url": "https://tr.wikisource.org/wiki/Deymen_Benim_Gaml%C4%B1_Yasl%C4%B1_G%C3%B6nl%C3%BCme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

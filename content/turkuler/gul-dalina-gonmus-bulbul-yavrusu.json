@@ -1,0 +1,53 @@
+{
+  "slug": "gul-dalina-gonmus-bulbul-yavrusu",
+  "baslik": "Gül Dalına Gonmuş Bülbül Yavrusu",
+  "yore": "Malatya",
+  "hikaye": "Gül Dalına Gonmuş Bülbül Yavrusu, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül dalına gonmuş bülbül yavrusu (ölem yavrusu)",
+        "Ben o yare dayanamam doğrusu (gün akşam akşam yare kavuşam)",
+        "Ne dedim de anan ile babana (ölem babana)",
+        "Seni bana vermiyorlar doğrusu (meri kekliğim yolun beklerim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başında yosunlu taşlar (ölem oy taşlar)",
+        "Yara haber verin gökteki kuşlar (meri kekliğim yolun beklerim)",
+        "Söyleyin o yara yazmasın mektup (ölem oy mektup)",
+        "Kapanan yaralar yeniden başlar (dağlardan aşam yare kavuşam)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCl%20Dal%C4%B1na%20Gonmu%C5%9F%20B%C3%BClb%C3%BCl%20Yavrusu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCl%20Dal%C4%B1na%20Gonmu%C5%9F%20B%C3%BClb%C3%BCl%20Yavrusu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gül Dalına Gonmuş Bülbül Yavrusu",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BCl_Dal%C4%B1na_Gonmu%C5%9F_B%C3%BClb%C3%BCl_Yavrusu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

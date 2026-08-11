@@ -1,0 +1,86 @@
+{
+  "slug": "gemilerde-talim-var",
+  "baslik": "Gemilerde Talim Var",
+  "yore": "İstanbul",
+  "hikaye": "Gemilerde Talim Var, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemilerde talim var",
+        "Bahriyeli yârim var",
+        "O da gitti sefere",
+        "Ne talihsiz başım var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hani benim Recep’im Recep’im",
+        "Sarı lira vereceğim",
+        "Almazsa karakola gideceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemi gelir yanaşır",
+        "İçi dolu çamaşır",
+        "Şu İstanbul’un kızları",
+        "Recep diye ağlaşır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hani benim Recep’im Recep’im",
+        "Sarı lira vereceğim",
+        "Almazsa karakola gideceğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi giyme tanırlar",
+        "Seni yolcu sanırlar",
+        "Geçme kapım önünden",
+        "Seni benden alırlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hani benim Recep’im Recep’im",
+        "Sarı lira vereceğim",
+        "Almazsa karakola gideceğim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gemilerde%20Talim%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gemilerde%20Talim%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gemilerde Talim Var",
+      "url": "https://tr.wikisource.org/wiki/Gemilerde_Talim_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

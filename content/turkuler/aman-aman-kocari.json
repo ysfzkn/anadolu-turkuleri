@@ -1,0 +1,93 @@
+{
+  "slug": "aman-aman-kocari",
+  "baslik": "Aman Aman Koçari",
+  "yore": "Batman",
+  "hikaye": "Aman Aman Koçari, Vikikaynak'ın Batman türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Batman yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman koçari",
+        "Keman kaşın sürmeli",
+        "Aman aman koçari",
+        "Keman kaşın sürmeli",
+        "Yar seni nasıl sevmeli",
+        "Yar seni nasıl sevmeli",
+        "Baban seni bana vermeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman aman",
+        "Amam aman aman aman aman koçari"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük elinde",
+        "Gümüş kemer belinde",
+        "Kemer olsam belinde",
+        "Tatlı kelam dilinde",
+        "Bir çift kelam et bana",
+        "Bir çift kelam et bana",
+        "Bal akıyor dilinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman aman",
+        "Amam aman aman aman aman koçari"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak güvercin olaydım",
+        "Pencerene konaydım",
+        "Ak güvercin olaydım",
+        "Pencerene konaydım",
+        "Penceren de pek yüksek",
+        "Penceren de pek yüksek",
+        "Yar eline konaydım",
+        "Yar dizine konaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman aman",
+        "Amam aman aman aman aman koçari"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aman%20Aman%20Ko%C3%A7ari%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aman%20Aman%20Ko%C3%A7ari",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aman Aman Koçari",
+      "url": "https://tr.wikisource.org/wiki/Aman_Aman_Ko%C3%A7ari",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Batman",
+    "anonim",
+    "açık arşiv"
+  ]
+}

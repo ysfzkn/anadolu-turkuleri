@@ -1,0 +1,62 @@
+{
+  "slug": "dama-cikma-iz-olur",
+  "baslik": "Dama Çıkma İz Olur",
+  "yore": "Gaziantep",
+  "hikaye": "Dama Çıkma İz Olur, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama çıkma iz olur (emm'oğlu)",
+        "Çuha şalvar toz olur (emm'oğlu)",
+        "Gündüz gelme gece gel (emm'oğlu)",
+        "Komşularda söz olur (emm'oğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin ardı bostan (emm'oğlu)",
+        "Yıkılsın bu gülistan (emm'oğlu)",
+        "Benim sevdiğim yarim (emm'oğlu)",
+        "Giyinir gezer fistan (emm'oğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama çıkma üşürsün (emm'oğlu)",
+        "Gözellikte menşursun (emm'oğlu)",
+        "Ne de kötü huyun var (emm'oğlu)",
+        "Yadınan gonuşursun (emm'oğlu)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dama%20%C3%87%C4%B1kma%20%C4%B0z%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dama%20%C3%87%C4%B1kma%20%C4%B0z%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dama Çıkma İz Olur",
+      "url": "https://tr.wikisource.org/wiki/Dama_%C3%87%C4%B1kma_%C4%B0z_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

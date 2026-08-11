@@ -1,0 +1,78 @@
+{
+  "slug": "armuttan-kayacagim",
+  "baslik": "Armuttan Kayacağım",
+  "yore": "Tokat",
+  "hikaye": "Armuttan Kayacağım, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armuttan kayacağım",
+        "Sallan gel bakacağım",
+        "Yarime nazar değmiş",
+        "Nazarlık takacağım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah niçin niçin de niçin",
+        "Ah niçin hanım canım niçin",
+        "Öldüm yar yar senin için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armut dalda bir sıra",
+        "Yarim gitti Mısır'a",
+        "Koyun olsam yayılsam",
+        "Yarimin ardı sıra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah niçin niçin de niçin",
+        "Ah niçin hanım canım niçin",
+        "Öldüm yar yar senin için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armut koydum sepede",
+        "Yari gördüm tepede",
+        "Öyle bir yar sevdim ki",
+        "Şan olsun memlekete"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Armuttan%20Kayaca%C4%9F%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Armuttan%20Kayaca%C4%9F%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Armuttan Kayacağım",
+      "url": "https://tr.wikisource.org/wiki/Armuttan_Kayaca%C4%9F%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "acem-kizi",
+  "baslik": "Acem Kızı",
+  "yore": "Kırşehir",
+  "hikaye": "Acem Kızı, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çırpınıp da şan ovaya çıkınca",
+        "Eğlen şan ovada gal acem gızı.",
+        "Uğrun uğrun gaş altından bakınca",
+        "Can telef ediyor gül acem gızı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seni seven oğlan neylesin malı,",
+        "Yumdukça gözünden döker mercanı.",
+        "Burun fındık ağzı gahve fincanı,",
+        "Şeker mi, şerbet mi bal acem gızı."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Acem%20K%C4%B1z%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Acem%20K%C4%B1z%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Acem Kızı",
+      "url": "https://tr.wikisource.org/wiki/Acem_K%C4%B1z%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

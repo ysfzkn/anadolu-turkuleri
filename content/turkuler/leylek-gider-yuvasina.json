@@ -1,0 +1,80 @@
+{
+  "slug": "leylek-gider-yuvasina",
+  "baslik": "Leylek Gider Yuvasına",
+  "yore": "Isparta",
+  "hikaye": "Leylek Gider Yuvasına, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylek gider yuvasına",
+        "İner gider ovasına",
+        "Haber edin dayısına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız dayısız gelin mi olur",
+        "Gız emmisiz düğün mü olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atladı geçti eşiği",
+        "Sofrada galdı gaşığı",
+        "Büyük evin yakışığı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız dayısız gelin mi olur",
+        "Gız emmisiz düğün mü olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Biner atın eyisine",
+        "Haber edin ninesine",
+        "Gönül verdi güveysine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız dayısız gelin mi olur",
+        "Gız emmisiz düğün mü olur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Leylek%20Gider%20Yuvas%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Leylek%20Gider%20Yuvas%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Leylek Gider Yuvasına",
+      "url": "https://tr.wikisource.org/wiki/Leylek_Gider_Yuvas%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "aglarim-icin-icin",
+  "baslik": "Ağlarım İçin İçin",
+  "yore": "Şanlıurfa",
+  "hikaye": "Ağlarım İçin İçin, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlarım için için (zalım zalım zalım ey)",
+        "Giderim o yar için (zalım zalım zalım ey)",
+        "Hem gider hem ağlarım (zalım zalım zalım ey)",
+        "Bilmem bu dert ne için (zalım zalım zalım ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Masa üstünde yaldız (zalım zalım zalım ey)",
+        "Hoş geldin küçük baldız (zalım zalım zalım ey)",
+        "Sen git de ablan gelsin (zalım zalım zalım ey)",
+        "Ben kalmısam yalnız (zalım zalım zalım ey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüzüğüm kaşı elmas (zalım zalım zalım ey)",
+        "Suya düşer bulunmaz (zalım zalım zalım ey)",
+        "Genç ömrüm heder etsem (zalım zalım zalım ey)",
+        "El kızıdır inanmaz (zalım zalım zalım ey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Flar%C4%B1m%20%C4%B0%C3%A7in%20%C4%B0%C3%A7in%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Flar%C4%B1m%20%C4%B0%C3%A7in%20%C4%B0%C3%A7in",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağlarım İçin İçin",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Flar%C4%B1m_%C4%B0%C3%A7in_%C4%B0%C3%A7in",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

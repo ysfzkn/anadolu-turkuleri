@@ -1,0 +1,53 @@
+{
+  "slug": "diyarbakir-bu-mudur",
+  "baslik": "Diyarbakır Bu mudur?",
+  "yore": "Şanlıurfa",
+  "hikaye": "Diyarbakır Bu mudur?, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbekir bu mudur elleri kınalı",
+        "Desti dolu su mudur gözleri sürmeli",
+        "Gettin ki tez gelesin elleri kınalı",
+        "Tez geldiğin bu mudur gözleri sürmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbekir dört köşe elleri kınalı",
+        "İçinde billur şüşe gözleri sürmeli",
+        "Beni yardan edenin elleri kınalı",
+        "Evine şivan düşe gözleri sürmeli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Diyarbak%C4%B1r%20Bu%20mudur%3F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Diyarbak%C4%B1r%20Bu%20mudur%3F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Diyarbakır Bu mudur?",
+      "url": "https://tr.wikisource.org/wiki/Diyarbak%C4%B1r_Bu_mudur%3F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

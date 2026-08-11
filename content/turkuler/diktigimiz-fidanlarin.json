@@ -1,0 +1,83 @@
+{
+  "slug": "diktigimiz-fidanlarin",
+  "baslik": "Diktiğimiz Fidanların",
+  "yore": "Şanlıurfa",
+  "hikaye": "Diktiğimiz Fidanların, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diktiğimiz fidanların",
+        "Meyvasını yiyemedik",
+        "Ne suçu vardı onların",
+        "Dur be zalim diyemedik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sana ne bana ne hep diye diye",
+        "Böylece yem olduk ağaya beye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabip yaramı azdırdı",
+        "Tatlı canımdan bezdirdi",
+        "Beni bir yarin sevdası",
+        "Diyar be diyar gezdirdi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanmışam kör cahil dostun elinden",
+        "Bıkmış usanmışam acı dilinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Der divani senlik benlik",
+        "Bizi yıkan bu cahillik",
+        "El ele gönül gönüle",
+        "Verelim olalım birlik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yolcu yola gitmez yola bahane",
+        "Bundan kula sultana ne şahane"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dikti%C4%9Fimiz%20Fidanlar%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dikti%C4%9Fimiz%20Fidanlar%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Diktiğimiz Fidanların",
+      "url": "https://tr.wikisource.org/wiki/Dikti%C4%9Fimiz_Fidanlar%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

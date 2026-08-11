@@ -1,0 +1,52 @@
+{
+  "slug": "kusturdum-barisamam",
+  "baslik": "Küstürdüm Barışamam",
+  "yore": "Erzincan",
+  "hikaye": "Küstürdüm Barışamam, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küstürdüm barışamam",
+        "Ayrıldım kavuşamam",
+        "Göz açtım seni gördüm",
+        "Yad ile konuşamam",
+        "Dert bende kara bende",
+        "Eylenmez yare bende",
+        "Yuvasız kuşlar gibi",
+        "Olmuşum perakende",
+        "Dağların ensesine",
+        "Uyandım yâr sesine",
+        "Yâr kekliktir ben avcı",
+        "Düşmüşüm ensesine"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C3%BCst%C3%BCrd%C3%BCm%20Bar%C4%B1%C5%9Famam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C3%BCst%C3%BCrd%C3%BCm%20Bar%C4%B1%C5%9Famam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Küstürdüm Barışamam",
+      "url": "https://tr.wikisource.org/wiki/K%C3%BCst%C3%BCrd%C3%BCm_Bar%C4%B1%C5%9Famam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

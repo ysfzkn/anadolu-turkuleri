@@ -1,0 +1,71 @@
+{
+  "slug": "yaylalarda-uc-atim-var-binilir",
+  "baslik": "Yaylalarda Üç Atım Var Binilir",
+  "yore": "Kars",
+  "hikaye": "Yaylalarda Üç Atım Var Binilir, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda üç atım var binilir",
+        "Biri aldır biri dordur kir da var (Türkmen kızı)",
+        "Alı sana doru ona kir bana",
+        "Kir da size yar ban a Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda üç yemek var yeyilir",
+        "Biri etli biri sütlü bal da var (Türkmen kızı)",
+        "Etli sana sütlü ona bal bana",
+        "Bal da size yar bana Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şehirlerde üç kumaş var geyillr",
+        "Biri kutnu biri kumaş şal da var (Türkmen kızı)",
+        "Kutnu sana kumaş ona şal bana",
+        "Şal da size yar bana Türkmen kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda üç meyve var yeyilir",
+        "Biri elma biri ayva nar da var (Türkmen kızı)",
+        "Elma sana ayva ona nar bana",
+        "Nar da size yar bana Türkmen kızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yaylalarda%20%C3%9C%C3%A7%20At%C4%B1m%20Var%20Binilir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yaylalarda%20%C3%9C%C3%A7%20At%C4%B1m%20Var%20Binilir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaylalarda Üç Atım Var Binilir",
+      "url": "https://tr.wikisource.org/wiki/Yaylalarda_%C3%9C%C3%A7_At%C4%B1m_Var_Binilir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

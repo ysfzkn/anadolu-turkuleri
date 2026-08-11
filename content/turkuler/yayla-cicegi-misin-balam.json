@@ -1,0 +1,52 @@
+{
+  "slug": "yayla-cicegi-misin-balam",
+  "baslik": "Yayla Çiçeği misin Balam",
+  "yore": "Tokat",
+  "hikaye": "Yayla Çiçeği misin Balam, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yayla çiçeği misin balam",
+        "Yuvarlan da gel bana",
+        "Gelin misin kız mısın da",
+        "Vurulacağım sana",
+        "::Hop nina ninanay ninay da nininay",
+        "::Yana nina ninanay ninana nay",
+        "::Hop nina ninanay nina nininay",
+        "::Yavrum ninna ninanay nini naynay",
+        "::Yaylaların yoğurdu balam",
+        "Yaylaların yoğurdu balam",
+        "Seni kimler doğurdu",
+        "Seni doğuran ana da"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yayla%20%C3%87i%C3%A7e%C4%9Fi%20misin%20Balam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yayla%20%C3%87i%C3%A7e%C4%9Fi%20misin%20Balam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yayla Çiçeği misin Balam",
+      "url": "https://tr.wikisource.org/wiki/Yayla_%C3%87i%C3%A7e%C4%9Fi_misin_Balam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

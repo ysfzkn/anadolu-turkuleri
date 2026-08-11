@@ -1,0 +1,65 @@
+{
+  "slug": "depekoy-ustune-tufeng-asayim",
+  "baslik": "Depeköy Üstüne Tüfeng Asayım",
+  "yore": "Kütahya",
+  "hikaye": "Depeköy Üstüne Tüfeng Asayım, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Depeköy üstüne tüfeng asayım (aman aman)",
+        "Allahtan gelene kimlere küseyim",
+        "Efelerin başı hasan hüseyin (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da beyler aman aman avdan geldim yorgunum ey",
+        "Genç yaşımda aman bir güzele vurgunum ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hamamdanmı çıktın ey gara kaşlı",
+        "Yardan mı ayrıldın gözlerin yaşlı",
+        "Yüzükler yaptırdım cevahir taşlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da beyler aman aman avdan geldim yorgunum ey",
+        "Genç yaşımda aman bir güzele vurgunum ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Depek%C3%B6y%20%C3%9Cst%C3%BCne%20T%C3%BCfeng%20Asay%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Depek%C3%B6y%20%C3%9Cst%C3%BCne%20T%C3%BCfeng%20Asay%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Depeköy Üstüne Tüfeng Asayım",
+      "url": "https://tr.wikisource.org/wiki/Depek%C3%B6y_%C3%9Cst%C3%BCne_T%C3%BCfeng_Asay%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

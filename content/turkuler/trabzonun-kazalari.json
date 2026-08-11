@@ -1,0 +1,107 @@
+{
+  "slug": "trabzonun-kazalari",
+  "baslik": "Trabzon'un Kazaları",
+  "yore": "Trabzon",
+  "hikaye": "Trabzon'un Kazaları, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Trabzon'un kazaları",
+        "On danedir on dane",
+        "Birer birer sayayım",
+        "Sizlere dane dane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vakfıkebir böyük yer",
+        "Tonya ondan ayrılma",
+        "Sana da geleceğim",
+        "Akçaabad'ım darılma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akçaabad gazinosu",
+        "Orda bir akşam galdım",
+        "Yavaş yavaş sayilden (sahilden)",
+        "Tırabzon'a yollandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Trabzon'un içini",
+        "Yaya gezeyim yaya",
+        "Sülüklü'den okari (yukarı)",
+        "Vurdum çıkdım Maçka'ya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maçka mapushanesi",
+        "İki dağın arası",
+        "Turisten geçilmeyi",
+        "Maçka Meyrem Ara'sı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ordan ben geri döndüm",
+        "Tırabzon'a aşağa",
+        "Mevlam sabırlar versin",
+        "Şu Maçkalı uşağa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derin hocalar çıkar",
+        "Of ile Çaykara'dan",
+        "Hey Allah'ım ayırma",
+        "Bizi Müslümanlıktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sürmene'nin kamasın",
+        "Gören uşak gaçayı",
+        "Arsin'in bağlarında",
+        "Pembe güller açayı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Trabzon'un%20Kazalar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Trabzon'un%20Kazalar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Trabzon'un Kazaları",
+      "url": "https://tr.wikisource.org/wiki/Trabzon'un_Kazalar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

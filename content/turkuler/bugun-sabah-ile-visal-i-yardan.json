@@ -1,0 +1,98 @@
+{
+  "slug": "bugun-sabah-ile-visal-i-yardan",
+  "baslik": "Bugün Sabah İle Visal-i Yardan",
+  "yore": "Erzurum",
+  "hikaye": "Bugün Sabah İle Visal-i Yardan, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün sabah ile visal-i yârdan",
+        "Bana bir haber var inceden ince",
+        "Ol zülf-i zertârî hayâl-i yârdan",
+        "Bir bûy-ı eser var inceden ince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olmak ister isen muhabbet pezir",
+        "Zencir-i hevâya gel olma esir",
+        "Eğer aşığısan gel şu bezme gir",
+        "Gör bah ki neler var inceden ince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey Emrah aldanma sen bu lâ'neye",
+        "Düşme dâr-ı dehre, şu dendâneye",
+        "Kulbe-i ahzân derler bu gam hâneye",
+        "Er bah ki neler var inceden ince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün sabah bana, yâre kavuşma haberleri geldi, inceden ince, sır yüklü.",
+        "Altın sırma zülüflü yârimin hayâlinden inceden ince bir koku izi, alâmeti var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muhabbet ehli, muhabbet sahibi olmak istiyorsan, nefsinin arzu ve istek zincirinden kurtul, ona esir olma.",
+        "Eğer âşka kabiliyetli isen, gel şu sohbet, muhabbet meclisine gir de gör bak inceden ince neler neler var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey Emrah bu lânetlenmiş yere aldanma, bu dünya evine, bu zaman yurduna düşme, bu çarka düşme.",
+        "Bu gâm hâneye hüzün evi derler, olgunlaş, kavuş da bak, o zaman göreceksin, inceden ince neler var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İkinci mısra ise hemen hemen her yerde; \"Düşme dâr-ı dehre sunan dâneye\" şeklinde geçmektedir. Bu şekilde olunca bir anlam vermek pek mümkün görünmüyor. \"Sunan dâne\" ne demek? Belki \"su, nân, dâne'ye\" şeklinde alınırsa, o zaman mısranın anlamı şöyle olur:",
+        "\"Bu dünya evine, bu zaman yurduna, suya, nân'a (ekmeğe), dâneye (tohum'a) düşme\"",
+        "Allahu 'âlem."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "zertar: altın sırma",
+        "(zer: “altın” ve tār: “tel, iplik” ile zertār) (Tel için): Altından olan, altın sırma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Sabah%20%C4%B0le%20Visal-i%20Yardan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Sabah%20%C4%B0le%20Visal-i%20Yardan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Sabah İle Visal-i Yardan",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Sabah_%C4%B0le_Visal-i_Yardan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "geleneksel",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "her-nereye-baksam-yuzun-gorunur",
+  "baslik": "Her Nereye Baksam Yüzün Görünür",
+  "yore": "Diyarbakır",
+  "hikaye": "Her Nereye Baksam Yüzün Görünür, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Her nereye baksam yüzün görünür",
+        "Gönül ateş alır duman bürünür",
+        "Her nereye baksam yüzün görünür",
+        "Gönül ateş alır duman bürünür",
+        "Uzundur saçlarım yerde sürünür",
+        "Allı gelin seni eller mi aldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sözlerin nerede kaldı",
+        "Gözlerin uykuya daldı",
+        "Seni başka kollar sardı",
+        "Gelin seni eller mi aldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sensiz bu dünyada malı nedeyim",
+        "Başım alıp diyar diyar gideyim",
+        "Sensiz bu dünyada malı nedeyim",
+        "Başım alıp diyar diyar gideyim",
+        "Halımdan bilen yok nasıl edeyim",
+        "Allı gelin seni eller mi aldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sözlerin nerede kaldı",
+        "Gözlerin uykuya daldı",
+        "Seni başka kollar sardı",
+        "Gelin seni eller mi aldı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Her%20Nereye%20Baksam%20Y%C3%BCz%C3%BCn%20G%C3%B6r%C3%BCn%C3%BCr%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Her%20Nereye%20Baksam%20Y%C3%BCz%C3%BCn%20G%C3%B6r%C3%BCn%C3%BCr",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Her Nereye Baksam Yüzün Görünür",
+      "url": "https://tr.wikisource.org/wiki/Her_Nereye_Baksam_Y%C3%BCz%C3%BCn_G%C3%B6r%C3%BCn%C3%BCr",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

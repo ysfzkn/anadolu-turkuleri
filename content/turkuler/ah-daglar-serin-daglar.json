@@ -1,0 +1,107 @@
+{
+  "slug": "ah-daglar-serin-daglar",
+  "baslik": "Ah Dağlar Serin Dağlar",
+  "yore": "Trabzon",
+  "hikaye": "Ah Dağlar Serin Dağlar, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dağlar serin dağlar",
+        "Kuzular meler ağlar",
+        "Dost aklıma gelende",
+        "Yanar yüreğim sızlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar vuruldum vuruldum",
+        "Senin kara kaşına",
+        "Ne yazılar yazılmış",
+        "Ha bu garip başıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan el eyleme",
+        "Yar beni del'eyleme",
+        "Öldürürsen sen öldür",
+        "Kötüye kul eyleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar vuruldum vuruldum",
+        "Senin kara kaşına",
+        "Ne yazılar yazılmış",
+        "Ha bu garip başıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koyun kuzu yayılır",
+        "Yaylanın beleninden",
+        "Nedir bu çektiklerim",
+        "Şu feleğin elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar vuruldum vuruldum",
+        "Senin kara kaşına",
+        "Ne yazılar yazılmış",
+        "Ha bu garip başıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meler kuzular meler",
+        "Yüreklerimi deler",
+        "Uzaklaştım sıladan",
+        "Hep düşmanlarım güler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar vuruldum vuruldum",
+        "Senin kara kaşına",
+        "Ne yazılar yazılmış",
+        "Ha bu garip başıma"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Da%C4%9Flar%20Serin%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Da%C4%9Flar%20Serin%20Da%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Dağlar Serin Dağlar",
+      "url": "https://tr.wikisource.org/wiki/Ah_Da%C4%9Flar_Serin_Da%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

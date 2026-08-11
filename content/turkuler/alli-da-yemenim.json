@@ -1,0 +1,91 @@
+{
+  "slug": "alli-da-yemenim",
+  "baslik": "Allı da Yemenim",
+  "yore": "Gaziantep",
+  "hikaye": "Allı da Yemenim, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allı da yemenim şina nini nay",
+        "Pullu da yemenim nay nini nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenimin yeşili",
+        "Ben kaybettim eşimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allı da yemenim şina nini nay",
+        "Pullu da yemenim nay nini nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenim sende dursun",
+        "Sil gözünün yaşını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allı da yemenim şina nini nay",
+        "Pullu da yemenim nay nini nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yemenim yele gele",
+        "Ben düştüm gurbet ele"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allı da yemenim şina nini nay",
+        "Pullu da yemenim nay nini nay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yedi mendil çürüttüm",
+        "Gözyaşım sile sile"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=All%C4%B1%20da%20Yemenim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/All%C4%B1%20da%20Yemenim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Allı da Yemenim",
+      "url": "https://tr.wikisource.org/wiki/All%C4%B1_da_Yemenim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

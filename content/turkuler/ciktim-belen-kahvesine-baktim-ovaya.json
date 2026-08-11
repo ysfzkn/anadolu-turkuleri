@@ -1,0 +1,65 @@
+{
+  "slug": "ciktim-belen-kahvesine-baktim-ovaya",
+  "baslik": "Çıktım Belen Kahvesine Baktım Ovaya",
+  "yore": "Muğla",
+  "hikaye": "Çıktım Belen Kahvesine Baktım Ovaya, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım Belen kahvesine baktım ovaya, baktım ovaya",
+        "Bay Mustafa çağırdı, dam’oynamaya,",
+        "Ormancı da gelir gelmez, yıkar masayı, yıkar masayı",
+        "Söz anlamaz Ormancı, çekmiş kafayı",
+        "Aman Ormancı, canım OrmancıKöyümüze bıraktın yoktan bir acı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geneves’in suları hoştur içmeye, hoştur içmeye",
+        "İçinde köprüsü var gelip geçmeye",
+        "Tevfik'imi vurdular, hiç mi hiçine, hiç mi hiçine",
+        "Yazık ettin Ormancı, köyün iki gencine",
+        "Aman Ormancı, canım OrmancıKöyümüze bıraktın yoktan bir acı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geneves’in (Gireniz’in) ortasında değirmen döner, değirmen döner",
+        "Değirmenin suları dağından iner",
+        "Ormancıya (Mustafa’ya) atılan kurşun Tevfik’e değer, Tevfik’e değer,",
+        "Tevfik’imin acıları yürekler deler",
+        "Aman Ormancı, canım OrmancıKöyümüze bıraktın yoktan bir acı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87%C4%B1kt%C4%B1m%20Belen%20Kahvesine%20Bakt%C4%B1m%20Ovaya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87%C4%B1kt%C4%B1m%20Belen%20Kahvesine%20Bakt%C4%B1m%20Ovaya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çıktım Belen Kahvesine Baktım Ovaya",
+      "url": "https://tr.wikisource.org/wiki/%C3%87%C4%B1kt%C4%B1m_Belen_Kahvesine_Bakt%C4%B1m_Ovaya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

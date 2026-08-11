@@ -1,0 +1,92 @@
+{
+  "slug": "yabandan-gel",
+  "baslik": "Yabandan Gel",
+  "yore": "Niğde",
+  "hikaye": "Yabandan Gel, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman yörü yörü",
+        "Çapraz yörü yörü",
+        "Kostak yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman yörü yörü",
+        "Çapraz yörü yörü",
+        "Kostak yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman yörü yörü",
+        "Çapraz yörü yörü",
+        "Kostak yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman yörü yörü",
+        "Çapraz yörü yörü",
+        "Kostak yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman yörü yörü",
+        "Çapraz yörü yörü",
+        "Kostak yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirin yörü yörü",
+        "Tek tek yörü yörü",
+        "Bebek yörü yörü",
+        "Kostak yörü yörü",
+        "Usul yörü yörü",
+        "Güzel yörü yörü",
+        "Yörü yörü yörü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yabandan%20Gel%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yabandan%20Gel",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yabandan Gel",
+      "url": "https://tr.wikisource.org/wiki/Yabandan_Gel",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Niğde",
+    "anonim",
+    "açık arşiv"
+  ]
+}

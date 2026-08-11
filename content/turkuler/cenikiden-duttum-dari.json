@@ -1,0 +1,73 @@
+{
+  "slug": "cenikiden-duttum-dari",
+  "baslik": "Cenikiden Duttum Darı",
+  "yore": "Ordu",
+  "hikaye": "Cenikiden Duttum Darı, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cenikiden duttum darı (hap dini nam dina nina nina nam)",
+        "Bindiğim atim doru (yar nina nam nina nina nam)",
+        "Tekkirez’e gelincek (hop nina nam nina nina nam)",
+        "Vallah şaşırdım yolu (yar nina nam nina nina nam)",
+        "Billah şaşırdım yolu (hop nina nam nina nina nam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop dini nam dina nina nina nam",
+        "Yar nina nam nina nina nina nam",
+        "Hop dini nam dina nina nina nina nam",
+        "Yar nina nam nina nina nina nina nam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilden bohçası var (hap dini nam dina nina nina nam)",
+        "Bir zalım kocası var (yar nina nam nina nina nam)",
+        "Kız mendil mendil mendil (hop nina nam nina nina nam)",
+        "Kaldır kolların indir (yar nina nam nina nina nam)",
+        "At boynuma dolan dır (hop dini nam dina nina nina nam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop dini nam dina nina nina nam",
+        "Yar nina nam nina nina nina nam",
+        "Hop dini nam dina nina nina nina nam",
+        "Yar nina nam nina nina nina nina nam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cenikiden%20Duttum%20Dar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cenikiden%20Duttum%20Dar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cenikiden Duttum Darı",
+      "url": "https://tr.wikisource.org/wiki/Cenikiden_Duttum_Dar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ordu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

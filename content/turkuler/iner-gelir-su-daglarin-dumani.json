@@ -1,0 +1,65 @@
+{
+  "slug": "iner-gelir-su-daglarin-dumani",
+  "baslik": "İner Gelir Şu Dağların Dumanı",
+  "yore": "Eskişehir",
+  "hikaye": "İner Gelir Şu Dağların Dumanı, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İner gelir şu dağların dumanı",
+        "Hiç kalmamış güzellerin imanı",
+        "Şimdi geldi yar sevmenin zamanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelir geçer ak elleri kınalı vay vay sürmeli meleğim vay vay",
+        "Kurbanın olayım vay hayda anam yoluna da öleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağzında dişleri inciden aktır",
+        "Güzeller içinde emsalin yoktur",
+        "Güzeli gösteren göz ile kaştır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelir geçer ak elleri kınalı vay vay sürmeli meleğim vay vay",
+        "Kurbanın olayım vay hayda anam yoluna da öleyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ner%20Gelir%20%C5%9Eu%20Da%C4%9Flar%C4%B1n%20Duman%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ner%20Gelir%20%C5%9Eu%20Da%C4%9Flar%C4%B1n%20Duman%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İner Gelir Şu Dağların Dumanı",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ner_Gelir_%C5%9Eu_Da%C4%9Flar%C4%B1n_Duman%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

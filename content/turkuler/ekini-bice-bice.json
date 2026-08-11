@@ -1,0 +1,62 @@
+{
+  "slug": "ekini-bice-bice",
+  "baslik": "Ekini Biçe Biçe",
+  "yore": "Ordu",
+  "hikaye": "Ekini Biçe Biçe, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekini biçe biçe",
+        "Bulamadım ucunu",
+        "Dahasını söylemem",
+        "Anşa bilir suçunu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekini biçe biçe",
+        "Ağrıdı bileklerim",
+        "Çok yalvardım Allaha",
+        "Olmadı dileklerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin biçtim göğüdü",
+        "Nerden aldın öğüdü",
+        "Ben üstüne vardıkça",
+        "Senin göynün büyüdü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ekini%20Bi%C3%A7e%20Bi%C3%A7e%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ekini%20Bi%C3%A7e%20Bi%C3%A7e",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ekini Biçe Biçe",
+      "url": "https://tr.wikisource.org/wiki/Ekini_Bi%C3%A7e_Bi%C3%A7e",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ordu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

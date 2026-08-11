@@ -1,0 +1,67 @@
+{
+  "slug": "kemerin-yar-kupen-yar",
+  "baslik": "Kemerin Yâr Küpen Yâr",
+  "yore": "Erzincan",
+  "hikaye": "Kemerin Yâr Küpen Yâr, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kemerin yâr küpen yâr",
+        "Eğil eğil öpem yâr",
+        "Uzak yoldan gelmişsen",
+        "Soğuk sular dökem yâr"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yiğidim nanay ben yandım",
+        "Güzelim sana ben yandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzincan üstü bağdır",
+        "Yüreğim üstü dağdır",
+        "Yârim gitti gelmedi",
+        "Ne ölüdür ne sağdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yiğidim nanay ben yandım",
+        "Güzelim sana ben yandım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kemerin%20Y%C3%A2r%20K%C3%BCpen%20Y%C3%A2r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kemerin%20Y%C3%A2r%20K%C3%BCpen%20Y%C3%A2r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kemerin Yâr Küpen Yâr",
+      "url": "https://tr.wikisource.org/wiki/Kemerin_Y%C3%A2r_K%C3%BCpen_Y%C3%A2r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

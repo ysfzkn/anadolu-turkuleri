@@ -1,0 +1,52 @@
+{
+  "slug": "mustafam-kaslarin-kara",
+  "baslik": "Mustafa'm Kaşların Kara",
+  "yore": "Kütahya",
+  "hikaye": "Mustafa'm Kaşların Kara, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mustafa'm kaşların kara",
+        "Sen açtın sineme yare",
+        "Oyna serbest yarim oyunu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahırdan atlar boşanır",
+        "İner yaylaya döşenir",
+        "Benim yarim (amanın) şal kuşanır",
+        "Elbette benim yarim gurbette"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mustafa'm%20Ka%C5%9Flar%C4%B1n%20Kara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mustafa'm%20Ka%C5%9Flar%C4%B1n%20Kara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mustafa'm Kaşların Kara",
+      "url": "https://tr.wikisource.org/wiki/Mustafa'm_Ka%C5%9Flar%C4%B1n_Kara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

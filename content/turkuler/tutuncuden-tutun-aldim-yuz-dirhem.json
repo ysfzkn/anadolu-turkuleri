@@ -1,0 +1,72 @@
+{
+  "slug": "tutuncuden-tutun-aldim-yuz-dirhem",
+  "baslik": "Tütüncüden Tütün Aldım Yüz Dirhem",
+  "yore": "Hatay",
+  "hikaye": "Tütüncüden Tütün Aldım Yüz Dirhem, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tütüncüden tütün aldım yüz dirhem",
+        "(Yüz dirhem of aman)",
+        "Alam seni diyar diyar (aman) gezdirem",
+        "(Haydindi gezdirem)",
+        "Ak gerdana altın inci dizdirem (dizdirem)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of aman",
+        "Aynalı kahveye gitsek (aman) bu pazar (haydindi bu pazar)",
+        "Of aman",
+        "Salınıp yanına gelsem (aman) ne zarar (haydindi ne zarar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daracık sokağı asma bürüdü (bürüdü)",
+        "Of aman",
+        "Yaka açmış beyaz gerdana (aman) göründü (haydindi göründü)",
+        "Herkes sevdiğini aldı yürüdü (yürüdü)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of aman",
+        "Aynalı kahveye gitsek (aman) bu pazar (haydindi bu pazar)",
+        "Of aman",
+        "Salınıp yanına gelsem (aman) ne zarar (haydindi ne zarar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=T%C3%BCt%C3%BCnc%C3%BCden%20T%C3%BCt%C3%BCn%20Ald%C4%B1m%20Y%C3%BCz%20Dirhem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/T%C3%BCt%C3%BCnc%C3%BCden%20T%C3%BCt%C3%BCn%20Ald%C4%B1m%20Y%C3%BCz%20Dirhem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tütüncüden Tütün Aldım Yüz Dirhem",
+      "url": "https://tr.wikisource.org/wiki/T%C3%BCt%C3%BCnc%C3%BCden_T%C3%BCt%C3%BCn_Ald%C4%B1m_Y%C3%BCz_Dirhem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

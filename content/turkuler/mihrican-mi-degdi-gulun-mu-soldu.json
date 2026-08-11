@@ -1,0 +1,62 @@
+{
+  "slug": "mihrican-mi-degdi-gulun-mu-soldu",
+  "baslik": "Mihrican mı Değdi Gülün mü Soldu",
+  "yore": "Yozgat",
+  "hikaye": "Mihrican mı Değdi Gülün mü Soldu, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mihrican mı değdi gülün mü soldu",
+        "Gel ağlama garip bülbül ağlama",
+        "Felek baştan başa kimi güldürdü",
+        "Gel ağlama garip bülbül ağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şakı benim şeyda bülbülüm şakı",
+        "Bu dünya kimseye kalır mı baki",
+        "Sana da mı değdi feleğin oku",
+        "Gel ağlama garip bülbül ağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonca gül açılır har ile geçer",
+        "Dertlilerin ömrü zar ile geçer",
+        "Turabi biçare serinden geçer",
+        "Gel ağlama garip bülbül ağlama"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mihrican%20m%C4%B1%20De%C4%9Fdi%20G%C3%BCl%C3%BCn%20m%C3%BC%20Soldu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mihrican%20m%C4%B1%20De%C4%9Fdi%20G%C3%BCl%C3%BCn%20m%C3%BC%20Soldu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mihrican mı Değdi Gülün mü Soldu",
+      "url": "https://tr.wikisource.org/wiki/Mihrican_m%C4%B1_De%C4%9Fdi_G%C3%BCl%C3%BCn_m%C3%BC_Soldu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

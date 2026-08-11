@@ -1,0 +1,83 @@
+{
+  "slug": "kahve-koydum-fincana",
+  "baslik": "Kahve Koydum Fincana",
+  "yore": "Giresun",
+  "hikaye": "Kahve Koydum Fincana, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve koydum fincana",
+        "Hele de bakın Mican’a",
+        "Kör olası kel seyit",
+        "Nasıl da kıydın o cana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay benim canım Mican'ım",
+        "Dünyalarda bir canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Martinimin pulları",
+        "Gece de geçtim yolları",
+        "Aslan Mican geliyor",
+        "Saymaz karakolları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay benim canım Mican’ım",
+        "Dünyalarda bir canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mican sen öleceksin",
+        "Kabire gireceksin",
+        "Dokuz tahta altında",
+        "Ne cevap vereceksin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay benim canim Mican’ım",
+        "Dünyalarda bir canım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kahve%20Koydum%20Fincana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kahve%20Koydum%20Fincana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kahve Koydum Fincana",
+      "url": "https://tr.wikisource.org/wiki/Kahve_Koydum_Fincana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

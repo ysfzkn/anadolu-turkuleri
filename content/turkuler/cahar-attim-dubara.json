@@ -1,0 +1,53 @@
+{
+  "slug": "cahar-attim-dubara",
+  "baslik": "Cahar Attım Dubara",
+  "yore": "Diyarbakır",
+  "hikaye": "Cahar Attım Dubara, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cahar attım dubara (ayle nure)",
+        "El vurmayın o yare (hanım nure)",
+        "Aşkından yanıyorum (ayle nure)",
+        "Sen düşme ki bu nara (hanım nure)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz altı horasan (ayle nure)",
+        "Seni nerde arasam (hanım nure)",
+        "Şaşırmışam yolumu (ayle nure)",
+        "Acep kimlere sorsam (hanım nure)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cahar%20Att%C4%B1m%20Dubara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cahar%20Att%C4%B1m%20Dubara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cahar Attım Dubara",
+      "url": "https://tr.wikisource.org/wiki/Cahar_Att%C4%B1m_Dubara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "misiri-kuruttun-mu",
+  "baslik": "Mısırı Kuruttun mu?",
+  "yore": "Rize",
+  "hikaye": "Mısırı Kuruttun mu?, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mısırı kuruttun mu",
+        "Ambarda duruttun mu",
+        "Nenen çarık giyerdi",
+        "Bunları unuttun mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suda pişmiş mısırı tuzlayıp yiyeceksin",
+        "Mısırın türküsünü benden dinleyeceksin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mısırı kuruttun mu",
+        "Ambarda duruttun mu",
+        "Nenen çarık giyerdi",
+        "Bunları unuttun mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Korko çorbası derler mısırın çorbasına",
+        "Benden selamlar olsun mısırın babasına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mısırı kuruttun mu",
+        "Ambarda duruttun mu",
+        "Nenen çarık giyerdi",
+        "Bunları unuttun mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mısırın ekmeğini ederler saç altına",
+        "Bizim sofrada mısır benzer sarı altına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mısırı kuruttun mu",
+        "Ambarda duruttun mu",
+        "Nenen çarık giyerdi",
+        "Bunları unuttun mu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=M%C4%B1s%C4%B1r%C4%B1%20Kuruttun%20mu%3F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/M%C4%B1s%C4%B1r%C4%B1%20Kuruttun%20mu%3F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mısırı Kuruttun mu?",
+      "url": "https://tr.wikisource.org/wiki/M%C4%B1s%C4%B1r%C4%B1_Kuruttun_mu%3F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Rize",
+    "anonim",
+    "açık arşiv"
+  ]
+}

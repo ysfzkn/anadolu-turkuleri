@@ -1,0 +1,65 @@
+{
+  "slug": "yasemen-dalina-yar-neden-eymeli",
+  "baslik": "Yasemen Dalına Yar Neden Eymeli",
+  "yore": "Kütahya",
+  "hikaye": "Yasemen Dalına Yar Neden Eymeli, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yasemen dalına yar neden eymeli",
+        "Yosmam Avrupalı ucu burmalı",
+        "Alıp da nazlı yari sinemi sarmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oyneyişin bir hoş",
+        "Yar dönüşün bir hoş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben avlu süpürmem zülfüm toz olur",
+        "Ben bulaşık yumam elim kar'olur",
+        "Akşam oğlun gelsin söz benim olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oyneyişin bir hoş",
+        "Yar dönüşün bir hoş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yasemen%20Dal%C4%B1na%20Yar%20Neden%20Eymeli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yasemen%20Dal%C4%B1na%20Yar%20Neden%20Eymeli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yasemen Dalına Yar Neden Eymeli",
+      "url": "https://tr.wikisource.org/wiki/Yasemen_Dal%C4%B1na_Yar_Neden_Eymeli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

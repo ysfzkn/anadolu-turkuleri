@@ -1,0 +1,86 @@
+{
+  "slug": "marastan-bir-haber-geldi",
+  "baslik": "Maraş'tan Bir Haber Geldi",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Maraş'tan Bir Haber Geldi, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maraş'tan bir haber geldi",
+        "Dediler ki Merik öldü (oy oy oy)",
+        "Keşke Merik ölmeseydi",
+        "Kesileydi elim kolum (oy oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Merik Merik Merik",
+        "Ben kurbanım sana Merik",
+        "Ben hayranım sana Merik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doktor yarayı kesiyor",
+        "Gene Merik kan kusuyor",
+        "Dediler ki Merik öldü",
+        "Anası kime küsüyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Merik Merik Merik",
+        "Ben kurbanım sana Merik",
+        "Ben hayranım sana Merik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu Merik’in acısına",
+        "Çarşaf serin gecesine",
+        "Keşke Merik ölmeseydi",
+        "Sabır onun anasına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Merik Merik Merik",
+        "Ben kurbanım sana Merik",
+        "Ben hayranım sana Merik"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mara%C5%9F'tan%20Bir%20Haber%20Geldi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mara%C5%9F'tan%20Bir%20Haber%20Geldi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Maraş'tan Bir Haber Geldi",
+      "url": "https://tr.wikisource.org/wiki/Mara%C5%9F'tan_Bir_Haber_Geldi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

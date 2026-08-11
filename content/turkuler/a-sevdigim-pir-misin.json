@@ -1,0 +1,62 @@
+{
+  "slug": "a-sevdigim-pir-misin",
+  "baslik": "A Sevdiğim Pir misin",
+  "yore": "Manisa",
+  "hikaye": "A Sevdiğim Pir misin, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A sevdiğim pir misin?",
+        "Şu yerlerde bir misin?",
+        "Geceler on beş saat",
+        "Gel desem gelir misin?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel yanıma yanıma",
+        "Salında gel gir koluma",
+        "Öyle yârim öyledir",
+        "Şimdi zaman böyledir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu karşıki haneyler",
+        "Yıkılsın meyhaneler",
+        "Acep şehit olur mu?",
+        "Yâr yoluna ölenler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20Sevdi%C4%9Fim%20Pir%20misin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20Sevdi%C4%9Fim%20Pir%20misin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Sevdiğim Pir misin",
+      "url": "https://tr.wikisource.org/wiki/A_Sevdi%C4%9Fim_Pir_misin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

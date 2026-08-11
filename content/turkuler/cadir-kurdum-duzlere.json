@@ -1,0 +1,86 @@
+{
+  "slug": "cadir-kurdum-duzlere",
+  "baslik": "Çadır Kurdum Düzlere",
+  "yore": "Gaziantep",
+  "hikaye": "Çadır Kurdum Düzlere, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çadır kurdum düzlere illere vay",
+        "Diken oldum gözlere illere vay",
+        "İşte ben gidiyorum illere vay",
+        "Antep kalsın sizlere illere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İllere ah cicüm cicüm illere vay",
+        "Giyin pembe fistanı",
+        "Sürünsün etekleri yerlere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yoğurt koydum dolaba illere vay",
+        "Böğün başım kalaba illere vay",
+        "Yarim küsmüş gidiyor illere vay",
+        "Yıkılası Halep'e illere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İllere ah cicüm cicüm illere vay",
+        "Giyin pembe fistanı",
+        "Sürünsün etekleri yerlere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tasa koydum yoğurdu illere vay",
+        "Seni kimler doğurdu illere vay",
+        "Seni doğuran ana illere vay",
+        "Balınan mı yoğurdu illere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İllere ah cicüm cicüm illere vay",
+        "Giyin pembe fistanı",
+        "Sürünsün etekleri yerlere vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ad%C4%B1r%20Kurdum%20D%C3%BCzlere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ad%C4%B1r%20Kurdum%20D%C3%BCzlere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çadır Kurdum Düzlere (Gaziantep)",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ad%C4%B1r_Kurdum_D%C3%BCzlere_(Gaziantep)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

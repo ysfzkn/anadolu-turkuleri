@@ -1,0 +1,62 @@
+{
+  "slug": "at-gelir-sakir-sakir-izmir",
+  "baslik": "At Gelir Şakır Şakır",
+  "yore": "İzmir",
+  "hikaye": "At Gelir Şakır Şakır, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "At gelir şakır şakır (Nazire'm of)",
+        "Süt gelir bakır bakır",
+        "Yine karşıma çıktın (Nazire'm of)",
+        "Börülce gözlü çakır dere boyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saz olur (Nazire'm of)",
+        "Gül açılır yaz olur",
+        "Ben yarime gül demem (Nazire'm of)",
+        "Gülün ömrü az olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı inek yoğurdu (Nazire'm of)",
+        "Seni kimler doğurdu seni",
+        "Doğuran ana (Nazire'm of)",
+        "Kaymak ile yoğurdu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=At%20Gelir%20%C5%9Eak%C4%B1r%20%C5%9Eak%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/At%20Gelir%20%C5%9Eak%C4%B1r%20%C5%9Eak%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — At Gelir Şakır Şakır (İzmir)",
+      "url": "https://tr.wikisource.org/wiki/At_Gelir_%C5%9Eak%C4%B1r_%C5%9Eak%C4%B1r_(%C4%B0zmir)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İzmir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

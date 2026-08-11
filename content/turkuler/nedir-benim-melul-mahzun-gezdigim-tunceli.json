@@ -1,0 +1,71 @@
+{
+  "slug": "nedir-benim-melul-mahzun-gezdigim-tunceli",
+  "baslik": "Nedir Benim Melül Mahzun Gezdiğim",
+  "yore": "Tunceli",
+  "hikaye": "Nedir Benim Melül Mahzun Gezdiğim, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nedir benim melül mahzun gezdiğim",
+        "Ağlayıp yandığım dost senin için",
+        "Ciğerimi delik delik deldiğim",
+        "Ağlayıp yandığım hep senin için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandırdın odlara düşürdün nare",
+        "Ciğer püryan oldu yüreğim yâre",
+        "Lokmaneler gelse bulamaz çare",
+        "Ağlayıp gezdiğim hep senin için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Canım intizarda gözüm yollarda",
+        "Beni mecnun edip koydun çöllerde",
+        "Diyar-ı gurbette garip ellerde",
+        "Ağlayıp gezdiğim hep senin için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Feryadi'yim böyle imiş kaderim",
+        "Dünya benim olsa şad olmaz gönlüm",
+        "Hep senin içindir eğridir boynum",
+        "Ağlayıp yandığım hep senin için"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nedir%20Benim%20Mel%C3%BCl%20Mahzun%20Gezdi%C4%9Fim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nedir%20Benim%20Mel%C3%BCl%20Mahzun%20Gezdi%C4%9Fim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nedir Benim Melül Mahzun Gezdiğim",
+      "url": "https://tr.wikisource.org/wiki/Nedir_Benim_Mel%C3%BCl_Mahzun_Gezdi%C4%9Fim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

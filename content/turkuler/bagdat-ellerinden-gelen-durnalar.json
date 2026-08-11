@@ -1,0 +1,71 @@
+{
+  "slug": "bagdat-ellerinden-gelen-durnalar",
+  "baslik": "Bağdat Ellerinden Gelen Durnalar",
+  "yore": "Çorum",
+  "hikaye": "Bağdat Ellerinden Gelen Durnalar, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağdat ellerinden gelen durnalar",
+        "Durnalar ne haber ne haber yardan ey!",
+        "Şimdi benim yârim (hey hey hey) gözün sürmeler",
+        "Durnalar ne haber, yardan ne haber ey!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esip esip karlı dağlar aşarsın",
+        "Kılavızın yok mu, neden şaşarsın?",
+        "Bir yazdan, bir güzden derdim deşersin,",
+        "Durnalar ne haber, yardan ne haber ey!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Katar katar gökyüzünde dönersin,",
+        "Akşama mı kaldın neden eversin?",
+        "Doğru söyle sen ey Mevla’yı seversin,",
+        "Durnalar ne haber, yardan ne haber ey!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yârini öldürmüş, eli kan m’ola,",
+        "Ak gerdan üstüne çifte ben m’ola",
+        "Doğru söylen benim, yârim sağ m’ola",
+        "Durnalar ne haber, yardan ne haber ey!"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C4%9Fdat%20Ellerinden%20Gelen%20Durnalar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C4%9Fdat%20Ellerinden%20Gelen%20Durnalar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bağdat Ellerinden Gelen Durnalar",
+      "url": "https://tr.wikisource.org/wiki/Ba%C4%9Fdat_Ellerinden_Gelen_Durnalar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

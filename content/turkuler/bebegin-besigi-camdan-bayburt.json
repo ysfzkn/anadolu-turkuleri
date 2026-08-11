@@ -1,0 +1,34 @@
+{
+  "slug": "bebegin-besigi-camdan-bayburt",
+  "baslik": "Bebeğin Beşiği Çamdan",
+  "yore": "Bayburt",
+  "hikaye": "Bebeğin Beşiği Çamdan, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bebe%C4%9Fin%20Be%C5%9Fi%C4%9Fi%20%C3%87amdan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bebe%C4%9Fin%20Be%C5%9Fi%C4%9Fi%20%C3%87amdan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bebeğin Beşiği Çamdan (Bayburt)",
+      "url": "https://tr.wikisource.org/wiki/Bebe%C4%9Fin_Be%C5%9Fi%C4%9Fi_%C3%87amdan_(Bayburt)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bayburt",
+    "anonim",
+    "açık arşiv"
+  ]
+}

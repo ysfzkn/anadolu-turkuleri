@@ -1,0 +1,75 @@
+{
+  "slug": "han-nigarim-benden-yuzun-cevirme",
+  "baslik": "Han Nigar'ım Benden Yüzün Çevirme",
+  "yore": "Kars",
+  "hikaye": "Han Nigar'ım Benden Yüzün Çevirme, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Han Nigar’ım benden yüzün çevirme",
+        "Bir yiğide birkaç güzel çok mudur",
+        "Ben âşığım seni benden ayırma",
+        "Bir yiğide birkaç güzel çok mudur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Hey hey",
+        "İnce bellim hey hey",
+        "Kiraz dudaklım hey",
+        "Elma yanaklım hey",
+        "Sedef tırnaklım hey hey",
+        "Hey cananım hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Biri Çerkez olsun biri Abaze",
+        "Birinin koynunda gülleri taze",
+        "Biri rakı verir birisi meze",
+        "Bir yiğide birkaç güzel çok mudur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı",
+        "Biri Köroğlu’nun sadık yârıdır",
+        "Biri karşı dağın beyaz karıdır",
+        "Üç güzelden biri benim yârımdır",
+        "Bir yiğide birkaç güzel çok mudur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Han%20Nigar'%C4%B1m%20Benden%20Y%C3%BCz%C3%BCn%20%C3%87evirme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Han%20Nigar'%C4%B1m%20Benden%20Y%C3%BCz%C3%BCn%20%C3%87evirme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Han Nigar'ım Benden Yüzün Çevirme",
+      "url": "https://tr.wikisource.org/wiki/Han_Nigar'%C4%B1m_Benden_Y%C3%BCz%C3%BCn_%C3%87evirme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

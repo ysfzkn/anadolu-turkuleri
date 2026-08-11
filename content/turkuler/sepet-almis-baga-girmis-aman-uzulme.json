@@ -1,0 +1,54 @@
+{
+  "slug": "sepet-almis-baga-girmis-aman-uzulme",
+  "baslik": "Sepet Almış Bağa Girmiş Aman Üzülme",
+  "yore": "Kütahya",
+  "hikaye": "Sepet Almış Bağa Girmiş Aman Üzülme, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sepet almış bağa girmiş (aman) üzüme",
+        "Bir incecik sızı girdi dizime",
+        "Ayrılık sürmesin çekmiş (aman) gözüne",
+        "Siyah miyah Avrupa al yanağa perd'oldu perd'oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva dibi serin olur (aman) yatmaya",
+        "Kızlar gelir pencereden bakmaya",
+        "Elmas yüzük istiyor (aman) takmaya",
+        "Elmas yüzük al yanağa perd'oldu perd'oldu",
+        "(Ak elleri al yanağa perd'oldu perd'oldu)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sepet%20Alm%C4%B1%C5%9F%20Ba%C4%9Fa%20Girmi%C5%9F%20Aman%20%C3%9Cz%C3%BClme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sepet%20Alm%C4%B1%C5%9F%20Ba%C4%9Fa%20Girmi%C5%9F%20Aman%20%C3%9Cz%C3%BClme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sepet Almış Bağa Girmiş Aman Üzülme",
+      "url": "https://tr.wikisource.org/wiki/Sepet_Alm%C4%B1%C5%9F_Ba%C4%9Fa_Girmi%C5%9F_Aman_%C3%9Cz%C3%BClme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

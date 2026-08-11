@@ -1,0 +1,95 @@
+{
+  "slug": "bahcelere-geldi-bahar",
+  "baslik": "Bahçelere Geldi Bahar",
+  "yore": "Kars",
+  "hikaye": "Bahçelere Geldi Bahar, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelere geldi bahar",
+        "Yeşil halı serdi bahar",
+        "Gel dedim gelmedi yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni yada salsana yar",
+        "Şu halimi sorsana yar",
+        "(Şu gönlümü alsana yar)",
+        "A ceylan sevdiğim",
+        "Mehriban sevdiğim",
+        "Sırrımı bilmedin",
+        "Bilmedin yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde güllü çiçek",
+        "Güllü çimen güllü çiçek",
+        "Gül dedim gülmedi(n) yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni yada salsana yar",
+        "Şu halimi sorsana yar",
+        "(Şu gönlümü alsana yar)",
+        "A ceylan sevdiğim",
+        "Mehriban sevdiğim",
+        "Sırrımı bilmedin",
+        "Bilmedin yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirin şirin sözle beni",
+        "Özüm dedim özle beni",
+        "Gözledim gelmedi(n) yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni yada salsana yar",
+        "Şu halimi sorsana yar",
+        "(Şu gönlümü alsana yar)",
+        "A ceylan sevdiğim",
+        "Mehriban sevdiğim",
+        "Sırrımı bilmedin",
+        "Bilmedin yar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7elere%20Geldi%20Bahar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7elere%20Geldi%20Bahar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçelere Geldi Bahar",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7elere_Geldi_Bahar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "karanfil-oylum-oylum",
+  "baslik": "Karanfil Oylum Oylum",
+  "yore": "Konya",
+  "hikaye": "Karanfil Oylum Oylum, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil oylum oylum",
+        "Geliyor selvi boylum",
+        "Karanfil oylum oylum",
+        "Geliyor selvi boylum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Selvi boylum gelince",
+        "Şen olur deli gönlüm",
+        "Vay benim efendim efendim",
+        "Efendim servü bülendim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil uzar gider",
+        "Yaprağın bezer gider",
+        "Karanfil uzar gider",
+        "Yaprağın bezer gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yolunu şaşırmış",
+        "İnşallah bize gider",
+        "Vay benim efendim efendim",
+        "Efendim servü bülendim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil oymak oymak",
+        "Olur mu yare doymak",
+        "Karanfil oymak oymak",
+        "Olur mu yare doymak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yare doydum diyenin",
+        "Caizdir boynun vurmak",
+        "Vay benim efendim efendim",
+        "Efendim servü bülendim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil olacaksın",
+        "Sararıp solacaksın",
+        "Karanfil olacaksın",
+        "Sararıp solacaksın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben hakime danıştım",
+        "Sen benim olacaksın",
+        "Vay benim efendim efendim",
+        "Efendim servü bülendim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karanfil%20Oylum%20Oylum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karanfil%20Oylum%20Oylum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karanfil Oylum Oylum (Konya)",
+      "url": "https://tr.wikisource.org/wiki/Karanfil_Oylum_Oylum_(Konya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "kazan-kaynar-tasmaz-mi",
+  "baslik": "Kazan Kaynar Taşmaz mı?",
+  "yore": "Adana",
+  "hikaye": "Kazan Kaynar Taşmaz mı?, Vikikaynak'ın Adana türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Adana yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kazan kaynar taşmaz mı",
+        "Yol gedikten aşmaz mı",
+        "Merak etme sevdiceğim",
+        "Ayrılan kavuşmaz mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara kara kazanlar",
+        "Kara yazı yazanlar",
+        "Cennet yüzü görmesinler",
+        "Aramızı bozanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kazanımda bulgurum",
+        "Sular gibi durgunum",
+        "Zalım anan vermezse de",
+        "Kız ben sana vurgunum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kazan%20Kaynar%20Ta%C5%9Fmaz%20m%C4%B1%3F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kazan%20Kaynar%20Ta%C5%9Fmaz%20m%C4%B1%3F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kazan Kaynar Taşmaz mı? (Adana)",
+      "url": "https://tr.wikisource.org/wiki/Kazan_Kaynar_Ta%C5%9Fmaz_m%C4%B1%3F_(Adana)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Adana",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "islamoglu-derler-benim-adima",
+  "baslik": "İslamoğlu Derler Benim Adıma",
+  "yore": "Kütahya",
+  "hikaye": "İslamoğlu Derler Benim Adıma, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İslamoğlu derler benim adıma",
+        "Dayanılmaz ince bıçağımın tadına",
+        "Üç yüz atlı gelemiyor yanıma",
+        "Nolaydın da keşke teslim olaydınKonak avlusuna kendin varaydın",
+        "Şaphane dağını duman bürüdü",
+        "Üç yüz atlı beş yüz yaya yürüdü",
+        "Can Mustafa’m şu dünyada bir idi",
+        "NAKARAT",
+        "İslamoğlu inip gelir enişden",
+        "Her yanları görünmüyor gümüşten",
+        "Mevlam kurtarsın seni bu işten",
+        "NAKARAT"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0slamo%C4%9Flu%20Derler%20Benim%20Ad%C4%B1ma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0slamo%C4%9Flu%20Derler%20Benim%20Ad%C4%B1ma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İslamoğlu Derler Benim Adıma",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0slamo%C4%9Flu_Derler_Benim_Ad%C4%B1ma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

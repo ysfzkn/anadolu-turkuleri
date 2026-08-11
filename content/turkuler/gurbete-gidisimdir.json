@@ -1,0 +1,71 @@
+{
+  "slug": "gurbete-gidisimdir",
+  "baslik": "Gurbete Gidişimdir",
+  "yore": "Erzincan",
+  "hikaye": "Gurbete Gidişimdir, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gurbete gidişimdir oy nanana",
+        "Gonca gül derişimdir oy nanana",
+        "Eğil eğil öpeyim oy nanana",
+        "Belki son görüşümdür oy nanana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dut ağacı boyunca oy nanana",
+        "Dut yemedim doyunca oy nanana",
+        "Şen kalasın İstanbul oy nanana",
+        "Yâr görmedim doyunca oy nanana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derelerde saz olur oy nanana",
+        "Gül açılır yaz olur oy nanana",
+        "Ben yârime gül demem oy nanana",
+        "Gülün ömrü az olur oy nanana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül yuvada inler oy nanana",
+        "Susar kalbini dinler oy nanana",
+        "Benim gönlümde sensin oy nanana",
+        "Senin gönlünde kimler oy nanana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gurbete%20Gidi%C5%9Fimdir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gurbete%20Gidi%C5%9Fimdir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gurbete Gidişimdir",
+      "url": "https://tr.wikisource.org/wiki/Gurbete_Gidi%C5%9Fimdir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

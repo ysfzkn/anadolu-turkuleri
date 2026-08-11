@@ -1,0 +1,62 @@
+{
+  "slug": "ah-bugdayim-bugdayim",
+  "baslik": "Ah Buğdayım Buğdayım",
+  "yore": "Trabzon",
+  "hikaye": "Ah Buğdayım Buğdayım, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derenin kenarında anık toplarım anık",
+        "Çıksam yüksek dağlara ağlasam yanık yanık",
+        "Ah buğdayım buğdayım sereyim kurutayım",
+        "Unut deyesun yarim ben seni nasıl unutayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yârim yatma uykuya rüya görürsün rüya",
+        "Şeker olsam karışsam yârim içtiğin suya",
+        "Ah buğdayım buğdayım sereyim kurutayım",
+        "Unut deyesun yarim ben seni nasıl unutayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atma beni vurursun yar kolların kırılsın",
+        "Evvel bendiz durmazdın şimdi nasıl durursun",
+        "Ah buğdayım buğdayım sereyim kurutayım",
+        "Unut deyesun yarim ben seni nasıl unutayım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Bu%C4%9Fday%C4%B1m%20Bu%C4%9Fday%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Bu%C4%9Fday%C4%B1m%20Bu%C4%9Fday%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Buğdayım Buğdayım",
+      "url": "https://tr.wikisource.org/wiki/Ah_Bu%C4%9Fday%C4%B1m_Bu%C4%9Fday%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

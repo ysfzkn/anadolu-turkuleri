@@ -1,0 +1,74 @@
+{
+  "slug": "su-yuce-daglarin-kari-eridi",
+  "baslik": "Şu Yüce Dağların Karı Eridi",
+  "yore": "Mersin",
+  "hikaye": "Şu Yüce Dağların Karı Eridi, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu yüce dağların karı eridi",
+        "Şu yüce dağların karı eridi",
+        "Sel oldu gidelimde bizim ellere",
+        "Sel oldu gidelimde bizim ellere",
+        "Yaylamızı lale sünbül bürüdü",
+        "Yaylamızı lale sünbül bürüdü",
+        "Gel oldu gidelim de bizim ellere",
+        "Gel oldu gidelim de bizim ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nazlı olur güzellerin eyisi",
+        "Nazlı olur güzellerin eyisi",
+        "Deli gönül güzellerin delisi",
+        "Deli gönül güzellerin delisi",
+        "Gayrı bizim elin kara çalısı",
+        "Gayrı bizim elin kara çalısı",
+        "Gül oldu gidelim de bizim ellere",
+        "Gül oldu gidelim de bizim ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karacaoğlan der ki gelir yazları",
+        "Karacaoğlan der ki gelir yazları",
+        "Güzel kimden aldın sen bu nazları",
+        "Güzel kimden aldın sen bu nazları",
+        "Ananın babanın acı sözleri",
+        "Ananın babanın acı sözleri",
+        "Bal oldu gidelim de bizim ellere",
+        "Bal oldu gidelim de bizim ellere"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Y%C3%BCce%20Da%C4%9Flar%C4%B1n%20Kar%C4%B1%20Eridi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Y%C3%BCce%20Da%C4%9Flar%C4%B1n%20Kar%C4%B1%20Eridi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Yüce Dağların Karı Eridi",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Y%C3%BCce_Da%C4%9Flar%C4%B1n_Kar%C4%B1_Eridi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

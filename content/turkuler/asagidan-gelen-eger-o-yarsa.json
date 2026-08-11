@@ -1,0 +1,53 @@
+{
+  "slug": "asagidan-gelen-eger-o-yarsa",
+  "baslik": "Aşağıdan Gelen Eğer O Yarsa",
+  "yore": "Samsun",
+  "hikaye": "Aşağıdan Gelen Eğer O Yarsa, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelen (aman aman) eğer o yarsa",
+        "Ahdi bütün bir ikrara durursa",
+        "Gadir mevlam yâri bana verürse",
+        "Bakar bakar (da) yar gönümü eğlerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meşşelidir bizim dağlar meşeli",
+        "Üç gün oldu yar sevdana düşeli",
+        "Haydi gedek kizim hane döşelü",
+        "Döşemesi başdan başa gırmızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fa%C4%9F%C4%B1dan%20Gelen%20E%C4%9Fer%20O%20Yarsa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fa%C4%9F%C4%B1dan%20Gelen%20E%C4%9Fer%20O%20Yarsa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşağıdan Gelen Eğer O Yarsa",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fa%C4%9F%C4%B1dan_Gelen_E%C4%9Fer_O_Yarsa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Samsun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

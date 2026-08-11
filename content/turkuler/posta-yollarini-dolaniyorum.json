@@ -1,0 +1,65 @@
+{
+  "slug": "posta-yollarini-dolaniyorum",
+  "baslik": "Posta Yollarını Dolanıyorum",
+  "yore": "Kayseri",
+  "hikaye": "Posta Yollarını Dolanıyorum, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Posta yollarını dolanıyorum aman",
+        "Yitirdim yarimi aranıyorum aman",
+        "Bir çift selamına güveniyorum aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya sen gel buraya ya ben varayım aman",
+        "Elmas kadehlerin ben doldurayım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Verdiğin yazmayı ateşte yaktım aman",
+        "Geleceksin diye yollara baktım aman",
+        "Deli çaylar gibi çağlayıp aktım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya sen gel buraya ya ben varayım aman",
+        "Elmas kadehlerin ben doldurayım aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Posta%20Yollar%C4%B1n%C4%B1%20Dolan%C4%B1yorum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Posta%20Yollar%C4%B1n%C4%B1%20Dolan%C4%B1yorum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Posta Yollarını Dolanıyorum",
+      "url": "https://tr.wikisource.org/wiki/Posta_Yollar%C4%B1n%C4%B1_Dolan%C4%B1yorum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

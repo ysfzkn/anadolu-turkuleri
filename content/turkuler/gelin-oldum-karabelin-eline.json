@@ -1,0 +1,49 @@
+{
+  "slug": "gelin-oldum-karabelin-eline",
+  "baslik": "Gelin Oldum Karabel'in Eline",
+  "yore": "Malatya",
+  "hikaye": "Gelin Oldum Karabel'in Eline, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "==1. söyleyiş==",
+        "Gelin oldum Karabel’in eline",
+        "Yedi bayram kına yakmam elime",
+        "Gurban olam çiğdem gibi geline",
+        "Yayladan gel kömür gözlüm yayladanÖnüme koydular bir çift suyuduÇocuk geldi kucağımda uyuduBaba bana edeceğin bu muyduYayladan gel kömür gözlüm yayladan",
+        "Senin baban karşı köyün hocası",
+        "Çok peşime düştü genci kocası",
+        "Bana derler şu çocuğun kocası",
+        "Yayladan gel kömür gözlüm yayladan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gelin%20Oldum%20Karabel'in%20Eline%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gelin%20Oldum%20Karabel'in%20Eline",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gelin Oldum Karabel'in Eline",
+      "url": "https://tr.wikisource.org/wiki/Gelin_Oldum_Karabel'in_Eline",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

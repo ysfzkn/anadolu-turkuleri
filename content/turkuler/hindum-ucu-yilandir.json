@@ -1,0 +1,53 @@
+{
+  "slug": "hindum-ucu-yilandir",
+  "baslik": "Hindum Ucu Yılandır",
+  "yore": "Malatya",
+  "hikaye": "Hindum Ucu Yılandır, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hindum ucu yılandır",
+        "Çal boynuma dolandır",
+        "Seversen gelini sev",
+        "Kızın dili yalandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmayı alanda var",
+        "Cebine dalanda var",
+        "Ben dedim sen alasın",
+        "Bana yalvaranda var"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hindum%20Ucu%20Y%C4%B1land%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hindum%20Ucu%20Y%C4%B1land%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hindum Ucu Yılandır",
+      "url": "https://tr.wikisource.org/wiki/Hindum_Ucu_Y%C4%B1land%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

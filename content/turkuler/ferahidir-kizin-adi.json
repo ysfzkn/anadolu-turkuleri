@@ -1,0 +1,48 @@
+{
+  "slug": "ferahidir-kizin-adi",
+  "baslik": "Ferahi'dir Kızın Adı",
+  "yore": "Muğla",
+  "hikaye": "Ferahi'dir Kızın Adı, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ferayi’dir (Feraye) kızın adı Ferayi de yandım aman",
+        "Esmer yarim de aman da Ferayi",
+        "Türkmen de kızı, katarlamış mayayı of yandım aman",
+        "Esmer yarim de aman da mayayıNinni ninna ninni ninnaNinanay ninanay daAmanda aman Ferayi",
+        "Demirciler demir döver,tunç olur of yandım aman",
+        "Esmer yarim de aman da tunç olur",
+        "Sevip sevip ayrılması güç olur of yandım aman",
+        "Esmer yarim de aman da güç olurNinni ninna ninni ninnaNinanay ninanay daAmanda aman Ferayi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ferahi'dir%20K%C4%B1z%C4%B1n%20Ad%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ferahi'dir%20K%C4%B1z%C4%B1n%20Ad%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ferahi'dir Kızın Adı",
+      "url": "https://tr.wikisource.org/wiki/Ferahi'dir_K%C4%B1z%C4%B1n_Ad%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

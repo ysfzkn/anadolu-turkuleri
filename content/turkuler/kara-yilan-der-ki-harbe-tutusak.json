@@ -1,0 +1,62 @@
+{
+  "slug": "kara-yilan-der-ki-harbe-tutusak",
+  "baslik": "Kara Yılan Der ki Harbe Tutuşak",
+  "yore": "Gaziantep",
+  "hikaye": "Kara Yılan Der ki Harbe Tutuşak, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara yılan der ki harbe tutuşak",
+        "Kilis yollarından kelle getirek",
+        "Fransız adını birden batırak",
+        "Neylemeli aslan molla vuruldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fransız topları leyleğe vurdu",
+        "Salladı salladı Antep’e vurdu",
+        "Yılan bey uğruna bekçi mi durdu",
+        "Neylemeli aslan molla vuruldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atıyor da zalim gavur atıyor",
+        "Mulla beyim şehit olmuş yatıyor",
+        "Küççük Mehmet çetelerin kaçıyor",
+        "Vur gavuru dayanmaz molla beye"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kara%20Y%C4%B1lan%20Der%20ki%20Harbe%20Tutu%C5%9Fak%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kara%20Y%C4%B1lan%20Der%20ki%20Harbe%20Tutu%C5%9Fak",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kara Yılan Der ki Harbe Tutuşak",
+      "url": "https://tr.wikisource.org/wiki/Kara_Y%C4%B1lan_Der_ki_Harbe_Tutu%C5%9Fak",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

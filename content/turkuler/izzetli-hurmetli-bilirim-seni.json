@@ -1,0 +1,62 @@
+{
+  "slug": "izzetli-hurmetli-bilirim-seni",
+  "baslik": "İzzetli Hürmetli Bilirim Seni",
+  "yore": "Tokat",
+  "hikaye": "İzzetli Hürmetli Bilirim Seni, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İzzetli hürmetli bilirim seni",
+        "Erin ere yolu düş gelir böyle",
+        "Kişi sevdiğini (hey dost) tenhada bulsa",
+        "Dostun dosta huyu hoş gelir böyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zengiyi zengiye vurup eşince",
+        "Lokmalar hal olur çiğler pişince",
+        "Kadehler pas tutar sazlar coşunca",
+        "Gerçek âşıklara coş gelir böyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sefil kemter hayal seni gezdirir",
+        "Er olanlar çifte kantar kaldırır",
+        "Ulu dergâh bulup bulup kabını doldurur",
+        "Arifler elinden iş gelir böyle"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0zzetli%20H%C3%BCrmetli%20Bilirim%20Seni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0zzetli%20H%C3%BCrmetli%20Bilirim%20Seni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İzzetli Hürmetli Bilirim Seni",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0zzetli_H%C3%BCrmetli_Bilirim_Seni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

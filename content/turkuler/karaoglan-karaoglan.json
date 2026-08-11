@@ -1,0 +1,79 @@
+{
+  "slug": "karaoglan-karaoglan",
+  "baslik": "Karaoğlan Karaoğlan",
+  "yore": "Kilis",
+  "hikaye": "Karaoğlan Karaoğlan, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız: Karaoğlan, Karaoğlan",
+        "Oğlan: Heh heh hanım kız, Heh heh heh heh canım kız",
+        "Kız: Ondan mı isten Karaoğlan",
+        "Bundan mı isten Karaoğlan",
+        "Bende de güzel gözler var",
+        "Bundan mı isten Karaoğlan.",
+        "Oğlan: Yok yok hanım kız",
+        "Yok yok yok yok canım kız",
+        "Ah bilemedin derdimden derdimden",
+        "Sen bilemedin derdimden derdimden derdimden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız: Karaoğlan, Karaoğlan.",
+        "Oğlan: Heh heh hanım kız. Heh heh heh heh canım kız.",
+        "Kız: Ondan mı isten Karaoğlan",
+        "Bundan mı isten Karaoğlan",
+        "Bende de elma yanak var",
+        "Bundan mı isten Karaoğlan.",
+        "Oğlan: Yok yok hanım kız",
+        "Yok yok yok yok canım kız",
+        "Ah bilemedin derdimden derdimden",
+        "Sen bilemedin derdimden derdimden derdimden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız: Karaoğlan, Karaoğlan",
+        "Oğlan: Heh heh hanım kız. Heh heh heh heh canım kız.",
+        "Kız: Ondan mı isten Karaoğlan",
+        "Bundan mı isten Karaoğlan",
+        "Bende de güzel göbek var",
+        "Bundan mı isten Karaoğlan",
+        "Oğlan: He he hanım kız he he he he he canım kız",
+        "Şimdi de bildin derdimden derdimden derdimden",
+        "Ayva da göbek merdinden merdinden merdinden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karao%C4%9Flan%20Karao%C4%9Flan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karao%C4%9Flan%20Karao%C4%9Flan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karaoğlan Karaoğlan",
+      "url": "https://tr.wikisource.org/wiki/Karao%C4%9Flan_Karao%C4%9Flan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

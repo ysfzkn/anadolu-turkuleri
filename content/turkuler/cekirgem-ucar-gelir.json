@@ -1,0 +1,62 @@
+{
+  "slug": "cekirgem-ucar-gelir",
+  "baslik": "Çekirgem Uçar Gelir",
+  "yore": "Eskişehir",
+  "hikaye": "Çekirgem Uçar Gelir, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekirgem uçar gelir",
+        "Ganadın açar gelir",
+        "Dümbek de boylu çekirgem (dalgalı yeşilim)",
+        "Ekini biçer gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekirgemin ganadı",
+        "Ganı yere damladı",
+        "Dümbek de boylu çekirgem (dalgalı yeşilim)",
+        "Arpa buğday gomadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çekirgem geldi daşa",
+        "Yazılan gelir başa",
+        "Dümbek de boylu çekirgem (dalgalı yeşilim)",
+        "Düğünüm galdı gışa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ekirgem%20U%C3%A7ar%20Gelir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ekirgem%20U%C3%A7ar%20Gelir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çekirgem Uçar Gelir (Eskişehir)",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ekirgem_U%C3%A7ar_Gelir_(Eski%C5%9Fehir)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

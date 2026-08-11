@@ -1,0 +1,89 @@
+{
+  "slug": "gemiler-giresune",
+  "baslik": "Gemiler Giresun'e",
+  "yore": "Trabzon",
+  "hikaye": "Gemiler Giresun'e, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemiler Giresun'e",
+        "Yar olayım sesune",
+        "Bir daha vurayıdı (oy oy oy oy)",
+        "Nefesum nefesune"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey aman gelin aman",
+        "Aldı dağları duman",
+        "Doğru yürü ah gelin",
+        "Bayıldım aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karadeniz üstünde",
+        "Gemim limanlanıyu",
+        "Kurban o fidan boya (oy oy oy oy)",
+        "Yürürken sallanıyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey aman gelin aman",
+        "Aldı dağları duman",
+        "Doğru yürü ah gelin",
+        "Bayıldım aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemilerde sereni",
+        "Tanımadum geleni",
+        "Acap nereye garlar (oy oy oy oy)",
+        "Sevdaluktan öteni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey aman gelin aman",
+        "Aldı dağları duman",
+        "Doğru yürü ah gelin",
+        "Bayıldım aman aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gemiler%20Giresun'e%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gemiler%20Giresun'e",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gemiler Giresun'e",
+      "url": "https://tr.wikisource.org/wiki/Gemiler_Giresun'e",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

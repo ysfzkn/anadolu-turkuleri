@@ -1,0 +1,52 @@
+{
+  "slug": "kinayi-getir-aney",
+  "baslik": "Kınayı Getir Aney",
+  "yore": "Muş",
+  "hikaye": "Kınayı Getir Aney, Vikikaynak'ın Muş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kınayı getir aney",
+        "Parmağın batır aney",
+        "Bu gece misafıram",
+        "Koynunda (yanında) yatır aney",
+        "Kalada var çepeler",
+        "Çepere su sepeler",
+        "Irak yoldan geleni",
+        "Terli terli öpeler",
+        "Sivik ucu kuşburni",
+        "Oldum yarin düşkünü",
+        "Baş açık yalın ayak",
+        "Yola düştüm kış günü"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1nay%C4%B1%20Getir%20Aney%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1nay%C4%B1%20Getir%20Aney",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kınayı Getir Aney",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1nay%C4%B1_Getir_Aney",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

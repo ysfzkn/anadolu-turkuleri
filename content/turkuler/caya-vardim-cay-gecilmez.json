@@ -1,0 +1,63 @@
+{
+  "slug": "caya-vardim-cay-gecilmez",
+  "baslik": "Çaya Vardım Çay Geçilmez",
+  "yore": "Mersin",
+  "hikaye": "Çaya Vardım Çay Geçilmez, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaya vardım çay geçilmez",
+        "Nazlı yardan vazgeçilmez"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar seni sevsem olmaz mı",
+        "Yar seni öpsem olmaz mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaya vardım çay bulanık",
+        "Eve vardım yar uyanık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar seni sevsem olmaz mı",
+        "Yar seni öpsem olmaz mı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87aya%20Vard%C4%B1m%20%C3%87ay%20Ge%C3%A7ilmez%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87aya%20Vard%C4%B1m%20%C3%87ay%20Ge%C3%A7ilmez",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çaya Vardım Çay Geçilmez",
+      "url": "https://tr.wikisource.org/wiki/%C3%87aya_Vard%C4%B1m_%C3%87ay_Ge%C3%A7ilmez",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

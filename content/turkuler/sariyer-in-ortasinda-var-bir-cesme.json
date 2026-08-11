@@ -1,0 +1,75 @@
+{
+  "slug": "sariyer-in-ortasinda-var-bir-cesme",
+  "baslik": "Sarıyer`in Ortasında Var Bir Çeşme",
+  "yore": "İstanbul",
+  "hikaye": "Sarıyer`in Ortasında Var Bir Çeşme, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarıyer`in ortasında var bir çeşme (canım çeşme)",
+        "Sarıyer kızlarının hepsi de seçme",
+        "Ben çalar oynarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Girer de kahvelere",
+        "Darbuka, zilli de maşa çalar çalar oynarım",
+        "Biner de arabaya",
+        "Kuş dili Haydar Paşa",
+        "Gezer tozar oynarım",
+        "Girer de meyhaneye",
+        "Düz rakı mastika şarap içer içer oynarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarıyer`in ortasında var bir kuyu (canım kuyu)",
+        "Sarıyer kızlarının pek güzel huyu",
+        "Ben çalar oynarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Girer de kahvelere",
+        "Darbuka, zilli de maşa çalar çalar oynarım",
+        "Biner de arabaya",
+        "Kuş dili Haydar Paşa",
+        "Gezer tozar oynarım",
+        "Girer de meyhaneye",
+        "Düz rakı mastika şarap içer içer oynarım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1yer%60in%20Ortas%C4%B1nda%20Var%20Bir%20%C3%87e%C5%9Fme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1yer%60in%20Ortas%C4%B1nda%20Var%20Bir%20%C3%87e%C5%9Fme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sarıyer`in Ortasında Var Bir Çeşme",
+      "url": "https://tr.wikisource.org/wiki/Sar%C4%B1yer%60in_Ortas%C4%B1nda_Var_Bir_%C3%87e%C5%9Fme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

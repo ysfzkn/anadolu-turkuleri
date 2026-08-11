@@ -1,0 +1,34 @@
+{
+  "slug": "mendil-aldim-bir-deste",
+  "baslik": "Mendil Aldım Bir Deste",
+  "yore": "Van",
+  "hikaye": "Mendil Aldım Bir Deste, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mendil%20Ald%C4%B1m%20Bir%20Deste%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mendil%20Ald%C4%B1m%20Bir%20Deste",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mendil Aldım Bir Deste",
+      "url": "https://tr.wikisource.org/wiki/Mendil_Ald%C4%B1m_Bir_Deste",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "anonim",
+    "açık arşiv"
+  ]
+}

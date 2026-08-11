@@ -1,0 +1,53 @@
+{
+  "slug": "ote-yakaya-gecelim",
+  "baslik": "Öte Yakaya Geçelim",
+  "yore": "Eskişehir",
+  "hikaye": "Öte Yakaya Geçelim, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öte yakaya geçelim",
+        "Atlara yonca biçelim (a leylim aman aman)",
+        "Biz bu vardan vazgeçelim",
+        "Oğlum nenni nenni Eşref'im nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öte yakanın buludu",
+        "Beri yakayı bürüdü (a leylim aman aman)",
+        "Güzeller aldı yürüdü",
+        "Oğlum nenni nenni Eşref'im nenni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%96te%20Yakaya%20Ge%C3%A7elim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%96te%20Yakaya%20Ge%C3%A7elim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Öte Yakaya Geçelim",
+      "url": "https://tr.wikisource.org/wiki/%C3%96te_Yakaya_Ge%C3%A7elim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "harman-vakti-kurariz-biz-cerkegi",
+  "baslik": "Harman Vakti Kurarız Biz Çerkeği",
+  "yore": "Zonguldak",
+  "hikaye": "Harman Vakti Kurarız Biz Çerkeği, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman vakti kurarız biz çerkeği",
+        "Yapalım da ızgara maşa küreği",
+        "Hadi Naile'm çek bakalım körüğü",
+        "Karşı karşı atalım da göbüğü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman vakti serin olur yatmağa",
+        "Kızlar gelsin sürü sürü bakmağa",
+        "Hadi Naile'm beşbirlik takmağa",
+        "Def dümbelek çalarak keyif çatmağa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harman%20Vakti%20Kurar%C4%B1z%20Biz%20%C3%87erke%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harman%20Vakti%20Kurar%C4%B1z%20Biz%20%C3%87erke%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Harman Vakti Kurarız Biz Çerkeği",
+      "url": "https://tr.wikisource.org/wiki/Harman_Vakti_Kurar%C4%B1z_Biz_%C3%87erke%C4%9Fi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

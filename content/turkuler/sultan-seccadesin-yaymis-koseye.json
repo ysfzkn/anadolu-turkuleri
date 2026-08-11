@@ -1,0 +1,65 @@
+{
+  "slug": "sultan-seccadesin-yaymis-koseye",
+  "baslik": "Sultan Seccadesin Yaymış Köşeye",
+  "yore": "Eskişehir",
+  "hikaye": "Sultan Seccadesin Yaymış Köşeye, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sultan seccadesin de yaymış köşeye (amanın beyler köşeye)",
+        "Bir çift selam olsun nazlı Ayşe’ye (amanın beyler Ayşe’ye)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olsun olsun yar güzel olsun",
+        "Kalem kaşlı olsun olsun",
+        "Vurunda sazlara düğünler olsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü de yüksek kaldırım (amanın beyler kaldırım)",
+        "Kaldırımdan düştüm beni kaldırın (amanın beyler kaldırın)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olsun olsun yar güzel olsun",
+        "Kalem kaşlı olsun olsun",
+        "Vurunda sazlara düğünler olsun"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sultan%20Seccadesin%20Yaym%C4%B1%C5%9F%20K%C3%B6%C5%9Feye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sultan%20Seccadesin%20Yaym%C4%B1%C5%9F%20K%C3%B6%C5%9Feye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sultan Seccadesin Yaymış Köşeye",
+      "url": "https://tr.wikisource.org/wiki/Sultan_Seccadesin_Yaym%C4%B1%C5%9F_K%C3%B6%C5%9Feye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

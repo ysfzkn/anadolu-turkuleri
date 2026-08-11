@@ -1,0 +1,82 @@
+{
+  "slug": "ben-bir-yakup-idim-sanliurfa",
+  "baslik": "Ben Bir Yakup İdim",
+  "yore": "Şanlıurfa",
+  "hikaye": "Ben Bir Yakup İdim, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir Yakup idim kendi halımda yar yar yar",
+        "Mevlâmın kelamı vardır dilimde",
+        "Kaybettim Yusuf'u Kenan elinde yar yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar Yakup ağlar Yusuf'um diye",
+        "Getti de gelmedi vah yavrum diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yusuf'um hocada okumaz oldu yar yar yar",
+        "O’nun bülbül dili şakımaz oldu",
+        "Alnındaki nûru berk urmaz oldu yar yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir bezirgân geldi üç aylık yoldan yar yar yar",
+        "Çıkarttı Yusuf'u kırk arşın kuy(u)dan",
+        "Kerem kâni kıldı Mısır'a sultan yar yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yusuf’u götürdüler ölüm kastına",
+        "Attılar kuyuya başı üstüne",
+        "İhlas ile çıktı suyun üstüne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cem olup geldiler Kenan’ın kurdu",
+        "Biz yemedik diye içtiler andı",
+        "Yakub’un feryadı arşa dayandı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Bir%20Yakup%20%C4%B0dim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Bir%20Yakup%20%C4%B0dim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Bir Yakup İdim (Şanlıurfa)",
+      "url": "https://tr.wikisource.org/wiki/Ben_Bir_Yakup_%C4%B0dim_(%C5%9Eanl%C4%B1urfa)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

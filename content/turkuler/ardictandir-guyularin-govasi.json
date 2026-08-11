@@ -1,0 +1,65 @@
+{
+  "slug": "ardictandir-guyularin-govasi",
+  "baslik": "Ardıçtandır Guyuların Govası",
+  "yore": "Isparta",
+  "hikaye": "Ardıçtandır Guyuların Govası, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardıçtandır guyuların govası.",
+        "Suya goyvermeyor da gızın gavur anası.",
+        "Ne ettim de aldandım aman Allah’ından bulası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dolandım dağları kar bulamadım.",
+        "Halime münasip yar bulamadım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur guyuların zenciri,",
+        "Gıymatl'olur aşalının aman da inciri.",
+        "Salıverin amanın aman oğlanların gencini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dolandım dağları kar parça parça,",
+        "Aşalım geliyor el çırpa çırpa."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ard%C4%B1%C3%A7tand%C4%B1r%20Guyular%C4%B1n%20Govas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ard%C4%B1%C3%A7tand%C4%B1r%20Guyular%C4%B1n%20Govas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ardıçtandır Guyuların Govası",
+      "url": "https://tr.wikisource.org/wiki/Ard%C4%B1%C3%A7tand%C4%B1r_Guyular%C4%B1n_Govas%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

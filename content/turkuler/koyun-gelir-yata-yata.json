@@ -1,0 +1,67 @@
+{
+  "slug": "koyun-gelir-yata-yata",
+  "baslik": "Koyun Gelir Yata Yata",
+  "yore": "Gaziantep",
+  "hikaye": "Koyun Gelir Yata Yata, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koyun gelir yata yata",
+        "Çamurlara bata bata",
+        "Gelin Ayşe'm sele gitmiş",
+        "Yosunları tuta tuta"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Ayşe'm yaman Ayşe'm",
+        "Dağlar başı duman Ayşe'm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koyun gelir yozuyunan",
+        "Ayağının tozuyunan",
+        "Gelin Ayşe'm sele gitmiş",
+        "Yanı çifte kuzuyunan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Ayşe'm yaman Ayşe'm",
+        "Dağlar başı duman Ayşe'm"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Koyun%20Gelir%20Yata%20Yata%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Koyun%20Gelir%20Yata%20Yata",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Koyun Gelir Yata Yata",
+      "url": "https://tr.wikisource.org/wiki/Koyun_Gelir_Yata_Yata",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

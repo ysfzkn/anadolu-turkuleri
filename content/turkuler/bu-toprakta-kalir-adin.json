@@ -1,0 +1,69 @@
+{
+  "slug": "bu-toprakta-kalir-adin",
+  "baslik": "Bu Toprakta Kalır Adın",
+  "yore": "Giresun",
+  "hikaye": "Bu Toprakta Kalır Adın, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tohumların arasında,",
+        "Yeşilinde tarlaların,",
+        "Başakların sarısında."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Günü gelir dağa çıkar,",
+        "Yıldızlardan şiir çeker,",
+        "Kanımızı siler yıkar,",
+        "Suların en durusunda."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bayrak olur bize yarın,",
+        "Rüzgârıyla ilkbaharı,",
+        "Dalgalanır genç kızları,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gözlerimin karasında.",
+        "Gözlerimin karasında.",
+        "Gözlerimin karasında.",
+        "Gözlerimin karasında."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bu%20Toprakta%20Kal%C4%B1r%20Ad%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bu%20Toprakta%20Kal%C4%B1r%20Ad%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bu Toprakta Kalır Adın",
+      "url": "https://tr.wikisource.org/wiki/Bu_Toprakta_Kal%C4%B1r_Ad%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

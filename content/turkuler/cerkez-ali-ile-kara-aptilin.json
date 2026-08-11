@@ -1,0 +1,91 @@
+{
+  "slug": "cerkez-ali-ile-kara-aptilin",
+  "baslik": "Çerkez Ali İle Kara Aptilin",
+  "yore": "Manisa",
+  "hikaye": "Çerkez Ali İle Kara Aptilin, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Göveli‟den çıktım başım selamet",
+        "Arap dersinde koptu kıyamet",
+        "Kıymayın efeler benim canıma",
+        "Sağolursam komam senin yanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Göveli ile şu Sayıkın arası",
+        "Pek mi koygun Çerkez Ali‟nin yarası",
+        "Kalizoğlu mehlem bulup sarası",
+        "Kıymayın efeler benim canıma",
+        "Sağolursam komam senin yanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara Aptil şu dağlardan yürüdü",
+        "Göveli‟ye kara duman bürüdü",
+        "Çerkez Ali şu arada bir idi",
+        "Kıymayın efeler benim canıma",
+        "Sağolursam komam senin yanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erken gider Göveli‟nin ineği",
+        "Kara Aptil gece yapmış gümeyi",
+        "Gel Kalizoğlu kaldır benim ölümü",
+        "Demirci‟ye doğru döndürdüler yönümü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erken öter Göveli‟nin horozu",
+        "Urganlara geçmiş Çerkez Ali‟nin boğazı",
+        "N‟olaydı n‟olaydı altılım, kamam olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadifenin endazesi mecide",
+        "Çerkez Ali kayıp gitti gecede",
+        "Kara Fatma‟m olsun sana mücüde",
+        "Kıymayın efeler sizin ben de neniz var",
+        "Göveli köyünde Ali Rıza oğlum var"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87erkez%20Ali%20%C4%B0le%20Kara%20Aptilin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87erkez%20Ali%20%C4%B0le%20Kara%20Aptilin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çerkez Ali İle Kara Aptilin",
+      "url": "https://tr.wikisource.org/wiki/%C3%87erkez_Ali_%C4%B0le_Kara_Aptilin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "oglan-done-kiz-done",
+  "baslik": "Oğlan Döne Kız Döne",
+  "yore": "Konya",
+  "hikaye": "Oğlan Döne Kız Döne, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan döne kız döne",
+        "Gelin mi oldun gene",
+        "Gelin olduğun gece",
+        "Oynarım döne döne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan yaylı kız yaylı",
+        "Dayanamıyom ben gayrı",
+        "Asker oldum gidiyom",
+        "Dayanamıyom ben gayrı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan kayda kız kayda",
+        "İkimiz de bir boyda",
+        "Sen yanma ben yanayım",
+        "Ben yanmışam ne fayda"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=O%C4%9Flan%20D%C3%B6ne%20K%C4%B1z%20D%C3%B6ne%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/O%C4%9Flan%20D%C3%B6ne%20K%C4%B1z%20D%C3%B6ne",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oğlan Döne Kız Döne",
+      "url": "https://tr.wikisource.org/wiki/O%C4%9Flan_D%C3%B6ne_K%C4%B1z_D%C3%B6ne",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

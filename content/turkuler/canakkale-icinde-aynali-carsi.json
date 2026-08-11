@@ -1,0 +1,51 @@
+{
+  "slug": "canakkale-icinde-aynali-carsi",
+  "baslik": "Çanakkale İçinde Aynalı Çarşı",
+  "yore": "Kastamonu",
+  "hikaye": "Çanakkale İçinde Aynalı Çarşı, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çanakkkale içinde aynalı çarşı",
+        "Ana ben gidiyorum düşmana karşı... Ah gençliğim eyvah...",
+        "Çanakkale üstünü duman bürüdüOn üçüncü fırka harbe yürüdü... Ah gençliğim eyvah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çanakkale içinde bir uzun selvi.",
+        "Kimimiz nişanlı, kimimiz evli... Ah gençliğim eyvah...",
+        "Çanakkale içinde bir dolu testiAnalar babalar mektubu kesti...Ah gençliğim eyvah"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87anakkale%20%C4%B0%C3%A7inde%20Aynal%C4%B1%20%C3%87ar%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87anakkale%20%C4%B0%C3%A7inde%20Aynal%C4%B1%20%C3%87ar%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çanakkale İçinde Aynalı Çarşı",
+      "url": "https://tr.wikisource.org/wiki/%C3%87anakkale_%C4%B0%C3%A7inde_Aynal%C4%B1_%C3%87ar%C5%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

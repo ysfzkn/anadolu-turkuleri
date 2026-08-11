@@ -1,0 +1,53 @@
+{
+  "slug": "istemem-tabibi-lokmani-buldum",
+  "baslik": "İstemem Tabibi Lokmani Buldum",
+  "yore": "Samsun",
+  "hikaye": "İstemem Tabibi Lokmani Buldum, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstemem tâbibi, Lokmanî buldum",
+        "Gizli yarelerim (de) deştim ne dersin?",
+        "Hakgın (/Hákĭň) hikmetinden ummana daldım",
+        "Bahar seli gibi (de) coşdum ne dersin (dersin ey!)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Selam verdim selamımdan aldılar",
+        "Gönümdeki muradımı bildiler",
+        "Doldurayı bir gadef rakı verdiler (verdiler)",
+        "Aşgın badesini içdim ne dersin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0stemem%20Tabibi%20Lokmani%20Buldum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0stemem%20Tabibi%20Lokmani%20Buldum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İstemem Tabibi Lokmani Buldum",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0stemem_Tabibi_Lokmani_Buldum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Samsun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

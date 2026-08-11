@@ -1,0 +1,52 @@
+{
+  "slug": "gedin-deyin-han-cobana",
+  "baslik": "Gedin Deyin Han Çobana",
+  "yore": "Kars",
+  "hikaye": "Gedin Deyin Han Çobana, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gedin deyin Han Çoban’a",
+        "Gelmesin bu el Mugan’a",
+        "Gelse batar nahak ganaApardı seller Saram’ıBir uca boylu balamı",
+        "Arpaçayı derin olmaz",
+        "Akarsular serin olmaz",
+        "Saram kimi gelin olmazApardı seller Saram’ıBir uca boylu balamı",
+        "Arpaçayı aştı taştı",
+        "Sel Saramı aldı kaştı",
+        "Üç bacının gözü yaşlıApardı seller Saram’ıBir ucu boylu balamı",
+        "Arabalar gelir goşa",
+        "Men kurbanam gelem gaşa",
+        "Oğlan elin çıktı boşaApardı seller Saram’ıBir uca boylu balamı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gedin%20Deyin%20Han%20%C3%87obana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gedin%20Deyin%20Han%20%C3%87obana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gedin Deyin Han Çobana",
+      "url": "https://tr.wikisource.org/wiki/Gedin_Deyin_Han_%C3%87obana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

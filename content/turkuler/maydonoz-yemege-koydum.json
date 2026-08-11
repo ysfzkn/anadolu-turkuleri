@@ -1,0 +1,87 @@
+{
+  "slug": "maydonoz-yemege-koydum",
+  "baslik": "Maydonoz Yemeğe Koydum",
+  "yore": "Konya",
+  "hikaye": "Maydonoz Yemeğe Koydum, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maydonoz yemeğe koydum aman Eminem",
+        "Ellerim karalandı",
+        "Yar üstüme yar sevmiş",
+        "On parmağı kınalım",
+        "Yüreğim yaralandı",
+        "Yar üstüme yar sevmiş",
+        "On parmağı kınalım",
+        "Yüreğim yaralandı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı gülün alı var aman Eminem",
+        "Gül yolla yağlığı var",
+        "Yağlık kurur gül çürür",
+        "On parmağı kınalım",
+        "Sen git bir mani mi var",
+        "Yağlık kurur gül çürür",
+        "On parmağı kınalım",
+        "Sen git bir mani mi var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kiraz dalını eğer mi aman Eminem",
+        "Dalı yere değer mi",
+        "Seni sevmeyen aşık",
+        "On parmağı kınalım",
+        "Burda boyun eğer mi",
+        "Seni sevmeyen aşık",
+        "On parmağı kınalım",
+        "Burda boyun eğer mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderken göndereyim aman Eminem",
+        "Ben sensiz ne edeyim",
+        "Ya beni birlik götür",
+        "On parmağı kınalım",
+        "Ya kendimi öldüreyim",
+        "Ya beni birlik götür",
+        "On parmağı kınalım",
+        "Ya kendimi öldüreyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Maydonoz%20Yeme%C4%9Fe%20Koydum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Maydonoz%20Yeme%C4%9Fe%20Koydum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Maydonoz Yemeğe Koydum",
+      "url": "https://tr.wikisource.org/wiki/Maydonoz_Yeme%C4%9Fe_Koydum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

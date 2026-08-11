@@ -1,0 +1,52 @@
+{
+  "slug": "gitme-gidenlerinen",
+  "baslik": "Gitme Gidenlerinen",
+  "yore": "Yozgat",
+  "hikaye": "Gitme Gidenlerinen, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Şu boyda) gitme gidenlerinen",
+        "(Şu boyda) boyu fidanlarınan",
+        "(Şu boyda) n'olur bir selam gönder",
+        "(Şu boyda) gelip gidenlerinen",
+        "(Şu boyda) gidiyom gidemiyom",
+        "(Şu boyda) sevdim terkedemiyon",
+        "(Şu boyda) sevdiğim pek küçücek",
+        "(Şu boyda) bırakıp gidemiyom",
+        "(Şu boyda) dam başında pıtırak",
+        "(Şu boyda) gelin kızlar oturak",
+        "(Şu boyda) ne oturak ne durak",
+        "(Şu boyda) satılakta kurtulak"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gitme%20Gidenlerinen%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gitme%20Gidenlerinen",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gitme Gidenlerinen",
+      "url": "https://tr.wikisource.org/wiki/Gitme_Gidenlerinen",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

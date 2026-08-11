@@ -1,0 +1,62 @@
+{
+  "slug": "mavilim-maviselim",
+  "baslik": "Mavilim Mavişelim",
+  "yore": "Kırıkkale",
+  "hikaye": "Mavilim Mavişelim, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavilim mavişelim",
+        "Tenhada buluşalım (mavilim)",
+        "Kurban olduğum allah",
+        "Tez gönder kavuşalım (mavilim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavilim herg ediyo",
+        "Hergini terk ediyo (mavilim)",
+        "Hergin başını yesin",
+        "Yarim elden gidiyo (mavilim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavilim kalk gidelim",
+        "Feneri yak gidelim (mavilim)",
+        "Bizimle gelen olmaz",
+        "Sılayı terk edelim (mavilim)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mavilim%20Mavi%C5%9Felim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mavilim%20Mavi%C5%9Felim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mavilim Mavişelim",
+      "url": "https://tr.wikisource.org/wiki/Mavilim_Mavi%C5%9Felim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "denize-dalacagim",
+  "baslik": "Denize Dalacağım",
+  "yore": "Muğla",
+  "hikaye": "Denize Dalacağım, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denize dalacağım",
+        "Bir balık alacağım",
+        "Ahdettim yemin ettim",
+        "Kız seni alacağım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İrmeden gel irmeden (Ninna Nima)",
+        "Hiç kimseler görmeden (Ninna Nima)",
+        "Kız bana varıcekmin (Ninna Ninna)",
+        "Şu kamayı yemeden (Ninna Ninna)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz dibi erişte",
+        "Uğra bize gelişte",
+        "Kız söyle kardeşine",
+        "Olacağım enişte"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz üstü tekneli",
+        "Kil seni ne etmeli",
+        "Eğer seni almazsam",
+        "Şu diyardan gitmeli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Denize%20Dalaca%C4%9F%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Denize%20Dalaca%C4%9F%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Denize Dalacağım",
+      "url": "https://tr.wikisource.org/wiki/Denize_Dalaca%C4%9F%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

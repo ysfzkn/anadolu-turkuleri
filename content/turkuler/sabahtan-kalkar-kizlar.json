@@ -1,0 +1,71 @@
+{
+  "slug": "sabahtan-kalkar-kizlar",
+  "baslik": "Sabahtan Kalkar Kızlar",
+  "yore": "Trabzon",
+  "hikaye": "Sabahtan Kalkar Kızlar, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan kalkar kızlar (da)",
+        "Bakayiler aynaya",
+        "Geyindi kuşandılar",
+        "Gidecekler yaylaya (gidecekler vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O yaylalar yaylalar (da)",
+        "Horon eder uşaklar (horon eder u)",
+        "Gomarluğun içinde",
+        "Seven seveni arar (seven seveni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daruldun mi sevdiğum (da)",
+        "İki tekcuk sözüme (iki tekcuk sö)",
+        "Dedi bakmayirum utanıyurum",
+        "Yuzun değdi yüzüme (yüzün değdi yü)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Niye gaçarsın e gız (da)",
+        "Yiyecemuyum seni",
+        "Adam adamı yesa",
+        "Yerdi baban neneni (yerdi baban ne)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabahtan%20Kalkar%20K%C4%B1zlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabahtan%20Kalkar%20K%C4%B1zlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahtan Kalkar Kızlar",
+      "url": "https://tr.wikisource.org/wiki/Sabahtan_Kalkar_K%C4%B1zlar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

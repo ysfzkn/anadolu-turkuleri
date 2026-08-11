@@ -1,0 +1,62 @@
+{
+  "slug": "gokcukur",
+  "baslik": "Gökçukur",
+  "yore": "Mersin",
+  "hikaye": "Gökçukur, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökçukur' a giderken",
+        "Yolda bayram ederken",
+        "Bir güzele vuruldum",
+        "Koyun da kuzu güderken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökçukur'un katıranı",
+        "Çoltumunda oturanı",
+        "Beşyüz altın vereceğim",
+        "Durducuğu getirene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökçukur'da dut bitmiş",
+        "Yapracığı gıt bitmiş",
+        "O gavurun gızcağızı",
+        "Beni de nasıl unutmuş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6k%C3%A7ukur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6k%C3%A7ukur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gökçukur",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6k%C3%A7ukur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

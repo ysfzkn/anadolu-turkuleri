@@ -1,0 +1,101 @@
+{
+  "slug": "karam",
+  "baslik": "Karam",
+  "yore": "İstanbul",
+  "hikaye": "Karam, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of köprüler yaptırdım gelip geçmeye",
+        "Çeşmeler yaptırdım suyun içmeye Karam",
+        "İçmeye Karam aman içmeye vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of kavli karar ettim alıp kaçmaya",
+        "Boşa kostaklanma lazım değilsin Karam",
+        "Değilsin bayan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey daracık yollarda yare kavuştum",
+        "Yar aşağı ben yukarı savuştum Karam",
+        "Savuştum Karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey gitme meyhaneye adın dillenir",
+        "Beyaz giyme eteklerin kirlenir Karam",
+        "Kirlenir Karam aman kirlenir vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of armudun dalında pazar eyledim",
+        "Kaşına gözüne nazar eyledim karam",
+        "Eyledim Karam aman",
+        "Eyledim vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey seksen şeftaliye pazar eyledim",
+        "Yanılmış da yüz almışım sevdiğim Karam",
+        "Sevdiğim Karam aman sevdiğim vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of köprüler yaptırdım gelip geçmeye",
+        "Çeşmeler yaptırdım suyun içmeye",
+        "Karam içmeye Karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kavli karar ettim alıp kaçmaya",
+        "Boşa kostaklanma kostak değilsin",
+        "Karam değilsin Karam değilsin",
+        "Karam maman aman değilsin hey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karam",
+      "url": "https://tr.wikisource.org/wiki/Karam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

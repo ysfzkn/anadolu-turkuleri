@@ -1,0 +1,46 @@
+{
+  "slug": "yester-olmus-kalkin-gidek-mezara",
+  "baslik": "Yester Ölmüş Kalkın Gidek Mezara",
+  "yore": "Gaziantep",
+  "hikaye": "Yester Ölmüş Kalkın Gidek Mezara, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yester ölmüş kalkın gidek mezara",
+        "Manocular erken çıkar pazara",
+        "Bütün Antep nalet eder Nazar’aSöyle doktor söyle ölecek miyimÖlmeden yarimi görecek miyim.",
+        "Yesterin giydiği hareli kumaş",
+        "Yandım doktor yandım derdime ulaş",
+        "Nazar’ı görünce köşeyi dolaşSöyle doktor söyle ölecek miyimÖlmeden yarimi görecek miyim."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yester%20%C3%96lm%C3%BC%C5%9F%20Kalk%C4%B1n%20Gidek%20Mezara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yester%20%C3%96lm%C3%BC%C5%9F%20Kalk%C4%B1n%20Gidek%20Mezara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yester Ölmüş Kalkın Gidek Mezara",
+      "url": "https://tr.wikisource.org/wiki/Yester_%C3%96lm%C3%BC%C5%9F_Kalk%C4%B1n_Gidek_Mezara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gaziantep",
+    "anonim",
+    "açık arşiv"
+  ]
+}

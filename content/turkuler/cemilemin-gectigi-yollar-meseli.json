@@ -1,0 +1,51 @@
+{
+  "slug": "cemilemin-gectigi-yollar-meseli",
+  "baslik": "Cemile'min Geçtiği Yollar Meşeli",
+  "yore": "Denizli",
+  "hikaye": "Cemile'min Geçtiği Yollar Meşeli, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemile'nin geçtiği yollar meşeli",
+        "Aman üç gün oldu ben bu derde düşeli.",
+        "Haydi üç gün oldu ben bu derde düşeli."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cemile'm sen bu yayladan gittin gideli",
+        "Aman oldum ben bir haydi oldum ben bir deli",
+        "Aman oldum ben bir havdı oldum ben bir deli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cemile'min%20Ge%C3%A7ti%C4%9Fi%20Yollar%20Me%C5%9Feli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cemile'min%20Ge%C3%A7ti%C4%9Fi%20Yollar%20Me%C5%9Feli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cemile'min Geçtiği Yollar Meşeli",
+      "url": "https://tr.wikisource.org/wiki/Cemile'min_Ge%C3%A7ti%C4%9Fi_Yollar_Me%C5%9Feli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

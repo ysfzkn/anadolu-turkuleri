@@ -1,0 +1,122 @@
+{
+  "slug": "doktor-civanim",
+  "baslik": "Doktor Civanım",
+  "yore": "Kayseri",
+  "hikaye": "Doktor Civanım, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir elinde bağlama",
+        "Kara gözlüm ağlama",
+        "Ben buralı değilim",
+        "Bana gönül bağlama",
+        "Ben buralı değilim",
+        "Bana gönül bağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doktor civanım",
+        "Doktor doktor imanım",
+        "Ah neler istiyor canım",
+        "Ne istersen vereyim",
+        "Ben senin olayım",
+        "Doktor civanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir elinde sazı",
+        "Çalar bazı bazı",
+        "Sen babamı kandır",
+        "Anan dünden razı",
+        "Sen babamı kandır",
+        "Anan dünden razı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doktor civanım",
+        "Doktor doktor imanım",
+        "Ah neler istiyor canım",
+        "Ne istersen vereyim",
+        "Ben senin olayım",
+        "Doktor civanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir elinde cura",
+        "Çal vura vura",
+        "Küçük ablan geliyor",
+        "Bel kıra kıra",
+        "Küçük hanım geliyor",
+        "Bel kıra kıra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doktor civanım",
+        "Doktor doktor imanım",
+        "Ah neler istiyor canım",
+        "Ne istersen vereyim",
+        "Ben senin olayım",
+        "Doktor civanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir elinde fener",
+        "Köşeleri döner",
+        "Sıladan mı geldin",
+        "Fidan boylu Ömer",
+        "Sıladan mı geldin",
+        "Fidan boylu Ömer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doktor civanım",
+        "Doktor doktor imanım",
+        "Ah neler istiyor canım",
+        "Ailece verelim",
+        "Biz sizin olalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Doktor%20Civan%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Doktor%20Civan%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Doktor Civanım",
+      "url": "https://tr.wikisource.org/wiki/Doktor_Civan%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

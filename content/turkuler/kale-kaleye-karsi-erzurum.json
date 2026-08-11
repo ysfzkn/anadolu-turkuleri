@@ -1,0 +1,83 @@
+{
+  "slug": "kale-kaleye-karsi-erzurum",
+  "baslik": "Kale Kaleye Karşı",
+  "yore": "Erzurum",
+  "hikaye": "Kale Kaleye Karşı, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye karşı",
+        "Kalenin dibi çarşı",
+        "Sen zülüf gölgesinde (Güzel)",
+        "Ben yandım güne karşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız anam babam Pasinli güzel Pasinli güzel",
+        "Çekemedim gurbet elin yasını güzel yasını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ay doğdu Pasin'den",
+        "Pasin'in ortasından",
+        "Öyle bir yar sevdim ki (Güzel)",
+        "Katmer gülün hasından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız anam babam Pasinli güzel Pasinli güzel",
+        "Çekemedim gurbet elin yasını güzel yasını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim bugün",
+        "Elimde altın güğüm",
+        "Ben öleyim sevdiğim (Güzel)",
+        "Ne dün gördüm ne bugün"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız anam babam Pasinli güzel Pasinli güzel",
+        "Çekemedim gurbet elin yasını güzel yasını"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kale%20Kaleye%20Kar%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kale%20Kaleye%20Kar%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kale Kaleye Karşı (Erzurum)",
+      "url": "https://tr.wikisource.org/wiki/Kale_Kaleye_Kar%C5%9F%C4%B1_(Erzurum)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

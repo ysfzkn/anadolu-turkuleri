@@ -1,0 +1,59 @@
+{
+  "slug": "cihar-attim-ses-oynadim",
+  "baslik": "Cıhar Attım Şeş Oynadım",
+  "yore": "Erzincan",
+  "hikaye": "Cıhar Attım Şeş Oynadım, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cıhar attım şeş oynadım",
+        "Dubarayla yendi de beni hele de beni yâr beni",
+        "Gız severim ben seni de yâr severim ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dübeş attım şeş oynadım",
+        "Dubarayla yendi de beni hele de beni yâr beni",
+        "Gız severim ben seni de yâr severim ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düsse attım şeş oynadım",
+        "Dübarayla yendi de beni hele de beni yâr beni",
+        "Gız severim ben seni de yâr severim ben sen"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=C%C4%B1har%20Att%C4%B1m%20%C5%9Ee%C5%9F%20Oynad%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/C%C4%B1har%20Att%C4%B1m%20%C5%9Ee%C5%9F%20Oynad%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cıhar Attım Şeş Oynadım",
+      "url": "https://tr.wikisource.org/wiki/C%C4%B1har_Att%C4%B1m_%C5%9Ee%C5%9F_Oynad%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

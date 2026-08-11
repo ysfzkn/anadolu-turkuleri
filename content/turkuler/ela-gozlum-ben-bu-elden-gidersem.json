@@ -1,0 +1,62 @@
+{
+  "slug": "ela-gozlum-ben-bu-elden-gidersem",
+  "baslik": "Ela Gözlüm Ben Bu Elden Gidersem",
+  "yore": "Erzurum",
+  "hikaye": "Ela Gözlüm Ben Bu Elden Gidersem, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ela gözlüm ben bu elden gidersem",
+        "Zülfü perişanım kal melûl melûl",
+        "Kerem et aklından çıkarma beni",
+        "Ağla gözyaşını sil melûl melûl"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elvan çiçekleri takma başına",
+        "Kudret kalemini çekme kaşına",
+        "Beni ağlatırsan doyma yaşıma",
+        "Ağla gözyaşını sil melûl melûl"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karacoğlan der ki ölüp gidince",
+        "Bende güzel sevdim kendi halimce",
+        "Varıp gurbet ele vasıl olunca",
+        "Dostlardan haberim al melûl melûl"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ela%20G%C3%B6zl%C3%BCm%20Ben%20Bu%20Elden%20Gidersem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ela%20G%C3%B6zl%C3%BCm%20Ben%20Bu%20Elden%20Gidersem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ela Gözlüm Ben Bu Elden Gidersem",
+      "url": "https://tr.wikisource.org/wiki/Ela_G%C3%B6zl%C3%BCm_Ben_Bu_Elden_Gidersem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

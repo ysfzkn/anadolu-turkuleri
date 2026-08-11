@@ -1,0 +1,51 @@
+{
+  "slug": "deve-yuksek-atamadim-urgani",
+  "baslik": "Deve Yüksek Atamadım Urganı",
+  "yore": "Çankırı",
+  "hikaye": "Deve Yüksek Atamadım Urganı, Vikikaynak'ın Çankırı türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deve yüksek atamadım urganı",
+        "Üşüdükçe çek başına yorganı",
+        "Susadıkça ver ağzıma gerdanı",
+        "Ah neyleyim yarim ellere yar olmuş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman Fazlı'm",
+        "Ölüyorum yanıyorum Fazlı'm"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Deve%20Y%C3%BCksek%20Atamad%C4%B1m%20Urgan%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Deve%20Y%C3%BCksek%20Atamad%C4%B1m%20Urgan%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Deve Yüksek Atamadım Urganı (Çankırı)",
+      "url": "https://tr.wikisource.org/wiki/Deve_Y%C3%BCksek_Atamad%C4%B1m_Urgan%C4%B1_(%C3%87ank%C4%B1r%C4%B1)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çankırı",
+    "anonim",
+    "açık arşiv"
+  ]
+}

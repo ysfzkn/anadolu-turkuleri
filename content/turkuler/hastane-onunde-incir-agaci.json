@@ -1,0 +1,46 @@
+{
+  "slug": "hastane-onunde-incir-agaci",
+  "baslik": "Hastane Önünde İncir Ağacı",
+  "yore": "Yozgat",
+  "hikaye": "Hastane Önünde İncir Ağacı, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hastane önü incir ağacı, anam ağacı,",
+        "Doktor bulamadı bana ilacı, anam ilacı,",
+        "Baştabip geliyor zehirden acı, anam vay acı.Garip kaldım yüreğime dert oldu,Ellerin vatanı bana yurt oldu.",
+        "Mezarımı kazın bayırdan düze.",
+        "Yönümü çevirin sıladan yüze.",
+        "Benden selam demen hayırsız kıza.Gurbet elde garip kaldım ağlarım,Ateş aldım yüreğimi dağlarım."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hastane%20%C3%96n%C3%BCnde%20%C4%B0ncir%20A%C4%9Fac%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hastane%20%C3%96n%C3%BCnde%20%C4%B0ncir%20A%C4%9Fac%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hastane Önünde İncir Ağacı",
+      "url": "https://tr.wikisource.org/wiki/Hastane_%C3%96n%C3%BCnde_%C4%B0ncir_A%C4%9Fac%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

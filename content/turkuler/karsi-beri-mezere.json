@@ -1,0 +1,62 @@
+{
+  "slug": "karsi-beri-mezere",
+  "baslik": "Karşı Beri Mezere",
+  "yore": "Trabzon",
+  "hikaye": "Karşı Beri Mezere, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşı beri Mezere",
+        "İçinden akar dere",
+        "Gördü seni gözlerim (de)",
+        "Bakar mı başka yere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ormanın ağaçları",
+        "Dalgalıdır dalgalıdır",
+        "İlişmeyin gülüme (de)",
+        "Sevdalıdır sevdalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Goyun beklerim goyun",
+        "Kurt yeri bacağını",
+        "Seni benden alanın (da)",
+        "Yıkarım ocağını"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%C5%9F%C4%B1%20Beri%20Mezere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%C5%9F%C4%B1%20Beri%20Mezere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karşı Beri Mezere",
+      "url": "https://tr.wikisource.org/wiki/Kar%C5%9F%C4%B1_Beri_Mezere",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

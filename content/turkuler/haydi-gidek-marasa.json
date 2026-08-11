@@ -1,0 +1,71 @@
+{
+  "slug": "haydi-gidek-marasa",
+  "baslik": "Haydi Gidek Maraş'a",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Haydi Gidek Maraş'a, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi gidek Maraş'a",
+        "Kurbanım kara kaşa",
+        "İki gönül bir olsa",
+        "Ne yapar ağa paşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Döne Döne Döne",
+        "Gelin mi oldun sen yine",
+        "Gelin olduğun gece",
+        "Sarardım soldum Döne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Parmağımda tel yüzük",
+        "Parmağım oynamıyor",
+        "Kız senden başkasına",
+        "Hiç kanım kaynamıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar aşar gider",
+        "Koca Maraş'a gider",
+        "Komşularda yar seven",
+        "Emeği boşa gider"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Haydi%20Gidek%20Mara%C5%9F'a%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Haydi%20Gidek%20Mara%C5%9F'a",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Haydi Gidek Maraş'a",
+      "url": "https://tr.wikisource.org/wiki/Haydi_Gidek_Mara%C5%9F'a",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

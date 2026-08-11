@@ -1,0 +1,114 @@
+{
+  "slug": "ne-de-guzel-kaslarin-var",
+  "baslik": "Ne de Güzel Kaşların Var",
+  "yore": "İstanbul",
+  "hikaye": "Ne de Güzel Kaşların Var, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel gerdanın var",
+        "(Kadın) Beşibirlik ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel gerdanın var",
+        "(Kadın) Beşibirlik ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel kolların var",
+        "(Kadın) Altın bilezik ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel saçların var",
+        "(Kadın) Altın taraklar ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel bellerin var",
+        "(Kadın) Gümüş kemerler ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Ne de güzel ayağın var",
+        "(Kadın) Altın papuçlar ister Osman Aga",
+        "(Erkek) Sabah olsun çarşıya varayım",
+        "(Kadın) Sabahlara dayanamam Osman Aga",
+        "Yalancısın inanamam Osman Aga"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Farklı Sözler",
+        "(Erkek)Ne de güzel kaşların var",
+        "Ne de güzel kaşların var",
+        "(Kadın)Rastık sürmek ister Osman Ağa",
+        "Rastık sürmek ister Osman Ağa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek)Sabah olsun çarsıya giderim",
+        "Sabah olsun çarsıya giderim",
+        "(Kadın)Sabahlara dayanamam Osman Ağa",
+        "Yalancısın inanamam Osman Ağa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ne%20de%20G%C3%BCzel%20Ka%C5%9Flar%C4%B1n%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ne%20de%20G%C3%BCzel%20Ka%C5%9Flar%C4%B1n%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ne de Güzel Kaşların Var",
+      "url": "https://tr.wikisource.org/wiki/Ne_de_G%C3%BCzel_Ka%C5%9Flar%C4%B1n_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

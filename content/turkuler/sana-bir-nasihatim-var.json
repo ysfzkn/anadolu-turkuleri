@@ -1,0 +1,71 @@
+{
+  "slug": "sana-bir-nasihatim-var",
+  "baslik": "Sana Bir Nasihatım Var",
+  "yore": "Kars",
+  "hikaye": "Sana Bir Nasihatım Var, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sana bir nasihatım var",
+        "Gel yanıma hele gardaş",
+        "Uzaktan arayıp gezme",
+        "Gitme elden ele gardaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harama sürme elini",
+        "Kötüden sakın kendini",
+        "Bazen hıfzeyle dilini",
+        "Dilden gelir belâ gardaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dinle okunan fermanı",
+        "Bulasın derdine dermanı",
+        "Terse savurma harmanı",
+        "Dane gider yele gardaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Katibim geldim Cihana",
+        "Şükür olsun Asumana",
+        "Halin arzeyle Sultana",
+        "Minnet etme kula Gardaş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sana%20Bir%20Nasihat%C4%B1m%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sana%20Bir%20Nasihat%C4%B1m%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sana Bir Nasihatım Var",
+      "url": "https://tr.wikisource.org/wiki/Sana_Bir_Nasihat%C4%B1m_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

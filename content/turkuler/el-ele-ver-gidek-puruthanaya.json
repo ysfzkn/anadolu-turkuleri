@@ -1,0 +1,65 @@
+{
+  "slug": "el-ele-ver-gidek-puruthanaya",
+  "baslik": "El Ele Ver Gidek Puruthanaya",
+  "yore": "Diyarbakır",
+  "hikaye": "El Ele Ver Gidek Puruthanaya, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El ele ver gidah puruthanaya",
+        "Kurban olum seni doğ[u]ran anaya",
+        "Seni doğurdu beni de saldı belaya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeni de duydum sevdalısın sevdalı",
+        "Şu derdimin dermanısın dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne durursun dağ başında ay kimi",
+        "Yanakları elma kimi nar kimi",
+        "Gel sarılak ikimiz bir can kimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeni de duydum sevdalısın sevdalı",
+        "Şu derdimin dermanısın dermanı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=El%20Ele%20Ver%20Gidek%20Puruthanaya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/El%20Ele%20Ver%20Gidek%20Puruthanaya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — El Ele Ver Gidek Puruthanaya",
+      "url": "https://tr.wikisource.org/wiki/El_Ele_Ver_Gidek_Puruthanaya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

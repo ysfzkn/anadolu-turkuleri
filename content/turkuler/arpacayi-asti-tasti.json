@@ -1,0 +1,65 @@
+{
+  "slug": "arpacayi-asti-tasti",
+  "baslik": "Arpaçay'ı Aştı Taştı",
+  "yore": "Iğdır",
+  "hikaye": "Arpaçay'ı Aştı Taştı, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpaçay'ı aştı taştı,",
+        "Sel Saramı aldı kaçtı,",
+        "Üç bacının gözü yaştı,",
+        "Apardı seller Saramı,",
+        "Bir uca boylu balamı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpaçayı derin olmaz,",
+        "Akan sular serin olmaz,",
+        "Sara gibi gelin olmaz,",
+        "Apardı seller Saramı,",
+        "Bir uca boylu balamı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidin deyin Han Çoban'a,",
+        "Gelmesin bu el Mugan'a,",
+        "Gelse batar na-hak kana,",
+        "Apardı seller Saramı,",
+        "Bir uca boylu balamı."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Arpa%C3%A7ay'%C4%B1%20A%C5%9Ft%C4%B1%20Ta%C5%9Ft%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Arpa%C3%A7ay'%C4%B1%20A%C5%9Ft%C4%B1%20Ta%C5%9Ft%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Arpaçay'ı Aştı Taştı",
+      "url": "https://tr.wikisource.org/wiki/Arpa%C3%A7ay'%C4%B1_A%C5%9Ft%C4%B1_Ta%C5%9Ft%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "sokak-basi-meyhane",
+  "baslik": "Sokak Başı Meyhane",
+  "yore": "Giresun",
+  "hikaye": "Sokak Başı Meyhane, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sokak başı meyhane",
+        "Asmadandır kapısı",
+        "Ben gözüme aldırdım",
+        "On beş sene mapisi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanım oynasın oynasın",
+        "Sor cezveler gaynasın",
+        "Hanimi da saran doymasın",
+        "Saranda Murad almasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara koç boyanır mı",
+        "Öpsem var uyanır mı",
+        "İkimiz de sevdalı",
+        "Buna can dayanır mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanım oynasın oynasın",
+        "Sor cezveler gaynasın",
+        "Hanimi da saran doymasın",
+        "Saranda Murad almasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale bayırı düzü",
+        "Devriye sardı bizi",
+        "Hep beraber olalım",
+        "Vermiyelim şu gızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanım oynasın oynasın",
+        "Sor cezveler gaynasın",
+        "Hanimi da saran doymasın",
+        "Saranda Murad almasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alçacık beden yarim",
+        "Sallanıp giden yarim",
+        "Seviştik de ayrıldık",
+        "Sebebi neden yarim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanım oynasın oynasın",
+        "Sor cezveler gaynasın",
+        "Hanimi da saran doymasın",
+        "Saranda Murad almasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sokak%20Ba%C5%9F%C4%B1%20Meyhane%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sokak%20Ba%C5%9F%C4%B1%20Meyhane",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sokak Başı Meyhane",
+      "url": "https://tr.wikisource.org/wiki/Sokak_Ba%C5%9F%C4%B1_Meyhane",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

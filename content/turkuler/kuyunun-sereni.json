@@ -1,0 +1,86 @@
+{
+  "slug": "kuyunun-sereni",
+  "baslik": "Kuyunun Sereni",
+  "yore": "Isparta",
+  "hikaye": "Kuyunun Sereni, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuyunun sereni çamdır dayanmaz (imanım)",
+        "Gelinin tazesi uykulardan uyanmaz",
+        "Böyle oluşuna canlar dayanmaz (imanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah yandım",
+        "Pencereden el ediyor",
+        "Kaşın da şöyle dursun",
+        "Gözün beni del ediyoru"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hamamın gubbesi kirişten m'olur (imanım)",
+        "Yiğidin güzeli tıraştan m'olur",
+        "Gelinin selbesi yürüşten m'olur (imanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah yandım",
+        "Pencereden el ediyor",
+        "Kaşın da şöyle dursun",
+        "Gözün beni del ediyoru"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hamama giderken yol bulamadım. (imanım)",
+        "Çevreme koyacak nar bulamadım.",
+        "Kendime münasip yar bulamadım. (imanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah yandım",
+        "Pencereden el ediyor",
+        "Kaşın da şöyle dursun",
+        "Gözün beni del ediyoru"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kuyunun%20Sereni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kuyunun%20Sereni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kuyunun Sereni",
+      "url": "https://tr.wikisource.org/wiki/Kuyunun_Sereni",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

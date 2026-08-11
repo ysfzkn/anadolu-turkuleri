@@ -1,0 +1,71 @@
+{
+  "slug": "bir-su-ictim-testiden-kayseri",
+  "baslik": "Bir Su İçtim Testiden",
+  "yore": "Kayseri",
+  "hikaye": "Bir Su İçtim Testiden, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Bir su içtim testiden",
+        "Yavrum sensin beni mest eden",
+        "Erurem erurem erureru erurem",
+        "Sensin beni mest eden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman cennet mekanı olsun",
+        "Yavrum seni bana dost eden",
+        "Erurem erurem erureru erurem",
+        "Seni bana dost eden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman bir su içtim pınardan",
+        "Yavrum doyamadım tadından",
+        "Erurem erurem erureru erurem",
+        "Doyamadım tadından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Bana yardan vazgeç derler",
+        "Yavrum Nasıl geçem o yardan",
+        "Erurem erurem erureru erurem",
+        "Nasıl geçem o yardan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Su%20%C4%B0%C3%A7tim%20Testiden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Su%20%C4%B0%C3%A7tim%20Testiden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Su İçtim Testiden (Kayseri)",
+      "url": "https://tr.wikisource.org/wiki/Bir_Su_%C4%B0%C3%A7tim_Testiden_(Kayseri)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kayseri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

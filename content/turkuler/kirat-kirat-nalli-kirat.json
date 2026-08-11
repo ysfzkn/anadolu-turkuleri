@@ -1,0 +1,107 @@
+{
+  "slug": "kirat-kirat-nalli-kirat",
+  "baslik": "Kırat Kırat Nallı Kırat",
+  "yore": "Giresun",
+  "hikaye": "Kırat Kırat Nallı Kırat, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırat kırat nallı kırat",
+        "Yemen'in yolları ırak",
+        "Kırat kırat nallı kırat",
+        "Yemen'in yolları ırak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben Yemen'e dayanamam",
+        "Beni Erzincan'da bırak",
+        "Ben Yemen'e dayanamam",
+        "Beni Erzincan'da bırak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma dalı eydi m'ola",
+        "Ucu yere deydi m'ola",
+        "Elma dalı eydi m'ola",
+        "Ucu yere deydi m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asker çavuş öldü derler",
+        "Validesi duydu m'ola",
+        "Asker çavuş öldü derler",
+        "Validesi duydu m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Askerler bağlar matara",
+        "Toplar yüklenmiş katıra",
+        "Askerler bağlar matara",
+        "Toplar yüklenmiş katıra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahaca yatamıyom",
+        "Neler geliyor hatıra",
+        "Sabahaca yatamıyom",
+        "Neler geliyor hatıra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme Yemen'e Yemen'e",
+        "Yemen sıcak dayanaman",
+        "Gitme Yemen'e Yemen'e",
+        "Yemen sıcak dayanaman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalk borusu çalınınca",
+        "Sen küçüksün uyanaman",
+        "Kalk borusu çalınınca",
+        "Sen küçüksün uyanaman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1rat%20K%C4%B1rat%20Nall%C4%B1%20K%C4%B1rat%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1rat%20K%C4%B1rat%20Nall%C4%B1%20K%C4%B1rat",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kırat Kırat Nallı Kırat (Giresun)",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1rat_K%C4%B1rat_Nall%C4%B1_K%C4%B1rat_(Giresun)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "karsidadir-evleri-kirikkale",
+  "baslik": "Karşıdadır Evleri",
+  "yore": "Kırıkkale",
+  "hikaye": "Karşıdadır Evleri, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdadır evleri (ah leyli vah leyli emmoğlu)",
+        "Yayılır develeri (emmoğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emmoğlu ele benzer emmoğlu",
+        "Boyu fidana benzer emmoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağa gel bostana gel (ah leyli vah leyli emmoğlu)",
+        "Güle gel destana gel (emmoğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emmoğlu ele benzer emmoğlu",
+        "Boyu fidana benzer emmoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbakır şad akar (ah leyli vah leyli emmoğlu)",
+        "Urfa Mardin'e bakar (emmoğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emmoğlu ele benzer emmoğlu",
+        "Boyu fidana benzer emmoğlu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%C5%9F%C4%B1dad%C4%B1r%20Evleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%C5%9F%C4%B1dad%C4%B1r%20Evleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karşıdadır Evleri (Kırıkkale)",
+      "url": "https://tr.wikisource.org/wiki/Kar%C5%9F%C4%B1dad%C4%B1r_Evleri_(K%C4%B1r%C4%B1kkale)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

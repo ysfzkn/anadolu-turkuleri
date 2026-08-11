@@ -1,0 +1,71 @@
+{
+  "slug": "agarmis-saclarin",
+  "baslik": "Ağarmış Saçların",
+  "yore": "Şanlıurfa",
+  "hikaye": "Ağarmış Saçların, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağarmış saçların bir dağ başında kara dönmüştür",
+        "O zalim de benim başımda enhare dönmüştür",
+        "Tenimde cevher-i can çekilmez bir bare dönmüştür",
+        "Bütün muy-i siyahım bembeyaz ezhare dönmüştür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek gayet dönek bir cellat müthiştir",
+        "İçinden çıkması müşkilatlı bir iştir",
+        "Dünya sanki bir değirmen çark-ı eyyamı bir diştir",
+        "İçinde âdemoğlu ufak bir çavdara dönmüştür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Duyan yok söyleme başında bin türlü bela olsa",
+        "Emin olma ki her şahsa hatta evliya olsa",
+        "Sokar akrep gibi fırsat bulunca akraban olsa",
+        "Bütün ebnay-ı âdem zehirli mare dönmüştür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Muvakkattir eğer hükmeylersen dünyaya ser ta ser",
+        "Çıkar elinden ahırı bin yerinden bağlasan çember",
+        "Cihane sığmamışken bir mezara sığdı iskender",
+        "Varıp baksan o da şimdi yıkık bir gare dönmüştür"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Farm%C4%B1%C5%9F%20Sa%C3%A7lar%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Farm%C4%B1%C5%9F%20Sa%C3%A7lar%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağarmış Saçların",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Farm%C4%B1%C5%9F_Sa%C3%A7lar%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "sevda-olmasaydi",
+  "baslik": "Sevda Olmasaydı",
+  "yore": "Kırşehir",
+  "hikaye": "Sevda Olmasaydı, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevda olmasaydı da",
+        "Gönüle dolmasaydı",
+        "Dünya neye yarardı da",
+        "Güzeli olmasaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nar tanesi nar tanesi de",
+        "Seviyom nar danesi",
+        "Güzellerin içinde de",
+        "Sevdiğim bir tanesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O yar zülfünü tarar da",
+        "Gönül dengini arar",
+        "Bu dünyada sevmeyen de",
+        "Ahrette neye yarar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nar tanesi nar tanesi de",
+        "Seviyom nar danesi",
+        "Güzellerin içinde de",
+        "Sevdiğim bir tanesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevda ömür çürüdür",
+        "Has bahçenin gülüdür",
+        "Sevmeyeni neyleyim de",
+        "Sevenim sevgilidir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nar tanesi nar tanesi de",
+        "Seviyom nar danesi",
+        "Güzellerin içinde de",
+        "Sevdiğim bir tanesi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sevda%20Olmasayd%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sevda%20Olmasayd%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sevda Olmasaydı",
+      "url": "https://tr.wikisource.org/wiki/Sevda_Olmasayd%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

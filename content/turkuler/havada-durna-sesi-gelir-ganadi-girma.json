@@ -1,0 +1,53 @@
+{
+  "slug": "havada-durna-sesi-gelir-ganadi-girma",
+  "baslik": "Havada Durna Sesi Gelir Ganadı Gırma",
+  "yore": "Kütahya",
+  "hikaye": "Havada Durna Sesi Gelir Ganadı Gırma, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada durna sesi gelir ganadı gırma",
+        "Ağzı dolu yem getirir şeker ile hurma",
+        "Git güzel karşımda (bi danem) ağlayıp durma",
+        "Aç kapuyu nazlı yarim ben geliyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Burma da burma duman tüter dağın belinde",
+        "Okunmadık fermanım var düşman elinde",
+        "Bunu da yazan yanlış yazmış serhoş halinde",
+        "Gönder a beyim ben yazayım zülfüm telinle"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Havada%20Durna%20Sesi%20Gelir%20Ganad%C4%B1%20G%C4%B1rma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Havada%20Durna%20Sesi%20Gelir%20Ganad%C4%B1%20G%C4%B1rma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Havada Durna Sesi Gelir Ganadı Gırma",
+      "url": "https://tr.wikisource.org/wiki/Havada_Durna_Sesi_Gelir_Ganad%C4%B1_G%C4%B1rma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "allilar-daldan-dala-ip-gerdim",
+  "baslik": "Allılar Daldan Dala İp Gerdim",
+  "yore": "Kırşehir",
+  "hikaye": "Allılar Daldan Dala İp Gerdim, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allılar daldan dala ip gerdim",
+        "Allılar İpekli mendil serdim",
+        "Allılar bir zalimin oğlunu",
+        "Candan yürekten sevdim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allılar yeşilliler morlular",
+        "Allılar elleri desde güllüler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allılar İpeklidir mendilim",
+        "Allılar darılmış bana gülüm",
+        "Allılar ne dedim de darıldın?",
+        "Lal olsun ağzım dilim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allılar yeşilliler morlular",
+        "Allılar elleri desde güllüler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=All%C4%B1lar%20Daldan%20Dala%20%C4%B0p%20Gerdim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/All%C4%B1lar%20Daldan%20Dala%20%C4%B0p%20Gerdim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Allılar Daldan Dala İp Gerdim",
+      "url": "https://tr.wikisource.org/wiki/All%C4%B1lar_Daldan_Dala_%C4%B0p_Gerdim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

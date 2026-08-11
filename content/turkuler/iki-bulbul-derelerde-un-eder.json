@@ -1,0 +1,65 @@
+{
+  "slug": "iki-bulbul-derelerde-un-eder",
+  "baslik": "İki Bülbül Derelerde Ün Eder",
+  "yore": "Kütahya",
+  "hikaye": "İki Bülbül Derelerde Ün Eder, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki bülbül derelerde ün eder",
+        "Değirmende döne döne (gadınım da) un eder",
+        "O yar bana gel gel deye el eder"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonmada bülbül gonma eğride büğrüde dallere",
+        "Sen deli m'oldun gönül verdin güzelimde ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim dağın menevşesi top biter",
+        "Ortasında yedi türlü (gadınım da) ot biter",
+        "Benim derdim elalemden besbeter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonmada bülbül gonma eğride büğrüde dallere",
+        "Sen deli m'oldun gönül verdin güzelimde ellere"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0ki%20B%C3%BClb%C3%BCl%20Derelerde%20%C3%9Cn%20Eder%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0ki%20B%C3%BClb%C3%BCl%20Derelerde%20%C3%9Cn%20Eder",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İki Bülbül Derelerde Ün Eder",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0ki_B%C3%BClb%C3%BCl_Derelerde_%C3%9Cn_Eder",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

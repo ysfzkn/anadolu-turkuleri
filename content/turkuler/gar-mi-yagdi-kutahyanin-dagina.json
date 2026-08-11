@@ -1,0 +1,65 @@
+{
+  "slug": "gar-mi-yagdi-kutahyanin-dagina",
+  "baslik": "Gar mı Yağdı Kütahya'nın Dağına",
+  "yore": "Kütahya",
+  "hikaye": "Gar mı Yağdı Kütahya'nın Dağına, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gar mı yağdı kütahyanın dağına",
+        "Ateş düştü ciğerimin bağına",
+        "Gül donatmış şalvarının ağına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kayırma sevgilim gün böyle kalmaz",
+        "Yanar ciğerimin ateşi sönmez"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Melek misin yeşil dallar giyersin",
+        "Cellat mısın tatlı cana kıyarsın",
+        "Çocuk musun el sözüne uyarsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açıldı çiçekler gelmedi yazlar",
+        "Elleri koynunda bir gelin ağlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gar%20m%C4%B1%20Ya%C4%9Fd%C4%B1%20K%C3%BCtahya'n%C4%B1n%20Da%C4%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gar%20m%C4%B1%20Ya%C4%9Fd%C4%B1%20K%C3%BCtahya'n%C4%B1n%20Da%C4%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gar mı Yağdı Kütahya'nın Dağına",
+      "url": "https://tr.wikisource.org/wiki/Gar_m%C4%B1_Ya%C4%9Fd%C4%B1_K%C3%BCtahya'n%C4%B1n_Da%C4%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "dagdan-keserler-meseyi",
+  "baslik": "Dağdan Keserler Meşeyi",
+  "yore": "Eskişehir",
+  "hikaye": "Dağdan Keserler Meşeyi, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan keserler meşeyi (nenni nenni)",
+        "Aha gelinin döşeği (nenni nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan keserler fıstığı (nenni nenni)",
+        "Aha gelinin yastığı (nenni nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan keserler gürgeni (nenni nenni)",
+        "Aha gelinin yorganı (nenni nenni)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Da%C4%9Fdan%20Keserler%20Me%C5%9Feyi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Da%C4%9Fdan%20Keserler%20Me%C5%9Feyi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dağdan Keserler Meşeyi",
+      "url": "https://tr.wikisource.org/wiki/Da%C4%9Fdan_Keserler_Me%C5%9Feyi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

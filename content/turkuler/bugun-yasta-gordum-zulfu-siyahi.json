@@ -1,0 +1,99 @@
+{
+  "slug": "bugun-yasta-gordum-zulfu-siyahi",
+  "baslik": "Bugün Yasta Gördüm Zülfü Siyahı",
+  "yore": "Şanlıurfa",
+  "hikaye": "Bugün Yasta Gördüm Zülfü Siyahı, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün yasta gördüm zülfü siyahı (zülfü siyahım)",
+        "Gülmedi sultanım (dost dost) bilmem ne haldır",
+        "Halı arz eylerim dinle ahvalı",
+        "Sormadı sultanım bilmem ne haldır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nenni de nenni nenni",
+        "Dost nenni nenni has nenni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O sultanı aşık pirden sorarım (gurban sorarım)",
+        "Bugün dünya yarın (dost dost) ahret ararım",
+        "Aşkına kıldığım sabr-ıı kararım",
+        "Kalmadı sultanım bilmem ne haldır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nenni de nenni nenni",
+        "Dost nenni nenni has nenni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O sultandır her işlerin sebebi",
+        "Alnının uğrunda gördüm habibi",
+        "Yaralara merhem saran tabibi",
+        "Sarmadı sultanım bilmem ne haldır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nenni de nenni nenni",
+        "Dost nenni nenni has nenni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Veli'm hu der aklım başımdan gitti",
+        "Sağlığımda beni salacak etti",
+        "Cenazeyi kılarım deyi vadetti",
+        "Kılmadı sultanım bilmem ne haldır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nenni de nenni nenni",
+        "Dost nenni nenni has nenni nenni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Yasta%20G%C3%B6rd%C3%BCm%20Z%C3%BClf%C3%BC%20Siyah%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Yasta%20G%C3%B6rd%C3%BCm%20Z%C3%BClf%C3%BC%20Siyah%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Yasta Gördüm Zülfü Siyahı",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Yasta_G%C3%B6rd%C3%BCm_Z%C3%BClf%C3%BC_Siyah%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

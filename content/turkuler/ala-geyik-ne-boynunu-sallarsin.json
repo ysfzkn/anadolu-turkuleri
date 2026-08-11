@@ -1,0 +1,62 @@
+{
+  "slug": "ala-geyik-ne-boynunu-sallarsin",
+  "baslik": "Ala Geyik Ne Boynunu Sallarsın",
+  "yore": "Erzincan",
+  "hikaye": "Ala Geyik Ne Boynunu Sallarsın, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ala geyik ne boynunu sallarsın",
+        "Perde çekmiş yar yolunu gözlersin oy oy",
+        "Bana derler ne karalı gülmezsin",
+        "Mevlam güldürmedi ben nasıl gülem oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dokunmayın bir yaralı yanım var",
+        "Söyletmeyin efkârım var gamım var oy oy",
+        "Bana derler şu gurbette neyin var",
+        "Hiç demezler kömür gözlü yavrum var oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haberini aldım gine ağladım",
+        "Ayrılığın çevresini bağladım oy oy",
+        "Dua edin şu ayrılık savuşa",
+        "Bacı gardaş birbirine kavuşa oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ala%20Geyik%20Ne%20Boynunu%20Sallars%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ala%20Geyik%20Ne%20Boynunu%20Sallars%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ala Geyik Ne Boynunu Sallarsın",
+      "url": "https://tr.wikisource.org/wiki/Ala_Geyik_Ne_Boynunu_Sallars%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

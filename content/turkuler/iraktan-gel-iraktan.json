@@ -1,0 +1,81 @@
+{
+  "slug": "iraktan-gel-iraktan",
+  "baslik": "Iraktan Gel Iraktan",
+  "yore": "Bartın",
+  "hikaye": "Iraktan Gel Iraktan, Vikikaynak'ın Bartın türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bartın yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Irak'tan gel Irak'tan",
+        "Seviyorum yürekten",
+        "(mantar kurur kuraktan)",
+        "Bir kere öpemedim",
+        "O gül yüzlü yanaktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sazı almış eline",
+        "Düğüne mi gidiyor",
+        "Oturmuş pencereye",
+        "Beni deli ediyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sazı almış eline",
+        "Vuruyor tellerine",
+        "Kömür gözlü sevdiğim",
+        "Gurbanım dillerine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vur davulcu davula",
+        "Gümbür gümbür gümlesin",
+        "Sevdiğin almayan",
+        "Ben evlendim demesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim sızsım yavrum",
+        "Bi'yolcuk öpsem yavrum",
+        "A benim altın dişlim",
+        "Yanıyor benim İçin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Iraktan%20Gel%20Iraktan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Iraktan%20Gel%20Iraktan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Iraktan Gel Iraktan",
+      "url": "https://tr.wikisource.org/wiki/Iraktan_Gel_Iraktan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bartın",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "ayna-astim-meseye",
+  "baslik": "Ayna Astım Meşeye",
+  "yore": "Eskişehir",
+  "hikaye": "Ayna Astım Meşeye, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayna (da) astım meşeye",
+        "Gel küçük Kerime'm köşeye",
+        "Benden selam söyleyin",
+        "Nazlı güzel Ayşe'ye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar yağar merdin merdin",
+        "Kim bilir kimin derdin",
+        "Ağaçlar kalem olsa",
+        "Yazılmaz benim derdim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ayna%20Ast%C4%B1m%20Me%C5%9Feye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ayna%20Ast%C4%B1m%20Me%C5%9Feye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayna Astım Meşeye",
+      "url": "https://tr.wikisource.org/wiki/Ayna_Ast%C4%B1m_Me%C5%9Feye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

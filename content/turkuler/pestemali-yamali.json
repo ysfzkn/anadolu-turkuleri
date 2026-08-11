@@ -1,0 +1,83 @@
+{
+  "slug": "pestemali-yamali",
+  "baslik": "Peştemali Yamali",
+  "yore": "Giresun",
+  "hikaye": "Peştemali Yamali, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali yamali",
+        "Yarım eller hameli",
+        "Ellere hamal yarım",
+        "Bana dünyanın malı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy aman aman aman",
+        "Aldı dağları duman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun vurun vuralım",
+        "Tahtaları kıralım",
+        "Kırılırsa kırılsın",
+        "Yeni baştan yapalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy aman aman aman",
+        "Aldı dağları duman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemalin düğümü",
+        "Gerüdendir gerüden",
+        "Seni hainin kızı",
+        "Sensin beni erüden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy aman aman aman",
+        "Aldı dağları duman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Pe%C5%9Ftemali%20Yamali%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Pe%C5%9Ftemali%20Yamali",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Peştemali Yamali",
+      "url": "https://tr.wikisource.org/wiki/Pe%C5%9Ftemali_Yamali",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

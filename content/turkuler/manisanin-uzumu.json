@@ -1,0 +1,72 @@
+{
+  "slug": "manisanin-uzumu",
+  "baslik": "Manisa'nın Üzümü",
+  "yore": "Manisa",
+  "hikaye": "Manisa'nın Üzümü, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Manisa'nın üzümü Manisa'nın üzümü",
+        "Hakk'a saldım özümü (Nazik Nazik genç ömrüne yazık)",
+        "Yavruları atarken yavruları atarken",
+        "Yumuverdim gözümü (Nazik Nazik her yanlarım ezik)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Manisa'nın harmanı Manisa'nın harmanı",
+        "İpektendir yorganı (Nazik Nazik genç ömrüne yazık)",
+        "Yavruları sorarsan",
+        "Çocukları sorarsan",
+        "Balıkların kurbanı (Nazik Nazik her yanlarım ezik)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma attım denize elma attım denize",
+        "Giriyor yüze yüze (Nazik Nazik genç ömrüne yazık)",
+        "Sür gemici gemiyi sür gemici gemiyi",
+        "Düşman yetişti bize (Nazik Nazik her yanlarım ezik)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Manisa'nın hamamı Manisa'nın hamamı",
+        "Yandan çıkar dumanı (Nazik Nazik genç ömrüne yazık)",
+        "Kimselerde şüphem yok kimselerde şüphem yok",
+        "Öldürseler imamı (Nazik Nazik her yanlarım ezik)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Manisa'n%C4%B1n%20%C3%9Cz%C3%BCm%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Manisa'n%C4%B1n%20%C3%9Cz%C3%BCm%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Manisa'nın Üzümü",
+      "url": "https://tr.wikisource.org/wiki/Manisa'n%C4%B1n_%C3%9Cz%C3%BCm%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Manisa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

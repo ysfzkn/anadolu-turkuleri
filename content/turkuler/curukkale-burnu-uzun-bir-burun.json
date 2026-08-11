@@ -1,0 +1,57 @@
+{
+  "slug": "curukkale-burnu-uzun-bir-burun",
+  "baslik": "Çürükkale Burnu Uzun Bir Burun",
+  "yore": "Giresun",
+  "hikaye": "Çürükkale Burnu Uzun Bir Burun, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çürükkale burnu bir uzun burun",
+        "Altın dişli Süriye’m M’allime vurgun",
+        "Annem ile babam bir durgun durgun",
+        "Ağla annem ağla sen bana ağlaAltın dişli Süriye’nin gitti yoluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çürükkale burnu bir delikli taş",
+        "Kulağımdan kanlar akar gözlerimden yaş",
+        "İmdadıma yetiş Hayrullah kardaş",
+        "NAKARAT",
+        "Limana çeşme yaptırdım su içemedim",
+        "Azgın dalgalarla aman baş edemedim",
+        "Süriye’yi kendime eş edemedim",
+        "NAKARAT"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87%C3%BCr%C3%BCkkale%20Burnu%20Uzun%20Bir%20Burun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87%C3%BCr%C3%BCkkale%20Burnu%20Uzun%20Bir%20Burun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çürükkale Burnu Uzun Bir Burun",
+      "url": "https://tr.wikisource.org/wiki/%C3%87%C3%BCr%C3%BCkkale_Burnu_Uzun_Bir_Burun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

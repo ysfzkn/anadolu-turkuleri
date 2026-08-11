@@ -1,0 +1,91 @@
+{
+  "slug": "seyhani",
+  "baslik": "Şeyhani",
+  "yore": "Hakkâri",
+  "hikaye": "Şeyhani, Vikikaynak'ın Hakkâri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hakkâri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vur davulcu davula",
+        "Çal zurnacı zurnayı",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri",
+        "Vur davulcu davula",
+        "Çal zurnacı zurnayı",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kenetleyin elleri",
+        "Sallayın mendilleri",
+        "Kenetleyin elleri",
+        "Sallayın mendilleri",
+        "Ne güzel Şeyhani oynar",
+        "Hakkari güzelleri",
+        "Ne güzel Şeyhani oynar",
+        "Hakkari güzelleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vur davulcu davula",
+        "Çal zurnacı zurnayı",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri",
+        "Vur davulcu davula",
+        "Çal zurnacı zurnayı",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri",
+        "Herkes çeksin Şeyhani",
+        "Sallayın mendilleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kamançaya sür yayı",
+        "Konuştur bağlamayı",
+        "Kamançaya sür yayı",
+        "Konuştur bağlamayı",
+        "Ne güzel Şeyhani oynar",
+        "Hakkari güzelleri",
+        "Ne güzel Şeyhani oynar",
+        "Hakkari güzelleri"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eeyhani%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eeyhani",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şeyhani",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eeyhani",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hakkâri",
+    "anonim",
+    "açık arşiv"
+  ]
+}

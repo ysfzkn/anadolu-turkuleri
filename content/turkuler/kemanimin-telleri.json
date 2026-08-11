@@ -1,0 +1,89 @@
+{
+  "slug": "kemanimin-telleri",
+  "baslik": "Kemanımın Telleri",
+  "yore": "Kars",
+  "hikaye": "Kemanımın Telleri, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kemanımın telleri",
+        "Gezdim gurbet elleri",
+        "Öyle yadıma düşmüş",
+        "Yârin tatlı dilleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yâre di gelsin",
+        "Canım yâre di gelsin",
+        "Sizin yâr sizin olsun",
+        "Bizim yâre di gelsin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kekliğin gözü ela",
+        "Başıma açtı bela",
+        "İgit ona demişem",
+        "Sevdiğini tez ala"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yâre di gelsin",
+        "Canım yâre di gelsin",
+        "Sizin yâr sizin olsun",
+        "Bizim yâre di gelsin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağ başını gezerim",
+        "Tabağa gül dizerim",
+        "O yâr elime geçse",
+        "Başın gözün ezerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman yâre di gelsin",
+        "Canım yâre di gelsin",
+        "Sizin yâr sizin olsun",
+        "Bizim yâre di gelsin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Keman%C4%B1m%C4%B1n%20Telleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Keman%C4%B1m%C4%B1n%20Telleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kemanımın Telleri",
+      "url": "https://tr.wikisource.org/wiki/Keman%C4%B1m%C4%B1n_Telleri",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

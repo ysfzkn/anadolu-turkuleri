@@ -1,0 +1,56 @@
+{
+  "slug": "yol-ustunde-dikili-tas",
+  "baslik": "Yol Üstünde Dikili Taş",
+  "yore": "Eskişehir",
+  "hikaye": "Yol Üstünde Dikili Taş, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol üstünde dikili taş, ah aman amman amman.",
+        "Bir evde iki kardaş, sevdiğim aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Biri kaynım olursa, sevdiğim amman.",
+        "Biri bana arkadaş, sevdiğim amman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökten zembil iniyor, fırıl fırıl dönüyor.",
+        "Ateş misin sevdiğim, seni gören yanıyor."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yol%20%C3%9Cst%C3%BCnde%20Dikili%20Ta%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yol%20%C3%9Cst%C3%BCnde%20Dikili%20Ta%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yol Üstünde Dikili Taş",
+      "url": "https://tr.wikisource.org/wiki/Yol_%C3%9Cst%C3%BCnde_Dikili_Ta%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

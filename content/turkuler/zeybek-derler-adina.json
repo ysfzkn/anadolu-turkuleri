@@ -1,0 +1,86 @@
+{
+  "slug": "zeybek-derler-adina",
+  "baslik": "Zeybek Derler Adına",
+  "yore": "Eskişehir",
+  "hikaye": "Zeybek Derler Adına, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zeybek derler adına",
+        "Şeker uymaz tadına",
+        "Uyma dedim uymuşsun",
+        "O soysuzun ardına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi zeybek havası",
+        "Benim ile yârin arası",
+        "Kavuşuruz bayram haftası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpa buğday çeç olur",
+        "Güzeller güleç olur",
+        "Meyil verme güzele",
+        "Ayrılması güç olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi zeybek havası",
+        "Benim ile yârin arası",
+        "Kavuşuruz bayram haftası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara üzüm kurusu",
+        "Sepet sepet dolusu",
+        "Seni candan seviyom",
+        "Ayrılmam doğrusu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi zeybek havası",
+        "Benim ile yârin arası",
+        "Kavuşuruz bayram haftası"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zeybek%20Derler%20Ad%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zeybek%20Derler%20Ad%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zeybek Derler Adına",
+      "url": "https://tr.wikisource.org/wiki/Zeybek_Derler_Ad%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "at-gelir-sakir-sakir",
+  "baslik": "At Gelir Şakır Şakır",
+  "yore": "Bursa",
+  "hikaye": "At Gelir Şakır Şakır, Vikikaynak'ın Bursa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Bursa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "At gelir şakır şakır (sevdiğim oğlan)",
+        "Elinde gümüş bakır",
+        "Benim sevdiğim oğlan (sevdiğim oğlan)",
+        "Bıyık sarı göz çakır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom gidemiyom (sevdiğim oğlan)",
+        "Yolu tükedemiyom",
+        "Kirmaslıda yar sevdim (sevdiğim oğlan)",
+        "Bırakıp gidemiyom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi duvarda (sevdiğim oğlan)",
+        "Benim yarim hovarda",
+        "Hovar deysa hovarda (sevdiğim oğlan)",
+        "Giyne göynüm var onda"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=At%20Gelir%20%C5%9Eak%C4%B1r%20%C5%9Eak%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/At%20Gelir%20%C5%9Eak%C4%B1r%20%C5%9Eak%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — At Gelir Şakır Şakır (Bursa)",
+      "url": "https://tr.wikisource.org/wiki/At_Gelir_%C5%9Eak%C4%B1r_%C5%9Eak%C4%B1r_(Bursa)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Bursa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

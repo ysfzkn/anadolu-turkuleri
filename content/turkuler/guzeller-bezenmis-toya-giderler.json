@@ -1,0 +1,62 @@
+{
+  "slug": "guzeller-bezenmis-toya-giderler",
+  "baslik": "Güzeller Bezenmiş Toya Giderler",
+  "yore": "Erzurum",
+  "hikaye": "Güzeller Bezenmiş Toya Giderler, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzeller bezenmiş toya giderler",
+        "Sizlere emanat yar oynamasın",
+        "Ben bülürem reca minnet ederler",
+        "Yengüllük edip ay balam tez oynamasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düşmanlar oturmuş bize bakarlar",
+        "Gonca güller al yanağa takarlar",
+        "Sonra söyler başımıza kakarlar",
+        "Dudağın içinde dil oynamasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben seni sevmüşem sevgülü yarim",
+        "Sizlere gurbandır bu şirin canım",
+        "Demirem oynamasın oynasın hanım",
+        "Kara kaş altında göz oynamasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCzeller%20Bezenmi%C5%9F%20Toya%20Giderler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCzeller%20Bezenmi%C5%9F%20Toya%20Giderler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Güzeller Bezenmiş Toya Giderler",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BCzeller_Bezenmi%C5%9F_Toya_Giderler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "gine-yeserdi-findik-dallari",
+  "baslik": "Gine Yeşerdi Fındık Dalları",
+  "yore": "Ordu",
+  "hikaye": "Gine Yeşerdi Fındık Dalları, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gine yeşerdi fındık dalları,",
+        "Acep ne olacak yârin halları,",
+        "Dalgalanıyor pembe şalvarı.",
+        "Kız allan pullan gel gel gel yanıma,",
+        "O beyaz kolları dola boynuma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabya başında üç kız yan yana,",
+        "İçlerinden biri göz etti bana,",
+        "Nur olsun seni doğuran ana.",
+        "Kız allan pullan gel gel gel yanıma,",
+        "O beyaz kolları dola boynuma."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fındık dalları yerlere değer,",
+        "Yârin bakışları kalbime değer.",
+        "Ölürüm seni almazsam eğer.",
+        "Kız allan pullan gel gel gel yanıma,",
+        "O beyaz kolları dola boynuma."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20Ye%C5%9Ferdi%20F%C4%B1nd%C4%B1k%20Dallar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20Ye%C5%9Ferdi%20F%C4%B1nd%C4%B1k%20Dallar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Yeşerdi Fındık Dalları",
+      "url": "https://tr.wikisource.org/wiki/Gine_Ye%C5%9Ferdi_F%C4%B1nd%C4%B1k_Dallar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Ordu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

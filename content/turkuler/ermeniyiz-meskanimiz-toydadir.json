@@ -1,0 +1,55 @@
+{
+  "slug": "ermeniyiz-meskanimiz-toydadir",
+  "baslik": "Ermeniyiz Meskanımız Toydadır",
+  "yore": "Yozgat",
+  "hikaye": "Ermeniyiz Meskanımız Toydadır, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ermeniyiz meskanımız toydadır toydadır aman toydadır",
+        "Rakı da şarap Ermeniye faydadır faydadır aman faydadır",
+        "Sorun bakın nazlı yarim nerdedir nerdedir aman nerdedir",
+        "Yeni duydum Ermenisin Ermeni Ermeni aman Ermeni",
+        "Şu gönlümün dermanısın dermanı dermanı aman dermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne durmuşsun dağ başında ay gibi ay gibi aman ay gibi",
+        "Yanakların elma gibi nar gibi nar gibi aman nar gibi",
+        "Gel sarılalım ikimiz bir can gibi can gibi aman can gibi",
+        "Yeni duydum Ermenisin Ermeni Ermeni aman Ermeni",
+        "Şu gönlümün dermanısın dermanı dermanı aman dermanı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ermeniyiz%20Meskan%C4%B1m%C4%B1z%20Toydad%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ermeniyiz%20Meskan%C4%B1m%C4%B1z%20Toydad%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ermeniyiz Meskanımız Toydadır",
+      "url": "https://tr.wikisource.org/wiki/Ermeniyiz_Meskan%C4%B1m%C4%B1z_Toydad%C4%B1r",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

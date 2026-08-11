@@ -1,0 +1,87 @@
+{
+  "slug": "karagozlum",
+  "baslik": "Karagözlüm",
+  "yore": "Sakarya",
+  "hikaye": "Karagözlüm, Vikikaynak'ın Sakarya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Sakarya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökte yıldız sayılmaz, çiy yumurta soyulmaz,",
+        "Şu Geyveli kızların cilvesine doyum olmaz, karagözlüm aman.",
+        "(Şekerim, şekerim şekerim aman",
+        "Evlide değilim bekarım aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmadan gel asmadan, şalvar giymiş basmadan,",
+        "Giymiş giymiş kirlemiş, çeyizine asmadan karagözlüm aman.",
+        "(Asmadan yıkılır, suyu sıkılır.",
+        "Yari Asker olanın canı sıkılır.)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tarlanın kezeklisi, mendilin ipeklisi",
+        "Sarılmaya doyulmaz, kızların göbeklisi.",
+        "(İpeğim ipeğim ipeğim aman,",
+        "Al yanağından öpeyim aman.)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Üşümedin mi?, üşümedin mi?",
+        "Sen bu işin sonunu düşünmedin mi?)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördek suya dalda gel, çirkine güzele aldanma,",
+        "Eğer yarim gelmezse, tut kolundan alda gel.",
+        "(Yeşilim, yeşilim, yeşilim aman",
+        "Açmada yorganı üşürüm aman.)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karagözlü Jandarma, çirkine güzele aldanma,",
+        "Sen benimsin ben senin, her söze kulak asma, karagözlüm aman.",
+        "(Erenler, erenler, erenler aman,",
+        "Yok yarimi görenler aman.)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karag%C3%B6zl%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karag%C3%B6zl%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karagözlüm",
+      "url": "https://tr.wikisource.org/wiki/Karag%C3%B6zl%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sakarya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

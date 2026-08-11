@@ -1,0 +1,70 @@
+{
+  "slug": "cana-bizim-esrarimiz-imlalere-sigmaz",
+  "baslik": "Cana Bizim Esrarımız İmlalere Sığmaz",
+  "yore": "Şanlıurfa",
+  "hikaye": "Cana Bizim Esrarımız İmlalere Sığmaz, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cana bizim esrarımız imlalere sığmaz",
+        "Yazılsa da binde biri inşalere sığmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşıkta olan derd-ü meşakkat gam-ü mihnet",
+        "Neşr'olsa eğer kuh ile sahralara sığmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasretle akar ta geceler didey-i eşkim",
+        "Bir katredir amma yeddi deryalara sığmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu hikmeti bilmez misin ey sefy-ı sadık",
+        "Bir kalbe sığar var olan eşyalara sığmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allah için olsun bizi dur etme kapından",
+        "Abdi seni sevdi diye dünyalara sığmaz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cana%20Bizim%20Esrar%C4%B1m%C4%B1z%20%C4%B0mlalere%20S%C4%B1%C4%9Fmaz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cana%20Bizim%20Esrar%C4%B1m%C4%B1z%20%C4%B0mlalere%20S%C4%B1%C4%9Fmaz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Cana Bizim Esrarımız İmlalere Sığmaz",
+      "url": "https://tr.wikisource.org/wiki/Cana_Bizim_Esrar%C4%B1m%C4%B1z_%C4%B0mlalere_S%C4%B1%C4%9Fmaz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

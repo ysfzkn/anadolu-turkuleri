@@ -1,0 +1,59 @@
+{
+  "slug": "belin-basi-tozlu-mozlu",
+  "baslik": "Belin Başı Tozlu Mozlu",
+  "yore": "Denizli",
+  "hikaye": "Belin Başı Tozlu Mozlu, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Belin başı tozlu mozlu, güzelleri badem gözlü",
+        "Gız seni seven oğlan sözlü",
+        "Gelin gelin allı ay gelin, yanakları ballı ay gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Belin başı daşlı maşlı, güzelleri galem gaşlı",
+        "Gız seven oğlan yaşlı",
+        "Gelin gelin allı ay gelin, yanakları ballı ay gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menevşesi boyun eğmiş, yapracığı suya değmiş",
+        "Gız seni seven oğlan ölmüş",
+        "Gelin gelin allı ay gelin, yanakları ballı ay gelin"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Belin%20Ba%C5%9F%C4%B1%20Tozlu%20Mozlu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Belin%20Ba%C5%9F%C4%B1%20Tozlu%20Mozlu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Belin Başı Tozlu Mozlu",
+      "url": "https://tr.wikisource.org/wiki/Belin_Ba%C5%9F%C4%B1_Tozlu_Mozlu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

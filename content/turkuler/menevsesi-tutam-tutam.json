@@ -1,0 +1,79 @@
+{
+  "slug": "menevsesi-tutam-tutam",
+  "baslik": "Menevşesi Tutam Tutam",
+  "yore": "Burdur",
+  "hikaye": "Menevşesi Tutam Tutam, Vikikaynak'ın Burdur türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Burdur yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menevşesi tutam tutam",
+        "Arasına güller katam",
+        "Nice gurbet elde yatam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Engel menevşelim engel",
+        "Zülüflerin çengel mengel",
+        "Aramıza girdi engel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menevşe kokulu yârim",
+        "Kime arzedeyim hâlim",
+        "Elliden aldılar yârim",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menevşesi boyun eğmiş",
+        "Yapracığı suya değmiş",
+        "Allı yeşil fistan geymiş",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menevşesi biçim biçim",
+        "Ben ağlarım senin için",
+        "Çektiklerim kimin için",
+        "Bağlantı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Menev%C5%9Fesi%20Tutam%20Tutam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Menev%C5%9Fesi%20Tutam%20Tutam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Menevşesi Tutam Tutam (Burdur)",
+      "url": "https://tr.wikisource.org/wiki/Menev%C5%9Fesi_Tutam_Tutam_(Burdur)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Burdur",
+    "anonim",
+    "açık arşiv"
+  ]
+}

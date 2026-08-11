@@ -1,0 +1,62 @@
+{
+  "slug": "bulbul-ne-otersin-virandir-bagim",
+  "baslik": "Bülbül Ne Ötersin Virandır Bağım",
+  "yore": "Tokat",
+  "hikaye": "Bülbül Ne Ötersin Virandır Bağım, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül ne ötersin virandır bağın",
+        "Yıkılsın şehrin (de) çöl kalsın dağın",
+        "Tükendi fitilim kalmadı yağım",
+        "Yâr senin derdine ben yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kurulu yay idim ben de açıldım",
+        "Dolu badeyidim (de) indim eksildim",
+        "Ekmekten aşdan (da) sudan kesildim",
+        "Yâr senin derdine ben yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deryadan bölünmüş sellere döndüm",
+        "Vakitsiz açılan (da) güllere döndüm",
+        "Ateşi kararmış küllere döndüm",
+        "Yâr senin derdine ben yana yana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCl%20Ne%20%C3%96tersin%20Virand%C4%B1r%20Ba%C4%9F%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCl%20Ne%20%C3%96tersin%20Virand%C4%B1r%20Ba%C4%9F%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bülbül Ne Ötersin Virandır Bağım",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BClb%C3%BCl_Ne_%C3%96tersin_Virand%C4%B1r_Ba%C4%9F%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

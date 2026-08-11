@@ -1,0 +1,45 @@
+{
+  "slug": "bodrumlular-erken-bicer-ekini",
+  "baslik": "Bodrumlular Erken Biçer Ekini",
+  "yore": "Muğla",
+  "hikaye": "Bodrumlular Erken Biçer Ekini, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bodrumlular erken biçer ekini",
+        "Feleğe kurban mı gitti Bodrum hakimi",
+        "Nasıl kıydın Mefharet hanım, astın kendini",
+        "Altın makas, gümüş bıçak ile doğradılar tenini",
+        "Hakim hanımın memleketi Kütahya TavşanHakim hanım sen eyledin bizleri perişanNasıl kıydın Mefharet hanım, astın kendiniAltın makas, gümüş bıçak ile doğradılar tenini."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bodrumlular%20Erken%20Bi%C3%A7er%20Ekini%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bodrumlular%20Erken%20Bi%C3%A7er%20Ekini",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bodrumlular Erken Biçer Ekini",
+      "url": "https://tr.wikisource.org/wiki/Bodrumlular_Erken_Bi%C3%A7er_Ekini",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Muğla",
+    "anonim",
+    "açık arşiv"
+  ]
+}

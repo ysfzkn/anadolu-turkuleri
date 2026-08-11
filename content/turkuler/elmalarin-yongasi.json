@@ -1,0 +1,95 @@
+{
+  "slug": "elmalarin-yongasi",
+  "baslik": "Elmaların Yongası",
+  "yore": "Konya",
+  "hikaye": "Elmaların Yongası, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmaların yongası",
+        "(Aslanım aman aman aman ey)",
+        "Haydi sağ cebinde aynası",
+        "(Aman aman aman)",
+        "Aman sağ cebinde aynası",
+        "(Vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki duvar arası",
+        "(Aslanım aman aman aman ey)",
+        "Haydi hovardalar yaylası",
+        "(Aman aman aman)",
+        "Aman hovardalar yaylası",
+        "(Vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop tara leyli leyli ellerine",
+        "Sarılaydım o incecik bellerine",
+        "(Vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmaların incesi",
+        "(Aslanım aman aman aman ey)",
+        "Haydi dibindedir goncası",
+        "(Aman aman aman)",
+        "Aman dibidedir goncası",
+        "(Vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diz dize otururken",
+        "(Aslanım aman aman aman ey)",
+        "Haydi çıka geldi amcası",
+        "(Aman aman aman aman)",
+        "Aman çıka geldi amcası",
+        "(Vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop tara leyli leyli ellerine",
+        "Sarılaydım o incecik bellerine",
+        "(Vay vay)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elmalar%C4%B1n%20Yongas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elmalar%C4%B1n%20Yongas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elmaların Yongası",
+      "url": "https://tr.wikisource.org/wiki/Elmalar%C4%B1n_Yongas%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

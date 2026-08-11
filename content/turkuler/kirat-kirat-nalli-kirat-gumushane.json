@@ -1,0 +1,71 @@
+{
+  "slug": "kirat-kirat-nalli-kirat-gumushane",
+  "baslik": "Kırat Kırat Nallı Kırat",
+  "yore": "Gümüşhane",
+  "hikaye": "Kırat Kırat Nallı Kırat, Vikikaynak'ın Gümüşhane türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gümüşhane yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırat kırat nallı kırat",
+        "Yemen'in yolları ırak",
+        "Kırat kırat nallı kırat",
+        "Yemen'in yolları ırak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben Yemen'e de dayanamam",
+        "Beni Erzincan'a bırak",
+        "Ben Yemen'e de dayanamam",
+        "Beni Erzincan'a bırak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara çadır is mi tutar",
+        "Martin tüfek pas mı tutar",
+        "Kara çadır is mi tutar",
+        "Martin tüfek pas mı tutar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlayanım anam bacım",
+        "Elin kızı yas mı tutar",
+        "Ağlayanım anam bacım",
+        "Elin kızı yas mı tutar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1rat%20K%C4%B1rat%20Nall%C4%B1%20K%C4%B1rat%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1rat%20K%C4%B1rat%20Nall%C4%B1%20K%C4%B1rat",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kırat Kırat Nallı Kırat (Gümüşhane)",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1rat_K%C4%B1rat_Nall%C4%B1_K%C4%B1rat_(G%C3%BCm%C3%BC%C5%9Fhane)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gümüşhane",
+    "anonim",
+    "açık arşiv"
+  ]
+}

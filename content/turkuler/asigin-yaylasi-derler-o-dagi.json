@@ -1,0 +1,53 @@
+{
+  "slug": "asigin-yaylasi-derler-o-dagi",
+  "baslik": "Aşığın Yaylası Derler O Dağı",
+  "yore": "Konya",
+  "hikaye": "Aşığın Yaylası Derler O Dağı, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşığın yaylası derler o dağı aman aman o dağı",
+        "Al yeşil pervaneler geymiş o dağlar canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söylemen yavruma bugün baygındır",
+        "Yâr koynundan çıkmış bu gün yorgundur",
+        "Hay sevdiğim neden güzel seversin",
+        "Taşlar atıp dertlisini üzersin",
+        "Âşıkın yaylası derler otağı",
+        "Al yeşil pervaneler giymiş canım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9F%C4%B1%C4%9F%C4%B1n%20Yaylas%C4%B1%20Derler%20O%20Da%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9F%C4%B1%C4%9F%C4%B1n%20Yaylas%C4%B1%20Derler%20O%20Da%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşığın Yaylası Derler O Dağı",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9F%C4%B1%C4%9F%C4%B1n_Yaylas%C4%B1_Derler_O_Da%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

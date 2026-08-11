@@ -1,0 +1,85 @@
+{
+  "slug": "a-bugdeyim-bugdeyim",
+  "baslik": "A Buğdeyim Buğdeyim",
+  "yore": "Kütahya",
+  "hikaye": "A Buğdeyim Buğdeyim, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A buğdeyim buğdeyim",
+        "Sereyim gurudeyim",
+        "Senin (de) dudu (mudu da) dillerini",
+        "(Amanın da sürmeli Fadime'm)",
+        "Ben nerede unudeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keklik sesi var",
+        "Kayalarda keklik sesi var",
+        "Söyleyin (de) bende nesi var",
+        "Söyleyin (de) bende nesi var (hey)",
+        "Şu güzelin (de) bende nesi var",
+        "Gel yavrum alaydım seni de seni",
+        "Kollarıma saraydım (amanın da) yar seni",
+        "Senin gibi oyunbaz",
+        "Cilvesine doyulmaz",
+        "Doyulmaz aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Buğdeyimi biçeyim",
+        "Soğuk sular içeyim",
+        "Güzellerin (aman da) içinde",
+        "(A yarim de sürmeli Fadimem)",
+        "Ben yarimi seçeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keklik doleşir",
+        "Kayalarda keklik doleşir",
+        "Su güzel (de) kimlere doleşir",
+        "Su güzel (de) kimlere doleşir (vay)",
+        "Su güzel (de) kimlere doleşir",
+        "Gel yavrum alaydım seni de seni",
+        "Kollarıma saraydım (amanın da) yar seni",
+        "Senin gibi oyunbaz",
+        "Cilvesine doyulmaz",
+        "Doyulmaz aman aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20Bu%C4%9Fdeyim%20Bu%C4%9Fdeyim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20Bu%C4%9Fdeyim%20Bu%C4%9Fdeyim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A Buğdeyim Buğdeyim",
+      "url": "https://tr.wikisource.org/wiki/A_Bu%C4%9Fdeyim_Bu%C4%9Fdeyim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

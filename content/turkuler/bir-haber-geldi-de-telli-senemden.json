@@ -1,0 +1,64 @@
+{
+  "slug": "bir-haber-geldi-de-telli-senemden",
+  "baslik": "Bir Haber Geldi de Telli Senem'den",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Bir Haber Geldi de Telli Senem'den, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir haber geldi de telli Senem’den",
+        "Deli gönlüm şâd olmaya başladı",
+        "Akmaz iken köp pınarın ayağı",
+        "Suyu geldi çağlamaya başladı",
+        "Aşkın cezvesi de ocakta kaynarDurmaz deli gönül meydanda oynarErmeni, dillerin şekerler söylerTatlı tatlı söz olmaya başladı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Senem’in giydiği ipekli sarı",
+        "Ölmeden yüzünü göreydim bari",
+        "Yıkık değirmenin bozuk çark evi",
+        "Suyu geldi çağlamaya başladı",
+        "Hele bakın şu Senem’in işineNeler gelmiş sevdiğimin başınaSenem değmiş seksen doksan yaşınaBenimki de yüz olmaya başladı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Görünüyor Binboğa’nın illeri",
+        "Gırcı boran aşılmıyor belleri",
+        "Yazıc’oğlum Şereflinin beyleri",
+        "Koca Tanır yaz olmaya başladı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Haber%20Geldi%20de%20Telli%20Senem'den%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Haber%20Geldi%20de%20Telli%20Senem'den",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Haber Geldi de Telli Senem'den",
+      "url": "https://tr.wikisource.org/wiki/Bir_Haber_Geldi_de_Telli_Senem'den",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

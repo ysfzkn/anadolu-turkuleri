@@ -1,0 +1,107 @@
+{
+  "slug": "yaylalarda-gezersin",
+  "baslik": "Yaylalarda Gezersin",
+  "yore": "Denizli",
+  "hikaye": "Yaylalarda Gezersin, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda gezersin",
+        "Keklik gibi sekersin",
+        "Ak kayanın başında",
+        "Yanık yanık ötersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım yayla yoluna",
+        "Varem gidem yanına",
+        "Şu yörüğün kızının",
+        "Necap girem koluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda inersin",
+        "Al bas malar giyersin",
+        "Akşamlarda olunca",
+        "Nerelerde dönersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım yayla yoluna",
+        "Varem gidem yanına",
+        "Şu yörüğün kızının",
+        "Necap girem koluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylaların ayranı",
+        "Bugün kurban bayramı",
+        "Gız annenden istesem",
+        "Acep gönlün olma mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım yayla yoluna",
+        "Varem gidem yanına",
+        "Şu yörüğün kızının",
+        "Necap girem koluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaylalarda kekiğim",
+        "Al gınalı kekliğim",
+        "Güzel gızlar geliyor",
+        "Nerelerde bekleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım yayla yoluna",
+        "Varem gidem yanına",
+        "Şu yörüğün kızının",
+        "Necap girem koluna"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yaylalarda%20Gezersin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yaylalarda%20Gezersin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yaylalarda Gezersin",
+      "url": "https://tr.wikisource.org/wiki/Yaylalarda_Gezersin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

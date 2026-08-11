@@ -1,0 +1,71 @@
+{
+  "slug": "su-cavdirin-hanlari",
+  "baslik": "Şu Çavdırın Hanları",
+  "yore": "Denizli",
+  "hikaye": "Şu Çavdırın Hanları, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu Çavdırın Hanları",
+        "Parıldıyor damları",
+        "Kahrolası Feridun Bey",
+        "Nasıl kıydın canları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alıverin filintamı oymadan",
+        "Öldürdüler gençliğime doymadan",
+        "Keklik olsam kaya gibi eşerdim",
+        "Bekar olsam kız peşinde gezerdim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu Çavdırın bükleri",
+        "Ötüşür keklikleri",
+        "Hiç aklımdan gitmiyor",
+        "Rıza‟nın dedikleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doldur doldur kara gözlüm içelim",
+        "Yollar verin şu Dirmil‟e geçelim",
+        "Alıçlıdır kahbe dağlar alıçlı",
+        "Kızlar gitti karakola danıştı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20%C3%87avd%C4%B1r%C4%B1n%20Hanlar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20%C3%87avd%C4%B1r%C4%B1n%20Hanlar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Çavdırın Hanları",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_%C3%87avd%C4%B1r%C4%B1n_Hanlar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

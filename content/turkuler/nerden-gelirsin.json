@@ -1,0 +1,67 @@
+{
+  "slug": "nerden-gelirsin",
+  "baslik": "Nerden Gelirsin",
+  "yore": "Mersin",
+  "hikaye": "Nerden Gelirsin, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(yar yar yar)",
+        "Nerden gelirsin Silifke kalesinden",
+        "Ne gezersin açlık belasından",
+        "Nerde yattın beyin konağında",
+        "Ne varıdı kupkuru yerde",
+        "(hey kekliğim hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kekliği düz ovada avlarım",
+        "Kanadını kanadına bağlarım",
+        "Şıkıdık mıkıdık şıkıdık mıkıdık oynarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(yar yar yar)",
+        "Buyrun arkadaşlar davetim var benim",
+        "Herkes kesesinden yesin içsin saltanatım var benim",
+        "Aslı yok yaylasında bin beş yüz koyunum var benim",
+        "(hey kekliğim hey)",
+        "Kekliği düz ovada avlarım",
+        "Kanadını kanadına bağlarım",
+        "Şıkıdık mıkıdık şıkıdık mıkıdık oynarım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nerden%20Gelirsin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nerden%20Gelirsin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nerden Gelirsin",
+      "url": "https://tr.wikisource.org/wiki/Nerden_Gelirsin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

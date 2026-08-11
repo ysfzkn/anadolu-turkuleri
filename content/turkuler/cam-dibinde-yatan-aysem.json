@@ -1,0 +1,90 @@
+{
+  "slug": "cam-dibinde-yatan-aysem",
+  "baslik": "Çam Dibinde Yatan Ayşe'm",
+  "yore": "Zonguldak",
+  "hikaye": "Çam Dibinde Yatan Ayşe'm, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Merdivenden iner iken",
+        "(Yavrum) Ayağıma battı diken",
+        "(Aman) Ak da kezban değil mi",
+        "Ebeci de Kamil'in belini büken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "(Aman) Çam dibinde yatan Ayşe'm",
+        "(Yavrum) Hasta m'oldun sen bu akşam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Merdivenden indir beni",
+        "(Yavrum) Yağız ata bindir beni",
+        "(Aman) Ayazlarda yanıyorum",
+        "(Yavrum) Ataşında söndür beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "(Aman) Çam dibi de soğuk olur",
+        "(Yavrum) Ayşe'me de göz koyan olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Çam dibinin kozakları",
+        "(Ayşe'm) Saliverdi malakları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Çam dibinin çam oluğu",
+        "(Yavrum) Çıkageldi oğulluğu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Toplayıver bardakları",
+        "(Ayşe'm) Gel içelim rakıları"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87am%20Dibinde%20Yatan%20Ay%C5%9Fe'm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87am%20Dibinde%20Yatan%20Ay%C5%9Fe'm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çam Dibinde Yatan Ayşe'm",
+      "url": "https://tr.wikisource.org/wiki/%C3%87am_Dibinde_Yatan_Ay%C5%9Fe'm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

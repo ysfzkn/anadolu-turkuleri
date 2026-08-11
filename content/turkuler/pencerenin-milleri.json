@@ -1,0 +1,52 @@
+{
+  "slug": "pencerenin-milleri",
+  "baslik": "Pencerenin Milleri",
+  "yore": "Iğdır",
+  "hikaye": "Pencerenin Milleri, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencerenin milleri, Guleyli,",
+        "Açıp kızıl gülleri, Guleyli.",
+        "Oğlanı yoldan eder, Guleyli,",
+        "Kızın şirin dilleri, Guleyli.",
+        "***",
+        "Gözel kız sen nerdesen, Guleyli,",
+        "Gel mene sor ez mellal, Guleyli.",
+        "Çalıp oku dur oyna, Guleyli,",
+        "Oyna olsun halim saz , Guleyli.",
+        "***",
+        "Garenfilim budama, Guleyli,",
+        "Buyur gidek odama, Guleyli."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Pencerenin%20Milleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Pencerenin%20Milleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Pencerenin Milleri",
+      "url": "https://tr.wikisource.org/wiki/Pencerenin_Milleri",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

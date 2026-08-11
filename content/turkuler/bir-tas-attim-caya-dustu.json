@@ -1,0 +1,97 @@
+{
+  "slug": "bir-tas-attim-caya-dustu",
+  "baslik": "Bir Taş Attım Çaya Düştü",
+  "yore": "Malatya",
+  "hikaye": "Bir Taş Attım Çaya Düştü, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım çaya düştü",
+        "Çaydan çift güvercin uçtu",
+        "Benim gönlüm sana sana düştü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel beri civanım",
+        "Gel beri sevdalım",
+        "Kumru gibi uç gel yanıma",
+        "Keklik gibi koş gel canıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel benim edalım",
+        "Gel benim sevdalım",
+        "Gel gel gel",
+        "Gelirsen benim olursun",
+        "Gülüm olursun",
+        "Canım olursun gel",
+        "Gelirsen benim olursun",
+        "Gülüm olursun",
+        "Canım olursun gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çay kenarı serin sümbül",
+        "Bugünlerde sarhoş gönül",
+        "Sevdim seni sarı sarı bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel beri civanım",
+        "Gel beri sevdalım",
+        "Kumru gibi uç gel yanıma",
+        "Keklik gibi koş gel canıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel benim edalım",
+        "Gel benim sevdalım",
+        "Gel gel gel",
+        "Gelirsen benim olursun",
+        "Gülüm olursun",
+        "Canım olursun gel",
+        "Gelirsen benim olursun",
+        "Gülüm olursun",
+        "Canım olursun gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ta%C5%9F%20Att%C4%B1m%20%C3%87aya%20D%C3%BC%C5%9Ft%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ta%C5%9F%20Att%C4%B1m%20%C3%87aya%20D%C3%BC%C5%9Ft%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Taş Attım Çaya Düştü (Malatya)",
+      "url": "https://tr.wikisource.org/wiki/Bir_Ta%C5%9F_Att%C4%B1m_%C3%87aya_D%C3%BC%C5%9Ft%C3%BC_(Malatya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

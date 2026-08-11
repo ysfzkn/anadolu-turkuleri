@@ -1,0 +1,62 @@
+{
+  "slug": "abdal-olsam-sallar-giysem",
+  "baslik": "Abdal Olsam Şallar Giysem",
+  "yore": "Tokat",
+  "hikaye": "Abdal Olsam Şallar Giysem, Vikikaynak'ın Tokat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tokat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abdal olsam şallar giysem ağnime",
+        "Gezen abdallara (da anam) eş deli gönül",
+        "Ta ezelden âşıkların kalbine",
+        "Değer iragipten (anam) taş deli gönü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir hüsnü güzele (anam) meylimi verdim",
+        "Kalbimde ikrarımda (anam) dilimde verdim",
+        "Ben dostu gördükçe (anam) artıyor derdim",
+        "Aksın gözlerimden (anam) yaş deli gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey dost) Sen özümü erenlerden ayırma",
+        "Zamane halkına sırrın duyurma",
+        "Âlem sele gitmiş yanıp kayırma",
+        "Sen kendi sevdana coş deli gönül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Abdal%20Olsam%20%C5%9Eallar%20Giysem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Abdal%20Olsam%20%C5%9Eallar%20Giysem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Abdal Olsam Şallar Giysem",
+      "url": "https://tr.wikisource.org/wiki/Abdal_Olsam_%C5%9Eallar_Giysem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tokat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

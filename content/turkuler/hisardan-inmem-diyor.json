@@ -1,0 +1,89 @@
+{
+  "slug": "hisardan-inmem-diyor",
+  "baslik": "Hisardan İnmem Diyor",
+  "yore": "Kütahya",
+  "hikaye": "Hisardan İnmem Diyor, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey hey hey) hisardan inmem diyor",
+        "(Haydi) basmadan giymem diyor",
+        "Aman kestirirsen pullu kes",
+        "Aman yanına gelmem diyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menberiridir yallah yallah menberi",
+        "Al başımdan çemberi",
+        "Dilberlerin dilberi",
+        "Ben yandım aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey hey hey) kalenin ardındayım",
+        "(Haydi) saatin dördündeyim",
+        "Eller uykusun uyur",
+        "Ben yarin derdindeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menberiridir yallah yallah menberi",
+        "Al başımdan çemberi",
+        "Dilberlerin dilberi",
+        "Ben yandım aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey hey hey) ey pınar eşme pınar",
+        "(Haydi) aman derdimi deşme pınar",
+        "Yar başına gelirse",
+        "Su ver söyleşme pınar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pembelidir kızın adı pembeli",
+        "Al başımdan çemberi",
+        "Ağlatmayın dilberi",
+        "Ben yandım aman aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hisardan%20%C4%B0nmem%20Diyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hisardan%20%C4%B0nmem%20Diyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hisardan İnmem Diyor",
+      "url": "https://tr.wikisource.org/wiki/Hisardan_%C4%B0nmem_Diyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "ziliflerin-tutam-tutam",
+  "baslik": "Ziliflerin Tutam Tutam",
+  "yore": "Giresun",
+  "hikaye": "Ziliflerin Tutam Tutam, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zillflerin tutam tutam",
+        "Arasına güller katam",
+        "Senin ile yaylaya gidem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dudu dillim ince bellim",
+        "Kalem kaşlım sırma saçlım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ufak damla damla",
+        "Damla damla göl eyledi",
+        "On beşinde bir güzel kız"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evimize yol eyledi",
+        "Bağımıza yol eyledi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü arpa",
+        "Kovun gelir kırpa kırpa",
+        "Anası kızından körpe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah dudu dillim ince bellim",
+        "Kalem kaşlım sırma saçlım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ziliflerin%20Tutam%20Tutam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ziliflerin%20Tutam%20Tutam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ziliflerin Tutam Tutam",
+      "url": "https://tr.wikisource.org/wiki/Ziliflerin_Tutam_Tutam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

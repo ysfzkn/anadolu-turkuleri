@@ -1,0 +1,104 @@
+{
+  "slug": "gitme-durnam-gitme",
+  "baslik": "Gitme Durnam Gitme",
+  "yore": "Erzincan",
+  "hikaye": "Gitme Durnam Gitme, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitme durnam gitme nerden gelirsin",
+        "Sen nazlı canana benzersin durnam",
+        "Her bakışta beni mecnun edersin",
+        "Gönülde mihmana benzersin durnam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Has nenni nenni",
+        "Dost neni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşlarına mim duvası yazılır",
+        "Cemaline türlü benler dizilir",
+        "Seni sevmeyenler haktan üzülür",
+        "Pir Balım Sultana benzersin durnam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Has nenni nenni",
+        "Dost neni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Balım Sultan’ a benzersin durnam",
+        "Yörüde dilber yörü canana yörü",
+        "Durnam gök yüzünde pervane döner",
+        "Dertli aşıklara badeler sunar",
+        "Aşıkların senden inayet umar",
+        "Tabibe lokmana benzersin durnam",
+        "Pir Balım Sultan’ a benzersin durnam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allah Allah Allah Allah",
+        "Hüdey hüdey hüdey hüdey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün ben pirimi gördüm",
+        "Gelir salını salını",
+        "Selamına karşı durdum",
+        "Bağrım delini delini (hüdey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldedim yanıma geldi",
+        "Gamzesi sinemi deldi",
+        "Bir izzetli selam verdi",
+        "Aldım sevini sevini (hüdey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gitme%20Durnam%20Gitme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gitme%20Durnam%20Gitme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gitme Durnam Gitme",
+      "url": "https://tr.wikisource.org/wiki/Gitme_Durnam_Gitme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

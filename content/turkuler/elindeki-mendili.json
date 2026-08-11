@@ -1,0 +1,104 @@
+{
+  "slug": "elindeki-mendili",
+  "baslik": "Elindeki Mendili",
+  "yore": "Denizli",
+  "hikaye": "Elindeki Mendili, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elindeki mendili",
+        "Yudur sevdiğim yudur",
+        "Gönül kim severse",
+        "Dünya güzeli olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil verem mi",
+        "Mendil ayrılık derler",
+        "Kendim gelem mi",
+        "Takasına bak",
+        "Benden sana fayda yok",
+        "Başkasına bak",
+        "Mangal maşası",
+        "Sen almazsan almayıver",
+        "Alır başkası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak tavuğu kesmeli",
+        "Kanedinden asmalı",
+        "Şıngırdaklı yarimi",
+        "Gazeteye basmalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil verem mi",
+        "Mendil ayrılık derler",
+        "Kendim gelem mi",
+        "Takasına bak",
+        "Benden sana fayda yok",
+        "Başkasına bak",
+        "Mangal maşası",
+        "Sen almazsan almayıver",
+        "Alır başkası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilin beyazı",
+        "Etme bana bu nazı",
+        "Ak göğsünün üstünde",
+        "Kılsam sabaha namazı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil verem mi",
+        "Mendil ayrılık derler",
+        "Kendim gelem mi",
+        "Takasına bak",
+        "Benden sana fayda yok",
+        "Başkasına bak",
+        "Mangal maşası",
+        "Sen almazsan almayıver",
+        "Alır başkası"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elindeki%20Mendili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elindeki%20Mendili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elindeki Mendili (Denizli)",
+      "url": "https://tr.wikisource.org/wiki/Elindeki_Mendili_(Denizli)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

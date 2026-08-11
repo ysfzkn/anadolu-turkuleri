@@ -1,0 +1,68 @@
+{
+  "slug": "sut-ictim-dilim-yandi",
+  "baslik": "Süt İçtim Dilim Yandı",
+  "yore": "Kilis",
+  "hikaye": "Süt İçtim Dilim Yandı, Vikikaynak'ın Kilis türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kilis yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Süt içtim dilim yandı amanın amanın",
+        "Döküldü kilim yandı kız sana hayranım",
+        "Döküldü kilim yandı kız sana kurbanım",
+        "Ben kilimde değilim amanın amanın",
+        "Bahçemde gülüm kaldı kız sana hayranım",
+        "Bahçemde gülüm kaldı kız sana kurbanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cendermeyim cenderme (amanın amanın)",
+        "Beni yoldan dönderme (kız sana hayranım)",
+        "Beni yoldan dönderme (Kız sana kurbanım)",
+        "Ben bir izinliyem (amanın amanın)",
+        "Canıma kasteyleme (kız sana hayranım)",
+        "Canıma kasteyleme (kız sana kurbanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cenderme çavuşuyam (amanın amanın)",
+        "Yol verin savuşuyam (kız sana hayranım)",
+        "Yol verin savuşuyam (kız sana kurbanım)",
+        "Beni çavuş sanmayın (amanın amanın)",
+        "Bölüğün başkanıyam (kız sana hayranım)",
+        "Bölüğü. n başkanıyam (kız sana kurbanım)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C3%BCt%20%C4%B0%C3%A7tim%20Dilim%20Yand%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C3%BCt%20%C4%B0%C3%A7tim%20Dilim%20Yand%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Süt İçtim Dilim Yandı",
+      "url": "https://tr.wikisource.org/wiki/S%C3%BCt_%C4%B0%C3%A7tim_Dilim_Yand%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kilis",
+    "anonim",
+    "açık arşiv"
+  ]
+}

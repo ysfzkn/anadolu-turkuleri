@@ -1,0 +1,65 @@
+{
+  "slug": "servi-kavak-uzun-kavak",
+  "baslik": "Servi Kavak Uzun Kavak",
+  "yore": "Eskişehir",
+  "hikaye": "Servi Kavak Uzun Kavak, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Servi kavak uzun kavak dalin malin kurusun (aman aman)",
+        "Yeşil meşil yaprakların suda muda çürüsün (aman aman)",
+        "Herkes sevdiğini belalım alsın yürüsün (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al gel sedefli sazını da gostak efem oynasın",
+        "Al gel sedefli sazını da bıçkın efem oynasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A garınca garınca, gara mara garınca (aman aman)",
+        "Hamamdan geliyor a canım, gelin de görümce (aman aman)",
+        "Her yanlarım gevşiyor belalım o yâri de görünce (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al gel sedefli sazını da gostak efem oynasın",
+        "Al gel sedefli sazını da bıçkın efem oynasın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Servi%20Kavak%20Uzun%20Kavak%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Servi%20Kavak%20Uzun%20Kavak",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Servi Kavak Uzun Kavak",
+      "url": "https://tr.wikisource.org/wiki/Servi_Kavak_Uzun_Kavak",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

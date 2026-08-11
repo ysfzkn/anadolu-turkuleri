@@ -1,0 +1,62 @@
+{
+  "slug": "dinek-dagi-yeni-geldim-gurbetten",
+  "baslik": "Dinek Dağı Yeni Geldim Gurbetten",
+  "yore": "Kırşehir",
+  "hikaye": "Dinek Dağı Yeni Geldim Gurbetten, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dinek dağı yeni geldim gurbetten",
+        "Başım eksik olmaz kadadan dertten",
+        "Adama kemlik mi gelir merdoğlu mertten",
+        "Kötülerin dalı gölgesi olmaz olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yiğit olan ata biner atlanır",
+        "Yiğit olan Her cefaya katlanır",
+        "Yiğit gölgesinde yiğit saklanır",
+        "Kötülerin dalı gölgesi olmaz olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meydanda deşinir yiğidin atı",
+        "Her nere gitse de söylenir methi",
+        "Altına batırsan ey'olmaz kötü",
+        "Aslı kara demir mücevher olmaz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dinek%20Da%C4%9F%C4%B1%20Yeni%20Geldim%20Gurbetten%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dinek%20Da%C4%9F%C4%B1%20Yeni%20Geldim%20Gurbetten",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dinek Dağı Yeni Geldim Gurbetten",
+      "url": "https://tr.wikisource.org/wiki/Dinek_Da%C4%9F%C4%B1_Yeni_Geldim_Gurbetten",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "elif-dedim-be-dedim",
+  "baslik": "Elif Dedim Be Dedim",
+  "yore": "Kütahya",
+  "hikaye": "Elif Dedim Be Dedim, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elif dedim be dedim (aman)",
+        "Gız ben sana ne dedim",
+        "Guş kanedi galem olsa (aman)",
+        "Ah yazılmaz benim derdim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elif'im noktalandı (aman)",
+        "Az derdim çokçalandı",
+        "Yetiş anam yetiş bubam (aman)",
+        "Ah Çeyizim bohçalandı",
+        "(Ah mezerim tahtalandı)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Elif%20Dedim%20Be%20Dedim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Elif%20Dedim%20Be%20Dedim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Elif Dedim Be Dedim",
+      "url": "https://tr.wikisource.org/wiki/Elif_Dedim_Be_Dedim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

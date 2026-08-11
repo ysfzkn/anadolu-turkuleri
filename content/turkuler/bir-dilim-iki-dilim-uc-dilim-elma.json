@@ -1,0 +1,63 @@
+{
+  "slug": "bir-dilim-iki-dilim-uc-dilim-elma",
+  "baslik": "Bir Dilim İki Dilim Üç Dilim Elma",
+  "yore": "Erzurum",
+  "hikaye": "Bir Dilim İki Dilim Üç Dilim Elma, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir dilim iki dilim üç dilim elma",
+        "Gel sarıl boynuma almazsan alma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eller biz de gittik vay delik taşa",
+        "Şimdiki rağbet gızlar vay galem kaşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eller biz de gittik vay ak pınara",
+        "Şimdiki rağbet gızlar vay çapkınlara"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eller biz de gittik vay biberliğe",
+        "Şimdiki rağbet gızlar vay dilberliğe"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Dilim%20%C4%B0ki%20Dilim%20%C3%9C%C3%A7%20Dilim%20Elma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Dilim%20%C4%B0ki%20Dilim%20%C3%9C%C3%A7%20Dilim%20Elma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Dilim İki Dilim Üç Dilim Elma",
+      "url": "https://tr.wikisource.org/wiki/Bir_Dilim_%C4%B0ki_Dilim_%C3%9C%C3%A7_Dilim_Elma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

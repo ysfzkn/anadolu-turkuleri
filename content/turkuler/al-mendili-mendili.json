@@ -1,0 +1,67 @@
+{
+  "slug": "al-mendili-mendili",
+  "baslik": "Al Mendili Mendili",
+  "yore": "Hatay",
+  "hikaye": "Al Mendili Mendili, Vikikaynak'ın Hatay türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Hatay yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil katar oldu",
+        "Hasretlik yeter oldu",
+        "Nazlı yarin kokusu",
+        "Burnumda tüter oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al mendili mendili",
+        "Kız sever karanfili"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil bağlarım yandan",
+        "Seni severim candan",
+        "İki yerde yar olmaz",
+        "Ya benden geç ya ondan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al mendili mendili",
+        "Kız sever karanfili"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Al%20Mendili%20Mendili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Al%20Mendili%20Mendili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Al Mendili Mendili",
+      "url": "https://tr.wikisource.org/wiki/Al_Mendili_Mendili",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Hatay",
+    "anonim",
+    "açık arşiv"
+  ]
+}

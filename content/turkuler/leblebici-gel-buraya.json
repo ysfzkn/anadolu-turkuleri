@@ -1,0 +1,65 @@
+{
+  "slug": "leblebici-gel-buraya",
+  "baslik": "Leblebici Gel Buraya",
+  "yore": "Eskişehir",
+  "hikaye": "Leblebici Gel Buraya, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leblebici gel buraya",
+        "Arkadaşım gelmez oraya",
+        "Alt'okkası beş paraya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandı yandı kavur çevir lebleblcl",
+        "Şöyle de çevir çevir leblebici"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leblebici aşır gider",
+        "Leblebiyi saçıp gider",
+        "Gölgeliğe kaçıp gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandı yandı kavur çevir lebleblcl",
+        "Şöyle de çevir çevir leblebici"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Leblebici%20Gel%20Buraya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Leblebici%20Gel%20Buraya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Leblebici Gel Buraya",
+      "url": "https://tr.wikisource.org/wiki/Leblebici_Gel_Buraya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

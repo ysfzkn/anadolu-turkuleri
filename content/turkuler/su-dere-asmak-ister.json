@@ -1,0 +1,53 @@
+{
+  "slug": "su-dere-asmak-ister",
+  "baslik": "Şu Dere Aşmak İster",
+  "yore": "Karaman",
+  "hikaye": "Şu Dere Aşmak İster, Vikikaynak'ın Karaman türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Karaman yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dere aşmak ister",
+        "Bal dudak yaşmak ister",
+        "Benim de câhil gönlüm",
+        "Yâre kavuşmak ister"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım alaca",
+        "Bir kuş vurdum delice",
+        "Yenile bir yâr sevdim",
+        "Gözleri sürmelice"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Dere%20A%C5%9Fmak%20%C4%B0ster%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Dere%20A%C5%9Fmak%20%C4%B0ster",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Dere Aşmak İster",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Dere_A%C5%9Fmak_%C4%B0ster",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karaman",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "ayva-turunc-narim-var",
+  "baslik": "Ayva Turunç Narım Var",
+  "yore": "Kırşehir",
+  "hikaye": "Ayva Turunç Narım Var, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva turunç narım var",
+        "Benim ahu zarım var",
+        "Hep derdinden ağlarım",
+        "Bir vefasız yârim var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al almayı ver narı",
+        "Ağlarım zarı zarı",
+        "Tez günlerde gönderin",
+        "O ahu gözlü yâri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva turunç n’eyleyim",
+        "Halimi arz eyleyim",
+        "Zaten bende talih yok",
+        "Ta küçükten böyleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al almayı ver narı",
+        "Ağlarım zarı zarı",
+        "Tez günlerde gönderin",
+        "O ahu gözlü yâri"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ayva%20Turun%C3%A7%20Nar%C4%B1m%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ayva%20Turun%C3%A7%20Nar%C4%B1m%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayva Turunç Narım Var",
+      "url": "https://tr.wikisource.org/wiki/Ayva_Turun%C3%A7_Nar%C4%B1m_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

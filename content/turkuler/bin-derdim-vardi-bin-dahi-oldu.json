@@ -1,0 +1,89 @@
+{
+  "slug": "bin-derdim-vardi-bin-dahi-oldu",
+  "baslik": "Bin Derdim Vardı Bin Dahi Oldu",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Bin Derdim Vardı Bin Dahi Oldu, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bin derdim vardı bin dahi oldu",
+        "Derdimin dermanı aman ha aman",
+        "Gülistan benzimin gülleri soldu",
+        "Gonca-i handanım amman ha amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halimde galmadı aram-u garar",
+        "Gün be gün erişir ömrüme zarar",
+        "Medet ey efendim sen verme melal",
+        "Gönlümün dermanı aman ha aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaktı derinumu bir per-i peyker",
+        "Nar-ı hasret odu bu cana eser",
+        "Derd-i hasretinle ölürsem eğer",
+        "Canımın cananı amman ha amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana cevredersen ey kaşı kare",
+        "Yüreğimde açtın sağ olmaz yare",
+        "Yüz bin tabib olsa bulunmaz çare",
+        "Yaramın lokmanı amman ha amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gamze-i zülüfün çeşmim yaş eyler",
+        "Cismin bir işaret eyler kaşeyler",
+        "Cahil sır saklamaz seni faş eyler",
+        "Kaşları kemanım amman ha amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fevzi çeşmim yaşı dur etti yetiş",
+        "Ganlıyım felekten yedim hazar muşt",
+        "Bir daha göreydim durma gel yetiş",
+        "Çıkmada bu canım amman ha amman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bin%20Derdim%20Vard%C4%B1%20Bin%20Dahi%20Oldu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bin%20Derdim%20Vard%C4%B1%20Bin%20Dahi%20Oldu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bin Derdim Vardı Bin Dahi Oldu",
+      "url": "https://tr.wikisource.org/wiki/Bin_Derdim_Vard%C4%B1_Bin_Dahi_Oldu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

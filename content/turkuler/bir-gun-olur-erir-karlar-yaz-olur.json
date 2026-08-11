@@ -1,0 +1,57 @@
+{
+  "slug": "bir-gun-olur-erir-karlar-yaz-olur",
+  "baslik": "Bir Gün Olur Erir Karlar Yaz Olur",
+  "yore": "Tunceli",
+  "hikaye": "Bir Gün Olur Erir Karlar Yaz Olur, Vikikaynak'ın Tunceli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tunceli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gül gördüm gülşen bağında,",
+        "Bülbül konmuş öter her bucağında,",
+        "Murat alıp gün görecek çağında,",
+        "Devredip geçirdin ömrümü felek,",
+        "Felek ey ey ey ey ey ey,",
+        "Devredip geçirdin ömrümü felek."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Munzur bahçesinin gülü solar mı",
+        "Solmuş güle dahi bülbül konar mı?",
+        "Ezelden ağlayan sonra güler mi?",
+        "Devredip geçirdin ömrümü felek,",
+        "Felek ey ey ey ey ey ey,",
+        "Devredip geçirdin ömrümü felek."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20G%C3%BCn%20Olur%20Erir%20Karlar%20Yaz%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20G%C3%BCn%20Olur%20Erir%20Karlar%20Yaz%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Gün Olur Erir Karlar Yaz Olur",
+      "url": "https://tr.wikisource.org/wiki/Bir_G%C3%BCn_Olur_Erir_Karlar_Yaz_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

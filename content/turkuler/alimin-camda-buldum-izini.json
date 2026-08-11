@@ -1,0 +1,77 @@
+{
+  "slug": "alimin-camda-buldum-izini",
+  "baslik": "Ali'min Çamda Buldum İzini",
+  "yore": "Yozgat",
+  "hikaye": "Ali'min Çamda Buldum İzini, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali'min çamda da buldum izini (ben yandım aman)",
+        "Duman sandım ayağının tozunu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali'm Ali'm Ali'm nazlı yarim",
+        "Tenhalarda buluşalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali'mi ormanlıkta bastılar (ben yandım aman)",
+        "Mendilini gül dalına astılar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali'm Ali'm Ali'm nazlı yarim",
+        "Tenhalarda buluşalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü yoldur geçilmez (ben yandım aman)",
+        "Soğuktur suları bir tas içilmez"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali'm Ali'm Ali'm nazlı yarim",
+        "Tenhalarda buluşalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ali'min%20%C3%87amda%20Buldum%20%C4%B0zini%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ali'min%20%C3%87amda%20Buldum%20%C4%B0zini",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ali'min Çamda Buldum İzini",
+      "url": "https://tr.wikisource.org/wiki/Ali'min_%C3%87amda_Buldum_%C4%B0zini",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "cayira-serdim-postu",
+  "baslik": "Çayıra Serdim Postu",
+  "yore": "Isparta",
+  "hikaye": "Çayıra Serdim Postu, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayıra serdim postu",
+        "Şu gelen kimin dostu",
+        "Gören maşallah desin",
+        "Kimin var böyle dostu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Kaşlarına, gözlerine de",
+        "Yârin şirin sözlerine de",
+        "Çoluğuna, çocuğuna maşallah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayıra serdim minder",
+        "Yönünü bana dönder",
+        "Yönünü döndermezsen",
+        "Ayda bir mektup gönder",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayıra serdim kilim",
+        "Gel otur, benim gülüm",
+        "Ne dedim de küstürdüm",
+        "Lal olsun benim dilim",
+        "Bağlantı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ay%C4%B1ra%20Serdim%20Postu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ay%C4%B1ra%20Serdim%20Postu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çayıra Serdim Postu",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ay%C4%B1ra_Serdim_Postu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

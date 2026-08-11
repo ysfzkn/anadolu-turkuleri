@@ -1,0 +1,68 @@
+{
+  "slug": "bahceye-indim-ki-gulleri-derem",
+  "baslik": "Bahçeye İndim ki Gülleri Derem",
+  "yore": "Malatya",
+  "hikaye": "Bahçeye İndim ki Gülleri Derem, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye indim ki güllere derem",
+        "Gülün bahanesiyle yarimi görem",
+        "Ölüm ucuz diyorlar korkarım ölem",
+        "Korkarım ölem",
+        "Ölmeden yarimi bir daha görem",
+        "Ölmeden yarimi bir daha görem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye indim ki fidanlar ağlar",
+        "Yarimi gördünüz mü yıldızlar aylar",
+        "Şimdi benim yarim ah çeker ağlar",
+        "Ah çeker ağlar",
+        "Yol verin aşayım dumanlı dağlar",
+        "Yol verin aşayım dumanlı dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Her sabah her seherden çıkarım dağa",
+        "Yar yolun uzaktır görünmez bana",
+        "Öt bülbülüm öt ki yarim uyana",
+        "Yarim uyana",
+        "Çok isterim bu ayrılağa dayanam",
+        "Çok isterim bu ayrılağa dayanam"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7eye%20%C4%B0ndim%20ki%20G%C3%BClleri%20Derem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7eye%20%C4%B0ndim%20ki%20G%C3%BClleri%20Derem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçeye İndim ki Gülleri Derem (Malatya)",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7eye_%C4%B0ndim_ki_G%C3%BClleri_Derem_(Malatya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Malatya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

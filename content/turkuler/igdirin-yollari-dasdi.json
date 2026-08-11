@@ -1,0 +1,63 @@
+{
+  "slug": "igdirin-yollari-dasdi",
+  "baslik": "Iğdır'ın Yolları Daşdı",
+  "yore": "Iğdır",
+  "hikaye": "Iğdır'ın Yolları Daşdı, Vikikaynak'ın Iğdır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Iğdır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğdır'ın yolları daşdı",
+        "Menim yârim (ay balam) galem gaştı",
+        "Niye menden uzaklaşdı",
+        "Harda galdı ay balam menim yarim",
+        "Gara gözüm ay balam vefakârım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sular gelir aka aka",
+        "Men galmışam (ay balam) baka baka",
+        "İndi gele burdan çıka",
+        "Menim ela gözlü yarim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğdır'ın yolları beşem gözlemektir (ay balam)",
+        "Yarı peşem üç ay oldu görmemişem",
+        "Harda galdı ay balam menim varım",
+        "Gara gözlüm ay balam vefakârım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=I%C4%9Fd%C4%B1r'%C4%B1n%20Yollar%C4%B1%20Da%C5%9Fd%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/I%C4%9Fd%C4%B1r'%C4%B1n%20Yollar%C4%B1%20Da%C5%9Fd%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Iğdır'ın Yolları Daşdı",
+      "url": "https://tr.wikisource.org/wiki/I%C4%9Fd%C4%B1r'%C4%B1n_Yollar%C4%B1_Da%C5%9Fd%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Iğdır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

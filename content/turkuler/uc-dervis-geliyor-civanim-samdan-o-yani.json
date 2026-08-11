@@ -1,0 +1,80 @@
+{
+  "slug": "uc-dervis-geliyor-civanim-samdan-o-yani",
+  "baslik": "Üç Derviş Geliyor Civanım Şamdan O Yanı",
+  "yore": "Eskişehir",
+  "hikaye": "Üç Derviş Geliyor Civanım Şamdan O Yanı, Vikikaynak'ın Eskişehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Eskişehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç derviş geliyor (da) civanım şamdan o yanı (vay vay)",
+        "Daramış kekilin zilifi vermiş tımarı (vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonuver de durnam gon gon",
+        "Evlere kekliğin gon gon",
+        "Ayrı da düştüm gon gon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Durnamın kanadı (da) civanım al değil yeşil (vay vay)",
+        "Sıva kollarını (da) cıvanım boynumdan aşır (vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonuver de durnam gon gon",
+        "Evlere kekliğin gon gon",
+        "Ayrı da düştüm gon gon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Durnamın kanadı (da) civanım al değil sarı (vay vay)",
+        "Dağlara saldım (da) civanım gül yüzlü varı (vay vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gonuver de durnam gon gon",
+        "Evlere kekliğin gon gon",
+        "Ayrı da düştüm gon gon"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%9C%C3%A7%20Dervi%C5%9F%20Geliyor%20Civan%C4%B1m%20%C5%9Eamdan%20O%20Yan%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%9C%C3%A7%20Dervi%C5%9F%20Geliyor%20Civan%C4%B1m%20%C5%9Eamdan%20O%20Yan%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Üç Derviş Geliyor Civanım Şamdan O Yanı",
+      "url": "https://tr.wikisource.org/wiki/%C3%9C%C3%A7_Dervi%C5%9F_Geliyor_Civan%C4%B1m_%C5%9Eamdan_O_Yan%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Eskişehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

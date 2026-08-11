@@ -1,0 +1,66 @@
+{
+  "slug": "dar-kopruden-gecerken",
+  "baslik": "Dar Köprüden Geçerken",
+  "yore": "Yozgat",
+  "hikaye": "Dar Köprüden Geçerken, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dar köprüden geçerken (uy aman yârim yâr)",
+        "Köprü salladı beni (oğlan oğlan nar danem oğlan bir danem oğlan)",
+        "Ben ele varmaz idim (uy aman yârim yâr)",
+        "Ağam yolladı beni (oğlan oğlan nar danem oğlan bir danem oğlan)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dar köprüden geçerken (uy aman yârim yâr)",
+        "Elim değdi eline",
+        "(oğlan oğlan nar danem oğlan bir danem oğlan)",
+        "Altın kemer takınmış (uy aman yârim yâr)",
+        "Yârim ince beline",
+        "(oğlan oğlan nar danem oğlan bir danem oğlan)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dar köprüden geçerken (uy aman yârim yâr)",
+        "Geldik omuz omuza",
+        "(oğlan oğlan nar danem oğlan bir danem oğlan)",
+        "Benden sana fayda yok",
+        "Yârim sen gelme bize",
+        "(oğlan oğlan nar danem oğlan bir danem oğlan)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dar%20K%C3%B6pr%C3%BCden%20Ge%C3%A7erken%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dar%20K%C3%B6pr%C3%BCden%20Ge%C3%A7erken",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dar Köprüden Geçerken",
+      "url": "https://tr.wikisource.org/wiki/Dar_K%C3%B6pr%C3%BCden_Ge%C3%A7erken",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Yozgat",
+    "anonim",
+    "açık arşiv"
+  ]
+}

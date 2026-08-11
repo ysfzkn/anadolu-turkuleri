@@ -1,0 +1,65 @@
+{
+  "slug": "yuce-dag-basinda-gara-gis-olur",
+  "baslik": "Yüce Dağ Başında Gara Gış Olur",
+  "yore": "Zonguldak",
+  "hikaye": "Yüce Dağ Başında Gara Gış Olur, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında gara gış olur",
+        "Bastığın yerler donar daş olur",
+        "Gurbet elde derdim bana eş olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldan aldım mordan aldım",
+        "Dal yazmayı yardan aldım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gide gide ben sılamdan ırdım",
+        "Iradım da nazlı yarim aradım",
+        "Gavuşmaktır gısmet ise muradım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldan aldım mordan aldım",
+        "Dal yazmayı yardan aldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Gara%20G%C4%B1%C5%9F%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Gara%20G%C4%B1%C5%9F%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüce Dağ Başında Gara Gış Olur",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCce_Da%C4%9F_Ba%C5%9F%C4%B1nda_Gara_G%C4%B1%C5%9F_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Zonguldak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

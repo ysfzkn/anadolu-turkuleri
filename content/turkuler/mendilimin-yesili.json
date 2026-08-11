@@ -1,0 +1,71 @@
+{
+  "slug": "mendilimin-yesili",
+  "baslik": "Mendilimin Yeşili",
+  "yore": "İstanbul",
+  "hikaye": "Mendilimin Yeşili, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilimin yeşili (amman amman)",
+        "Ben kaybettim eşimi",
+        "Al bu mendil sende sende dursun",
+        "Sil gözünün yaşını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman doktor canım gülüm doktor",
+        "Derdime bir çare",
+        "Çaresiz dertlere düştüm",
+        "Doktor bana bir çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilim benek benek (amman amman)",
+        "Ortası çarkıfelek",
+        "Yazı beraber geçirdik",
+        "Kışın ayırdı felek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman doktor gülüm kuzum doktor",
+        "Derdime bir çare",
+        "Çaresiz dertlere düştüm",
+        "Doktor bana bir çare"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mendilimin%20Ye%C5%9Fili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mendilimin%20Ye%C5%9Fili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mendilimin Yeşili",
+      "url": "https://tr.wikisource.org/wiki/Mendilimin_Ye%C5%9Fili",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

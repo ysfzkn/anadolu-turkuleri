@@ -1,0 +1,46 @@
+{
+  "slug": "fatma-giza-su-yolunda-gavustum",
+  "baslik": "Fatma Gıza Su Yolunda Gavuştum",
+  "yore": "Denizli",
+  "hikaye": "Fatma Gıza Su Yolunda Gavuştum, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fatma gıza su yolunda gavuştum",
+        "Fatma aşağı ben yukarı savuştum",
+        "Ben Fatma’yı bir kötüye değiştimDamalısın Fatma gelin damalıBu canımı yoluna da gurban gomalı",
+        "Gar beyazı Fatma gızın golları",
+        "Elin açmış mevlasına yalvarı",
+        "Beş endaze Fatma gızın şalvarıDamalısın Fatma gelin damalıBu canımı yoluna da gurban gomalı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fatma%20G%C4%B1za%20Su%20Yolunda%20Gavu%C5%9Ftum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fatma%20G%C4%B1za%20Su%20Yolunda%20Gavu%C5%9Ftum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fatma Gıza Su Yolunda Gavuştum",
+      "url": "https://tr.wikisource.org/wiki/Fatma_G%C4%B1za_Su_Yolunda_Gavu%C5%9Ftum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

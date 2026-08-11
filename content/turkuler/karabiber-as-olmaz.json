@@ -1,0 +1,101 @@
+{
+  "slug": "karabiber-as-olmaz",
+  "baslik": "Karabiber Aş Olmaz",
+  "yore": "Denizli",
+  "hikaye": "Karabiber Aş Olmaz, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiber aş olmaz",
+        "Bundan ince kaş olmaz",
+        "Karabiber aş olmaz",
+        "Bundan ince kaş olmaz",
+        "Bundan ince kaş olsa",
+        "Dünya malı baş olmaz",
+        "Bundan ince kaş olsa",
+        "Dünya malı baş olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de bağdem şekerim",
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de leblebi şekerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiber kavurma",
+        "Kış saçını savurma",
+        "Karabiber kavurma",
+        "Kış saçını savurma",
+        "Oğlan alıp giderken",
+        "Ana diye bağırma",
+        "Oğlan alıp giderken",
+        "Ana diye bağırma karabiberim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de bağdem şekerim",
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de leblebi şekerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara biber tozludur",
+        "Hacı yedi gızlıdır",
+        "Kara biber tozludur",
+        "Hacı yedi gızlıdır",
+        "Hepsi de kocaman",
+        "Küçüğü benle sözlüdür",
+        "Hepsi de kocaman",
+        "Küçüğü benle sözlüdür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de bağdem şekerim",
+        "Karabiberim de nasıl edelim",
+        "Karabiberim de leblebi şekerim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karabiber%20A%C5%9F%20Olmaz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karabiber%20A%C5%9F%20Olmaz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karabiber Aş Olmaz (Denizli)",
+      "url": "https://tr.wikisource.org/wiki/Karabiber_A%C5%9F_Olmaz_(Denizli)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

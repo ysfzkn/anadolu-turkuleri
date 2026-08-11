@@ -1,0 +1,73 @@
+{
+  "slug": "gulistanda-bir-gulum-var",
+  "baslik": "Gülistan'da Bir Gülüm Var",
+  "yore": "Erzurum",
+  "hikaye": "Gülistan'da Bir Gülüm Var, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülistan'da bir gülüm var",
+        "Mor menevşe sümbülüm var",
+        "Taze gonca bir gülüm var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baka baka gözden oldum ey",
+        "Diye diye sözden oldum ey",
+        "Yana yana özden oldum ey",
+        "Döve döve dizden oldum ey",
+        "Gözden oldum ey özden oldum ey",
+        "Sözden oldum ey ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülistanı men beklerem",
+        "Boşa gider emeklerim",
+        "Gülü sümbüle eklerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baka baka gözden oldum ey",
+        "Diye diye sözden oldum ey",
+        "Yana yana özden oldum ey",
+        "Döve döve dizden oldum ey",
+        "Gözden oldum ey özden oldum ey",
+        "Sözden oldum ey ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BClistan'da%20Bir%20G%C3%BCl%C3%BCm%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BClistan'da%20Bir%20G%C3%BCl%C3%BCm%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gülistan'da Bir Gülüm Var",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BClistan'da_Bir_G%C3%BCl%C3%BCm_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

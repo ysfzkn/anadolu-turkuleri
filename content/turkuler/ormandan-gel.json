@@ -1,0 +1,89 @@
+{
+  "slug": "ormandan-gel",
+  "baslik": "Ormandan Gel",
+  "yore": "Uşak",
+  "hikaye": "Ormandan Gel, Vikikaynak'ın Uşak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Uşak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ormandan gel a cavırın gızı da ormandan",
+        "Ormandan gel a cavırın gızı da ormandan",
+        "Daha dün ayrıldım mor yazmalı da yarimden",
+        "Daha dün ayrıldım mor yazmalı da yarimden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor",
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam üstüne sermişler de siniler",
+        "Dam üstüne sermişler de siniler",
+        "Sevip sevip almıyorlar da yeniler",
+        "Sevip sevip almıyorlar da yeniler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor",
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eklemedir vay goca gonak ekleme",
+        "Eklemedir vay goca gonak ekleme",
+        "Benden başka yar sevmişsin saklama",
+        "Benden başka yar sevmişsin saklama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor",
+        "Ay anam a bubam da denk geliyor",
+        "İkimizin boyları da denk geliyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ormandan%20Gel%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ormandan%20Gel",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ormandan Gel (Uşak)",
+      "url": "https://tr.wikisource.org/wiki/Ormandan_Gel_(U%C5%9Fak)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Uşak",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "menim-toyugum-agidi",
+  "baslik": "Menim Toyuğum Ağıdı",
+  "yore": "Kars",
+  "hikaye": "Menim Toyuğum Ağıdı, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menim toyuğum ağdı balam",
+        "Derisi dolu yağıdı balam",
+        "Dünen bu vede sağıdı balam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Sen yanasan toyuk çalan",
+        "Ay oklanasan toyuk tutan",
+        "Nice ki men yanıram",
+        "Sen yanasan toyuk çalan",
+        "Ay oklanasan toyuk aparan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Menim toyuğum çil çil idi",
+        "Ganadları tel tel idi",
+        "Toyuk değil bir fil idi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zübeyde hala çıktı dama",
+        "Baktı sağa baktı sola",
+        "Toyuğu tutup attı dama"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Menim%20Toyu%C4%9Fum%20A%C4%9F%C4%B1d%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Menim%20Toyu%C4%9Fum%20A%C4%9F%C4%B1d%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Menim Toyuğum Ağıdı",
+      "url": "https://tr.wikisource.org/wiki/Menim_Toyu%C4%9Fum_A%C4%9F%C4%B1d%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kars",
+    "anonim",
+    "açık arşiv"
+  ]
+}

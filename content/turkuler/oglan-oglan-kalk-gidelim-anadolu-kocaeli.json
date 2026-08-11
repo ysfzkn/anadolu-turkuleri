@@ -1,0 +1,68 @@
+{
+  "slug": "oglan-oglan-kalk-gidelim-anadolu-kocaeli",
+  "baslik": "Oğlan Oğlan Kalk Gidelim (Anadolu)",
+  "yore": "Kocaeli",
+  "hikaye": "Oğlan Oğlan Kalk Gidelim (Anadolu), Vikikaynak'ın Kocaeli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kocaeli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan oğlan kalk gidelim",
+        "Oğlan oğlan kalk gidelim",
+        "Sigarayı fenerini yak gidelim",
+        "Ne güzel oğlan ben yandım aman",
+        "Sigarayı fenerini yak gidelim",
+        "Ne güzel oğlan babası çoban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlana yaptırdım fil dişli darak",
+        "Oğlana yaptırdım fil dişli darak",
+        "Tara kâkülünü bir yana burak",
+        "Ne güzel oğlan ben yandım aman",
+        "Tara kâkülünü bir yana burak",
+        "Ne güzel oğlan babası çoban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan oğlan koynuma dolan",
+        "Oğlan oğlan koynuma dolan",
+        "Kollarımda sana yastık saçlarım yorgan",
+        "Ne güzel oğlan ben yandım aman",
+        "Kollarımda sana yastık saçlarım yorgan",
+        "Ne güzel oğlan babası çoban"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=O%C4%9Flan%20O%C4%9Flan%20Kalk%20Gidelim%20(Anadolu)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/O%C4%9Flan%20O%C4%9Flan%20Kalk%20Gidelim%20(Anadolu)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oğlan Oğlan Kalk Gidelim (Anadolu)",
+      "url": "https://tr.wikisource.org/wiki/O%C4%9Flan_O%C4%9Flan_Kalk_Gidelim_(Anadolu)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kocaeli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

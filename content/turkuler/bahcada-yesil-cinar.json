@@ -1,0 +1,69 @@
+{
+  "slug": "bahcada-yesil-cinar",
+  "baslik": "Bahçada Yeşil Çınar",
+  "yore": "Diyarbakır",
+  "hikaye": "Bahçada Yeşil Çınar, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçada yeşil çınar",
+        "Boyun boyuma uyar",
+        "Ben seni gizli sevdim",
+        "Bilmedim âlem duyar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gülüm nanayı",
+        "Top kâküllüm nanayı",
+        "Nanay kibar yarim naynana naynay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda gül varı",
+        "Var git ellerin yâri",
+        "Sen bana yâr olmazsın",
+        "Yüzüme gülme bari"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gülüm nanay",
+        "Top kaküllüm nanay",
+        "Nanay kibar yarim naynana naynay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7ada%20Ye%C5%9Fil%20%C3%87%C4%B1nar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7ada%20Ye%C5%9Fil%20%C3%87%C4%B1nar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçada Yeşil Çınar",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7ada_Ye%C5%9Fil_%C3%87%C4%B1nar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

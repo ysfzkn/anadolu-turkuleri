@@ -1,0 +1,111 @@
+{
+  "slug": "tellidir-yavrum-anam-tellidir",
+  "baslik": "Tellidir Yavrum Anam Tellidir",
+  "yore": "Denizli",
+  "hikaye": "Tellidir Yavrum Anam Tellidir, Vikikaynak'ın Denizli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Denizli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tellidir yavrum anam tellidir (tellidir aman)",
+        "Denizli'nin horozları bellidir",
+        "Ötüver de çil horozum biyo ötüver",
+        "Geniş olam gam zamanı değildir",
+        "Geniş olam gam zamanı değildir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmam çardaktan",
+        "Suyu bardaktan",
+        "Biyo öpüverem çil horozum",
+        "İlimon yanaktan amanın ilimon yanaktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmam yıkıldı",
+        "Suyu sıkıldı",
+        "Bugün çil horozu duymadım",
+        "Canım sıkıldı amanın canım sıkıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Telli gelin tüllü gelin geliyor (geliyor anam)",
+        "Ganat açmış tüylerini beleyor",
+        "Ötüver de çil horozum da biyol ötüver",
+        "Telli gelin tasasundan çürüyor",
+        "(Tüllü gelin kahrından ölüyor)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmam yıkıldı",
+        "Suyu sıkıldı",
+        "Bugün çil horozu duymadım",
+        "Canım sıkıldı amanın canım sıkıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmam çardaktan",
+        "Suyu bardaktan",
+        "Biyo öpüverem çil horozum",
+        "İlimon yanaktan amanın ilimon yanaktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabah olur akşam olur ötersin",
+        "Ötersin aman",
+        "Alemi kendine hayran edersin",
+        "Ötme çil horozum ötme bu kadar ötme",
+        "Ellerin de kem gözüne değersin",
+        "Alemin de kem gözüne değersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmam çardaktan",
+        "Suyu bardaktan",
+        "Biyo öpüverem çil horozum",
+        "İlimon yanaktan amanın ilimon yanaktan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tellidir%20Yavrum%20Anam%20Tellidir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tellidir%20Yavrum%20Anam%20Tellidir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tellidir Yavrum Anam Tellidir",
+      "url": "https://tr.wikisource.org/wiki/Tellidir_Yavrum_Anam_Tellidir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Denizli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

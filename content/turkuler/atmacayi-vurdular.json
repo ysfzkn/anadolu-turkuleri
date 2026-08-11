@@ -1,0 +1,89 @@
+{
+  "slug": "atmacayi-vurdular",
+  "baslik": "Atmacayı Vurdular",
+  "yore": "Giresun",
+  "hikaye": "Atmacayı Vurdular, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atmacayı vurdular",
+        "Bir avuç darı için",
+        "Gel edelim sevdalık",
+        "Bubanın canı için"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadırga yok deyiler",
+        "Nereye gidiyiler",
+        "Benim ufak gülümü",
+        "Ellere veriyiler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi gidelim size",
+        "Sisin yollari çise",
+        "Ne dedum da darıldın",
+        "Niye gelmiysun bize"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadırga yok deyiler",
+        "Nereye gidiyiler",
+        "Benim ufak gülümü",
+        "Ellere veriyiler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dere derin orman",
+        "Görüşmeyelim aman",
+        "Senin gibi güzelin",
+        "Canım yoluna gurban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gadırga yok deyiler",
+        "Nereye gidiyiler",
+        "Benim ufak gülümü",
+        "Ellere veriyiler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Atmacay%C4%B1%20Vurdular%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Atmacay%C4%B1%20Vurdular",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Atmacayı Vurdular",
+      "url": "https://tr.wikisource.org/wiki/Atmacay%C4%B1_Vurdular",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

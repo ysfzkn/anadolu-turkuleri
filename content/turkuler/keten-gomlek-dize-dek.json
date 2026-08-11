@@ -1,0 +1,65 @@
+{
+  "slug": "keten-gomlek-dize-dek",
+  "baslik": "Keten Gömlek Dize Dek",
+  "yore": "Konya",
+  "hikaye": "Keten Gömlek Dize Dek, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keten gömlek dize dek",
+        "Kalk gidelim bize dek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman benim ünvanlı menim",
+        "Küçücüksün Şirvanlı menim",
+        "Orta da boylu ünvanlı menim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah keten gömlek masarı",
+        "Oldum kızın esiri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman benim ünvanlı menim",
+        "Küçücüksün Şirvanlı menim",
+        "Orta da boylu ünvanlı menim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Keten%20G%C3%B6mlek%20Dize%20Dek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Keten%20G%C3%B6mlek%20Dize%20Dek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Keten Gömlek Dize Dek",
+      "url": "https://tr.wikisource.org/wiki/Keten_G%C3%B6mlek_Dize_Dek",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

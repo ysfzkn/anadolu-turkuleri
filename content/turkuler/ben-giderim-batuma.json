@@ -1,0 +1,71 @@
+{
+  "slug": "ben-giderim-batuma",
+  "baslik": "Ben Giderim Batum’a",
+  "yore": "Sinop",
+  "hikaye": "Ben Giderim Batum’a, Vikikaynak'ın Sinop türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Sinop yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben giderim Batum’a",
+        "Batum’un batağına",
+        "Bahçemizden içeri",
+        "Al beni yatağına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nazli yârim geldim sana",
+        "Fistanını toplasana",
+        "Kemençeler çalıınıyor",
+        "Bize horon oynasana hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köşke serdim yatağı",
+        "Gel derdimin ortağı",
+        "Yataklar diken oldu",
+        "Senden ayr yatalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bıldırcınım uçuyor",
+        "Kanadını açıyor",
+        "Bıldırki sevdiceğim",
+        "Bu yıl benden kaçıyor"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Giderim%20Batum%E2%80%99a%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Giderim%20Batum%E2%80%99a",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Giderim Batum’a",
+      "url": "https://tr.wikisource.org/wiki/Ben_Giderim_Batum%E2%80%99a",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sinop",
+    "anonim",
+    "açık arşiv"
+  ]
+}

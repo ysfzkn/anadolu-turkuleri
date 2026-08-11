@@ -1,0 +1,53 @@
+{
+  "slug": "guzeller-guzeli",
+  "baslik": "Güzeller Güzeli",
+  "yore": "Mersin",
+  "hikaye": "Güzeller Güzeli, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzeller güzeller aman aman of",
+        "Nerde gezerler, aslanım ben yadım",
+        "Eşim eşim gel gel,uğrun uğrun gel gel",
+        "Can yoldaşım vay.... ......."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nerde düğün bayram aman aman of",
+        "Orda gezerler, aslanım ben yandım",
+        "Eşim eşim gel gel, uğrun uğrun gel gel",
+        "Can yoldaşım gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCzeller%20G%C3%BCzeli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCzeller%20G%C3%BCzeli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Güzeller Güzeli",
+      "url": "https://tr.wikisource.org/wiki/G%C3%BCzeller_G%C3%BCzeli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

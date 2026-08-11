@@ -1,0 +1,65 @@
+{
+  "slug": "istanbulun-etirafi-meteriz",
+  "baslik": "İstanbul'un Etirafı Meteriz",
+  "yore": "Trabzon",
+  "hikaye": "İstanbul'un Etirafı Meteriz, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstanbul'un etirafı meteriz",
+        "Meterizden telli kurşun atarız",
+        "Üç kardeşiz bir orduya yeteriz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of ayrılık yenile de büktü belimi",
+        "Seferberlik ne yaman da yıktın evimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vara vara vardım Balkan aresi",
+        "Bu hasretlik var mı da bunun çaresi",
+        "Sende sevda bende kurşun yaresi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of ayrılık yenile de büktü belimi",
+        "Seferberlik ne yaman da yıktın evimi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0stanbul'un%20Etiraf%C4%B1%20Meteriz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0stanbul'un%20Etiraf%C4%B1%20Meteriz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İstanbul'un Etirafı Meteriz",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0stanbul'un_Etiraf%C4%B1_Meteriz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Trabzon",
+    "anonim",
+    "açık arşiv"
+  ]
+}

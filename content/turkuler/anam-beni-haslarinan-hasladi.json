@@ -1,0 +1,62 @@
+{
+  "slug": "anam-beni-haslarinan-hasladi",
+  "baslik": "Anam Beni Haslarınan Hasladı",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Anam Beni Haslarınan Hasladı, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anam beni haslarınan hasladı",
+        "Salarım gülsuyu ile ısladı",
+        "Anam beni gurbet için vesledi",
+        "Gel güle güle ayrılalım anamdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yukarıdan ivil ivil göç gelir",
+        "Aşağıdan kınacılar geç gelir",
+        "Kız anadan ayrılması güç gelir",
+        "Gel güle güle ayrılalım anamdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim elin harmanları savrulur",
+        "Savrulur da sağ yanına devrilir",
+        "Anadan ayrılan başı çevrilir",
+        "Gel güle güle ayrılalım anamdan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Anam%20Beni%20Haslar%C4%B1nan%20Haslad%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Anam%20Beni%20Haslar%C4%B1nan%20Haslad%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Anam Beni Haslarınan Hasladı",
+      "url": "https://tr.wikisource.org/wiki/Anam_Beni_Haslar%C4%B1nan_Haslad%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

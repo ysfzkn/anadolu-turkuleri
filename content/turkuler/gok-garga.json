@@ -1,0 +1,53 @@
+{
+  "slug": "gok-garga",
+  "baslik": "Gök Garga",
+  "yore": "Mersin",
+  "hikaye": "Gök Garga, Vikikaynak'ın Mersin türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Mersin yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın gök garga'yı, çocuk gök garga'yı",
+        "Guru ağaçta duddular, ooof duddular oy",
+        "Amanın duddular da, çocuk duddular da",
+        "Dar gafese de gaddılar hey, heeey gaddılar hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman çıkabilsem, çocuk çıkabilsem",
+        "Şu yokuşun başına vay, eeee başına vay",
+        "Amanın yeni girdim, çocuk yeni girdim",
+        "Onüç ondört yaşına vay, eeee yaşına vay."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6k%20Garga%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6k%20Garga",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gök Garga",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6k_Garga",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Mersin",
+    "anonim",
+    "açık arşiv"
+  ]
+}

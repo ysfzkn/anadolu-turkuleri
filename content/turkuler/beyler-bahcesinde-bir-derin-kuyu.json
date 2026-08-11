@@ -1,0 +1,77 @@
+{
+  "slug": "beyler-bahcesinde-bir-derin-kuyu",
+  "baslik": "Beyler Bahçesinde Bir Derin Kuyu",
+  "yore": "Tekirdağ",
+  "hikaye": "Beyler Bahçesinde Bir Derin Kuyu, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyler bahçesinde bir derin kuyu",
+        "Kuyudan çekerler (bre validem) güller suyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayle de gözlerim ayle ayrılık günü",
+        "Söyle de dillerim söyle muhabbetin sonu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyler bahçesinde bir kuzu meler",
+        "Kuzunun meleyişi (bre validem) bağrımı deler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayle de gözlerim ayle ayrılık günü",
+        "Söyle de dillerim söyle muhabbetin sonu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyler bahçesinde bir fener yanar",
+        "Fenerin etrafına (bre validem) şahinler konar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayle de gözlerim ayle ayrılık günü",
+        "Söyle de dillerim söyle muhabbetin sonu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Beyler%20Bah%C3%A7esinde%20Bir%20Derin%20Kuyu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Beyler%20Bah%C3%A7esinde%20Bir%20Derin%20Kuyu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beyler Bahçesinde Bir Derin Kuyu",
+      "url": "https://tr.wikisource.org/wiki/Beyler_Bah%C3%A7esinde_Bir_Derin_Kuyu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}

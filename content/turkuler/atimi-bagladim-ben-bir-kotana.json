@@ -1,0 +1,56 @@
+{
+  "slug": "atimi-bagladim-ben-bir-kotana",
+  "baslik": "Atımı Bağladım Ben Bir Kotana",
+  "yore": "Gümüşhane",
+  "hikaye": "Atımı Bağladım Ben Bir Kotana, Vikikaynak'ın Gümüşhane türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Gümüşhane yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir kotana",
+        "Canım kurban olsun kotan tutana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir masaya",
+        "Canım kurban olsun boyu kısaya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir eleğe",
+        "Canım kurban olsun huri meleğe"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=At%C4%B1m%C4%B1%20Ba%C4%9Flad%C4%B1m%20Ben%20Bir%20Kotana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/At%C4%B1m%C4%B1%20Ba%C4%9Flad%C4%B1m%20Ben%20Bir%20Kotana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Atımı Bağladım Ben Bir Kotana",
+      "url": "https://tr.wikisource.org/wiki/At%C4%B1m%C4%B1_Ba%C4%9Flad%C4%B1m_Ben_Bir_Kotana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gümüşhane",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "daldim-gollere-daldim",
+  "baslik": "Daldım Göllere Daldım",
+  "yore": "Giresun",
+  "hikaye": "Daldım Göllere Daldım, Vikikaynak'ın Giresun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Giresun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daldım göllere daldım da",
+        "Ala balıklar aldım",
+        "Sen bu güzelliğini de (yarim)",
+        "Nereden aldın (gülüm nereden aldın oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önünde de",
+        "Çituruk fidesi var",
+        "Hayde gidelim desen de",
+        "Benimle gidesi var (benimle gidesi var oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haburadan aşağıya",
+        "Bi yol iner deriye",
+        "Derden geçemezsin de",
+        "Gel beriye beriye (gel beriye beriye oy oy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağasarın balını da",
+        "Gel salın salını",
+        "Küçüğünden iyidir de",
+        "Büyüğünün çalımı (büyüğünün çalımı oy oy)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dald%C4%B1m%20G%C3%B6llere%20Dald%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dald%C4%B1m%20G%C3%B6llere%20Dald%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Daldım Göllere Daldım",
+      "url": "https://tr.wikisource.org/wiki/Dald%C4%B1m_G%C3%B6llere_Dald%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Giresun",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "kaynar-kazan-tasmaz-mi-kutahya",
+  "baslik": "Kaynar Kazan Taşmaz mı?",
+  "yore": "Kütahya",
+  "hikaye": "Kaynar Kazan Taşmaz mı?, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaynar kazan taşmaz mı?",
+        "Yol buralardan aşmaz mı?",
+        "Ben buralardan gidemiyom hey Ayşem",
+        "Ayrılan kavuşmaz mı?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gider Domurköy yolu",
+        "Aldım Tavşanlı pulu",
+        "Yengesiyle eyi olvermiş hey Ayşem",
+        "Molla Abdullah oğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hacıların avlusu",
+        "İçi guli yavrusu",
+        "İbramayı deli eden hey Ayşem",
+        "Ayşe kızın kaygısı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Domurköyü görmeli",
+        "Kahırından ölmeli",
+        "Hasan ile Fadimeyi hey Ayşem",
+        "Taş içinde gömmeli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaynar%20Kazan%20Ta%C5%9Fmaz%20m%C4%B1%3F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaynar%20Kazan%20Ta%C5%9Fmaz%20m%C4%B1%3F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaynar Kazan Taşmaz mı? (Kütahya)",
+      "url": "https://tr.wikisource.org/wiki/Kaynar_Kazan_Ta%C5%9Fmaz_m%C4%B1%3F_(K%C3%BCtahya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

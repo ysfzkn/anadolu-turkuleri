@@ -1,0 +1,67 @@
+{
+  "slug": "ah-ya-benim-kirmizica-gulum",
+  "baslik": "Ah Ya Benim Kırmızıca Gülüm",
+  "yore": "Kırklareli",
+  "hikaye": "Ah Ya Benim Kırmızıca Gülüm, Vikikaynak'ın Kırklareli türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırklareli yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah ya benim kırmızıca gülüm (aman)",
+        "Sağ yanına eğmiş dalın",
+        "Kime arz edeyim halim (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah eller de dost diller de",
+        "Diyarı gurbet illerde (aman aman)",
+        "Namım kalsın şu yerlerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açtım bahçe kapısını (aman aman)",
+        "Koktum gülün goncesini",
+        "Sardım belin incesini (aman aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah eller de dost diller de",
+        "Diyarı gurbet illerde (aman aman)",
+        "Namım kalsın şu yerlerde"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Ya%20Benim%20K%C4%B1rm%C4%B1z%C4%B1ca%20G%C3%BCl%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Ya%20Benim%20K%C4%B1rm%C4%B1z%C4%B1ca%20G%C3%BCl%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ah Ya Benim Kırmızıca Gülüm",
+      "url": "https://tr.wikisource.org/wiki/Ah_Ya_Benim_K%C4%B1rm%C4%B1z%C4%B1ca_G%C3%BCl%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırklareli",
+    "anonim",
+    "açık arşiv"
+  ]
+}

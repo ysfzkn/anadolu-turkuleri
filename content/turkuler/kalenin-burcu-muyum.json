@@ -1,0 +1,67 @@
+{
+  "slug": "kalenin-burcu-muyum",
+  "baslik": "Kalenin Burcu muyum",
+  "yore": "İstanbul",
+  "hikaye": "Kalenin Burcu muyum, Vikikaynak'ın İstanbul türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "İstanbul yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin burcu muyum (ben bilmem ayrıyım)",
+        "Dil bilmez Gürcü müyüm (elleri kınalı)",
+        "Felek evin yıkıla (ben bilmem ayrıyım)",
+        "Ben çirkin harcı mıyım (elleri kınalı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay sürmeli sürmeli (ben bilmem ayrıyım)",
+        "Severken sevdirmeli (elleri kınalı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indim iniş (ben bilmem ayrıyım)",
+        "Mendilim dolu yemiş (elleri kınalı)",
+        "Yare saldım yememiş (ben bilmem ayrıyım)",
+        "Kendisi gelsin demiş (elleri kınalı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay sürmeli sürmeli (ben bilmem ayrıyım)",
+        "Severken sevdirmeli (elleri kınalı)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kalenin%20Burcu%20muyum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kalenin%20Burcu%20muyum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kalenin Burcu muyum",
+      "url": "https://tr.wikisource.org/wiki/Kalenin_Burcu_muyum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "İstanbul",
+    "anonim",
+    "açık arşiv"
+  ]
+}

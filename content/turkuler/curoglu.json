@@ -1,0 +1,71 @@
+{
+  "slug": "curoglu",
+  "baslik": "Curoğlu",
+  "yore": "Kütahya",
+  "hikaye": "Curoğlu, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allah Allah diyelim binelim ata",
+        "Sıyıralım ince bıçağı vuralım ete",
+        "Sürelim Nasuhoğlu‟nu Şam‟dan öte",
+        "Vurun şahbazlarım der Curoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adımı sorarsan Yörük azgını",
+        "İndirin ileşine kara kuzgunu",
+        "Vur üzengiyi topla dizgini",
+        "Vurun keleşlerim der Curoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hendekler kazdırdım boyumdan alçak",
+        "Yiğitler besledim kendimden kaçak",
+        "Bir eli dabanca bir eli bıçak",
+        "Vurun şahbazların der Curoğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımın kuyruğu satırdır satır",
+        "Kesilen keller meydanda yatır",
+        "Kaçma Nasuhoğlu salâvat getir",
+        "Vurun şahbazlarım der Curoğlu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Curo%C4%9Flu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Curo%C4%9Flu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Curoğlu",
+      "url": "https://tr.wikisource.org/wiki/Curo%C4%9Flu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

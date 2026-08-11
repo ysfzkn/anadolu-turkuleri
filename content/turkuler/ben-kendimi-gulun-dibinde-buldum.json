@@ -1,0 +1,65 @@
+{
+  "slug": "ben-kendimi-gulun-dibinde-buldum",
+  "baslik": "Ben Kendimi Gülün Dibinde Buldum",
+  "yore": "Kütahya",
+  "hikaye": "Ben Kendimi Gülün Dibinde Buldum, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben kendimi gülün dibinde buldum",
+        "Guru guru sevdayımış sarardım soldum",
+        "Sevda bir düşmüş kendime yordum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay karanlık aman gece vurdular beni ey",
+        "Yarin çevresine sardılar beni ey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmen deresi bölük kadınım bölüktür",
+        "İçerde ciğerim delik kadınım deliktir",
+        "Dünya dedikleri bir gölgeliktir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay karanlık aman gece vurdular beni ey",
+        "Yarin çevresine sardılar beni ey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Kendimi%20G%C3%BCl%C3%BCn%20Dibinde%20Buldum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Kendimi%20G%C3%BCl%C3%BCn%20Dibinde%20Buldum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Kendimi Gülün Dibinde Buldum",
+      "url": "https://tr.wikisource.org/wiki/Ben_Kendimi_G%C3%BCl%C3%BCn_Dibinde_Buldum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "slug": "ben-bir-yakup-idim",
+  "baslik": "Ben Bir Yakup İdim",
+  "yore": "Erzincan",
+  "hikaye": "Ben Bir Yakup İdim, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir Yakup idim kendi halimde",
+        "Mevla'mın kelamı vardır dilimde",
+        "Yusuf'u kaybettim Kenan elinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar Yakub ağlar Yusuf'um deyu",
+        "Gitti de gelmedi vah yavrum deyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yusuf'um hocada okumaz oldu",
+        "O bülbül dilleri şakımaz oldu",
+        "Alnındaki nuru berk urmaz oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar Yakub ağlar Yusuf'um deyu",
+        "Gitti de gelmedi vah yavrum deyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir bezirgan geldi üç aylık yoldan",
+        "Yusuf'u çıkardı kırk arşın kuy'dan",
+        "Keremkarı kıldı Mısır'a sultan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar Yakub ağlar Yusuf'um deyu",
+        "Gitti de gelmedi vah yavrum deyu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yusuf'u götürdüler ölüm kastine",
+        "Attılar kuyuya başı üstüne",
+        "İhlas ile çıktı suyun üstüne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlar Yakub ağlar Yusuf'um deyu",
+        "Gitti de gelmedi vah yavrum deyu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Bir%20Yakup%20%C4%B0dim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Bir%20Yakup%20%C4%B0dim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Bir Yakup İdim (Erzincan)",
+      "url": "https://tr.wikisource.org/wiki/Ben_Bir_Yakup_%C4%B0dim_(Erzincan)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

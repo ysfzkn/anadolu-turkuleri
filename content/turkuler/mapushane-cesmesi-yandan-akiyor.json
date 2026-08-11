@@ -1,0 +1,53 @@
+{
+  "slug": "mapushane-cesmesi-yandan-akiyor",
+  "baslik": "Mapushane Çeşmesi Yandan Akıyor",
+  "yore": "Kastamonu",
+  "hikaye": "Mapushane Çeşmesi Yandan Akıyor, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mapushane çeşmesi yandan akıyor yandan",
+        "Mapusluk bir şey değil yanukluk var bir yandan",
+        "Ben verem oldum yâr yoluna (of)",
+        "Ben ölüyom yâr yoluna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey gardiyan gardiyan tabancamı ver bana",
+        "Bir güzelin yoluna ceza verdiler bana",
+        "Ben ölüyorum yâr yoluna",
+        "Ben verem oldum yâr yoluna (of)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mapushane%20%C3%87e%C5%9Fmesi%20Yandan%20Ak%C4%B1yor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mapushane%20%C3%87e%C5%9Fmesi%20Yandan%20Ak%C4%B1yor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mapushane Çeşmesi Yandan Akıyor",
+      "url": "https://tr.wikisource.org/wiki/Mapushane_%C3%87e%C5%9Fmesi_Yandan_Ak%C4%B1yor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

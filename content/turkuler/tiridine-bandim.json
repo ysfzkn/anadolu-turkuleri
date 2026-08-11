@@ -1,0 +1,52 @@
+{
+  "slug": "tiridine-bandim",
+  "baslik": "Tiridine Bandım",
+  "yore": "Kastamonu",
+  "hikaye": "Tiridine Bandım, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahleyin erken çifte giderken, aman aman",
+        "Öküzüm torbadan düşmüş, gördün mü? amanın yandım",
+        "Tiridine tiridine, tiridine bandım",
+        "Bedava mı sandın, para vidim aldım.",
+        "Manda yuva yapmış söğüt dalına, aman aman",
+        "Yavrusunu sinek kapmış gördün mü? amanın yandım.",
+        "Tiridine tiridine, tiridine bandım",
+        "Bedava mı sandın, para vidim aldım.",
+        "Aşağıda pınar güzellerin yoludur, aman aman",
+        "Tosya’da kuşağı ince belin gülüdür, amanın yandım.",
+        "Tiridine tiridine, tiridine bandım",
+        "Bedava mı sandın, para vidim aldım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tiridine%20Band%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tiridine%20Band%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Tiridine Bandım",
+      "url": "https://tr.wikisource.org/wiki/Tiridine_Band%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kastamonu",
+    "anonim",
+    "açık arşiv"
+  ]
+}

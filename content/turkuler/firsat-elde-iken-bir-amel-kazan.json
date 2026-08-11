@@ -1,0 +1,62 @@
+{
+  "slug": "firsat-elde-iken-bir-amel-kazan",
+  "baslik": "Fırsat Elde İken Bir Amel Kazan",
+  "yore": "Çorum",
+  "hikaye": "Fırsat Elde İken Bir Amel Kazan, Vikikaynak'ın Çorum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Çorum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fırsat elde iken bir amel kazan (Oy oy)",
+        "Gül cemalin bir gün solsa gerektir (Oy oy)",
+        "Zevkine aldanma tapma Dünyaya (Oy oy oy oy )",
+        "Dünya malı burda kalsa gerektir (Oy oy Oy Gerektir)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yarın Hak'kın divanına varılır (Oy oy)",
+        "Ruz-i Mahşer günü sual sorulur (Oy oy)",
+        "Günahı tartarlar Mizan kurulur (Oy oy oy oy)",
+        "Orda haklı hakkın alsa gerektir (Oy oy oy Gerektir)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Genç Abdal'ım Hakka yanık olana (Oy oy)",
+        "İtikatı bütün sadık olana (Oy oy)",
+        "Hakikattan Hakka Sadık Olana (Oy oy oy oy)",
+        "Divanda şefaat olsa gerektir (Oy oy oy Gerektir)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=F%C4%B1rsat%20Elde%20%C4%B0ken%20Bir%20Amel%20Kazan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/F%C4%B1rsat%20Elde%20%C4%B0ken%20Bir%20Amel%20Kazan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fırsat Elde İken Bir Amel Kazan",
+      "url": "https://tr.wikisource.org/wiki/F%C4%B1rsat_Elde_%C4%B0ken_Bir_Amel_Kazan",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Çorum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

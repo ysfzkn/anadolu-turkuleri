@@ -1,0 +1,63 @@
+{
+  "slug": "ahu-gozlerini-sevdigim-dilber",
+  "baslik": "Ahu Gözlerini Sevdiğim Dilber",
+  "yore": "Kırşehir",
+  "hikaye": "Ahu Gözlerini Sevdiğim Dilber, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahu gözlerini sevdiğim dilber",
+        "Sana bir sözüm var diyemiyorum",
+        "Bilmem deli miyim mecnun gezerim",
+        "Sırrımı ellere veremiyorum",
+        "(derdimi ellere diyemiyorum)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Helal olsun al yanaktan aldığım",
+        "El uzadıp gonca gülün derdiğim",
+        "İnce belini datlı dilini sevdiğim",
+        "Gırılsın gollarım saramıyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al yanaktan aldıcağım azıktır",
+        "Darama zülfünü gönlüm bozuktur",
+        "Öksüzüm garibim bana yazıktır",
+        "Destursuz yanına gelemiyorum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ahu%20G%C3%B6zlerini%20Sevdi%C4%9Fim%20Dilber%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ahu%20G%C3%B6zlerini%20Sevdi%C4%9Fim%20Dilber",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ahu Gözlerini Sevdiğim Dilber",
+      "url": "https://tr.wikisource.org/wiki/Ahu_G%C3%B6zlerini_Sevdi%C4%9Fim_Dilber",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "a-istanbul-sen-bir-han-misin",
+  "baslik": "A İstanbul Sen Bir Han mısın",
+  "yore": "Kütahya",
+  "hikaye": "A İstanbul Sen Bir Han mısın, Vikikaynak'ın Kütahya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kütahya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A İstanbul (beyim aman) sen bir han mısın",
+        "Varan yiğitleri (de beyler aman) yudan sen misin",
+        "Gelinleri yarsız goyan (bi danem) sen misin",
+        "Gidip de gelmeyen (de beyler aman) yari ben neyleyim",
+        "Vakitsiz açılan (da beyler aman) gülü ben neyleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A İstanbul (beyim aman) ıssız kalası",
+        "Taşına toprağına (da beyler aman) güller dolası",
+        "O da bencileyin (aman) yarsız galası",
+        "Gidip de gelmeyen (de beyler aman) yari ben neyleyim",
+        "Vakitsiz açılan (da beyler aman) gülü ben neyleyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%20%C4%B0stanbul%20Sen%20Bir%20Han%20m%C4%B1s%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%20%C4%B0stanbul%20Sen%20Bir%20Han%20m%C4%B1s%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — A İstanbul Sen Bir Han mısın",
+      "url": "https://tr.wikisource.org/wiki/A_%C4%B0stanbul_Sen_Bir_Han_m%C4%B1s%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kütahya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

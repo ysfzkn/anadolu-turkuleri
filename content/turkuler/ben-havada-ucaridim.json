@@ -1,0 +1,62 @@
+{
+  "slug": "ben-havada-ucaridim",
+  "baslik": "Ben Havada Uçarıdım",
+  "yore": "Isparta",
+  "hikaye": "Ben Havada Uçarıdım, Vikikaynak'ın Isparta türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Isparta yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben havada uçarıdım",
+        "Alaylan tuttun beni (naman)",
+        "Ben bahamı biliridim",
+        "Bir pula sattın beni (naman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil yaprak arasında",
+        "Kırmızı gül goncası (naman)",
+        "Nerelere katip olmuş",
+        "Gönlümün eğlencesi (naman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Girdim yarin bahçesine",
+        "Güller açmış gül güle (naman)",
+        "Benden selâm söyleyin (a yârim)",
+        "Dalındaki bülbüle (naman)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Havada%20U%C3%A7ar%C4%B1d%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Havada%20U%C3%A7ar%C4%B1d%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Havada Uçarıdım",
+      "url": "https://tr.wikisource.org/wiki/Ben_Havada_U%C3%A7ar%C4%B1d%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Isparta",
+    "anonim",
+    "açık arşiv"
+  ]
+}

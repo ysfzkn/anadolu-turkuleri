@@ -1,0 +1,78 @@
+{
+  "slug": "gonul-gel-seninle",
+  "baslik": "Gönül Gel Seninle",
+  "yore": "Erzincan",
+  "hikaye": "Gönül Gel Seninle, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül gel seninle muhabbet edelim",
+        "Araya kimseyi alma sevdiğim",
+        "Ya benim kimim var kime yalvarayım",
+        "Kaldır kalbindeki yarayı gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünya için gül benzini soldurma",
+        "Haldan bilmeyene halin bildirme",
+        "Tabip olmayınca yaran sardırma",
+        "Azdırırsın birgün yarayı gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Solmazsa dünyada güzeller solmaz",
+        "Bu dünya fanidir kimseye kalmaz",
+        "Yalan dolan ile sofuluk olmaz",
+        "Mümin olan bekler berayı gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derviş Ali’m öğüt verir özüne,",
+        "Gönül lütfeyledi geldi sözüne.",
+        "Azrail konarsa göğsün düzüne,",
+        "O zaman beklemez sırayı gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaynak Kişi: Ali Ekber Çiçek",
+        "Yöresi/İli: Erzincan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6n%C3%BCl%20Gel%20Seninle%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6n%C3%BCl%20Gel%20Seninle",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gönül Gel Seninle",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6n%C3%BCl_Gel_Seninle",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

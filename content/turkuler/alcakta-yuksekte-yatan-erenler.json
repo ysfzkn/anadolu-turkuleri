@@ -1,0 +1,71 @@
+{
+  "slug": "alcakta-yuksekte-yatan-erenler",
+  "baslik": "Alçakta Yüksekte Yatan Erenler",
+  "yore": "Kahramanmaraş",
+  "hikaye": "Alçakta Yüksekte Yatan Erenler, Vikikaynak'ın Kahramanmaraş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kahramanmaraş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alçakta yüksekte yatan erenler",
+        "Yetisin imdada aldı dert beni",
+        "Başımı alıp hangi yere gideyim",
+        "Gittiğim yerlerde buldu dert beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oturup benimle ibadet kıldı",
+        "Yalan söyledi de yüzüme güldü",
+        "Yalın kılıç olup üstüme geldi",
+        "Çaldı bölük bölük böldü dert beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üstümüzden gelen boran kış gibi",
+        "Yavru şahin pençesinde kus gibi",
+        "Seher çağı bir korkulu düş gibi",
+        "Çağırta çağırta aldı dert beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abdal pîr sultan'ım gönlüm hastadır",
+        "Kimseye diyemem gönlüm yastadır",
+        "Bilmem deli oldu bilmem ustadır",
+        "Şöyle bir sevdaya çaldı dert beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Al%C3%A7akta%20Y%C3%BCksekte%20Yatan%20Erenler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Al%C3%A7akta%20Y%C3%BCksekte%20Yatan%20Erenler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Alçakta Yüksekte Yatan Erenler",
+      "url": "https://tr.wikisource.org/wiki/Al%C3%A7akta_Y%C3%BCksekte_Yatan_Erenler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kahramanmaraş",
+    "anonim",
+    "açık arşiv"
+  ]
+}

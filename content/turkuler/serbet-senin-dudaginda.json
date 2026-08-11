@@ -1,0 +1,71 @@
+{
+  "slug": "serbet-senin-dudaginda",
+  "baslik": "Şerbet Senin Dudağında",
+  "yore": "Diyarbakır",
+  "hikaye": "Şerbet Senin Dudağında, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şerbet senin dudağında",
+        "Emeklerim kaldı ince belinde",
+        "Çok günâh işledim inkâr eğlemem",
+        "Günâh bende değil sendedir sende.."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül konma dalım yok benim",
+        "Sinemde sarack halim yok benim",
+        "Çok günâh işledim inkâ reğlemem",
+        "Günâh bende değil sendedir sende.."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül, konma bizim dallara",
+        "Yarim duyar ise düşer yollara",
+        "Çok günah işledim inkâr eğlemem",
+        "Günah bende değil sendedir sende.."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül konma nergiz dalına",
+        "Vurur da öldürür bir yâr uğruna",
+        "Çok günah işledim inkâr eğlemem",
+        "Günâh bende değil sendedir sende.."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eerbet%20Senin%20Duda%C4%9F%C4%B1nda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eerbet%20Senin%20Duda%C4%9F%C4%B1nda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şerbet Senin Dudağında",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eerbet_Senin_Duda%C4%9F%C4%B1nda",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Diyarbakır",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "bugun-bayram-gunudur",
+  "baslik": "Bugün Bayram Günüdür",
+  "yore": "Şanlıurfa",
+  "hikaye": "Bugün Bayram Günüdür, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün bayram günüdür (hele hele hele ninnayı)",
+        "Güzeller düğünüdür (hele hele hele hele hele ninnayı)",
+        "Herkesin yüzü güler (hele hele hele ninnayı)",
+        "Bana seyran günüdür (hele hele hele hele hele ninnayı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Az kaldı bayram ola (hele hele hele ninnayı)",
+        "Kolu boynuma dola (hele hele hele hele hele ninnayı)",
+        "Üç gecenin hayfını (hele hele hele ninnayı)",
+        "İster bir günde ola (hele hele hele hele hele ninnayı)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayvana serdim keçe (hele hele hele ninnayı)",
+        "Nice bir ömrüm geçe (hele hele hele hele hele ninnayı)",
+        "Acep o gün olur mu (hele hele hele ninnayı)",
+        "Eli elime geçe (hele hele hele hele hele ninnayı)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Bayram%20G%C3%BCn%C3%BCd%C3%BCr%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Bayram%20G%C3%BCn%C3%BCd%C3%BCr",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Bayram Günüdür",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Bayram_G%C3%BCn%C3%BCd%C3%BCr",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

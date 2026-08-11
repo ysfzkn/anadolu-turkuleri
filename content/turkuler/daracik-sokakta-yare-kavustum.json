@@ -1,0 +1,62 @@
+{
+  "slug": "daracik-sokakta-yare-kavustum",
+  "baslik": "Daracık Sokakta Yâre Kavuştum",
+  "yore": "Şanlıurfa",
+  "hikaye": "Daracık Sokakta Yâre Kavuştum, Vikikaynak'ın Şanlıurfa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Şanlıurfa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Daracık sokakta yâre kavuştum",
+        "Yâr aşağı ben yukarı savuştum (uy beni beni)",
+        "Yâre bir gül verdim yârnan barıştım",
+        "Bir tanecik bu dert yaralar beni (uy beni beni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Beni beni beni ceylanım seni",
+        "Sürmedim sefanı neyleyim seni",
+        "Uy beni beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında yayılır atlar",
+        "Yârimin koynuna girmesin yâdlar",
+        "Mezarım üstünde bir karış otlar",
+        "Bir tanecik bu dert yaralar beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Darac%C4%B1k%20Sokakta%20Y%C3%A2re%20Kavu%C5%9Ftum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Darac%C4%B1k%20Sokakta%20Y%C3%A2re%20Kavu%C5%9Ftum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Daracık Sokakta Yâre Kavuştum",
+      "url": "https://tr.wikisource.org/wiki/Darac%C4%B1k_Sokakta_Y%C3%A2re_Kavu%C5%9Ftum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Şanlıurfa",
+    "anonim",
+    "açık arşiv"
+  ]
+}

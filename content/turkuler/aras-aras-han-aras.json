@@ -1,0 +1,62 @@
+{
+  "slug": "aras-aras-han-aras",
+  "baslik": "Aras Aras Han Aras",
+  "yore": "Erzurum",
+  "hikaye": "Aras Aras Han Aras, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aras aras han aras",
+        "Bingöl'den kalkan aras",
+        "Al başımdan sevdayı",
+        "Hazar'da çalkan aras"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arasın başı benem",
+        "Dibinin taşı benem",
+        "Yalnız kalan dilberin",
+        "O da yoldaşı benem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arasa vurdum teşti",
+        "Aras bulandı geçti",
+        "Muhannet emmim kızı",
+        "Benim de vaktim geçti"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aras%20Aras%20Han%20Aras%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aras%20Aras%20Han%20Aras",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aras Aras Han Aras",
+      "url": "https://tr.wikisource.org/wiki/Aras_Aras_Han_Aras",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

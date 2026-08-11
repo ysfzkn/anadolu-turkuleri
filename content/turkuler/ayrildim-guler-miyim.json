@@ -1,0 +1,71 @@
+{
+  "slug": "ayrildim-guler-miyim",
+  "baslik": "Ayrıldım Güler miyim",
+  "yore": "Kırıkkale",
+  "hikaye": "Ayrıldım Güler miyim, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayrıldım güler miyim de",
+        "Ayrılık diler miyim",
+        "Katlime ferman olsa da",
+        "Yar senden döner miyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al ata yeşil kolan",
+        "Binde sahrayı dolan",
+        "Benim gibi var m'olada",
+        "Yarinden mahrum olan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayrıldım gülüm senden de",
+        "Dili bülbülüm senden",
+        "Ölüm ayırsın derken de",
+        "Dirim ayrıldı senden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al ata yeşil kolan",
+        "Binde sahrayı dolan",
+        "Benim gibi var m'olada",
+        "Yarinden mahrum olan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ayr%C4%B1ld%C4%B1m%20G%C3%BCler%20miyim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ayr%C4%B1ld%C4%B1m%20G%C3%BCler%20miyim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ayrıldım Güler miyim",
+      "url": "https://tr.wikisource.org/wiki/Ayr%C4%B1ld%C4%B1m_G%C3%BCler_miyim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "anonim",
+    "açık arşiv"
+  ]
+}

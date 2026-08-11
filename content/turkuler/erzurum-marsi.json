@@ -1,0 +1,80 @@
+{
+  "slug": "erzurum-marsi",
+  "baslik": "Erzurum Marşı",
+  "yore": "Erzurum",
+  "hikaye": "Erzurum Marşı, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tarihler ağlar vatan yanarken,",
+        "Eller öz vatanda nara atarken,",
+        "Ufukta ümidin nuru batarken,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlk sesi haykıran yüce Erzurum",
+        "Vatanı kurtaran yüce Erzurum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ufak bir depreniş, bir atlayışla,",
+        "Ümitler aşlayan bir şahlanışla,",
+        "Altıbin senelik bir arayışla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Canavar ağzını yırtan Erzurum",
+        "Ümitsizlikleri kıran Erzurum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vatana ümidsin, bayrağa rehber,",
+        "Tarihin bağrın sesin inilder,",
+        "Milli vicdan doğar, senden alır fer,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlk sesi haykıran yüce Erzurum",
+        "Vatanı kurtaran yüce Erzurum."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzurum%20Mar%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzurum%20Mar%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Erzurum Marşı",
+      "url": "https://tr.wikisource.org/wiki/Erzurum_Mar%C5%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

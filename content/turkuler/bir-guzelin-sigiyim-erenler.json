@@ -1,0 +1,71 @@
+{
+  "slug": "bir-guzelin-sigiyim-erenler",
+  "baslik": "Bir Güzelin Âşığıyım Erenler",
+  "yore": "Erzincan",
+  "hikaye": "Bir Güzelin Âşığıyım Erenler, Vikikaynak'ın Erzincan türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzincan yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir güzelin âşığıyım erenler",
+        "Onun için taşa tutar el beni",
+        "Gündüz hayalimde gece düşümde",
+        "Kumdan kuma savuruyor yel beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Reyhanini devşir devşir dest'eyle",
+        "Ben deliyim öğüt verip pest eyle",
+        "Düşmanımı el yanında dost eyle",
+        "Bir gececik mihman eyle al beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak gül olsam al yanağa sokulsam",
+        "Gül âb olsam ak yüzüne saçılsam",
+        "Kölen olsam pazarlarda satılsam",
+        "Kölem deyü ak sinene sar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pîr sultan Abdal’ım gamzer okdur",
+        "Hazeren sinemde yaralar çoktur",
+        "Benim senden özge sevdiğim yoktur",
+        "İnanmazsan ol Allah'a sor beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20G%C3%BCzelin%20%C3%82%C5%9F%C4%B1%C4%9F%C4%B1y%C4%B1m%20Erenler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20G%C3%BCzelin%20%C3%82%C5%9F%C4%B1%C4%9F%C4%B1y%C4%B1m%20Erenler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Güzelin Âşığıyım Erenler",
+      "url": "https://tr.wikisource.org/wiki/Bir_G%C3%BCzelin_%C3%82%C5%9F%C4%B1%C4%9F%C4%B1y%C4%B1m_Erenler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "anonim",
+    "açık arşiv"
+  ]
+}

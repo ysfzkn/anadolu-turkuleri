@@ -1,0 +1,53 @@
+{
+  "slug": "egdim-kiraz-dalini",
+  "baslik": "Eğdim Kiraz Dalını",
+  "yore": "Konya",
+  "hikaye": "Eğdim Kiraz Dalını, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğdim kiraz dalını (Edalım yürü dalgalım yürü sürmelim yürü)",
+        "Sevdim beyaz gelini (Aman aman amanın sevdim beyaz gelini)",
+        "Gelin ömrün çoğolsun (Edalım yürü dalgalım yürü sürmelim yürü)",
+        "Bildin bekar halimi (Aman aman amanın sevdim beyaz gelini)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kavakta bel olmaz (Edalım yürü dalgalım yürü sürmelim yürü)",
+        "Her evde güzel olmaz (Aman aman amanın sevdim beyaz gelini)",
+        "Her evde güzel olsa (Edalım yürü dalgalım yürü sürmelim yürü)",
+        "Derdime ilaç olmaz (Aman aman amanın sevdim beyaz gelini)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=E%C4%9Fdim%20Kiraz%20Dal%C4%B1n%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/E%C4%9Fdim%20Kiraz%20Dal%C4%B1n%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eğdim Kiraz Dalını",
+      "url": "https://tr.wikisource.org/wiki/E%C4%9Fdim_Kiraz_Dal%C4%B1n%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Konya",
+    "anonim",
+    "açık arşiv"
+  ]
+}

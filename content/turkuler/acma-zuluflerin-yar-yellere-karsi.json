@@ -1,0 +1,53 @@
+{
+  "slug": "acma-zuluflerin-yar-yellere-karsi",
+  "baslik": "Açma Zülüflerin Yâr Yellere Karşı",
+  "yore": "Kırşehir",
+  "hikaye": "Açma Zülüflerin Yâr Yellere Karşı, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Açma zülüflerin yâr yâr yellere karşı",
+        "Senin zülfün benim telim değil mi",
+        "Bülbül figan eder güllere karşı",
+        "O yâr benim gülüm değil mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sallama saçların yâr yâr sen de bulursun",
+        "Azrail misali yâr yâr canım alırsın",
+        "Etme bu cefayı yâr yâr kanlım olursun",
+        "Bu kul senin kulun değil mi?"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C3%A7ma%20Z%C3%BCl%C3%BCflerin%20Y%C3%A2r%20Yellere%20Kar%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C3%A7ma%20Z%C3%BCl%C3%BCflerin%20Y%C3%A2r%20Yellere%20Kar%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Açma Zülüflerin Yâr Yellere Karşı",
+      "url": "https://tr.wikisource.org/wiki/A%C3%A7ma_Z%C3%BCl%C3%BCflerin_Y%C3%A2r_Yellere_Kar%C5%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırşehir",
+    "anonim",
+    "açık arşiv"
+  ]
+}

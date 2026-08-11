@@ -1,0 +1,89 @@
+{
+  "slug": "ay-aydindir-ayilmaz",
+  "baslik": "Ay Aydındır Ayılmaz",
+  "yore": "Erzurum",
+  "hikaye": "Ay Aydındır Ayılmaz, Vikikaynak'ın Erzurum türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Erzurum yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay aydındır ayılmaz",
+        "Gece durna yayılmaz",
+        "Buralarda yar seven",
+        "Ay aşanda uyumaz",
+        "Sarı da gelin ne diyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı da gelin ne diyon",
+        "Söylüyom söylemiyon",
+        "Daha da bana ne diyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aya bak nece gider",
+        "Ay dolanır gece gider",
+        "Bir elim yar boynunda",
+        "Bir elim nece gider",
+        "Sarı da gelin ne diyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı da gelin ne diyon",
+        "Söylüyom söylemiyon",
+        "Daha da bana ne diyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay aydındır varamam",
+        "Dile de destan olaman",
+        "Ay buluda girende",
+        "Bağlasalar duramam",
+        "Sarı da gelin ne diyon"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sarı da gelin ne diyon",
+        "Söylüyom söylemiyon",
+        "Daha da bana ne diyon"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ay%20Ayd%C4%B1nd%C4%B1r%20Ay%C4%B1lmaz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ay%20Ayd%C4%B1nd%C4%B1r%20Ay%C4%B1lmaz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ay Aydındır Ayılmaz",
+      "url": "https://tr.wikisource.org/wiki/Ay_Ayd%C4%B1nd%C4%B1r_Ay%C4%B1lmaz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzurum",
+    "anonim",
+    "açık arşiv"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "slug": "dramanin-icinde-yaparlar-pazar",
+  "baslik": "Drama'nın İçinde Yaparlar Pazar",
+  "yore": "Tekirdağ",
+  "hikaye": "Drama'nın İçinde Yaparlar Pazar, Vikikaynak'ın Tekirdağ türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
+  "ozet": "Tekirdağ yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Drama'nın içinde yaparlar pazar",
+        "Kızlara yakışır şal ile şalvar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun kızlar vurun vurun vuralım",
+        "Bu geceki geceyi nerde bulalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Drama'da satarlar ayvayla hurma",
+        "Kızlara yakışır davulla zurna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun kızlar vurun vurun vuralım",
+        "Bu geceki geceyi nerde bulalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Drama'da satarlar sandıkla ceviz",
+        "Kızlara yakışır sandıkla çeyiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun kızlar vurun vurun vuralım",
+        "Bu geceki geceyi nerde bulalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Drama'nın içinde ekerler bostan",
+        "Kızlara yakışır yazmayla fistan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun kızlar vurun vurun vuralım",
+        "Bu geceki geceyi nerde bulalım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Drama'n%C4%B1n%20%C4%B0%C3%A7inde%20Yaparlar%20Pazar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Drama'n%C4%B1n%20%C4%B0%C3%A7inde%20Yaparlar%20Pazar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Drama'nın İçinde Yaparlar Pazar",
+      "url": "https://tr.wikisource.org/wiki/Drama'n%C4%B1n_%C4%B0%C3%A7inde_Yaparlar_Pazar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tekirdağ",
+    "anonim",
+    "açık arşiv"
+  ]
+}
