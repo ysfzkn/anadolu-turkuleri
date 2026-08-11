@@ -1,0 +1,34 @@
+{
+  "slug": "konma-bulbul-konma-nergis-daline",
+  "baslik": "Konma Bülbül Konma Nergis Daline",
+  "yore": "Ağrı",
+  "hikaye": "Konma Bülbül Konma Nergis Daline, Vikikaynak'ın Ağrı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ağrı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Konma%20B%C3%BClb%C3%BCl%20Konma%20Nergis%20Daline%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Konma%20B%C3%BClb%C3%BCl%20Konma%20Nergis%20Daline",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Konma Bülbül Konma Nergis Daline",
+      "url": "https://tr.wikisource.org/wiki/Konma_B%C3%BClb%C3%BCl_Konma_Nergis_Daline",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ağrı"
+  ]
+}

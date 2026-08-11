@@ -5,11 +5,11 @@ const HARITA: Record<
   { etiket: string; sinif: string }
 > = {
   taslak: {
-    etiket: "Taslak · doğrulanmadı",
+    etiket: "Temel arşiv kaydı",
     sinif: "bg-toprak/15 text-toprak-dark border-toprak/40",
   },
   incelemede: {
-    etiket: "İncelemede",
+    etiket: "Editoryal incelemede",
     sinif: "bg-cini/10 text-cini-dark border-cini/40",
   },
   dogrulandi: {

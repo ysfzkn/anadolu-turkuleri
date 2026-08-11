@@ -1,0 +1,34 @@
+{
+  "slug": "akan-sular-ben-olsam",
+  "baslik": "Akan Sular Ben Olsam",
+  "yore": "Ankara",
+  "hikaye": "Akan Sular Ben Olsam, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Akan%20Sular%20Ben%20Olsam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Akan%20Sular%20Ben%20Olsam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Akan Sular Ben Olsam",
+      "url": "https://tr.wikisource.org/wiki/Akan_Sular_Ben_Olsam",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

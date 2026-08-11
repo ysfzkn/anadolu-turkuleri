@@ -1,0 +1,34 @@
+{
+  "slug": "su-curami-telinden-kezban-yenge",
+  "baslik": "Şu Curamı Telinden (Kezban Yenge)",
+  "yore": "Burdur",
+  "hikaye": "Şu Curamı Telinden (Kezban Yenge), Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Curam%C4%B1%20Telinden%20(Kezban%20Yenge)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Curam%C4%B1%20Telinden%20(Kezban%20Yenge)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Curamı Telinden (Kezban Yenge)",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Curam%C4%B1_Telinden_(Kezban_Yenge)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Burdur"
+  ]
+}

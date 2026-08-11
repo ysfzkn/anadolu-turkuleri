@@ -1,0 +1,34 @@
+{
+  "slug": "sira-sira-siniler",
+  "baslik": "Sıra Sıra Siniler",
+  "yore": "Çanakkale",
+  "hikaye": "Sıra Sıra Siniler, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=S%C4%B1ra%20S%C4%B1ra%20Siniler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/S%C4%B1ra%20S%C4%B1ra%20Siniler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sıra Sıra Siniler",
+      "url": "https://tr.wikisource.org/wiki/S%C4%B1ra_S%C4%B1ra_Siniler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Çanakkale"
+  ]
+}

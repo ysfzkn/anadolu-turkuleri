@@ -1,0 +1,34 @@
+{
+  "slug": "vardim-baktim-sut-busurur",
+  "baslik": "Vardım Baktım Süt Büşürür",
+  "yore": "Ankara",
+  "hikaye": "Vardım Baktım Süt Büşürür, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vard%C4%B1m%20Bakt%C4%B1m%20S%C3%BCt%20B%C3%BC%C5%9F%C3%BCr%C3%BCr%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vard%C4%B1m%20Bakt%C4%B1m%20S%C3%BCt%20B%C3%BC%C5%9F%C3%BCr%C3%BCr",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Vardım Baktım Süt Büşürür",
+      "url": "https://tr.wikisource.org/wiki/Vard%C4%B1m_Bakt%C4%B1m_S%C3%BCt_B%C3%BC%C5%9F%C3%BCr%C3%BCr",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

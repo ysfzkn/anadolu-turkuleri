@@ -1,0 +1,34 @@
+{
+  "slug": "kozak-daginin-camlari",
+  "baslik": "Kozak Dağının Çamları",
+  "yore": "Balıkesir",
+  "hikaye": "Kozak Dağının Çamları, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kozak%20Da%C4%9F%C4%B1n%C4%B1n%20%C3%87amlar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kozak%20Da%C4%9F%C4%B1n%C4%B1n%20%C3%87amlar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kozak Dağının Çamları",
+      "url": "https://tr.wikisource.org/wiki/Kozak_Da%C4%9F%C4%B1n%C4%B1n_%C3%87amlar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Balıkesir"
+  ]
+}

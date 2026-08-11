@@ -1,0 +1,34 @@
+{
+  "slug": "kar-mi-yagmis-su-harputun-basina",
+  "baslik": "Kar mı Yağmış Şu Harput'un Başına",
+  "yore": "Elazığ",
+  "hikaye": "Kar mı Yağmış Şu Harput'un Başına, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%20m%C4%B1%20Ya%C4%9Fm%C4%B1%C5%9F%20%C5%9Eu%20Harput'un%20Ba%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%20m%C4%B1%20Ya%C4%9Fm%C4%B1%C5%9F%20%C5%9Eu%20Harput'un%20Ba%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kar mı Yağmış Şu Harput'un Başına",
+      "url": "https://tr.wikisource.org/wiki/Kar_m%C4%B1_Ya%C4%9Fm%C4%B1%C5%9F_%C5%9Eu_Harput'un_Ba%C5%9F%C4%B1na",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Elazığ"
+  ]
+}

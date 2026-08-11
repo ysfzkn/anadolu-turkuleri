@@ -1,0 +1,34 @@
+{
+  "slug": "kezbanin-alt-odasi-sekili",
+  "baslik": "Kezban'ın Alt Odası Sekili",
+  "yore": "Ankara",
+  "hikaye": "Kezban'ın Alt Odası Sekili, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kezban'%C4%B1n%20Alt%20Odas%C4%B1%20Sekili%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kezban'%C4%B1n%20Alt%20Odas%C4%B1%20Sekili",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kezban'ın Alt Odası Sekili",
+      "url": "https://tr.wikisource.org/wiki/Kezban'%C4%B1n_Alt_Odas%C4%B1_Sekili",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

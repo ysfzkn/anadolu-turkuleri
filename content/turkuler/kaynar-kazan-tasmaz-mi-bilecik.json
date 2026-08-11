@@ -1,0 +1,34 @@
+{
+  "slug": "kaynar-kazan-tasmaz-mi-bilecik",
+  "baslik": "Kaynar Kazan Taşmaz mı? (Bilecik)",
+  "yore": "Bilecik",
+  "hikaye": "Kaynar Kazan Taşmaz mı? (Bilecik), Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaynar%20Kazan%20Ta%C5%9Fmaz%20m%C4%B1%3F%20(Bilecik)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaynar%20Kazan%20Ta%C5%9Fmaz%20m%C4%B1%3F%20(Bilecik)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaynar Kazan Taşmaz mı? (Bilecik)",
+      "url": "https://tr.wikisource.org/wiki/Kaynar_Kazan_Ta%C5%9Fmaz_m%C4%B1%3F_(Bilecik)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Bilecik"
+  ]
+}

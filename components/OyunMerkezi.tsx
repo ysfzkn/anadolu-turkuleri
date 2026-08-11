@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { CanliMeydan } from "@/components/CanliMeydan";
+import type { OzanGorseli } from "@/lib/ozan-gorselleri";
 
 export interface OyunTurkusu {
   slug: string;
@@ -11,6 +12,7 @@ export interface OyunTurkusu {
   ozan: string | null;
   etiketler: string[];
   sozler: string[];
+  ozanGorseli: OzanGorseli | null;
 }
 
 type OyunKodu = "yore" | "hikaye" | "ozan" | "soz" | "iz" | "hafiza" | "canli";
@@ -36,6 +38,27 @@ function karistir<T>(dizi: T[]): T[] {
 
 function farkliSecenekler(tumu: string[], cevap: string): string[] {
   return karistir([cevap, ...karistir(Array.from(new Set(tumu.filter((x) => x && x !== cevap)))).slice(0, 3)]);
+}
+
+function aramaMetni(metin: string): string {
+  return metin
+    .toLocaleLowerCase("tr-TR")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9çğıöşü]+/g, " ")
+    .trim();
+}
+
+/** Şehir adını doğrudan ya da ek almış biçimiyle ele veren etiketleri gizler. */
+function sehirdenBagimsizIzler(t: OyunTurkusu): string[] {
+  const il = aramaMetni(t.il);
+  const ilKoku = il.length > 5 ? il.slice(0, -2) : il;
+  return t.etiketler
+    .filter((etiket) => {
+      const aday = aramaMetni(etiket);
+      return aday && aday !== il && !aday.includes(il) && !il.includes(aday) && !aday.startsWith(ilKoku);
+    })
+    .slice(0, 3);
 }
 
 export function OyunMerkezi({ turkuler }: { turkuler: OyunTurkusu[] }) {
@@ -101,7 +124,7 @@ function SoruOyunu({ turkuler, mod, puanEkle }: { turkuler: OyunTurkusu[]; mod: 
       <div className="oyun-sahne-giris relative overflow-hidden rounded-3xl border border-toprak/25 bg-white/55 p-5 shadow-motif sm:p-7">
         <div className="mb-5 flex items-center justify-between text-sm"><span className="rounded-full bg-toprak/10 px-3 py-1 font-semibold text-toprak-dark">Soru {indeks + 1}</span><span className="font-semibold text-kilim">{seri > 1 ? `${seri} seri · ` : ""}{puan} puan</span></div>
         <SoruSahnesi mod={mod} soru={soru} ipucu={ipucu} ipucuAc={() => setIpucu((i) => Math.min(3, i + 1))} />
-        <div className={`mt-7 grid gap-3 ${mod === "ozan" ? "grid-cols-2 sm:grid-cols-4" : "sm:grid-cols-2"}`}>{soru.secenekler.map((secenek, secenekIndeksi) => { const cevaplandi = secilen !== null; const dogru = secenek === soru.cevap; const yanlis = secenek === secilen && !dogru; return <button key={secenek} disabled={cevaplandi} onClick={() => cevapla(secenek)} className={`oyun-secenek relative min-h-14 overflow-hidden rounded-2xl border px-4 py-3 text-left text-sm font-semibold transition ${mod === "ozan" ? "pt-12 text-center" : ""} ${mod === "soz" ? "font-serif text-base italic" : ""} ${cevaplandi && dogru ? "oyun-dogru border-[#3f7a62] bg-[#3f7a62]/10 text-[#28523f]" : yanlis ? "oyun-yanlis border-kilim bg-kilim/10 text-kilim-dark" : "border-toprak/25 bg-parsomen/60 text-ceviz hover:-translate-y-1 hover:border-cini/40 hover:bg-white hover:shadow-md"}`}><SecenekIsareti mod={mod} metin={secenek} indeks={secenekIndeksi} />{secenek}{cevaplandi && dogru ? "  ✓" : yanlis ? "  ×" : ""}</button>; })}</div>
+        <div className={`mt-7 grid gap-3 ${mod === "ozan" ? "grid-cols-2 sm:grid-cols-4" : "sm:grid-cols-2"}`}>{soru.secenekler.map((secenek, secenekIndeksi) => { const cevaplandi = secilen !== null; const dogru = secenek === soru.cevap; const yanlis = secenek === secilen && !dogru; return <button key={secenek} disabled={cevaplandi} onClick={() => cevapla(secenek)} className={`oyun-secenek relative min-h-14 overflow-hidden rounded-2xl border px-4 py-3 text-left text-sm font-semibold transition ${mod === "ozan" ? "pt-14 text-center" : ""} ${mod === "soz" ? "font-serif text-base italic" : ""} ${cevaplandi && dogru ? "oyun-dogru border-[#3f7a62] bg-[#3f7a62]/10 text-[#28523f]" : yanlis ? "oyun-yanlis border-kilim bg-kilim/10 text-kilim-dark" : "border-toprak/25 bg-parsomen/60 text-ceviz hover:-translate-y-1 hover:border-cini/40 hover:bg-white hover:shadow-md"}`}><SecenekIsareti mod={mod} metin={secenek} indeks={secenekIndeksi} turkuler={turkuler} />{secenek}{cevaplandi && dogru ? "  ✓" : yanlis ? "  ×" : ""}</button>; })}</div>
         {secilen && <div className={`oyun-sonuc mt-6 flex items-center justify-between gap-4 rounded-2xl p-4 ${secilen === soru.cevap ? "bg-[#3f7a62]/10" : "bg-kilim/10"}`}><span className="oyun-puan-pariltisi" aria-hidden>{secilen === soru.cevap ? "+" : "×"}</span><p className="text-sm text-ceviz-light">{secilen === soru.cevap ? `Harika! ${Math.max(40, 100 + seri * 15 - ipucu * 20)} kültür puanı.` : `Doğru cevap: ${soru.cevap}`}</p><button onClick={sonraki} className="shrink-0 rounded-xl bg-kilim px-4 py-2 text-sm font-semibold text-white">Sonraki →</button></div>}
       </div>
       <aside className="rounded-3xl border border-toprak/25 bg-parsomen-dark/45 p-5"><p className="text-xs font-semibold uppercase tracking-wider text-ceviz-light">Oyun ilerlemesi</p><div className="mt-4 grid grid-cols-5 gap-1.5">{Array.from({ length: 10 }, (_, i) => <span key={i} className={`h-2 rounded-full ${i < indeks ? "bg-cini" : i === indeks ? "bg-kilim" : "bg-toprak/15"}`} />)}</div><p className="mt-6 font-serif text-3xl font-semibold text-ceviz">{puan}</p><p className="text-sm text-ceviz-light">kültür puanı</p><div className="mt-6 rounded-2xl border border-toprak/20 bg-white/35 p-4 text-sm leading-6 text-ceviz-light">Her doğru cevap 100 puan. Seri yaptıkça hız bonusun artar.</div></aside>
@@ -123,8 +146,11 @@ function SoruSahnesi({ mod, soru, ipucu, ipucuAc }: { mod: Exclude<OyunKodu, "ha
   const izler = soru.soru.split(" · "); return <div className="relative mt-2 min-h-72 overflow-hidden rounded-3xl bg-gradient-to-br from-[#e7eee8] to-white p-6"><div className="oyun-pusula absolute -right-12 -top-12 grid h-52 w-52 place-items-center rounded-full border-2 border-[#3f7a62]/20"><span className="h-32 w-1 rotate-45 bg-gradient-to-b from-kilim to-cini" /></div><div className="relative max-w-md"><p className="text-xs font-semibold uppercase tracking-[.2em] text-[#3f7a62]">Kültür pusulası</p><h2 className="mt-3 font-serif text-3xl font-semibold text-ceviz">İzleri takip et</h2><div className="mt-6 flex flex-wrap gap-3">{izler.map((iz, i) => <span key={iz} className="oyun-iz-etiketi rounded-full border border-[#3f7a62]/25 bg-white/65 px-4 py-2 text-sm font-semibold text-[#28523f]" style={{ animationDelay: `${i * 140}ms` }}>{iz}</span>)}</div>{soru.detay && <button onClick={ipucuAc} disabled={ipucu > 0} className="mt-7 rounded-full bg-[#3f7a62] px-4 py-2 text-xs font-semibold text-white disabled:opacity-60">{ipucu ? `Eser izi: ${soru.detay}` : "Eser izini göster · −20 puan"}</button>}</div></div>;
 }
 
-function SecenekIsareti({ mod, metin, indeks }: { mod: Exclude<OyunKodu, "hafiza" | "canli">; metin: string; indeks: number }) {
-  if (mod === "ozan") return <span className="absolute inset-x-0 top-2 mx-auto grid h-8 w-8 place-items-center rounded-full bg-toprak/15 font-serif text-sm not-italic text-toprak-dark">{metin.charAt(0)}</span>;
+function SecenekIsareti({ mod, metin, indeks, turkuler }: { mod: Exclude<OyunKodu, "hafiza" | "canli">; metin: string; indeks: number; turkuler: OyunTurkusu[] }) {
+  if (mod === "ozan") {
+    const gorsel = turkuler.find((t) => t.ozan === metin)?.ozanGorseli;
+    return gorsel ? <span className="absolute inset-x-0 top-2 mx-auto h-10 w-10 overflow-hidden rounded-full border-2 border-white shadow-sm"><img src={gorsel.src} alt="" className="h-full w-full object-cover" /></span> : <span className="absolute inset-x-0 top-2 mx-auto grid h-10 w-10 place-items-center rounded-full bg-toprak/15 font-serif text-sm not-italic text-toprak-dark">{metin.charAt(0)}</span>;
+  }
   if (mod === "yore") return <span className="mr-2 text-kilim" aria-hidden>⌖</span>;
   if (mod === "soz") return <span className="mr-2 font-sans text-xs not-italic text-[#6e4b7c]">{String.fromCharCode(65 + indeks)}.</span>;
   if (mod === "hikaye") return <span className="mr-2 text-cini" aria-hidden>▤</span>;
@@ -137,7 +163,14 @@ function soruOlustur(turkuler: OyunTurkusu[], mod: Exclude<OyunKodu, "hafiza" | 
   if (mod === "hikaye") return { ust: "Bu hikâye hangi türküye ait?", soru: t.ozet, detay: null, cevap: t.baslik, secenekler: farkliSecenekler(turkuler.map((x) => x.baslik), t.baslik) };
   if (mod === "ozan") return { ust: "Bu eserin ozanı veya söz sahibi kim?", soru: t.baslik, detay: t.ozet, cevap: t.ozan!, secenekler: farkliSecenekler(turkuler.map((x) => x.ozan ?? "").filter(Boolean), t.ozan!) };
   if (mod === "soz") return { ust: "İkinci dizeyi tamamla", soru: `“${t.sozler[0]}”`, detay: null, cevap: t.sozler[1], secenekler: farkliSecenekler(turkuler.flatMap((x) => x.sozler.slice(1, 3)), t.sozler[1]) };
-  return { ust: "İpuçlarının ait olduğu şehri bul", soru: t.etiketler.slice(0, 3).join(" · ") || t.ozet, detay: t.baslik, cevap: t.il, secenekler: farkliSecenekler(turkuler.map((x) => x.il), t.il) };
+  const izler = sehirdenBagimsizIzler(t);
+  return {
+    ust: "İpuçlarının ait olduğu şehri bul",
+    soru: (izler.length ? izler : ["halk müziği", "sözlü gelenek"]).join(" · "),
+    detay: t.baslik,
+    cevap: t.il,
+    secenekler: farkliSecenekler(turkuler.map((x) => x.il), t.il),
+  };
 }
 
 function HafizaOyunu({ turkuler, puanEkle }: { turkuler: OyunTurkusu[]; puanEkle: React.Dispatch<React.SetStateAction<number>> }) {

@@ -1,0 +1,34 @@
+{
+  "slug": "kir-atima-bineyim-yar-yoluna-gideyim",
+  "baslik": "Kır Atıma Bineyim Yâr Yoluna Gideyim",
+  "yore": "Aydın",
+  "hikaye": "Kır Atıma Bineyim Yâr Yoluna Gideyim, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1r%20At%C4%B1ma%20Bineyim%20Y%C3%A2r%20Yoluna%20Gideyim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1r%20At%C4%B1ma%20Bineyim%20Y%C3%A2r%20Yoluna%20Gideyim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kır Atıma Bineyim Yâr Yoluna Gideyim",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1r_At%C4%B1ma_Bineyim_Y%C3%A2r_Yoluna_Gideyim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Aydın"
+  ]
+}

@@ -30,7 +30,7 @@ export function CanliMeydan({ turkuler }: { turkuler: OyunTurkusu[] }) {
     );
   }, [supabase, user, oda]);
 
-  async function olustur() { if (!supabase || !user) return; const yeniKod = kodUret(); const { data, error } = await supabase.from("oyun_odalari").insert({ kod: yeniKod, kurucu_id: user.id, eslesme_tipi: "davet", sorular: soruSeti(turkuler) }).select().single(); if (error) { setMesaj("Oda açılamadı. Güncel Supabase oyun migration dosyasını çalıştırdığından emin ol."); return; } setOda(data as Oda); setMesaj("Kod hazır. Arkadaşın katıldığında yarışma başlayacak."); }
+  async function olustur() { if (!supabase || !user) return; const yeniKod = kodUret(); const { data, error } = await supabase.from("oyun_odalari").insert({ kod: yeniKod, kurucu_id: user.id, eslesme_tipi: "davet", sorular: soruSeti(turkuler) }).select().single(); if (error) { setMesaj("Canlı oyun şu anda hazırlanıyor. Lütfen biraz sonra yeniden dene."); return; } setOda(data as Oda); setMesaj("Kod hazır. Arkadaşın katıldığında yarışma başlayacak."); }
   async function katil() { if (!supabase || !user || !kod.trim()) return; const { data } = await supabase.from("oyun_odalari").select("*").eq("kod", kod.trim().toUpperCase()).eq("durum", "bekliyor").maybeSingle(); if (!data) { setMesaj("Bu kodla bekleyen bir oda bulunamadı."); return; } if (data.kurucu_id === user.id) { setOda(data as Oda); return; } const { data: guncel, error } = await supabase.from("oyun_odalari").update({ rakip_id: user.id, durum: "oyunda" }).eq("id", data.id).is("rakip_id", null).select().single(); if (error) { setMesaj("Odaya katılınamadı; başka bir oyuncu senden önce davranmış olabilir."); return; } setOda(guncel as Oda); }
 
   async function rastgeleKatil() {
@@ -45,7 +45,7 @@ export function CanliMeydan({ turkuler }: { turkuler: OyunTurkusu[] }) {
     }
     const { data, error } = await supabase.from("oyun_odalari").insert({ kod: kodUret(), kurucu_id: user.id, eslesme_tipi: "rastgele", sorular: soruSeti(turkuler) }).select().single();
     setEslesiyor(false);
-    if (error) { setMesaj("Eşleşme kuyruğu açılamadı. Güncel migration dosyasını çalıştır."); return; }
+    if (error) { setMesaj("Rastgele eşleşme şu anda kullanılamıyor. Lütfen biraz sonra yeniden dene."); return; }
     setOda(data as Oda); setMesaj("Kuyruktasın; bir rakip geldiğinde oyun otomatik başlayacak.");
   }
 

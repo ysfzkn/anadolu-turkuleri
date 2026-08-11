@@ -1,0 +1,34 @@
+{
+  "slug": "baga-girdim-uzum-yok",
+  "baslik": "Bağa Girdim Üzüm Yok",
+  "yore": "Çankırı",
+  "hikaye": "Bağa Girdim Üzüm Yok, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C4%9Fa%20Girdim%20%C3%9Cz%C3%BCm%20Yok%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C4%9Fa%20Girdim%20%C3%9Cz%C3%BCm%20Yok",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bağa Girdim Üzüm Yok",
+      "url": "https://tr.wikisource.org/wiki/Ba%C4%9Fa_Girdim_%C3%9Cz%C3%BCm_Yok",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Çankırı"
+  ]
+}

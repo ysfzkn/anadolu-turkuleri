@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Repertuvarım",
   description:
     "Bağlamada çaldığın, öğrendiğin ve çalmak istediğin türküler — kişisel repertuvarın.",
+  robots: { index: false, follow: false },
 };
 
 export default function RepertuvarSayfasi() {

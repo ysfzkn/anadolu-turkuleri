@@ -1,0 +1,34 @@
+{
+  "slug": "zeytinyagli-yiyemem",
+  "baslik": "Zeytinyağlı Yiyemem",
+  "yore": "Bursa",
+  "hikaye": "Zeytinyağlı Yiyemem, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zeytinya%C4%9Fl%C4%B1%20Yiyemem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zeytinya%C4%9Fl%C4%B1%20Yiyemem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zeytinyağlı Yiyemem",
+      "url": "https://tr.wikisource.org/wiki/Zeytinya%C4%9Fl%C4%B1_Yiyemem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Bursa"
+  ]
+}

@@ -1,6 +1,8 @@
 import Link from "next/link";
 import type { Turku } from "@/lib/types";
 import { CornerFlourish } from "./Motif";
+import { slugYap } from "@/lib/slug";
+import sehirGorselleri from "@/content/sehir-gorselleri.json";
 
 /** Kart için gereken hafif alt küme (hikâye/sözler taşımaz). */
 export type KartTurku = Pick<
@@ -9,14 +11,17 @@ export type KartTurku = Pick<
 >;
 
 export function TurkuCard({ turku }: { turku: KartTurku }) {
+  const il = turku.yore.split(/[(/]/)[0].trim();
+  const gorsel = (sehirGorselleri as Record<string, { src: string; alt: string }>)[slugYap(il)];
   return (
     <Link
       href={`/turku/${turku.slug}`}
       className="group relative block overflow-hidden rounded-2xl border border-toprak/30 bg-parsomen shadow-motif transition-all hover:-translate-y-0.5 hover:border-kilim/50"
     >
-      <span className="pointer-events-none absolute right-2 top-2 text-cini/25">
-        <CornerFlourish />
-      </span>
+      <div className="relative h-28 overflow-hidden bg-gradient-to-br from-ceviz to-cini-dark">
+        {gorsel ? <img src={gorsel.src} alt="" loading="lazy" className="h-full w-full object-cover opacity-80 transition duration-500 group-hover:scale-105 group-hover:opacity-95" /> : <><span className="absolute -right-5 -top-7 text-[8rem] text-toprak/20"><CornerFlourish /></span><span className="absolute bottom-3 left-4 text-xs font-semibold uppercase tracking-[.18em] text-parsomen/80">{il} ezgileri</span></>}
+        <div className="absolute inset-0 bg-gradient-to-t from-ceviz/75 via-transparent to-transparent" />
+      </div>
       <div className="p-5">
         <div className="mb-2 flex items-center gap-2 text-xs font-medium text-kilim">
           <span className="inline-block h-1.5 w-1.5 rounded-full bg-kilim" />

@@ -1,0 +1,34 @@
+{
+  "slug": "duman-almis-mezarimin-ustunu",
+  "baslik": "Duman Almış Mezarımın Üstünü",
+  "yore": "Elazığ",
+  "hikaye": "Duman Almış Mezarımın Üstünü, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Duman%20Alm%C4%B1%C5%9F%20Mezar%C4%B1m%C4%B1n%20%C3%9Cst%C3%BCn%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Duman%20Alm%C4%B1%C5%9F%20Mezar%C4%B1m%C4%B1n%20%C3%9Cst%C3%BCn%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Duman Almış Mezarımın Üstünü",
+      "url": "https://tr.wikisource.org/wiki/Duman_Alm%C4%B1%C5%9F_Mezar%C4%B1m%C4%B1n_%C3%9Cst%C3%BCn%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Elazığ"
+  ]
+}

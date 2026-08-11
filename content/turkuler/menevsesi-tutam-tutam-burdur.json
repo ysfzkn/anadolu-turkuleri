@@ -1,0 +1,34 @@
+{
+  "slug": "menevsesi-tutam-tutam-burdur",
+  "baslik": "Menevşesi Tutam Tutam (Burdur)",
+  "yore": "Burdur",
+  "hikaye": "Menevşesi Tutam Tutam (Burdur), Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Menev%C5%9Fesi%20Tutam%20Tutam%20(Burdur)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Menev%C5%9Fesi%20Tutam%20Tutam%20(Burdur)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Menevşesi Tutam Tutam (Burdur)",
+      "url": "https://tr.wikisource.org/wiki/Menev%C5%9Fesi_Tutam_Tutam_(Burdur)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Burdur"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "hoyuklunun-etrafi-kosk-olsun",
+  "baslik": "Höyüklü'nün Etrafı Köşk Olsun",
+  "yore": "Ankara",
+  "hikaye": "Höyüklü'nün Etrafı Köşk Olsun, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=H%C3%B6y%C3%BCkl%C3%BC'n%C3%BCn%20Etraf%C4%B1%20K%C3%B6%C5%9Fk%20Olsun%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/H%C3%B6y%C3%BCkl%C3%BC'n%C3%BCn%20Etraf%C4%B1%20K%C3%B6%C5%9Fk%20Olsun",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Höyüklü'nün Etrafı Köşk Olsun",
+      "url": "https://tr.wikisource.org/wiki/H%C3%B6y%C3%BCkl%C3%BC'n%C3%BCn_Etraf%C4%B1_K%C3%B6%C5%9Fk_Olsun",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

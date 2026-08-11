@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { TurkuCard, type KartTurku } from "./TurkuCard";
 import { slugYap } from "@/lib/slug";
 
@@ -37,6 +37,7 @@ export function TurkuArsivi({
   const [seciliYore, setSeciliYore] = useState("");
   const [seciliEtiket, setSeciliEtiket] = useState<string | null>(null);
   const [temaAcik, setTemaAcik] = useState(false);
+  const [limit, setLimit] = useState(30);
 
   const sonuclar = useMemo(() => {
     const q = normalize(arama.trim());
@@ -53,6 +54,8 @@ export function TurkuArsivi({
       return true;
     });
   }, [turkuler, arama, seciliYore, seciliEtiket]);
+
+  useEffect(() => setLimit(30), [arama, seciliYore, seciliEtiket]);
 
   const filtreVar = arama || seciliYore || seciliEtiket;
   const gorunenTemalar = temaAcik ? etiketler : etiketler.slice(0, 10);
@@ -127,7 +130,7 @@ export function TurkuArsivi({
 
       {/* Aktif filtreler + sonuç */}
       <div className="mt-5 flex flex-wrap items-center gap-2 border-t border-toprak/20 pt-4">
-        <span className="text-sm font-medium text-ceviz">
+        <span className="text-sm font-medium text-ceviz" aria-live="polite">
           {sonuclar.length} türkü
         </span>
         {seciliYore && (
@@ -156,7 +159,7 @@ export function TurkuArsivi({
       <div className="mt-6">
         {sonuclar.length > 0 ? (
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {sonuclar.map((t) => (
+            {sonuclar.slice(0, limit).map((t) => (
               <TurkuCard key={t.slug} turku={t} />
             ))}
           </div>
@@ -164,6 +167,14 @@ export function TurkuArsivi({
           <p className="rounded-2xl border border-toprak/30 bg-parsomen-dark/40 p-8 text-center text-ceviz-light">
             Aramanıza uygun türkü bulunamadı.
           </p>
+        )}
+        {sonuclar.length > limit && (
+          <div className="mt-8 text-center">
+            <button onClick={() => setLimit((deger) => deger + 30)} className="min-h-11 rounded-full border border-kilim/35 bg-white/45 px-6 text-sm font-semibold text-kilim transition hover:bg-kilim hover:text-white">
+              30 türkü daha göster
+            </button>
+            <p className="mt-2 text-xs text-ceviz-light">{Math.min(limit, sonuclar.length)} / {sonuclar.length} kayıt gösteriliyor</p>
+          </div>
         )}
       </div>
     </div>

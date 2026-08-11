@@ -1,0 +1,34 @@
+{
+  "slug": "adananin-yollari-taslik",
+  "baslik": "Adana’nın Yolları Taşlık",
+  "yore": "Adana",
+  "hikaye": "Adana’nın Yolları Taşlık, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adana%E2%80%99n%C4%B1n%20Yollar%C4%B1%20Ta%C5%9Fl%C4%B1k%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adana%E2%80%99n%C4%B1n%20Yollar%C4%B1%20Ta%C5%9Fl%C4%B1k",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Adana’nın Yolları Taşlık",
+      "url": "https://tr.wikisource.org/wiki/Adana%E2%80%99n%C4%B1n_Yollar%C4%B1_Ta%C5%9Fl%C4%B1k",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Adana"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "ahmetim-handa-handadir-handa",
+  "baslik": "Ahmetim Handa Handadır Handa",
+  "yore": "Balıkesir",
+  "hikaye": "Ahmetim Handa Handadır Handa, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ahmetim%20Handa%20Handad%C4%B1r%20Handa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ahmetim%20Handa%20Handad%C4%B1r%20Handa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ahmetim Handa Handadır Handa",
+      "url": "https://tr.wikisource.org/wiki/Ahmetim_Handa_Handad%C4%B1r_Handa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Balıkesir"
+  ]
+}

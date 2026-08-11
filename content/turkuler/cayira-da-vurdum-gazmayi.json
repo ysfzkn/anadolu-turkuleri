@@ -1,0 +1,34 @@
+{
+  "slug": "cayira-da-vurdum-gazmayi",
+  "baslik": "Çayıra da Vurdum Gazmayı",
+  "yore": "Ankara",
+  "hikaye": "Çayıra da Vurdum Gazmayı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ay%C4%B1ra%20da%20Vurdum%20Gazmay%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ay%C4%B1ra%20da%20Vurdum%20Gazmay%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çayıra da Vurdum Gazmayı",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ay%C4%B1ra_da_Vurdum_Gazmay%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

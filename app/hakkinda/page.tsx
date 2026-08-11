@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Hakkında",
   description:
     "Anadolu Türküleri projesinin amacı, kaynak yaklaşımı ve telif duyarlılığı hakkında.",
+  alternates: { canonical: "/hakkinda" },
 };
 
 export default function Hakkinda() {
@@ -12,7 +13,7 @@ export default function Hakkinda() {
       <h1 className="font-serif text-4xl font-semibold text-ceviz">Hakkında</h1>
       <div className="hikaye mt-6 text-[17px] text-ceviz">
         <p>
-          Anadolu Türküleri; Anadolu'nun ve Türkiye'nin dört bir yanının türkü
+          Anadolu Türküleri, Türkiye'nin dört bir yanındaki türkü
           mirasını hikâyeleri, yöreleri, ozanları ve çalım bilgileriyle bir
           araya getiren, kâr amacı gütmeyen bir kültür arşividir.
         </p>
@@ -24,9 +25,11 @@ export default function Hakkinda() {
           Kaynak ve telif yaklaşımımız
         </h2>
         <p>
-          Yayımladığımız türküler geleneksel/anonim eserlerden derlenir. Her
-          kayıt, kaynak atıflarıyla birlikte sunulur ve yayına alınmadan önce
-          editör doğrulamasından geçer. Telifli icra kayıtlarını barındırmayız;
+          Arşiv iki aşamada gelişir: temel katalog kayıtları eserin adını,
+          yöresini ve açık arşiv kaynağını erişilebilir kılar; ayrıntılı
+          kayıtlarsa hikâye, derleme, ozan ve çalım bilgileri editoryal olarak
+          doğrulandıkça genişletilir. Her sayfada kaynağı ve inceleme durumu
+          açıkça gösteririz. Telifli icra kayıtlarını barındırmayız;
           dinleme için yalnızca Spotify ve YouTube gibi platformlara yönlendirme
           bağlantıları veririz.
         </p>

@@ -1,0 +1,274 @@
+{
+  "adana": {
+    "src": "/yoreler/adana.webp",
+    "alt": "Adana kent ve kültür görünümü",
+    "baslik": "Adana",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Adana1.jpg",
+    "lisans": "Public domain",
+    "sanatci": "Anatolianpride"
+  },
+  "adiyaman": {
+    "src": "/yoreler/adiyaman.webp",
+    "alt": "Adıyaman kent ve kültür görünümü",
+    "baslik": "Adıyaman",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:AdiyamanView.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Vav"
+  },
+  "afyonkarahisar": {
+    "src": "/yoreler/afyonkarahisar.webp",
+    "alt": "Afyonkarahisar kent ve kültür görünümü",
+    "baslik": "Afyonkarahisar",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_01.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Ingeborg Simon"
+  },
+  "amasya": {
+    "src": "/yoreler/amasya.webp",
+    "alt": "Amasya kent ve kültür görünümü",
+    "baslik": "Amasya",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil%C4%B1rmak2.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Ahmtzngn34"
+  },
+  "ankara": {
+    "src": "/yoreler/ankara.webp",
+    "alt": "Ankara kent ve kültür görünümü",
+    "baslik": "Ankara",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Ankara_(16290014657).jpg",
+    "lisans": "CC BY 2.0",
+    "sanatci": "Jorge Franganillo from Barcelona, Spain"
+  },
+  "antalya": {
+    "src": "/yoreler/antalya.webp",
+    "alt": "Antalya kent ve kültür görünümü",
+    "baslik": "Antalya",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Antalya_city.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Lower Duden Falls.jpg:Saffron Blaze Yivli Minaret Mosque Antalya.jpg:Saffron Blaze Antalya dusk.JPG:Mbilgen Antalyabeach.JPG:دانقولا Hadrianstor Antalya.JPG:Elelicht Antalya - Hidirlik Tower.jpg:Imehling"
+  },
+  "diyarbakir": {
+    "src": "/yoreler/diyarbakir.webp",
+    "alt": "Diyarbakır kent ve kültür görünümü",
+    "baslik": "Diyarbakır",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_of_Diyarbak%C4%B1r.jpg",
+    "lisans": "CC BY 3.0",
+    "sanatci": "Diyarbakirmosque218.jpg:Soman Diyarbakr Western City Wall.JPG: Bjørn Christian Tørrissen Seyrangeha Parkormanê Amed 2010.JPG: MikaelF Deriyê Çiyê Amed 2010.JPG: MikaelF OnGozluBridge.jpg: Noumenon Nebi Mosque (6526104263).jpg: Magnus Manske Gazi Pavillion.jpg: Cemallamec Minareya Çarling Amed 2010.JPG:MikaelF"
+  },
+  "sakarya": {
+    "src": "/yoreler/sakarya.webp",
+    "alt": "Sakarya kent ve kültür görünümü",
+    "baslik": "Sakarya",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Sakarya_districts.png",
+    "lisans": "Public domain",
+    "sanatci": "No machine-readable author provided. Rarelibra assumed (based on copyright claims)."
+  },
+  "trabzon": {
+    "src": "/yoreler/trabzon.webp",
+    "alt": "Trabzon kent ve kültür görünümü",
+    "baslik": "Trabzon",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Trabzon%2Charbour.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Bertramz"
+  },
+  "agri": {
+    "src": "/yoreler/agri.webp",
+    "alt": "Ağrı kent ve kültür görünümü",
+    "baslik": "Ağrı",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:A%C4%9Fr%C4%B1-%C5%9Eehir-Merkezinden-Caddeden-Binalar%C4%B1n-G%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "enmyx"
+  },
+  "artvin": {
+    "src": "/yoreler/artvin.webp",
+    "alt": "Artvin kent ve kültür görünümü",
+    "baslik": "Artvin",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:A%C3%87%C3%9C_%C5%9Eehir_Yerle%C5%9Fkesi.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Cagriaksu25"
+  },
+  "aydin": {
+    "src": "/yoreler/aydin.webp",
+    "alt": "Aydın kent ve kültür görünümü",
+    "baslik": "Aydın",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Ayd%C4%B1n%2C_Turkey_03.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Zeynel Cebeci"
+  },
+  "balikesir": {
+    "src": "/yoreler/balikesir.webp",
+    "alt": "Balıkesir kent ve kültür görünümü",
+    "baslik": "Balıkesir",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bal%C4%B1kesir_City_Center_Collage.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": ""
+  },
+  "bilecik": {
+    "src": "/yoreler/bilecik.webp",
+    "alt": "Bilecik kent ve kültür görünümü",
+    "baslik": "Bilecik",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bilecik.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Samet Berber"
+  },
+  "bursa": {
+    "src": "/yoreler/bursa.webp",
+    "alt": "Bursa kent ve kültür görünümü",
+    "baslik": "Bursa",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_of_Bursa.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "see above"
+  },
+  "canakkale": {
+    "src": "/yoreler/canakkale.webp",
+    "alt": "Çanakkale kent ve kültür görünümü",
+    "baslik": "Çanakkale",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
+    "lisans": "Public domain",
+    "sanatci": "Myamya"
+  },
+  "erzincan": {
+    "src": "/yoreler/erzincan.webp",
+    "alt": "Erzincan kent ve kültür görünümü",
+    "baslik": "Erzincan",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Erzincanmerkezi.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Erzincann"
+  },
+  "gaziantep": {
+    "src": "/yoreler/gaziantep.webp",
+    "alt": "Gaziantep kent ve kültür görünümü",
+    "baslik": "Gaziantep",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Gaziantepskyline.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Emz12"
+  },
+  "izmir": {
+    "src": "/yoreler/izmir.webp",
+    "alt": "İzmir kent ve kültür görünümü",
+    "baslik": "İzmir",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Izmir_(15383066346).jpg",
+    "lisans": "CC BY 2.0",
+    "sanatci": "Rafaela Ely"
+  },
+  "kars": {
+    "src": "/yoreler/kars.webp",
+    "alt": "Kars kent ve kültür görünümü",
+    "baslik": "Kars",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Kars_Panorama.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Bjørn Christian Tørrissen"
+  },
+  "kastamonu": {
+    "src": "/yoreler/kastamonu.webp",
+    "alt": "Kastamonu kent ve kültür görünümü",
+    "baslik": "Kastamonu",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Kaleden_Cumhuriyet_Meydan%C4%B1_ve_%C3%87evresi.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Barış37"
+  },
+  "kayseri": {
+    "src": "/yoreler/kayseri.webp",
+    "alt": "Kayseri kent ve kültür görünümü",
+    "baslik": "Kayseri",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_of_Kayseri.png",
+    "lisans": "CC BY 3.0",
+    "sanatci": "Kadir Has Stadium in Kayseri.jpg:Namuslu Kayseri-Meydan-sardic.jpg:Magnus Manske Sivas Avenue Kayseri.JPG:Ahmet Gürsakal Kayseri Meydan Panorama.jpg:Flickr upload bot Kayseray32 fotoresim 18.png:Alperen93100 Kayseri-walls-sardic1.jpg:Magnus Manske"
+  },
+  "konya": {
+    "src": "/yoreler/konya.webp",
+    "alt": "Konya kent ve kültür görünümü",
+    "baslik": "Konya",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:City_of_Konya.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "MevlanaMuseum.jpg:OgreBot Central Konya.jpg:Quintucket Konya, tram No. 107 (01).jpg:Harold Aziziye Mosque, Konya.JPG:Nedim Ardoğa A view of Avenue Nalçacı in Konya.jpg:Reality006"
+  },
+  "mardin": {
+    "src": "/yoreler/mardin.webp",
+    "alt": "Mardin kent ve kültür görünümü",
+    "baslik": "Mardin",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Mardin%2C_Mardin_Merkez-Mardin%2C_Turkey_-_panoramio_(1).jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Ben Bender"
+  },
+  "sinop": {
+    "src": "/yoreler/sinop.webp",
+    "alt": "Sinop kent ve kültür görünümü",
+    "baslik": "Sinop",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Sinop_Overview_2009.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Bjørn Christian Tørrissen"
+  },
+  "sivas": {
+    "src": "/yoreler/sivas.webp",
+    "alt": "Sivas kent ve kültür görünümü",
+    "baslik": "Sivas",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Sivas_20-08-2009_-_panoramio.jpg",
+    "lisans": "CC BY 3.0",
+    "sanatci": "Валерий Дед"
+  },
+  "sanliurfa": {
+    "src": "/yoreler/sanliurfa.webp",
+    "alt": "Şanlıurfa kent ve kültür görünümü",
+    "baslik": "Şanlıurfa",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:%C5%9Eanl%C4%B1urfa_skyline.jpg",
+    "lisans": "CC BY-SA 2.0",
+    "sanatci": "Damien Halleux Radermecker"
+  },
+  "aksaray": {
+    "src": "/yoreler/aksaray.webp",
+    "alt": "Aksaray kent ve kültür görünümü",
+    "baslik": "Aksaray",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:AksarayClockTower.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "NuriCanY"
+  },
+  "bayburt": {
+    "src": "/yoreler/bayburt.webp",
+    "alt": "Bayburt kent ve kültür görünümü",
+    "baslik": "Bayburt",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bayburt%2C_69000_Bayburt_Merkez-Bayburt%2C_Turkey_-_panoramio_(4).jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Ben Bender"
+  },
+  "batman": {
+    "src": "/yoreler/batman.webp",
+    "alt": "Batman kent ve kültür görünümü",
+    "baslik": "Batman",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Batman(city).jpg",
+    "lisans": "Public domain",
+    "sanatci": "Ferhat 72 at Turkish Wikipedia"
+  },
+  "sirnak": {
+    "src": "/yoreler/sirnak.webp",
+    "alt": "Şırnak kent ve kültür görünümü",
+    "baslik": "Şırnak",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Zmangeldi"
+  },
+  "yalova": {
+    "src": "/yoreler/yalova.webp",
+    "alt": "Yalova kent ve kültür görünümü",
+    "baslik": "Yalova",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Yalova_Seaside.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Annikat53"
+  },
+  "karabuk": {
+    "src": "/yoreler/karabuk.webp",
+    "alt": "Karabük kent ve kültür görünümü",
+    "baslik": "Karabük",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Karab%C3%BCk_view_8028.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Dosseman"
+  },
+  "duzce": {
+    "src": "/yoreler/duzce.webp",
+    "alt": "Düzce kent ve kültür görünümü",
+    "baslik": "Düzce",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:D%C3%BCzce-435.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "İncelemeelemani"
+  }
+}

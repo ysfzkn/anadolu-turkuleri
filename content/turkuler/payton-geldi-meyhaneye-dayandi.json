@@ -1,0 +1,34 @@
+{
+  "slug": "payton-geldi-meyhaneye-dayandi",
+  "baslik": "Payton Geldi Meyhaneye Dayandı",
+  "yore": "Bilecik",
+  "hikaye": "Payton Geldi Meyhaneye Dayandı, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Payton%20Geldi%20Meyhaneye%20Dayand%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Payton%20Geldi%20Meyhaneye%20Dayand%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Payton Geldi Meyhaneye Dayandı",
+      "url": "https://tr.wikisource.org/wiki/Payton_Geldi_Meyhaneye_Dayand%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Bilecik"
+  ]
+}

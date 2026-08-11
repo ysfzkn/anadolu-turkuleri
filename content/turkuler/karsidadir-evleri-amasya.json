@@ -1,0 +1,34 @@
+{
+  "slug": "karsidadir-evleri-amasya",
+  "baslik": "Karşıdadır Evleri (Amasya)",
+  "yore": "Amasya",
+  "hikaye": "Karşıdadır Evleri (Amasya), Vikikaynak'ın Amasya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Amasya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%C5%9F%C4%B1dad%C4%B1r%20Evleri%20(Amasya)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%C5%9F%C4%B1dad%C4%B1r%20Evleri%20(Amasya)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karşıdadır Evleri (Amasya)",
+      "url": "https://tr.wikisource.org/wiki/Kar%C5%9F%C4%B1dad%C4%B1r_Evleri_(Amasya)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Amasya"
+  ]
+}

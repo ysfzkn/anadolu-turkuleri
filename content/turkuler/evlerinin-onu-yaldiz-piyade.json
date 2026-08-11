@@ -1,0 +1,34 @@
+{
+  "slug": "evlerinin-onu-yaldiz-piyade",
+  "baslik": "Evlerinin Önü Yaldız Piyade",
+  "yore": "Çankırı",
+  "hikaye": "Evlerinin Önü Yaldız Piyade, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Evlerinin%20%C3%96n%C3%BC%20Yald%C4%B1z%20Piyade%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Evlerinin%20%C3%96n%C3%BC%20Yald%C4%B1z%20Piyade",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Evlerinin Önü Yaldız Piyade",
+      "url": "https://tr.wikisource.org/wiki/Evlerinin_%C3%96n%C3%BC_Yald%C4%B1z_Piyade",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Çankırı"
+  ]
+}

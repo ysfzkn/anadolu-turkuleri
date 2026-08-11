@@ -1,0 +1,34 @@
+{
+  "slug": "oglan-adin-ismail",
+  "baslik": "Oğlan Adın İsmail",
+  "yore": "Bursa",
+  "hikaye": "Oğlan Adın İsmail, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=O%C4%9Flan%20Ad%C4%B1n%20%C4%B0smail%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/O%C4%9Flan%20Ad%C4%B1n%20%C4%B0smail",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Oğlan Adın İsmail",
+      "url": "https://tr.wikisource.org/wiki/O%C4%9Flan_Ad%C4%B1n_%C4%B0smail",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Bursa"
+  ]
+}

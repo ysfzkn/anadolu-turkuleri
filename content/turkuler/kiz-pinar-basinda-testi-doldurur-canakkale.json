@@ -1,0 +1,34 @@
+{
+  "slug": "kiz-pinar-basinda-testi-doldurur-canakkale",
+  "baslik": "Kız Pınar Başında Testi Doldurur (Çanakkale)",
+  "yore": "Çanakkale",
+  "hikaye": "Kız Pınar Başında Testi Doldurur (Çanakkale), Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1z%20P%C4%B1nar%20Ba%C5%9F%C4%B1nda%20Testi%20Doldurur%20(%C3%87anakkale)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1z%20P%C4%B1nar%20Ba%C5%9F%C4%B1nda%20Testi%20Doldurur%20(%C3%87anakkale)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kız Pınar Başında Testi Doldurur (Çanakkale)",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1z_P%C4%B1nar_Ba%C5%9F%C4%B1nda_Testi_Doldurur_(%C3%87anakkale)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Çanakkale"
+  ]
+}

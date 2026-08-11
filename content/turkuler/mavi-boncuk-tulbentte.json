@@ -1,0 +1,34 @@
+{
+  "slug": "mavi-boncuk-tulbentte",
+  "baslik": "Mavi Boncuk Tülbentte",
+  "yore": "Ağrı",
+  "hikaye": "Mavi Boncuk Tülbentte, Vikikaynak'ın Ağrı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ağrı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mavi%20Boncuk%20T%C3%BClbentte%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mavi%20Boncuk%20T%C3%BClbentte",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mavi Boncuk Tülbentte",
+      "url": "https://tr.wikisource.org/wiki/Mavi_Boncuk_T%C3%BClbentte",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ağrı"
+  ]
+}

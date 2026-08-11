@@ -1,0 +1,34 @@
+{
+  "slug": "ziybek-misin-ziybek-donu-giyecek",
+  "baslik": "Ziybek Misin Ziybek Donu Giyecek",
+  "yore": "Ankara",
+  "hikaye": "Ziybek Misin Ziybek Donu Giyecek, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ziybek%20Misin%20Ziybek%20Donu%20Giyecek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ziybek%20Misin%20Ziybek%20Donu%20Giyecek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ziybek Misin Ziybek Donu Giyecek",
+      "url": "https://tr.wikisource.org/wiki/Ziybek_Misin_Ziybek_Donu_Giyecek",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Ankara"
+  ]
+}

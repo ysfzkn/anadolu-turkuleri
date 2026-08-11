@@ -4,6 +4,7 @@ import Link from "next/link";
 import "./globals.css";
 import { KullaniciMenusu } from "@/components/KullaniciMenusu";
 import { AnaNavigasyon } from "@/components/AnaNavigasyon";
+import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 
 const serif = Lora({
   subsets: ["latin", "latin-ext"],
@@ -25,6 +26,10 @@ export const metadata: Metadata = {
   },
   description:
     "Anadolu türkülerini hikâyeleri, yöreleri, ozanları ve nota/çalım bilgileriyle bir araya getiren dijital arşiv.",
+  keywords: ["türküler", "türkü hikâyeleri", "Anadolu türküleri", "türkü sözleri", "yöresel türküler", "halk müziği"],
+  authors: [{ name: "Anadolu Türküleri" }],
+  creator: "Anadolu Türküleri",
+  category: "kültür ve müzik arşivi",
   openGraph: {
     type: "website",
     locale: "tr_TR",
@@ -40,6 +45,10 @@ export default function RootLayout({
   return (
     <html lang="tr" className={`${serif.variable} ${sans.variable}`}>
       <body className="font-sans antialiased min-h-screen flex flex-col">
+        <YapilandirilmisVeri veri={[
+          { "@context": "https://schema.org", "@type": "WebSite", name: "Anadolu Türküleri", url: "https://anadoluturkuleri.com", inLanguage: "tr-TR", description: "Türkü hikâyeleri, yöreler, ozanlar ve halk müziği repertuvarı." },
+          { "@context": "https://schema.org", "@type": "Organization", name: "Anadolu Türküleri", url: "https://anadoluturkuleri.com", logo: "https://anadoluturkuleri.com/logo-mark.png" },
+        ]} />
         <div className="kilim-strip" />
         <header className="sticky top-0 z-40 border-b border-toprak/20 bg-parsomen/88 shadow-[0_1px_0_rgba(110,72,40,0.04)] backdrop-blur-xl">
           <div className="mx-auto flex min-h-[72px] max-w-6xl items-center justify-between gap-3 px-4">
@@ -78,8 +87,8 @@ export default function RootLayout({
                 yaşatmak, tanıtmak ve gelecek kuşaklara aktarmaktır.
               </p>
               <p className="mt-3 text-xs text-parsomen/50">
-                İçerikler geleneksel/anonim türkülerden derlenmiştir; kaynak
-                atıfları her türkü sayfasında belirtilir.
+                Kayıtların kaynakları ve editoryal durumu ilgili türkü
+                sayfasında açıkça belirtilir.
               </p>
             </div>
           </div>

@@ -88,13 +88,17 @@ function tile(bolge: Bolge): { w: number; el: React.ReactNode } {
 
 export function YoreMotifi({
   bolge,
+  il = "",
   className = "",
 }: {
   bolge: Bolge;
+  /** Desenin şehir bazında tutarlı fakat dekoratif varyasyon üretmesini sağlar. */
+  il?: string;
   className?: string;
 }) {
   const { w, el } = tile(bolge);
-  const id = `motif-${bolge}`;
+  const imza = Array.from(il).reduce((toplam, harf) => toplam + harf.charCodeAt(0), 0);
+  const id = `motif-${bolge}-${imza}`;
   return (
     <svg
       width="100%"
@@ -111,6 +115,7 @@ export function YoreMotifi({
           width={w}
           height="20"
           patternUnits="userSpaceOnUse"
+          patternTransform={`translate(${imza % Math.max(w, 1)} 0)`}
         >
           {el}
         </pattern>

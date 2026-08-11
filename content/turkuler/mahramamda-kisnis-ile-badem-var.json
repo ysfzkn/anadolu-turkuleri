@@ -1,0 +1,34 @@
+{
+  "slug": "mahramamda-kisnis-ile-badem-var",
+  "baslik": "Mahramamda Kişniş ile Badem Var",
+  "yore": "Artvin",
+  "hikaye": "Mahramamda Kişniş ile Badem Var, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mahramamda%20Ki%C5%9Fni%C5%9F%20ile%20Badem%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mahramamda%20Ki%C5%9Fni%C5%9F%20ile%20Badem%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mahramamda Kişniş ile Badem Var",
+      "url": "https://tr.wikisource.org/wiki/Mahramamda_Ki%C5%9Fni%C5%9F_ile_Badem_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Artvin"
+  ]
+}

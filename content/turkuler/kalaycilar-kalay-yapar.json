@@ -1,0 +1,34 @@
+{
+  "slug": "kalaycilar-kalay-yapar",
+  "baslik": "Kalaycılar Kalay Yapar",
+  "yore": "Edirne",
+  "hikaye": "Kalaycılar Kalay Yapar, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kalayc%C4%B1lar%20Kalay%20Yapar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kalayc%C4%B1lar%20Kalay%20Yapar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kalaycılar Kalay Yapar",
+      "url": "https://tr.wikisource.org/wiki/Kalayc%C4%B1lar_Kalay_Yapar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Edirne"
+  ]
+}

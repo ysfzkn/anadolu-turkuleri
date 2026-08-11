@@ -1,0 +1,34 @@
+{
+  "slug": "suya-iner-tavsanlar-aydin",
+  "baslik": "Suya İner Tavşanlar (Aydın)",
+  "yore": "Aydın",
+  "hikaye": "Suya İner Tavşanlar (Aydın), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Suya%20%C4%B0ner%20Tav%C5%9Fanlar%20(Ayd%C4%B1n)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Suya%20%C4%B0ner%20Tav%C5%9Fanlar%20(Ayd%C4%B1n)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Suya İner Tavşanlar (Aydın)",
+      "url": "https://tr.wikisource.org/wiki/Suya_%C4%B0ner_Tav%C5%9Fanlar_(Ayd%C4%B1n)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Aydın"
+  ]
+}

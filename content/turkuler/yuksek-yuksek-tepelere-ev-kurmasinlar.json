@@ -1,0 +1,34 @@
+{
+  "slug": "yuksek-yuksek-tepelere-ev-kurmasinlar",
+  "baslik": "Yüksek Yüksek Tepelere Ev Kurmasınlar",
+  "yore": "Edirne",
+  "hikaye": "Yüksek Yüksek Tepelere Ev Kurmasınlar, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCksek%20Y%C3%BCksek%20Tepelere%20Ev%20Kurmas%C4%B1nlar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCksek%20Y%C3%BCksek%20Tepelere%20Ev%20Kurmas%C4%B1nlar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüksek Yüksek Tepelere Ev Kurmasınlar",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCksek_Y%C3%BCksek_Tepelere_Ev_Kurmas%C4%B1nlar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Edirne"
+  ]
+}

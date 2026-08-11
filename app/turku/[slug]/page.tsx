@@ -14,6 +14,7 @@ import { RepertuvaraEkle } from "@/components/RepertuvaraEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 import { YoreVitrini } from "@/components/YoreVitrini";
+import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 
 export function generateStaticParams() {
   return tumSluglar().map((slug) => ({ slug }));
@@ -27,9 +28,12 @@ export function generateMetadata({
   const turku = turkuBul(params.slug);
   if (!turku) return { title: "Türkü bulunamadı" };
   return {
-    title: `${turku.baslik} (${turku.yore})`,
-    description: turku.ozet,
-    openGraph: { title: turku.baslik, description: turku.ozet },
+    title: `${turku.baslik} Türküsü: Hikâyesi ve Yöresi`,
+    description: `${turku.baslik} türküsünün hikâyesi, ${turku.yore} yöresi, ozan ve çalım bilgileri. ${turku.ozet}`.slice(0, 160),
+    alternates: { canonical: `/turku/${turku.slug}` },
+    robots: turku.dogrulama === "taslak" ? { index: false, follow: true } : { index: true, follow: true },
+    keywords: [turku.baslik, `${turku.baslik} hikâyesi`, `${turku.baslik} sözleri`, `${turku.yore} türküleri`, ...(turku.etiketler ?? [])],
+    openGraph: { type: "article", url: `/turku/${turku.slug}`, title: `${turku.baslik} Türküsü`, description: turku.ozet },
   };
 }
 
@@ -41,9 +45,15 @@ export default function TurkuSayfasi({
   const turku = turkuBul(params.slug);
   if (!turku) notFound();
   const bolge = bolgeBul(ilSlug(turku.yore));
+  const url = `https://anadoluturkuleri.com/turku/${turku.slug}`;
+  const yoreUrl = `https://anadoluturkuleri.com/yore/${ilSlug(turku.yore)}`;
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-10">
+      <YapilandirilmisVeri veri={[
+        { "@context": "https://schema.org", "@type": "MusicComposition", "@id": url, name: turku.baslik, alternateName: turku.digerAdlar, description: turku.ozet, inLanguage: "tr-TR", genre: "Türk halk müziği", lyricist: turku.sozYazari || turku.ozan ? { "@type": "Person", name: turku.sozYazari ?? turku.ozan } : undefined, composer: turku.besteci ? { "@type": "Person", name: turku.besteci } : undefined, sameAs: turku.baglantilar.map((b) => b.url), citation: turku.kaynaklar.map((k) => k.url).filter(Boolean) },
+        { "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Türküler", item: "https://anadoluturkuleri.com" }, { "@type": "ListItem", position: 2, name: `${turku.yore} Türküleri`, item: yoreUrl }, { "@type": "ListItem", position: 3, name: turku.baslik, item: url }] },
+      ]} />
       <Link
         href="/"
         className="mb-6 inline-flex items-center gap-1 text-sm text-cini-dark hover:text-kilim"
@@ -65,7 +75,7 @@ export default function TurkuSayfasi({
             Diğer adlar: {turku.digerAdlar.join(", ")}
           </p>
         )}
-        <YoreMotifi bolge={bolge} className="mt-4 opacity-80" />
+        <YoreMotifi bolge={bolge} il={turku.yore} className="mt-4 opacity-80" />
         <dl className="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-sm text-ceviz-light">
           {turku.kaynakKisi && (
             <div>
@@ -142,7 +152,7 @@ export default function TurkuSayfasi({
                 <p className="text-sm italic text-ceviz-light">
                   {turku.sozYazari
                     ? "Bu türkünün sözleri bilinen bir söz yazarına ait olduğundan, telif durumu netleşene dek burada paylaşılmamaktadır."
-                    : "Sözler editör doğrulamasından sonra eklenecektir."}{" "}
+                    : "Doğrulanmış söz metni henüz arşive eklenmemiştir."}{" "}
                   Dinlemek için yukarıdaki bağlantıları kullanabilirsiniz.
                 </p>
               </section>

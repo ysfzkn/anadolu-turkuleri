@@ -1,0 +1,34 @@
+{
+  "slug": "asker-oldum-giydim-yelek",
+  "baslik": "Asker Oldum Giydim Yelek",
+  "yore": "Adana",
+  "hikaye": "Asker Oldum Giydim Yelek, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Asker%20Oldum%20Giydim%20Yelek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Asker%20Oldum%20Giydim%20Yelek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Asker Oldum Giydim Yelek",
+      "url": "https://tr.wikisource.org/wiki/Asker_Oldum_Giydim_Yelek",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Adana"
+  ]
+}

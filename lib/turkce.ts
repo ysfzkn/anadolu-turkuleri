@@ -24,3 +24,21 @@ export function lokatif(ozelAd: string): string {
   const ek = (sert ? "t" : "d") + (kalin ? "a" : "e");
   return `${ozelAd}'${ek}`;
 }
+
+/**
+ * Özel adlarda ilgi (tamlayan) eki: tamlayan("Ankara") → "Ankara'nın".
+ */
+export function tamlayan(ozelAd: string): string {
+  const s = ozelAd.toLocaleLowerCase("tr");
+  const son = sonSesli(s);
+  const darUnlu = son === "a" || son === "ı"
+    ? "ı"
+    : son === "e" || son === "i"
+      ? "i"
+      : son === "o" || son === "u"
+        ? "u"
+        : "ü";
+  const sonHarf = s.replace(/['’\s.]/g, "").slice(-1);
+  const kaynastirma = SESLILER.includes(sonHarf) ? "n" : "";
+  return `${ozelAd}'${kaynastirma}${darUnlu}n`;
+}

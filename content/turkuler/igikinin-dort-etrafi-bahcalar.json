@@ -1,0 +1,34 @@
+{
+  "slug": "igikinin-dort-etrafi-bahcalar",
+  "baslik": "Iğiki'nin Dört Etrafı Bahçalar",
+  "yore": "Elazığ",
+  "hikaye": "Iğiki'nin Dört Etrafı Bahçalar, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=I%C4%9Fiki'nin%20D%C3%B6rt%20Etraf%C4%B1%20Bah%C3%A7alar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/I%C4%9Fiki'nin%20D%C3%B6rt%20Etraf%C4%B1%20Bah%C3%A7alar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Iğiki'nin Dört Etrafı Bahçalar",
+      "url": "https://tr.wikisource.org/wiki/I%C4%9Fiki'nin_D%C3%B6rt_Etraf%C4%B1_Bah%C3%A7alar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Elazığ"
+  ]
+}

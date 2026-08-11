@@ -1,0 +1,34 @@
+{
+  "slug": "kirmizi-bugday-sec-olur",
+  "baslik": "Kırmızı Buğday Sec Olur",
+  "yore": "Edirne",
+  "hikaye": "Kırmızı Buğday Sec Olur, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
+  "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1rm%C4%B1z%C4%B1%20Bu%C4%9Fday%20Sec%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1rm%C4%B1z%C4%B1%20Bu%C4%9Fday%20Sec%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kırmızı Buğday Sec Olur",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1rm%C4%B1z%C4%B1_Bu%C4%9Fday_Sec_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "geleneksel",
+    "arşiv kaydı",
+    "Edirne"
+  ]
+}
