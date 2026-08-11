@@ -41,14 +41,6 @@ export async function POST(request: Request) {
     .sort((a, b) => a.sira - b.sira)
     .map((r) => r.turku_slug);
 
-  // Spotify kullanıcı kimliği
-  const meRes = await fetch("https://api.spotify.com/v1/me", {
-    headers: { Authorization: `Bearer ${token}` },
-  });
-  if (!meRes.ok)
-    return Response.json({ hata: "spotify-token" }, { status: 400 });
-  const me = (await meRes.json()) as { id: string };
-
   // Her türkü için parça URI'si bul
   const uris: string[] = [];
   for (const slug of slugs) {
@@ -61,9 +53,7 @@ export async function POST(request: Request) {
     return Response.json({ hata: "parca-bulunamadi" }, { status: 400 });
 
   // Çalma listesi oluştur
-  const plRes = await fetch(
-    `https://api.spotify.com/v1/users/${me.id}/playlists`,
-    {
+  const plRes = await fetch("https://api.spotify.com/v1/me/playlists", {
       method: "POST",
       headers: {
         Authorization: `Bearer ${token}`,
@@ -74,8 +64,9 @@ export async function POST(request: Request) {
         description: "anadoluturkuleri.com listesinden oluşturuldu.",
         public: false,
       }),
-    },
-  );
+    });
+  if (plRes.status === 401 || plRes.status === 403)
+    return Response.json({ hata: "spotify-token" }, { status: 400 });
   if (!plRes.ok)
     return Response.json({ hata: "playlist-olusmadi" }, { status: 400 });
   const pl = (await plRes.json()) as {
@@ -84,7 +75,7 @@ export async function POST(request: Request) {
   };
 
   // Parçaları ekle (istek başına en çok 100)
-  await fetch(`https://api.spotify.com/v1/playlists/${pl.id}/tracks`, {
+  const ekleRes = await fetch(`https://api.spotify.com/v1/playlists/${pl.id}/items`, {
     method: "POST",
     headers: {
       Authorization: `Bearer ${token}`,
@@ -92,6 +83,12 @@ export async function POST(request: Request) {
     },
     body: JSON.stringify({ uris: uris.slice(0, 100) }),
   });
+  if (!ekleRes.ok) {
+    return Response.json(
+      { hata: ekleRes.status === 401 || ekleRes.status === 403 ? "spotify-token" : "parcalar-eklenemedi" },
+      { status: 400 },
+    );
+  }
 
   return Response.json({
     url: pl.external_urls?.spotify ?? null,

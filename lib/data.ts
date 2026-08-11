@@ -108,6 +108,8 @@ export function kartlar() {
     yore: t.yore,
     ozet: t.ozet,
     etiketler: t.etiketler,
+    ozan: t.ozan,
+    sozYazari: t.sozYazari,
     // Yalnızca aramada kullanılır; kartta gösterilmez.
     sozMetni: (t.sozler ?? [])
       .flatMap((k) => k.satirlar)

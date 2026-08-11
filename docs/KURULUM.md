@@ -138,6 +138,10 @@ create policy "sahibi_repertuvar" on public.repertuvar
    - Create → çıkan **Client ID** ve **Client Secret**'ı kopyala.
 4. **Supabase → Authentication → Providers → Google**'ı aç → bu Client ID /
    Secret'ı yapıştır, kaydet.
+5. Google ile açılmış bir hesabın sonradan Spotify'a bağlanabilmesi için
+   **Supabase → Authentication → Settings → Manual Linking** seçeneğini aç.
+   Bu ayar kapalıysa kullanıcı giriş yapabilir; ancak listesini Spotify'a
+   aktarırken mevcut hesabına Spotify yetkisi ekleyemez.
 
 > Yani hem Google hem Spotify aynı Supabase callback adresine döner; her iki
 > sağlayıcının kendi panelinde de aynı redirect URI kullanılır.

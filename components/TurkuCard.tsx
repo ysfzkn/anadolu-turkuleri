@@ -1,26 +1,49 @@
 import Link from "next/link";
 import type { Turku } from "@/lib/types";
-import { CornerFlourish } from "./Motif";
-import { slugYap } from "@/lib/slug";
-import sehirGorselleri from "@/content/sehir-gorselleri.json";
+import { OZAN_GORSELLERI } from "@/lib/ozan-gorselleri";
 
 /** Kart için gereken hafif alt küme (hikâye/sözler taşımaz). */
 export type KartTurku = Pick<
   Turku,
-  "slug" | "baslik" | "yore" | "ozet" | "etiketler"
+  "slug" | "baslik" | "yore" | "ozet" | "etiketler" | "ozan" | "sozYazari"
 >;
+
+const RENKLER = [
+  ["#2f493e", "#b36a43"],
+  ["#163f59", "#c39143"],
+  ["#542f27", "#bb5846"],
+  ["#3d3557", "#af7950"],
+  ["#304f57", "#7f9a6b"],
+  ["#6a3d36", "#d09958"],
+] as const;
+const SIMGELER = ["◇", "✦", "≈", "△", "✧", "⌁"];
+
+function kartKimligi(slug: string) {
+  const sayi = Array.from(slug).reduce((toplam, harf) => toplam + harf.charCodeAt(0), 0);
+  return { renk: RENKLER[sayi % RENKLER.length], simge: SIMGELER[sayi % SIMGELER.length] };
+}
 
 export function TurkuCard({ turku }: { turku: KartTurku }) {
   const il = turku.yore.split(/[(/]/)[0].trim();
-  const gorsel = (sehirGorselleri as Record<string, { src: string; alt: string }>)[slugYap(il)];
+  const ozanAdi = turku.ozan ?? turku.sozYazari;
+  const ozan = ozanAdi ? OZAN_GORSELLERI[ozanAdi] : undefined;
+  const kimlik = kartKimligi(turku.slug);
   return (
     <Link
       href={`/turku/${turku.slug}`}
       className="group relative block overflow-hidden rounded-2xl border border-toprak/30 bg-parsomen shadow-motif transition-all hover:-translate-y-0.5 hover:border-kilim/50"
     >
-      <div className="relative h-28 overflow-hidden bg-gradient-to-br from-ceviz to-cini-dark">
-        {gorsel ? <img src={gorsel.src} alt="" loading="lazy" className="h-full w-full object-cover opacity-80 transition duration-500 group-hover:scale-105 group-hover:opacity-95" /> : <><span className="absolute -right-5 -top-7 text-[8rem] text-toprak/20"><CornerFlourish /></span><span className="absolute bottom-3 left-4 text-xs font-semibold uppercase tracking-[.18em] text-parsomen/80">{il} ezgileri</span></>}
+      <div className="relative h-28 overflow-hidden" style={{ background: `linear-gradient(125deg, ${kimlik.renk[0]}, ${kimlik.renk[1]})` }}>
+        {ozan ? (
+          <img src={ozan.src} alt="" loading="lazy" className="h-full w-full object-cover object-[center_35%] opacity-75 transition duration-500 group-hover:scale-105 group-hover:opacity-90" />
+        ) : (
+          <>
+            <span className="absolute -right-4 -top-12 select-none font-serif text-[10rem] leading-none text-white/15 transition-transform duration-500 group-hover:rotate-6" aria-hidden>{kimlik.simge}</span>
+            <span className="absolute left-5 top-4 h-10 w-10 rotate-45 border border-white/25" aria-hidden><span className="absolute inset-2 border border-white/20" /></span>
+          </>
+        )}
         <div className="absolute inset-0 bg-gradient-to-t from-ceviz/75 via-transparent to-transparent" />
+        <span className="absolute bottom-3 left-4 text-xs font-semibold uppercase tracking-[.18em] text-white/90">{ozan ? ozanAdi : `${il} ezgileri`}</span>
       </div>
       <div className="p-5">
         <div className="mb-2 flex items-center gap-2 text-xs font-medium text-kilim">
