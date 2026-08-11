@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background-color: theme("colors.parsomen.DEFAULT");
+  color: theme("colors.ceviz.DEFAULT");
+  /* Hafif dokuma dokusu: çok düşük opaklıkta motif hissi */
+  background-image:
+    radial-gradient(theme("colors.toprak.DEFAULT") 0.5px, transparent 0.5px);
+  background-size: 22px 22px;
+  background-position: 0 0;
+}
+
+/* İnce üst kilim şeridi tüm sayfalarda */
+.kilim-strip {
+  height: 6px;
+  background: repeating-linear-gradient(
+    135deg,
+    theme("colors.kilim.DEFAULT") 0 10px,
+    theme("colors.toprak.DEFAULT") 10px 20px,
+    theme("colors.cini.DEFAULT") 20px 30px
+  );
+}
+
+/* Prose benzeri hikâye metni */
+.hikaye p {
+  margin-bottom: 1rem;
+  line-height: 1.9;
+}
+
+/* Sözler tek boşlukları korusun */
+.sozler-satir {
+  white-space: pre-wrap;
+}
