@@ -1,0 +1,51 @@
+{
+  "slug": "carsambayi-sel-aldi",
+  "baslik": "Çarşamba'yı Sel Aldı",
+  "yore": "Samsun (Çarşamba)",
+  "hikaye": "Çarşamba'yı Sel Aldı, Samsun'un Çarşamba ovasında geçen dokunaklı bir ağıttır. Anlatıya göre fakir genç Ahmet ile sevdiği Melek nişanlıdır; Ahmet askere gidince ağanın oğlu Melek'i kaçırır. Askerden dönen Ahmet sevdiğini ararken bastıran sel, iki genci de alıp götürür; sular çekilince cansız bedenleri, derenin Yeşilırmak'a karıştığı yerde el ele bulunur.\nHikâye belirli bir tarihe bağlanmaz; halkın belleğinde bir efsane-ağıt olarak yaşar. O noktaya kurulan değirmenden ötürü yöre 'Değirmenbaşı' adını almıştır.",
+  "ozet": "Samsun-Çarşamba'da, selde can veren iki gencin aşkına yakılan dokunaklı ağıt.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba'yı sel aldı",
+        "Bir yar sevdim el aldı",
+        "Keşke sevmez olaydım",
+        "Elim koynumda kaldı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ar%C5%9Famba'y%C4%B1%20Sel%20Ald%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ar%C5%9Famba'y%C4%B1%20Sel%20Ald%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Çarşambayı Sel Aldı",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87ar%C5%9Fambay%C4%B1_Sel_Ald%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — hikâye",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=308",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Samsun",
+    "ağıt",
+    "aşk",
+    "sel"
+  ]
+}

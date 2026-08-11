@@ -1,0 +1,53 @@
+{
+  "slug": "ordunun-dereleri",
+  "baslik": "Ordunun Dereleri",
+  "yore": "Ordu",
+  "kaynakKisi": "Kadir Üstündağ",
+  "derleyen": "Ahmet Yamacı",
+  "hikaye": "Ordunun Dereleri, eski Ordu'da kavuşamayan Hacer ile Mehmet'in aşkına yakıldığı anlatılan bir Karadeniz türküsüdür. Köyün kıskançlarının araya nifak sokması, Mehmet'in gurbete düşmesi ve Hacer'in dere kenarındaki yakınışı anlatının özünü oluşturur.\n'Dereler yukarı aksa' gibi doğa kanunlarına aykırı imgelerle sevginin sarsılmazlığını vurgular. Anonim türkü, Muzaffer Sarısözen'in notaya almasıyla TRT repertuvarına girmiş; Ümit Tokcan gibi sanatçıların yorumlarıyla yaygınlaşmıştır.",
+  "ozet": "Ordu'da kavuşamayan Hacer ile Mehmet'in aşkına yakılan, dere kenarının hüznünü taşıyan Karadeniz türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ordu'nun dereleri",
+        "Aksa yukarı aksa",
+        "Vermem seni ellere",
+        "Ordu üstüme kalksa"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ordunun%20Dereleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ordunun%20Dereleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Ordunun Dereleri",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=814",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Repertükül",
+      "url": "https://www.repertukul.com/ORDU-NUN-DERELERI-1550",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Ordu",
+    "Karadeniz",
+    "aşk",
+    "ayrılık"
+  ]
+}

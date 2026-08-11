@@ -1,0 +1,48 @@
+{
+  "slug": "ankaranin-baglari",
+  "baslik": "Ankara'nın Bağları",
+  "digerAdlar": [
+    "Misket"
+  ],
+  "yore": "Ankara",
+  "hikaye": "Ankara'nın Bağları, namıdiğer 'Misket', Ankara yöresinin en tanınmış oyun havalarından biridir. Düğünlerin ve eğlencelerin vazgeçilmezi olan ezgi, akordeonun 'misket düzeni' akorduyla çalınıp coşkulu bir hava kazanır.\n'Misket', Ankara halk müziğinde hem bir ezgi kalıbı/ayak adı hem de bu meşhur oyun havasının adıdır; klasik makam karşılığı çoğu zaman Nikriz olarak gösterilir. Kimi anlatılarda aşk ve ayrılık temasıyla ağıtsı bir yön de taşır.",
+  "ozet": "Ankara'nın en tanınmış oyun havası; 'Misket' adıyla da bilinen, düğünlerin vazgeçilmezi.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Misket ayağı (Nikriz makamı karşılığı)",
+    "usul": "4/4",
+    "notlar": "Oyun havası; akordeonun 'misket düzeni' akorduyla çalınır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ankara'n%C4%B1n%20Ba%C4%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ankara'n%C4%B1n%20Ba%C4%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Ankara'nın Bağları",
+      "url": "https://www.turkuler.com/sozler/turku_ankaranin_baglari.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Ankara misketinin hikâyesi",
+      "url": "https://hafizeozdemir.com/ankara-misketinin-turku-hikayesi/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Ankara",
+    "oyun havası",
+    "misket"
+  ]
+}

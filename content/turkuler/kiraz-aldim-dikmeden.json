@@ -1,0 +1,55 @@
+{
+  "slug": "kiraz-aldim-dikmeden",
+  "baslik": "Kiraz Aldım Dikmeden",
+  "digerAdlar": [
+    "Tombulacık Halime'm"
+  ],
+  "yore": "Zonguldak (Devrek)",
+  "kaynakKisi": "Emin Barın",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Kiraz Aldım Dikmeden, halk arasında 'Tombulacık Halime'm' olarak da bilinen, Zonguldak'ın Devrek yöresinden lirik bir sevda türküsüdür. İki çocuklu dul bir kadın, Halime için yakıldığı anlatılır.\nTürkü, yıllarca TRT kayıtlarında 'Bolu türküsü' olarak yer aldıktan sonra 2019'da yapılan incelemeyle Devrek'e ait olduğu belgelenip yeniden tescillenmiştir; kaynak kişi Emin Barın'dan Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Zonguldak-Devrek'ten; 'Tombulacık Halime'm' adıyla da bilinen lirik sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kiraz aldım dikmeden",
+        "Halime'm dallarını bükmeden",
+        "Eğil bir yol öpeyim",
+        "Sen bu ilden gitmeden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kiraz%20Ald%C4%B1m%20Dikmeden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kiraz%20Ald%C4%B1m%20Dikmeden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kiraz Aldım Dikmeden",
+      "url": "https://tr.wikisource.org/wiki/Kiraz_Ald%C4%B1m_Dikmeden",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "TRT Haber — Devrek'e tescil",
+      "url": "https://www.trthaber.com/haber/yasam/trt-tombulacik-halimem-turkusunun-zonguldaka-ait-oldugunu-belgeledi-440766.html",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Zonguldak",
+    "Devrek",
+    "sevda"
+  ]
+}

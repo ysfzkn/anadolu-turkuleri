@@ -1,0 +1,57 @@
+{
+  "slug": "cayelinden-oteye",
+  "baslik": "Çayeli'nden Öteye",
+  "yore": "Rize (Çayeli)",
+  "kaynakKisi": "Dursun Tanyaş",
+  "derleyen": "Yücel Paşmakçı",
+  "hikaye": "Çayeli'nden Öteye, Doğu Karadeniz'in çay bahçelerinden yükselen bir sevda ve gurbet türküsüdür. Peştamallı kızlar, sırtta taşınan çay sepetleri ve dere boyları, türkünün canlı imgelerini oluşturur.\nRize'nin Çayeli yöresinden, kaynak kişi Dursun Tanyaş'tan derlenerek TRT repertuvarına kazandırılmıştır. Kemençe eşliğinde, horon geleneğinin coşkulu havasıyla seslendirilir.",
+  "ozet": "Rize-Çayeli'nden, çay bahçelerinin sevda ve gurbetini anlatan coşkulu bir Karadeniz türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayeli'nden öteye",
+        "Gidelim yali yali",
+        "Arkandaki sepetin",
+        "Ben olayım hamalı"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Karadeniz yöresi; kemençe eşliğinde, horon geleneği içinde icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ayeli'nden%20%C3%96teye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ayeli'nden%20%C3%96teye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çayeli'nden Öteye",
+      "url": "https://tr.wikisource.org/wiki/%C3%87ayeli'nden_%C3%96teye",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Yurdu",
+      "url": "https://www.turkuyurdu.com/cayelinden-oteye-6843.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Rize",
+    "Karadeniz",
+    "sevda",
+    "gurbet",
+    "horon"
+  ]
+}

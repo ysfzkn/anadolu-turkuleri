@@ -1,0 +1,52 @@
+{
+  "slug": "antalyanin-mor-uzumu",
+  "baslik": "Antalya'nın Mor Üzümü",
+  "yore": "Antalya (Akseki)",
+  "kaynakKisi": "Hüseyin Balkan",
+  "derleyen": "Neriman Tüfekçi",
+  "hikaye": "Antalya'nın Mor Üzümü, Akdeniz'in 'meyve türküleri' geleneğinden, sevgiliyi yörenin mor üzümü üzerinden anlatan bir Antalya türküsüdür. 'A leylim' nakaratı, yörenin karakteristik söyleyişini taşır.\nAntalya'nın Akseki yöresinden, kaynak kişi Hüseyin Balkan'dan 1953'te Neriman Tüfekçi tarafından derlenmiştir; günümüzde de sevilerek seslendirilir.",
+  "ozet": "Antalya-Akseki'den, sevgiliyi mor üzüm imgesiyle anlatan, 'a leylim' nakaratlı sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Antalya'nın mor üzümü",
+        "Severler boyu uzunu",
+        "İmamın küçük kızını",
+        "Sarsam ne zaman ne zaman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Antalya'n%C4%B1n%20Mor%20%C3%9Cz%C3%BCm%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Antalya'n%C4%B1n%20Mor%20%C3%9Cz%C3%BCm%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Antalya'nın Mor Üzümü",
+      "url": "https://tr.wikisource.org/wiki/Antalya%E2%80%99n%C4%B1n_Mor_%C3%9Cz%C3%BCm%C3%BC",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=92",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Antalya",
+    "Akdeniz",
+    "sevda"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "bir-ay-dogdu-odadan",
+  "baslik": "Bir Ay Doğdu Odadan",
+  "digerAdlar": [
+    "Yar Zeynep"
+  ],
+  "yore": "Hakkari",
+  "kaynakKisi": "Mehmet Selvi",
+  "derleyen": "Nida Tüfekçi",
+  "hikaye": "Bir Ay Doğdu Odadan, 'Yar Zeynep' adıyla da anılan bir Hakkâri kırık havasıdır. Odadan doğan ayın ışığı imgesiyle açılan türkü, sevgiliye duyulan aşkı ve özlemi dile getirir.\nAnonim halk geleneğine ait türkü, kaynak kişi Mehmet Selvi'den derlenip Nida Tüfekçi tarafından notaya alınarak TRT repertuvarına kazandırılmıştır; Uşşak makamında icra edilir.",
+  "ozet": "Hakkâri'den; 'Yar Zeynep' adıyla da bilinen, ay ışığı imgeli bir aşk kırık havası.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "usul": "6/4"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ay%20Do%C4%9Fdu%20Odadan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ay%20Do%C4%9Fdu%20Odadan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Repertükül — Bir Ay Doğdu Odadan (TRT 2215)",
+      "url": "https://www.repertukul.com/BIR-AY-DOGDU-ODADAN-2215",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — Hakkâri listesi",
+      "url": "https://www.turkudostlari.net/sor.asp?b=1134",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Hakkari",
+    "sevda",
+    "kırık hava"
+  ]
+}

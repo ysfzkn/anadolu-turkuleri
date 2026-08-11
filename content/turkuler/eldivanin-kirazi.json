@@ -1,0 +1,53 @@
+{
+  "slug": "eldivanin-kirazi",
+  "baslik": "Eldivan'ın Kirazı",
+  "yore": "Çankırı (Eldivan)",
+  "kaynakKisi": "Ramazan Sarıca",
+  "derleyen": "Neşe Dilekçioğlu",
+  "hikaye": "Eldivan'ın Kirazı, Çankırı'nın kirazıyla ünlü Eldivan ilçesinden bir türküdür. Eldivan kirazı üzerinden sevgiliye yöneltilen tatlı bir sitem, 'sen açtın sinemdeki yaremi' nakaratıyla dile gelir.\nAnonim halk geleneğine ait türkü, kaynak kişi Ramazan Sarıca'dan Neşe Dilekçioğlu tarafından 1990'da derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Çankırı-Eldivan'dan; kiraz üzerinden sevgiliye tatlı bir sitemi işleyen türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eldivan'ın kirazı",
+        "Dosta gider birazı",
+        "Artık çekemez oldum",
+        "Bana ettiğin nazı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eldivan'%C4%B1n%20Kiraz%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eldivan'%C4%B1n%20Kiraz%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Eldivan'ın Kirazı",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=11094",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Çankırı türküleri listesi",
+      "url": "https://turku.sitesi.web.tr/cankiri/eldivanin-kirazi.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Çankırı",
+    "Eldivan",
+    "sevda",
+    "sitem"
+  ]
+}

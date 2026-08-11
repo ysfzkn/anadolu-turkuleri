@@ -1,0 +1,51 @@
+{
+  "slug": "avcilar-avlar-cereni",
+  "baslik": "Avcılar Avlar Cereni",
+  "yore": "Osmaniye",
+  "hikaye": "Avcılar Avlar Cereni, Çukurova'nın yaygın 'Ceren' (ceylan) türkü geleneğine ait bir Osmaniye varyantıdır. Ceren avı üzerinden, vurulan eşin ya da sevdiğin ardından yakılan bir yası dile getirir.\nAndırın, Maraş, Osmaniye ve Adana ağızlarıyla söylenen bu ortak gelenek, yöreler arası bir sözlü mirasın parçasıdır. Kaydın TRT repertuvar tescili net doğrulanamadığından editör doğrulaması beklemektedir.",
+  "ozet": "Osmaniye'den; Çukurova'nın 'Ceren' geleneğinde, vurulan sevdiğin ardından yakılan bir yas türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Avcılar avlar cereni",
+        "Üç gün bekledim tireni",
+        "Söylen eşimi vuranı",
+        "Hayfını almaya geldim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Avc%C4%B1lar%20Avlar%20Cereni%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Avc%C4%B1lar%20Avlar%20Cereni",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Avcılar Avlar Cereni",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=21453",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — Osmaniye listesi",
+      "url": "https://www.turkudostlari.net/sor.asp?b=2552",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Osmaniye",
+    "Çukurova",
+    "ağıt",
+    "ceren"
+  ]
+}

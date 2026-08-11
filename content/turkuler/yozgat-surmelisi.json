@@ -1,0 +1,39 @@
+{
+  "slug": "yozgat-surmelisi",
+  "baslik": "Yozgat Sürmelisi",
+  "yore": "Yozgat",
+  "hikaye": "Yozgat Sürmelisi, Bozok yaylasının 'Sürmeli' türkü geleneğinin en tanınmış örneğidir. Sürmeli, tek bir türkü değil; aşk, hasret ve ayrılık temalı çok sayıda dörtlükten oluşan, kendine özgü tavırlarıyla (Zodik, Efülliye, İftariye, Pezik, Zeybek) icra edilen bir gelenektir.\nGeleneğin kökenine dair anlatılar arasında, sevdiğine kavuşamayan çoban-ozan 'Sürmeli Bey' ile 'sürmeli göz'e duyulan özlem hikâyeleri sayılır. Bunlar efsane düzeyinde olsa da türkünün yüklendiği hasreti güzel özetler.",
+  "ozet": "Yozgat-Bozok'un 'Sürmeli' geleneğinin en ünlü örneği; hasret ve ayrılık temalı çok-tavırlı bir türkü.",
+  "sozler": [],
+  "calim": {
+    "usul": "4/4",
+    "notlar": "Yozgat tavrıyla; Sürmeli geleneğinin Zodik, Efülliye, İftariye, Pezik ve Zeybek tavırlarıyla icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yozgat%20S%C3%BCrmelisi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yozgat%20S%C3%BCrmelisi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kültür Portalı — Sürmeli türküsü",
+      "url": "https://www.kulturportali.gov.tr/turkiye/yozgat/kulturatlasi/surmeli-turkusu-hikayesi-ve-surmeli-turkulerinin-tavirlari",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Yozgat",
+    "hasret",
+    "ayrılık",
+    "sürmeli"
+  ]
+}

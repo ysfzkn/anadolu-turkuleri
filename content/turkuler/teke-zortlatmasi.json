@@ -1,0 +1,46 @@
+{
+  "slug": "teke-zortlatmasi",
+  "baslik": "Teke Zortlatması",
+  "yore": "Burdur",
+  "hikaye": "Teke Zortlatması, Burdur'un başını çektiği geniş Teke yöresinin (Burdur-Isparta-Antalya) en tanınmış oyun havasıdır. Adını yörenin kara keçisi 'teke'den alır; figürleri, tekenin ani sıçrayışlarını taklit eder.\nSipsi, kabak kemane, davul ve zurna eşliğinde, kıvrak ve dinamik bir tempoda oynanır; Yörük kültürünün coşkusunu ve dağların özgür ruhunu yansıtır.",
+  "ozet": "Burdur ve Teke yöresinin, tekenin sıçrayışlarını taklit eden kıvrak ve coşkulu oyun havası.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Aksak (Raks aksağı)",
+    "usul": "9/16",
+    "notlar": "Sipsi/kabak kemane ve davul-zurna eşliğinde, kıvrak tempoda; 'yelleme' ve 'hoplatma' bölümlerinden oluşur."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Teke%20Zortlatmas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Teke%20Zortlatmas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kültür Portalı — Teke Zortlatması",
+      "url": "https://www.kulturportali.gov.tr/turkiye/burdur/kulturatlasi/teke-zortlatmasi",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Küre Ansiklopedi — Teke yöresi halk oyunları",
+      "url": "https://kureansiklopedi.com/tr/detay/teke-yoresi-halk-oyunlari-704c5",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Burdur",
+    "Teke yöresi",
+    "oyun havası",
+    "Yörük"
+  ]
+}

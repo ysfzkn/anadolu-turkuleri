@@ -1,0 +1,45 @@
+{
+  "slug": "kutahyanin-pinarlari",
+  "baslik": "Kütahya'nın Pınarları",
+  "yore": "Kütahya",
+  "kaynakKisi": "Hisarlı Ahmet (Ahmet İnegöllü)",
+  "derleyen": "Yücel Paşmakçı",
+  "hikaye": "Kütahya'nın Pınarları, Kütahya yöresinin sevilen geleneksel türkülerindendir; ağıt karakterli, hüzünlü bir ezgidir. Pınar başları, zaptiyeler ve yöresel kıyafet imgeleriyle bir dönemin gündelik hayatını ve dramını yansıtır.\nTürküyü, yörenin usta icracısı Hisarlı Ahmet aktarmış (kaynak kişi), Yücel Paşmakçı 1963'te derleyip notaya almıştır. Sözü ve ezgisi anonim halk geleneğine aittir.",
+  "ozet": "Kütahya'dan, Hisarlı Ahmet'in aktardığı, ağıt karakterli geleneksel bir türkü.",
+  "sozler": [],
+  "calim": {
+    "notlar": "Ağıt karakterinde. Kesin makam/usül bilgisi kaynaklarda netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C3%BCtahya'n%C4%B1n%20P%C4%B1narlar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C3%BCtahya'n%C4%B1n%20P%C4%B1narlar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Yurdu — Kütahya'nın Pınarları",
+      "url": "https://www.turkuyurdu.com/kutahyanin-pinarlari-719.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=719",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kütahya",
+    "ağıt",
+    "gelenek"
+  ]
+}

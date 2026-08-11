@@ -1,0 +1,44 @@
+{
+  "slug": "alli-gelin-girmis-bara",
+  "baslik": "Allı Gelin Girmiş Bara",
+  "yore": "Gümüşhane",
+  "hikaye": "Allı Gelin Girmiş Bara, Gümüşhane yöresinin bar geleneğine ait bir türküdür. Halay, horon ve barın bir arada yaşadığı bu geçiş bölgesinde bar havaları düğünlerin ve toplu eğlencelerin coşkusunu taşır; genellikle zurna-davul eşliğinde oynanır.\nEserin anonim mi yoksa belirli bir kişinin katkısıyla mı biçimlendiği kaynaklarda çelişkilidir; bu nedenle kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Gümüşhane'nin bar geleneğinden, düğün coşkusunu taşıyan bir bar havası.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Bar (oyun havası)",
+    "notlar": "Zurna-davul eşliğinde oynanır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=All%C4%B1%20Gelin%20Girmi%C5%9F%20Bara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/All%C4%B1%20Gelin%20Girmi%C5%9F%20Bara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Allı Gelin Girmiş Bara",
+      "url": "https://www.turkuler.com/sozler/turku_alli_gelin_girmis_bara.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Karadeniz — halk müziği",
+      "url": "https://karadeniz.gov.tr/halk-muzigi-3/",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Gümüşhane",
+    "bar",
+    "oyun havası"
+  ]
+}

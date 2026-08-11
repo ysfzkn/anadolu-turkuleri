@@ -1,0 +1,55 @@
+{
+  "slug": "bu-gelen-nahir-midir",
+  "baslik": "Bu Gelen Nahır Mıdır",
+  "yore": "Ardahan",
+  "hikaye": "Bu Gelen Nahır Mıdır, Ardahan yöresinden, uzaktan gelen sürüye ya da sararmış ekine bakıp 'gelen sevdiğim mi?' diye soran bir sevda türküsüdür. 'Maral' (ceylan) nakaratıyla sevgilinin zarafeti ve özlemi dile gelir.\nAnonim halk geleneğine ait türkü, Ardahan'ın yayla ve sürü kültürünün izlerini taşır.",
+  "ozet": "Ardahan'dan; uzaktan geleni sevgili sanan, 'maral' nakaratlı sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu gelen nahır mıdır",
+        "Saralan tahıl mıdır"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Ay maral maral maral",
+        "Kız mısın gelin maral"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bu%20Gelen%20Nah%C4%B1r%20M%C4%B1d%C4%B1r%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bu%20Gelen%20Nah%C4%B1r%20M%C4%B1d%C4%B1r",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Bu Gelen Nahır Mıdır",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=1894",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Ezgi Diyarı",
+      "url": "https://ezgidiyari.com/index.php?id=1894",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Ardahan",
+    "sevda",
+    "yayla"
+  ]
+}

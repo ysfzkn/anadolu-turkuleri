@@ -1,0 +1,55 @@
+{
+  "slug": "buyuksunun-sogudu",
+  "baslik": "Büyüksu'nun Söğüdü",
+  "yore": "Bolu",
+  "kaynakKisi": "Mehmet Aköğretmen",
+  "hikaye": "Büyüksu'nun Söğüdü, Bolu yöresinin geleneksel türkülerindendir. Söğüt ağacı ve akan su imgeleri üzerinden sevgiliye sesleniş ve ayrılık-yakınma temalarını işler; 'oy sunam oy' nakaratıyla içli bir hava kazanır.\nAnonim halk geleneğine ait türkü, yöreden derlenerek kayıtlara geçmiş, birden çok varyantıyla yaşatılmıştır.",
+  "ozet": "Bolu'dan, söğüt ve su imgeleriyle sevgiliye seslenen, 'oy sunam oy' nakaratlı içli türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Büyüksu'nun söğüdü",
+        "Kimden aldın öğüdü"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Oy sunam oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BCy%C3%BCksu'nun%20S%C3%B6%C4%9F%C3%BCd%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BCy%C3%BCksu'nun%20S%C3%B6%C4%9F%C3%BCd%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Ahmet Çadırcı — Bolu türküleri",
+      "url": "https://turku.ahmetcadirci.com/bolu/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Venus — Bolu türküleri",
+      "url": "https://www.venus.gen.tr/turkuler/bolu/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bolu",
+    "sevda",
+    "ayrılık"
+  ]
+}

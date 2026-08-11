@@ -1,0 +1,45 @@
+{
+  "slug": "igdirin-al-almasi",
+  "baslik": "Iğdır'ın Al Alması",
+  "digerAdlar": [
+    "Ölürem Yar Sevirem Yar"
+  ],
+  "yore": "Iğdır",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Iğdır'ın Al Alması, Iğdır yöresine ait, aşk ve ayrılık temalı bir türküdür; 'Ölürem yar sevirem yar' adıyla da anılır. Iğdır-Kars-Azerbaycan sınır bölgesinin ağzını ve müzik geleneğini taşır, Azerbaycan türküleriyle akrabalık gösterir.\nAnonim halk geleneğine ait türkü, Muzaffer Sarısözen tarafından TRT repertuvarına derlenmiştir; sınır coğrafyasının ortak duygu dünyasını yansıtır.",
+  "ozet": "Iğdır'dan, Azerbaycan geleneğiyle akraba, aşk ve ayrılık temalı ('Ölürem yar') bir sınır türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=I%C4%9Fd%C4%B1r'%C4%B1n%20Al%20Almas%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/I%C4%9Fd%C4%B1r'%C4%B1n%20Al%20Almas%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Iğdır'ın Al Alması",
+      "url": "https://tr.wikisource.org/wiki/I%C4%9Fd%C4%B1r'%C4%B1n_Al_Almas%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=1017",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Iğdır",
+    "aşk",
+    "ayrılık",
+    "sınır"
+  ]
+}

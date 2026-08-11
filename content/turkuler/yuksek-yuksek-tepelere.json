@@ -1,0 +1,44 @@
+{
+  "slug": "yuksek-yuksek-tepelere",
+  "baslik": "Yüksek Yüksek Tepelere",
+  "yore": "Edirne",
+  "hikaye": "Yüksek Yüksek Tepelere, Rumeli'den Anadolu'ya uzanan göç yollarının en dokunaklı türkülerinden biridir. 'Ev kurmasınlar, kız vermesinler' dizeleriyle, gurbete gelin giden bir kızın ve onu uzağa yollamak zorunda kalan ananın acısını anlatır.\nEdirne yöresine bağlanan anonim türkü, dramatik anlatımıyla kuşaklar boyu sevilmiş; günümüzde de pek çok sanatçı tarafından yorumlanmıştır.",
+  "ozet": "Gurbete gelin giden kızın ve ananın acısını anlatan, Edirne yöresine bağlı dokunaklı göç türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek yüksek tepelere ev kurmasınlar",
+        "Aşrı aşrı memlekete kız vermesinler",
+        "Annesinin bir tanesini hor görmesinler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCksek%20Y%C3%BCksek%20Tepelere%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCksek%20Y%C3%BCksek%20Tepelere",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Y%C3%BCksek_Y%C3%BCksek_Tepelere",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Edirne",
+    "göç",
+    "ayrılık",
+    "hasret"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "hey-onbesli",
+  "baslik": "Hey Onbeşli",
+  "yore": "Tokat",
+  "derleyen": "Nida Tüfekçi",
+  "hikaye": "Hey Onbeşli, Tokat yöresinin en tanınmış türkülerindendir. Adındaki 'onbeşli', Rumî 1315 (Miladî 1897-99) doğumlu gençleri işaret eder. Halk arasında türkü çoğu zaman 'Çanakkale'ye gönderilen genç askerlere yakılmış bir ağıt' olarak anlatılır.\nAncak araştırmalar bu yaygın anlatının tarihsel olarak tartışmalı olduğunu; türkünün kökeninin aslında bir oturak/aşk havası olduğunu gösterir. Yine de 'onbeşliler gidiyor' dizesinin çağrıştırdığı ayrılık ve asker uğurlama teması, onu kuşaklar boyu bir vedanın sesi kılmıştır. Nida Tüfekçi tarafından TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Tokat'tan; '1315 doğumlular'ı anan, halk arasında Çanakkale ağıtı sanılan ama kökeni oturak havası olan ünlü türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey onbeşli onbeşli",
+        "Tokat yolları taşlı",
+        "Onbeşliler gidiyor",
+        "Kızların gözü yaşlı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hey%20Onbe%C5%9Fli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hey%20Onbe%C5%9Fli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Hey Onbeşli",
+      "url": "https://tr.wikipedia.org/wiki/Hey_Onbe%C5%9Fli",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Malumatfuruş — köken incelemesi",
+      "url": "https://www.malumatfurus.org/hey-onbesli-turkusunun-canakkale-savasina-katilan-15-yasindaki-askerleri-anlattigi-iddiasi/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Tokat",
+    "asker",
+    "ayrılık",
+    "oturak havası"
+  ]
+}

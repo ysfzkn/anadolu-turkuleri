@@ -1,0 +1,44 @@
+{
+  "slug": "dersim-dort-dag-icinde",
+  "baslik": "Dersim Dört Dağ İçinde",
+  "yore": "Tunceli",
+  "hikaye": "Dersim Dört Dağ İçinde, Tunceli (Dersim) yöresiyle özdeşleşmiş, ayrılık ve yas temalı bir ağıttır. 'Yanık Kerem' ezgi geleneğinde, dört dağ arasındaki bir coğrafyanın hüznünü ve kayıp duygusunu dile getirir.\nTürkünün kökeni, derlemesi ve söz atfı kaynaklarda tartışmalıdır; bu nedenle sözlerine burada yer verilmemiş ve kayıt editör doğrulaması için bekletilmektedir. Erkan Oğur'dan Hasret Gültekin'e birçok sanatçının yorumuyla tanınır.",
+  "ozet": "Tunceli (Dersim) ile özdeşleşen, ayrılık ve yas temalı bir ağıt ('Yanık Kerem' geleneğinde).",
+  "sozler": [],
+  "calim": {
+    "notlar": "THM ağıt / 'Yanık Kerem' tavrı."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dersim%20D%C3%B6rt%20Da%C4%9F%20%C4%B0%C3%A7inde%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dersim%20D%C3%B6rt%20Da%C4%9F%20%C4%B0%C3%A7inde",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dersim Dört Dağ İçinde",
+      "url": "https://tr.wikisource.org/wiki/Dersim_D%C3%B6rt_Da%C4%9F_%C4%B0%C3%A7inde",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=367",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Tunceli",
+    "Dersim",
+    "ağıt",
+    "hasret"
+  ]
+}

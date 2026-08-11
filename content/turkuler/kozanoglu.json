@@ -1,0 +1,59 @@
+{
+  "slug": "kozanoglu",
+  "baslik": "Kozanoğlu",
+  "digerAdlar": [
+    "Çıktım Kozan Dağına"
+  ],
+  "yore": "Adana (Kozan)",
+  "hikaye": "Kozanoğlu, 'Çıktım Kozan Dağına' dizesiyle bilinen, Çukurova'nın en tanınmış eşkıya-direniş türkülerindendir. Kozanoğulları, Kozan dağlarında uzun süre hüküm süren bir derebeyi ailesiydi; Osmanlı'nın merkezîleşme siyaseti çerçevesinde 1865'te Fırka-i İslâhiye harekâtıyla beyliğe son verilmiştir.\nTürkü, bu olaylar etrafında sözlü gelenekte oluşmuş; dağa çıkış, çatışma ve önderin yitirilişi temalarıyla çok sayıda varyanta ulaşmıştır. Erken derlemelerden biri olarak müzik tarihinde de yer tutar.",
+  "ozet": "Çukurova'dan; Kozanoğlu direnişini ve derebeyliğin sonunu anlatan ünlü eşkıya türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım Kozan'ın dağına",
+        "Karı dizleyi dizleyi",
+        "Yaralarım göz göz oldu",
+        "Cerrah gözleyi gözleyi"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Çok varyantlı THM; erken derlemelerdendir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kozano%C4%9Flu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kozano%C4%9Flu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çıktım Kozan Dağına",
+      "url": "https://tr.wikisource.org/wiki/%C3%87%C4%B1kt%C4%B1m_Kozan_Da%C4%9F%C4%B1na",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=709",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Adana",
+    "Kozan",
+    "Çukurova",
+    "eşkıya",
+    "kahramanlık",
+    "ağıt"
+  ]
+}

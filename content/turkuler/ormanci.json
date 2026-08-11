@@ -1,0 +1,34 @@
+{
+  "slug": "ormanci",
+  "baslik": "Ormancı",
+  "yore": "Muğla (Çaybükü)",
+  "hikaye": "Ormancı, Temmuz 1946'da Muğla'nın Gevenes (bugünkü Çaybükü) köyündeki Belen Kahvesi'nde yaşanan gerçek bir olay üzerine yakılmış bir türküdür. Değirmenci Pisili Tahir Usta'nın diline dolanan olay, zamanla ünü Türkiye geneline yayılmıştır.\nGerçek bir yaşanmışlığa dayanması, türküye ayrı bir dokunaklılık katar; olayın geçtiği kahve yakın dönemde restore edilerek ziyaretçi çeker olmuştur.",
+  "ozet": "1946'da Muğla'da yaşanan gerçek bir olay üzerine yakılan, ünü ülkeye yayılan türkü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ormanc%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ormanc%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Ormanc%C4%B1_t%C3%BCrk%C3%BCs%C3%BC",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Muğla",
+    "ağıt",
+    "gerçek olay"
+  ]
+}

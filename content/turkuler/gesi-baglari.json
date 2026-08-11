@@ -1,0 +1,49 @@
+{
+  "slug": "gesi-baglari",
+  "baslik": "Gesi Bağları",
+  "digerAdlar": ["Gesi'nin Bağları", "Gesi Bağlarında Dolanıyorum"],
+  "yore": "Kayseri",
+  "kaynakKisi": "Ahmet Gazi Ayhan",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Gesi Bağları, Kayseri'nin Gesi beldesinden yayılan, Anadolu'nun en tanınmış anonim türkülerindendir. Yüzyılı aşkın süredir dilden dile aktarılırken yüzden fazla kıtaya ulaşmış; bu genişlik, türkünün tek bir yazarın değil, kolektif bir sözlü geleneğin ürünü olduğunu gösterir.\nTürküye kaynaklık ettiği söylenen halk anlatısında, Gesi'ye gelin giden genç bir kızın hikâyesi vardır. Dönemin ağır yol koşullarında evlendikten sonra ailesini bir daha göremeyen kızın anne hasreti, yalnızlığı ve kırgınlığı türkünün özünü oluşturur. Anlatı sözlü gelenekte yaygın olsa da belirli bir tarihsel olaya bağlandığı kesin değildir.\nTürkünün bilinen en eski ses kayıtları 20. yüzyılın başına iner ve türkünün yalnızca Anadolu'da değil, göç yollarıyla farklı topluluklar arasında da dolaştığını gösterir. Cumhuriyet döneminde radyo icralarıyla ülke geneline tanınan Gesi Bağları, Selda Bağcan'dan Barış Manço'ya pek çok sanatçı tarafından yeniden yorumlanmıştır.",
+  "ozet": "Kayseri'nin Gesi beldesinden yayılan, gurbete gelin giden bir genç kızın anne hasretini işleyen ünlü anonim türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi bağlarında dolanıyorum",
+        "Yitirdim yârimi arıyorum"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "notlar": "Uşşak makamındadır; bağlamada icrası ustalık ister. Usül/ayak bilgisi ile TRT repertuvar numarası kaynaklarda kesinleşmemiştir, doğrulanmalıdır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gesi%20Ba%C4%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gesi%20Ba%C4%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Gesi Bağları",
+      "url": "https://tr.wikipedia.org/wiki/Gesi_Ba%C4%9Flar%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "TRT Türk Halk Müziği Repertuvarı (repertuvar no. doğrulanmalı)",
+      "tur": "kurum"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": ["aşk", "gurbet", "ayrılık", "hasret", "ağıt", "Kayseri"]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "yesil-akar-amasyanin-irmagi",
+  "baslik": "Yeşil Akar Amasya'nın Irmağı",
+  "yore": "Amasya",
+  "derleyen": "Necati Karaçaltı (rolü belirsiz)",
+  "hikaye": "Yeşil Akar Amasya'nın Irmağı, Amasya'nın simgesi Yeşilırmak çevresinde şekillenen, yörenin güzelliğini ve kültürünü anan bir türküdür. Antik çağda 'İris' adıyla anılan ırmak, şehrin tarih ve doğa dokusunun kalbidir.\nEserin anonim mi yoksa belirli bir derleyen/bestecinin katkısıyla mı biçimlendiği kaynaklarda net değildir; bu nedenle kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Amasya'nın Yeşilırmak'ını ve yöre güzelliğini anan bir Amasya türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ye%C5%9Fil%20Akar%20Amasya'n%C4%B1n%20Irma%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ye%C5%9Fil%20Akar%20Amasya'n%C4%B1n%20Irma%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Ahmet Çadırcı — Amasya türküleri",
+      "url": "https://turku.ahmetcadirci.com/amasya/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Amasya İl Kültür ve Turizm Md.",
+      "url": "https://amasya.ktb.gov.tr/TR-189480/amasya-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Amasya",
+    "memleket",
+    "doğa"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "erzincanda-bir-kus-var",
+  "baslik": "Erzincan'da Bir Kuş Var",
+  "yore": "Erzincan",
+  "hikaye": "Erzincan'da Bir Kuş Var, ayrılık ve özlemi kanatlı bir kuş imgesiyle anlatan, Erzincan-Erzurum hattında varyantları bulunan bir türküdür. Geleneksel biçimi 'Erzurum'da bir kuş var / kanadında gümüş var' olarak dolaşır.\nÇok bilinen 'Erzincan'da bir kuş var / kanadında gümüş yok' biçimi ise şair Nâzım Hikmet'e atfedilir; geleneksel dizeyi tersine çevirerek 1939 Erzincan depreminin acısı bağlamında yeniden yazdığı belirtilir. Bu telif nedeniyle söz konusu dizelere burada yer verilmemiştir.",
+  "ozet": "Ayrılığı kanatlı bir kuş imgesiyle anlatan; geleneksel 'gümüş var' ve Nâzım Hikmet'e atfedilen 'gümüş yok' biçimleriyle bilinen türkü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Erzincan'da%20Bir%20Ku%C5%9F%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Erzincan'da%20Bir%20Ku%C5%9F%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Erzurum'da Bir Kuş Var (varyant)",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2213",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "DergiPark — Erzincan Folklorunda Hikâyeli Türküler",
+      "url": "https://dergipark.org.tr/tr/download/article-file/752933",
+      "tur": "akademik",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Erzincan",
+    "ayrılık",
+    "hasret"
+  ]
+}

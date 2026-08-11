@@ -1,0 +1,40 @@
+{
+  "slug": "harmandali",
+  "baslik": "Harmandalı",
+  "yore": "İzmir",
+  "hikaye": "Harmandalı, Ege'nin en tanınmış zeybek oyunlarından ve ezgilerinden biridir. Çıkış yeri kesin bilinmese de İzmir ve çevresiyle özdeşleşmiş; ağırbaşlı, mağrur zeybek duruşunun simgesi olmuştur.\nDüğünlerde ve şenliklerde, açılan kollarıyla efe duruşunu yansıtan oyunuyla Ege kültürünün adeta bir amblemi hâline gelmiştir.",
+  "ozet": "Ege'nin, İzmir'le özdeşleşmiş en tanınmış zeybek oyunu ve ezgisi.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Zeybek",
+    "usul": "9 zamanlı",
+    "notlar": "Ağırbaşlı zeybek duruşuyla oynanır; çıkış yeri kesin bilinmez."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Harmandal%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Harmandal%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Harmandal%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "zeybek",
+    "Ege",
+    "oyun havası",
+    "İzmir"
+  ]
+}

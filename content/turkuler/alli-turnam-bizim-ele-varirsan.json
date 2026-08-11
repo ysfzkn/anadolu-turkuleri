@@ -1,0 +1,46 @@
+{
+  "slug": "alli-turnam-bizim-ele-varirsan",
+  "baslik": "Allı Turnam Bizim Ele Varırsan",
+  "yore": "Kırıkkale (Keskin)",
+  "kaynakKisi": "Salman Çoker, Hacı Taşan",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Allı Turnam Bizim Ele Varırsan, Kırıkkale'nin Keskin yöresi bozlak geleneğinden bir türküdür. Uzaklara uçan turnalar aracılığıyla sılaya ve sevgiliye selam gönderme motifi, İç Anadolu bozkırının hasretini dile getirir.\nMuzaffer Sarısözen'in derlediği türkü, Keskin abdal-bozlak geleneğinin izlerini taşır; Neşet Ertaş'tan pek çok sanatçıya dek yorumlanmıştır. Söz atfı kaynaklarda tam netleşmediği için kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Kırıkkale-Keskin bozlak geleneğinden; turnalarla sılaya selam gönderen, hasret yüklü türkü.",
+  "sozler": [],
+  "calim": {
+    "notlar": "İç Anadolu bozlak formu (abdal geleneği)."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=All%C4%B1%20Turnam%20Bizim%20Ele%20Var%C4%B1rsan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/All%C4%B1%20Turnam%20Bizim%20Ele%20Var%C4%B1rsan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküseli — Allı Turnam",
+      "url": "https://turkuseli.com/turkuler/alli-turnam-turku-sozleri-ve-notalari-358",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Kale Haber — Kırıkkale bozlak kültürü",
+      "url": "https://www.kalehaber.net/kirikkale-turkuler-diyari-ve-bozlak-kulturunun-merkezi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Kırıkkale",
+    "bozlak",
+    "turna",
+    "hasret"
+  ]
+}

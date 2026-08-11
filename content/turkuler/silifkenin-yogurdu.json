@@ -1,0 +1,55 @@
+{
+  "slug": "silifkenin-yogurdu",
+  "baslik": "Silifke'nin Yoğurdu",
+  "yore": "Mersin (Silifke)",
+  "kaynakKisi": "Cavit Erden",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Silifke'nin Yoğurdu, Akdeniz'in Toros eteklerinden yükselen neşeli bir kaşık havasıdır. Adını, yörenin Yörük geleneğine dayanan ve asırlık geçmişiyle bilinen meşhur yoğurdundan alır; türkü, bu yerel lezzetin adıyla dilden dile yayılmıştır.\nAhşap kaşıkların ritmiyle oynanan coşkulu ezgi, Silifke düğünlerinin ve şenliklerinin sevilen havalarındandır. Muzaffer Sarısözen'in kaynak kişi Cavit Erden'den derlemesiyle TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Mersin-Silifke'den, meşhur yoğurduyla anılan, kaşıklarla oynanan neşeli bir Akdeniz kaşık havası.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Silifke'nin yoğurdu",
+        "Seni kimler doğurdu"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Kaşık havası",
+    "notlar": "Ahşap kaşıklarla oynanan Akdeniz oyun havası."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Silifke'nin%20Yo%C4%9Furdu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Silifke'nin%20Yo%C4%9Furdu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Repertükül — Silifke'nin Yoğurdu",
+      "url": "https://www.repertukul.com/SILIFKE-NIN-YOGURDU-1657",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküseli",
+      "url": "https://turkuseli.com/turkuler/silifkenin-yogurdu-turku-sozleri-ve-notalari-6243",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Mersin",
+    "Akdeniz",
+    "oyun havası",
+    "kaşık havası"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cayda-cira",
+  "baslik": "Çayda Çıra",
+  "yore": "Elazığ (Harput)",
+  "hikaye": "Çayda Çıra, Elazığ-Harput yöresinin en görkemli halaylarından biridir; dünyada 'Mumlu Dans' olarak da tanınır. Karanlıkta, ellerinde yanan mumlarla dizilen oyuncuların oluşturduğu ışık, düğünlere büyülü bir hava katar.\nGenellikle sazsız, 'nanay' adı verilen ezgiler eşliğinde oynanır. Bugün hâlâ Elazığ düğünlerinin vazgeçilmez bir geleneği olarak yaşatılır.",
+  "ozet": "Elazığ-Harput'un mumlarla oynanan görkemli halayı; 'Mumlu Dans' olarak da bilinir.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Halay",
+    "notlar": "Genellikle sazsız, 'nanay' ezgileri eşliğinde; oyuncular ellerinde yanan mumlarla oynar."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87ayda%20%C3%87%C4%B1ra%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87ayda%20%C3%87%C4%B1ra",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87ayda_%C3%87%C4%B1ra",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Harput",
+    "halay",
+    "düğün",
+    "Elazığ"
+  ]
+}

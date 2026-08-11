@@ -1,0 +1,40 @@
+{
+  "slug": "tavas-zeybegi",
+  "baslik": "Tavas Zeybeği",
+  "yore": "Denizli (Tavas)",
+  "hikaye": "Tavas Zeybeği, Denizli'nin en tanınmış zeybeğidir; yörede 'zeybeklerin babası' sayılır ve Denizli düğünlerinin adeta marşı olmuştur. Efelerin mertliğini, asaletini ve direnişini temsil eden ağırbaşlı bir oyundur.\nÜç bölümlü yapısıyla, bölümler arasında 'gezinleme' denen ezgilerle icra edilir. Ege zeybeklerinin genel karakterine uygun olarak, oturaklı ve mağrur figürlerle oynanır.",
+  "ozet": "Denizli-Tavas'ın 'zeybeklerin babası' sayılan, düğünlerin marşı olmuş ağırbaşlı zeybeği.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Zeybek",
+    "usul": "9 zamanlı (genel olarak)",
+    "notlar": "Üç bölümlü; bölümler arasında 'gezinleme' ezgileriyle oynanır. Ağırlıklı olarak oyun havası."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Tavas%20Zeybe%C4%9Fi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Tavas%20Zeybe%C4%9Fi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kültür Portalı — Tavas Zeybeği",
+      "url": "https://www.kulturportali.gov.tr/turkiye/denizli/kulturatlasi/tavas-zeybegi",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Denizli",
+    "zeybek",
+    "efe",
+    "oyun havası"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "gul-koydum-gul-tasina",
+  "baslik": "Gül Koydum Gül Taşına",
+  "yore": "Nevşehir",
+  "hikaye": "Gül Koydum Gül Taşına, Nevşehir yöresine ait bir halk türküsüdür. 'Gül' imgesi etrafında dönen sözleriyle, Kapadokya'nın türkü açısından zengin bu yöresinin (Ürgüp, Avanos, Hacıbektaş çevresi) geleneğinden bir örnektir.\nEserin ayrıntılı hikâyesi ve derleme künyesi güvenilir kaynaklarda tam olarak teyit edilememiştir; bu nedenle kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Nevşehir'den, 'gül' imgesi etrafında dönen anonim bir yöre türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%BCl%20Koydum%20G%C3%BCl%20Ta%C5%9F%C4%B1na%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%BCl%20Koydum%20G%C3%BCl%20Ta%C5%9F%C4%B1na",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "FİB Haber — Nevşehir Türküleri",
+      "url": "https://www.fibhaber.com/nevsehir-turkuleri",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Nevşehir türküleri listesi",
+      "url": "https://turku.sitesi.web.tr/nevsehir/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Nevşehir",
+    "sevda",
+    "gül"
+  ]
+}

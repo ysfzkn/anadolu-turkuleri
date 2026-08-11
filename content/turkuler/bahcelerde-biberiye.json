@@ -1,0 +1,57 @@
+{
+  "slug": "bahcelerde-biberiye",
+  "baslik": "Bahçelerde Biberiye",
+  "digerAdlar": [
+    "Makidonlu"
+  ],
+  "yore": "Kırklareli",
+  "derleyen": "Aşık Ali Tamburacı",
+  "hikaye": "Bahçelerde Biberiye, Kırklareli'nin Trakya karşılama geleneğine ait neşeli bir türküdür; 'Makidonlu' alt adıyla da anılır. Bu ad, Trakya'nın Balkan göçleriyle iç içe geçmiş müzik mirasına işaret eder.\nBahçe ve bitki imgeleriyle örülü, sevgiliye seslenen oynak ezgi, düğün ve eğlencelerin havasını taşır. TRT repertuvarına Aşık Ali Tamburacı'nın derlemesiyle kazandırılmıştır.",
+  "ozet": "Kırklareli'nin, 'Makidonlu' adıyla da bilinen, Balkan izleri taşıyan oynak Trakya türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde biberiye",
+        "Şişe dolu anberiye",
+        "Sen benimsin gel beriye"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Trakya karşılama/oyun havası geleneğine yakın, oynak yapı; düğün ve eğlencede icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7elerde%20Biberiye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7elerde%20Biberiye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Kırklareli türküleri",
+      "url": "https://www.turkudostlari.net/sor.asp?b=990",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Kırklareli İl Kültür Md. — Folklor örnekleri",
+      "url": "https://kirklareli.ktb.gov.tr/Eklenti/23996,kirklareli-folklorundan-ornekler.pdf",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kırklareli",
+    "Trakya",
+    "oyun havası",
+    "sevda"
+  ]
+}

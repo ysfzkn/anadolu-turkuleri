@@ -1,0 +1,38 @@
+{
+  "slug": "su-marasin-baglari",
+  "baslik": "Şu Maraş'ın Bağları",
+  "yore": "Kahramanmaraş",
+  "derleyen": "Muazzez Turing",
+  "hikaye": "Şu Maraş'ın Bağları, Kahramanmaraş'ın bağ-bahçe güzelliğini anlatan bir yöre türküsüdür. Maraş türkü geleneği, güneyin aşiret barak havaları ile Berit, Binboğa ve Ahır Dağı yaylalarına göçen toplulukların bozlak üslubundan izler taşır.\nTürkü, yörenin doğasını ve sılaya duyulan sevgiyi bu köklü gelenek içinde dile getirir. Muazzez Turing'in derlemesiyle TRT tarafından notaya alınmıştır.",
+  "ozet": "Kahramanmaraş'ın bağ-bahçe güzelliğini, yörenin bozlak geleneği içinde anlatan türkü.",
+  "sozler": [],
+  "calim": {
+    "notlar": "Yörede bozlak/uzun hava geleneği baskındır. Kesin makam/usül netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Mara%C5%9F'%C4%B1n%20Ba%C4%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Mara%C5%9F'%C4%B1n%20Ba%C4%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Maraş türküleri",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2596",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kahramanmaraş",
+    "memleket",
+    "bozlak"
+  ]
+}

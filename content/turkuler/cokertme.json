@@ -1,0 +1,51 @@
+{
+  "slug": "cokertme",
+  "baslik": "Çökertme",
+  "digerAdlar": ["Çökertme'den Çıktım Halil'im", "Halil'im Türküsü"],
+  "yore": "Muğla (Bodrum)",
+  "kaynakKisi": "Rüştü Gür (bir aktarıma göre)",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Çökertme, Bodrum yöresinin en tanınmış zeybeklerinden biridir ve adını Bodrum kıyısındaki Çökertme koyundan alır. Bir efe-kaçakçı olan Halil'in aşkını, kaçışını ve trajik sonunu anlatır.\nYaygın anlatıya göre 20. yüzyıl başlarının Bodrum'unda kaçakçılık yapan Halil, sevdiği kadın yüzünden yörenin ileri gelenleriyle karşı karşıya gelir. Sevdiğiyle deniz yoluyla kaçmaya çalışırken ihbara uğrar ve kurulan pusuda vurulur. Olayın kahramanları ve ayrıntıları kaynaklarda farklılık gösterir; ikinci bir anlatı olayı bir namus meselesine bağlar.\nEge'nin iki yakası arasındaki ortak müzik geleneğine de tanıklık eden türkü, benzer ezgileriyle bölgenin kültürel geçişkenliğini yansıtır. Ağır zeybek karakteriyle, Ege zeybeklerinin ağırbaşlı ve mağrur havasını taşır.",
+  "ozet": "Bodrum'un Çökertme koyundan; efe Halil'in aşkını, kaçışını ve trajik sonunu anlatan ünlü ağır zeybek.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çökertme'den çıktım da Halil'im aman başım selâmet",
+        "İçerimde bir sızı var Halil'im aman yok mu bir çare"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Zeybek (ağır zeybek)",
+    "usul": "9 zamanlı",
+    "notlar": "Ağır zeybek karakterinde, ağırbaşlı figürlerle icra edilir. Kesin ölçü (ör. 9/4) kurumsal kaynakta netleşmemiştir, doğrulanmalıdır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87%C3%B6kertme%20zeybek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87%C3%B6kertme%20zeybek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Çökertme zeybeği",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6kertme_zeybe%C4%9Fi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — Çökertme hikâyesi",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=328",
+      "tur": "arsiv"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": ["zeybek", "efe", "aşk", "kahramanlık", "ağıt", "Ege", "Bodrum"]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "bitliste-bes-minare",
+  "baslik": "Bitlis'te Beş Minare",
+  "yore": "Bitlis",
+  "derleyen": "Nazmi Zülfikar",
+  "hikaye": "Bitlis'te Beş Minare, savaşın yıkımının ardından yakıldığı anlatılan dokunaklı bir Bitlis türküsüdür. Rivayete göre I. Dünya Savaşı'ndaki işgal döneminde şehirden ayrılan bir baba ile oğul, dönüş yolunda şehirde ayakta yalnızca beş minarenin kaldığını görür; babanın yaktığı ağıt zamanla türküye dönüşür.\nAnonim halk geleneğine ait türkü, 'beri gel oğlan beri gel' nakaratıyla bilinir ve Nazmi Zülfikar tarafından TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Savaş sonrası harap Bitlis'e dönüşte ayakta kalan beş minare üzerine yakıldığı anlatılan dokunaklı ağıt.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bitlis'te beş minare",
+        "Beri gel oğlan beri gel",
+        "Yüreğim dolu yare",
+        "Beri gel canan beri gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bitlis'te%20Be%C5%9F%20Minare%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bitlis'te%20Be%C5%9F%20Minare",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Bitlis'te Beş Minare (hikâye)",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=236",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Vikikaynak — Bitlis'te Beş Minare",
+      "url": "https://tr.wikisource.org/wiki/Bitlis'te_Be%C5%9F_Minare'nin_%C3%B6yk%C3%BCs%C3%BC",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bitlis",
+    "ağıt",
+    "hasret"
+  ]
+}

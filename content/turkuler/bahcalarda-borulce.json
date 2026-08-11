@@ -1,0 +1,56 @@
+{
+  "slug": "bahcalarda-borulce",
+  "baslik": "Bahçalarda Börülce",
+  "yore": "Tekirdağ",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Bahçalarda Börülce, Tekirdağ'ın Trakya karşılama geleneğine ait sevilen bir türküdür. Bahçede oynayan gelin-görümce, elti gibi akrabalık figürleri üzerinden dostluk ve birliktelik temasını neşeyle işler.\nBalkan müziğiyle ortak özellikler taşıyan oynak ezgi, düğün ve kına gecelerinin havasıdır; Muzaffer Sarısözen tarafından derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Tekirdağ'ın, gelin-görümce oyununu neşeyle anlatan bir Trakya karşılaması.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda börülce",
+        "Oynar gelin görümce",
+        "Oynasınlar bakalım",
+        "Bir araya gelince"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Karşılama",
+    "notlar": "Trakya karşılama oyun havası; düğün ve kına gecelerinde oynanır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7alarda%20B%C3%B6r%C3%BClce%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7alarda%20B%C3%B6r%C3%BClce",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçalarda Börülce",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7alarda_B%C3%B6r%C3%BClce",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=154",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Tekirdağ",
+    "Trakya",
+    "karşılama",
+    "oyun havası"
+  ]
+}

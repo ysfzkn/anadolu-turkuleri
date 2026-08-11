@@ -1,0 +1,40 @@
+{
+  "slug": "konyalim",
+  "baslik": "Konyalım",
+  "yore": "Konya",
+  "hikaye": "Konyalım, Konya'ya mal olmuş ancak kökeni tartışmalı, eğlence müziği karakterli neşeli bir eserdir. Sözlerindeki gündelik yaşam motifleri, onu düğün ve eğlence sofralarının hareketli havalarından biri kılmıştır.\nEserin bestecisi ve söz yazarı belirsizdir; hatta aynı ezginin farklı adlarla başka geleneklerde de dolaştığı, bunun 'Anadolu mu yoksa ortak Akdeniz geleneği mi' tartışmasını beslediği söylenir. Kesin bir köken belgelenememiş olsa da Konyalım, Orta Anadolu'nun şen ezgileri arasında yerini almıştır.",
+  "ozet": "Konya'ya mal olmuş, kökeni tartışmalı, neşeli ve eğlence müziği karakterli bir oyun havası.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Konyal%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Konyal%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Konyalım hikâye",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=28678",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — söz varyantı",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=12846",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Konya",
+    "oyun havası",
+    "eğlence"
+  ]
+}

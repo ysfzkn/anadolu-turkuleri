@@ -1,0 +1,60 @@
+{
+  "slug": "al-fadimem",
+  "baslik": "Al Fadime'm",
+  "yore": "Afyonkarahisar (Emirdağ)",
+  "hikaye": "Al Fadime'm, Afyonkarahisar'ın Emirdağ ilçesine ait, gerçek bir aşk hikâyesine dayanan dokunaklı bir türküdür. Morcalı aşiretinden Al Fadime ile Efe Kadir birbirini sever; ancak Kadir'in yoksul ve yetim oluşu yüzünden aileler evliliğe karşı çıkar.\nKaçmaya karar veren çift Emirdağ'da yakalanır; Fadime yaşı küçük olduğu için ailesine teslim edilir, Kadir hapis yatar. Fadime aile baskısıyla bir başkasıyla evlendirilince, Kadir acısını bu türküye döker.",
+  "ozet": "Afyon-Emirdağ'dan; kavuşamayan Al Fadime ile Efe Kadir'in gerçek aşk hikâyesine yakılan dokunaklı türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü yoldur",
+        "Yoldan geçen karakoldur",
+        "Gurban olam sarı gelin",
+        "Gel destini bizden doldur"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Al Fadime'm bal Fadime'm",
+        "Yanakları gül Fadime'm",
+        "Uyan uyan sabah oldu",
+        "Namazını gıl Fadime'm"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Al%20Fadime'm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Al%20Fadime'm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Al Fadimem",
+      "url": "https://tr.wikisource.org/wiki/Al_Fadimem",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Odak Gazetesi — türkünün hikâyesi",
+      "url": "https://www.odakgazetesi.com/afyonda-turkulerle-yasayan-ask-al-fadimem",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Afyonkarahisar",
+    "Emirdağ",
+    "aşk",
+    "ağıt"
+  ]
+}

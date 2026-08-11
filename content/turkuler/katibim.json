@@ -1,0 +1,54 @@
+{
+  "slug": "katibim",
+  "baslik": "Üsküdar'a Gider İken",
+  "digerAdlar": ["Kâtibim", "Uska Dara"],
+  "yore": "İstanbul",
+  "kaynakKisi": "Nuri Halil Poyraz",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Üsküdar'a Gider İken — halk arasındaki adıyla Kâtibim — 19. yüzyıl İstanbul'unun en ünlü türkülerinden biridir ve ezgisiyle şaşırtıcı biçimde geniş bir coğrafyaya yayılmıştır.\nTürkünün kökeni tartışmalıdır. Yaygın bir anlatı, onu Osmanlı memurlarına Avrupai kıyafet giydirilmesine duyulan tepki ve mizahla ilişkilendirir; başka aktarımlar Üsküdar halk kültürüne ve bir kâtiple ilgili aşk hikâyesine bağlar.\nTürkünün en dikkat çekici yanı, aynı ezginin Balkanlar'dan Ortadoğu'ya ve Güney Asya'ya kadar birçok kültürde, birbirinden bağımsız sözlerle 'kendi şarkısı' olarak benimsenmesidir. Bu ortak miras, 'Bu Şarkı Kimin?' adlı bir belgesele de konu olmuştur. Safiye Ayla'dan Zeki Müren'e, Eartha Kitt'in 'Uska Dara' yorumuna dek pek çok icrayla dünya çapında tanınır.",
+  "ozet": "19. yüzyıl İstanbul'undan; ezgisi Balkanlar'dan Asya'ya yayılmış, dünyanın en çok paylaşılan anonim türkülerinden.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üsküdar'a gider iken aldı da bir yağmur",
+        "Kâtibimin setresi uzun eteği çamur",
+        "Kâtip uykudan uyanmış gözleri mahmur",
+        "Kâtip benim ben kâtibin el ne karışır",
+        "Kâtibime kolalı da gömlek ne güzel yaraşır"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Nihavend makamı",
+    "usul": "Nim Sofyan",
+    "notlar": "Türk sanat müziği icra çerçevesinde Nihavend makamı ve Nim Sofyan usülüyle seslendirilir. Bağlama düzeni bilgisi kaynaklarda netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%9Csk%C3%BCdar%27a%20Gider%20%C4%B0ken%20K%C3%A2tibim",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%9Csk%C3%BCdar%27a%20Gider%20iken%20K%C3%A2tibim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Kâtibim",
+      "url": "https://tr.wikipedia.org/wiki/K%C3%A2tibim",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — Üsküdar'a Gider İken",
+      "url": "https://www.turkudostlari.net/hikaye.asp?turku=995",
+      "tur": "arsiv"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": ["İstanbul", "aşk", "mizah", "Osmanlı", "Balkan ortak ezgisi"]
+}

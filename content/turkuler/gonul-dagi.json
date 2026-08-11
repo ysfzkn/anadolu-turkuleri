@@ -1,0 +1,45 @@
+{
+  "slug": "gonul-dagi",
+  "baslik": "Gönül Dağı",
+  "yore": "Kırşehir",
+  "sozYazari": "Neşet Ertaş",
+  "hikaye": "Gönül Dağı, 'bozkırın tezenesi' Neşet Ertaş'ın söz ve bestesini yaptığı, Orta Anadolu abdal geleneğinin en sevilen eserlerinden biridir. Adındaki 'dağ', bir coğrafi yükselti değil; kızgın demirin deriye bastırılmasıyla oluşan 'dağlama' yarasıdır. Yani gönlün aynı biçimde dağlanması, derin bir acı ve hasret kastedilir.\n1938 Kırşehir doğumlu Neşet Ertaş, bağlama eşliğindeki Kırşehir abdalları müzik geleneğinin en önemli temsilcisidir; bu gelenek UNESCO'ca da tanınmıştır. Gönül Dağı, onun bu bozkır tavrının damgasını taşır.",
+  "ozet": "Neşet Ertaş'ın söz-bestesiyle, gönlün 'dağlanışını' (derin acıyı) anlatan, Kırşehir abdal geleneğinden sevilen eser.",
+  "sozler": [],
+  "calim": {
+    "notlar": "Orta Anadolu bozkır abdal tavrı; bağlama ekseninde icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6n%C3%BCl%20Da%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6n%C3%BCl%20Da%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Anadolu Ajansı — Anadolu'nun Gönül Dağı: Neşet Ertaş",
+      "url": "https://www.aa.com.tr/tr/kultur-sanat/anadolunun-gonul-dagi-neset-ertas/918793",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Malumatfuruş — Gönül Dağı'nın hikâyesi",
+      "url": "https://www.malumatfurus.org/neset-ertasin-gonul-dagi-turkusunun-bilinmeyen-hikayesi-gonul-dagindaki-dagi-yanlis-anlayanlar/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kırşehir",
+    "aşk",
+    "hasret",
+    "abdal geleneği"
+  ]
+}

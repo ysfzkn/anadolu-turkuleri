@@ -1,0 +1,50 @@
+{
+  "slug": "bahcede-erik-dali",
+  "baslik": "Bahçede Erik Dalı",
+  "yore": "Bursa",
+  "hikaye": "Bahçede Erik Dalı, Bursa yöresinin lirik ve sevilen türkülerindendir. Bir bahçedeki erik dalının gölgesinde başlayan anlatı, sevgiliye ve insanın başına gelen hâllere dair içli bir söyleyişe dönüşür.\nAnonim halk geleneğine ait türkü, yöre ekibinden derlenerek kayıtlara geçmiştir; sade ezgisi ve akılda kalan sözleriyle kuşaklar boyu söylenmiştir.",
+  "ozet": "Bursa'dan, bir erik dalının gölgesinde başlayan içli ve lirik bir sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçede erik dalı",
+        "Dibinde gördüm yârı",
+        "Sen otur ben söyleyem",
+        "Başıma gelen hâli"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7ede%20Erik%20Dal%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7ede%20Erik%20Dal%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçede Erik Dalı",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7ede_Erik_Dal%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com",
+      "url": "https://www.turkuler.com/sozler/turku_bahcede_erik_dali.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bursa",
+    "sevda",
+    "dert"
+  ]
+}

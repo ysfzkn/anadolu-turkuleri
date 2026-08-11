@@ -1,0 +1,35 @@
+{
+  "slug": "estergon-kalesi",
+  "baslik": "Estergon Kalesi",
+  "yore": "Rumeli (Estergon)",
+  "hikaye": "Estergon Kalesi, Macaristan'da Tuna kıyısındaki Esztergom Kalesi'ni anan, Osmanlı'nın Orta Avrupa'daki serhat günlerinden kalma bir türküdür. Uzak diyarlarda nöbet tutan, sılasına hasret askerin sesidir.\nTuna boyu, kaybedilen topraklar ve yiğitlik teması, türküye derin bir gurbet ve vakar havası verir; Rumeli türkülerinin en bilinenlerindendir.",
+  "ozet": "Macaristan'daki Estergon Kalesi'ni anan, serhat ve gurbet temalı ünlü Rumeli türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Estergon%20Kalesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Estergon%20Kalesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Estergon_Kalesi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Rumeli",
+    "serhat",
+    "gurbet",
+    "yiğitlik"
+  ]
+}

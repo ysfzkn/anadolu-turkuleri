@@ -1,0 +1,47 @@
+{
+  "slug": "drama-koprusu",
+  "baslik": "Drama Köprüsü",
+  "yore": "Rumeli (Drama)",
+  "hikaye": "Drama Köprüsü, bugün Yunanistan'ın Doğu Makedonya bölgesinde kalan Osmanlı dönemi köprüsünün geçtiği ünlü bir Rumeli türküsüdür. Köprü, kahramanın hem gerçek hem simgesel bir eşiği; geçilmesi zor bir yazgının imgesidir.\nEşkıya ve kahramanlık temalı anlatısıyla türkü, Balkanlar'daki Türk halk müziğinin en tanınan örneklerindendir; farklı usüllerde varyantları vardır.",
+  "ozet": "Makedonya'daki Osmanlı köprüsünün geçtiği, eşkıya-kahramanlık temalı ünlü Rumeli türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Drama köprüsü dardır geçilmez",
+        "Soğuktur suları bir tas içilmez"
+      ]
+    }
+  ],
+  "calim": {
+    "usul": "5/8 ve 6/8 varyantları",
+    "notlar": "Farklı ölçülerde söylenir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Drama%20K%C3%B6pr%C3%BCs%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Drama%20K%C3%B6pr%C3%BCs%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Drama_K%C3%B6pr%C3%BCs%C3%BC_(t%C3%BCrk%C3%BC)",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Rumeli",
+    "eşkıya",
+    "kahramanlık",
+    "Drama"
+  ]
+}

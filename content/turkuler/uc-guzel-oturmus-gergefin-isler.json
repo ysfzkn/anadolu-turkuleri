@@ -1,0 +1,56 @@
+{
+  "slug": "uc-guzel-oturmus-gergefin-isler",
+  "baslik": "Üç Güzel Oturmuş Gergefin İşler",
+  "yore": "Kocaeli (Kandıra)",
+  "kaynakKisi": "Kazım Taştekin",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Üç Güzel Oturmuş Gergefin İşler, Kocaeli'nin Kandıra yöresinden bir kırık havadır. Gergef başında işleyen üç güzel imgesiyle açılan türkü, gözyaşı ve ayrılık temasını yörenin el sanatları (işlemeli 'çevre'/mendil) geleneğiyle harmanlar.\nHer kıtası 'her gün ağlarım' temasıyla kapanan türkü, kaynak kişi Kazım Taştekin'den Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Kocaeli-Kandıra'dan, gergef başındaki üç güzelin hüznünü işleyen bir kırık hava.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç güzel oturmuş gergefin işler",
+        "Gergefin üstüne dökülür yaşlar",
+        "Herkes sevdiğine çevre bağışlar",
+        "Kalmadı sabr-ı kararım her gün ağlarım"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Kandıra yöresi kırık havası."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%9C%C3%A7%20G%C3%BCzel%20Oturmu%C5%9F%20Gergefin%20%C4%B0%C5%9Fler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%9C%C3%A7%20G%C3%BCzel%20Oturmu%C5%9F%20Gergefin%20%C4%B0%C5%9Fler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Kocaeli notaları",
+      "url": "https://www.turkuler.com/nota/tumyoreler.asp?yoresi=Kocaeli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com — sözler",
+      "url": "https://www.turkuler.com/sozler/turku_uc_guzel_oturmus_gergefin_isler.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kocaeli",
+    "Kandıra",
+    "ayrılık",
+    "hasret"
+  ]
+}

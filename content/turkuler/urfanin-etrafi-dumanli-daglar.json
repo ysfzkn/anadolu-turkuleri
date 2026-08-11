@@ -1,0 +1,55 @@
+{
+  "slug": "urfanin-etrafi-dumanli-daglar",
+  "baslik": "Urfa'nın Etrafı Dumanlı Dağlar",
+  "yore": "Şanlıurfa",
+  "kaynakKisi": "Cemil Cankat",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Urfa'nın Etrafı Dumanlı Dağlar, Şanlıurfa müziğinin en yürek yakan örneklerindendir. Özünde bir evlat kaybını ve babanın tükenmez acısını dile getirir; dumanlı dağlar, tutulmuş bir yasın perdesi gibidir.\nYörede türküye dair birden çok anlatı dolaşır; ortak çekirdek, evladından ayrı düşen bir babanın hasretidir. Muzaffer Sarısözen tarafından kaynak kişi Cemil Cankat'tan derlenmiş, hicaz makamındaki ezgisiyle Urfa sıra gecelerinin vazgeçilmezlerinden olmuştur.",
+  "ozet": "Şanlıurfa'dan, evlat kaybı ve baba acısını işleyen, hicaz makamında yürek yakan bir türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Urfa'nın etrafı dumanlı dağlar",
+        "Ciğerim yanıyor gözlerim ağlar",
+        "Gezme ceylan bu dağlarda seni avlarlar"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Hicaz makamı"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Urfa'n%C4%B1n%20Etraf%C4%B1%20Dumanl%C4%B1%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Urfa'n%C4%B1n%20Etraf%C4%B1%20Dumanl%C4%B1%20Da%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Urfa'nın Etrafı",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=984",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Urfa Natik — türkünün hikâyesi",
+      "url": "https://www.urfanatik.com/urfanin-etrafi-dumanli-daglar-turkusunun-hikayesi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Şanlıurfa",
+    "ağıt",
+    "hasret",
+    "evlat acısı"
+  ]
+}

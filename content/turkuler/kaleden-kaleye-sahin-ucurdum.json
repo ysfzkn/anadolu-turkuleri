@@ -1,0 +1,56 @@
+{
+  "slug": "kaleden-kaleye-sahin-ucurdum",
+  "baslik": "Kaleden Kaleye Şahin Uçurdum",
+  "yore": "Adıyaman",
+  "kaynakKisi": "Abdül Kadir",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Kaleden Kaleye Şahin Uçurdum, Adıyaman yöresine ait, ah ve vah içinde geçen bir ömrü ve sevgiliye duyulan hasreti anlatan hüzünlü bir kırık havadır. Hüseyni makamındaki ağır, lirik tavrıyla dinleyene derin bir içlilik geçirir.\nAzerbaycan'daki 'Qalanın Dibində' ve Malatya-Arguvan varyantlarıyla akrabalık gösteren ezgi, Moğollar'ın 1968 Altın Mikrofon yorumuyla da geniş kitlelere ulaşmıştır. Kaynak kişi Abdül Kadir'den Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Adıyaman'dan, ömrü ah-vah içinde geçen âşığın hasretini anlatan, Hüseyni makamında hüzünlü kırık hava.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden kaleye şahin uçurdum",
+        "Ah ile vah ile ömrüm geçirdim",
+        "Yare şeker ezdim şerbet içirdim"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Hüseyni makamı",
+    "notlar": "Kırık hava; ağır, lirik ve hüzünlü tavır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaleden%20Kaleye%20%C5%9Eahin%20U%C3%A7urdum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaleden%20Kaleye%20%C5%9Eahin%20U%C3%A7urdum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaleden Kaleye Şahin Uçurdum",
+      "url": "https://tr.wikisource.org/wiki/Kaleden_Kaleye_%C5%9Eahin_U%C3%A7urdum",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=645",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Adıyaman",
+    "sevda",
+    "hasret",
+    "kırık hava"
+  ]
+}

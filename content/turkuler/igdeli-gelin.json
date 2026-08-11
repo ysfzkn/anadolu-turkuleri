@@ -1,0 +1,59 @@
+{
+  "slug": "igdeli-gelin",
+  "baslik": "İğdeli Gelin",
+  "digerAdlar": [
+    "Kız Pınar Başında"
+  ],
+  "yore": "Çorum",
+  "hikaye": "İğdeli Gelin, Çorum yöresinin en bilinen oyun havalarından ve türkülerindendir; 'Kız Pınar Başında' adıyla da anılır. Pınar başında testi dolduran bir güzele yanan âşığın dilinden söylenir; 'iğde', sevgilinin güzelliği için bir mecazdır.\nÇorum düğünlerinin sevilen halaylarından biri olarak, canlı ve coşkulu havasıyla yaşatılır.",
+  "ozet": "Çorum'dan, pınar başındaki bir güzele yanan âşığın dilinden söylenen ünlü oyun havası.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız pınar başında testi doldurur",
+        "Testinin kulpuna şahin kondurur",
+        "Kız senin bakışın beni öldürür",
+        "Derdimin dermanı iğdeli gelin",
+        "İğdesin aldırmış sevdalı gelin"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Halay / oyun havası",
+    "notlar": "Çorum düğünlerinde oynanır. Kesin usül kaynaklarda netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0%C4%9Fdeli%20Gelin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0%C4%9Fdeli%20Gelin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Çorum türküleri — İğdeli Gelin",
+      "url": "https://turku.sitesi.web.tr/corum/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Kültür Bakanlığı — Çorum Oyunları",
+      "url": "https://ekitap.ktb.gov.tr/TR-79055/corum-oyunlari.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Çorum",
+    "oyun havası",
+    "halay",
+    "sevda"
+  ]
+}

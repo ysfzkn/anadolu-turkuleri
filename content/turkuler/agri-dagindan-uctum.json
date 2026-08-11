@@ -1,0 +1,54 @@
+{
+  "slug": "agri-dagindan-uctum",
+  "baslik": "Ağrı Dağından Uçtum",
+  "yore": "Ağrı",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Ağrı Dağından Uçtum, Doğu Anadolu'nun heybetli Ağrı Dağı'ndan 'uçup' ovaya düşen âşığın dilinden söylenen bir kırık havadır. Vefasız bir sevgiliye tutulmanın çaresizliğini, dağların yüceliğiyle insanın küçük düşen hâlini karşılaştırarak anlatır.\nAnonim halk geleneğine ait türkü, Muzaffer Sarısözen tarafından derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Ağrı'dan; Ağrı Dağı'ndan 'uçup düşen', vefasız yare tutulmuş âşığın kırık havası.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağrı dağından uştum",
+        "Çayır çimenme düştüm",
+        "Ne belalı başım var",
+        "Vefasız yare düştüm"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Kırık hava."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1ndan%20U%C3%A7tum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Fr%C4%B1%20Da%C4%9F%C4%B1ndan%20U%C3%A7tum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Ağrı Dağından Uçtum",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=48",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Kültür Portalı — Ağrı",
+      "url": "https://www.kulturportali.gov.tr/turkiye/agri/kulturatlasi/agri-dagindan-ucdum",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Ağrı",
+    "sevda",
+    "kırık hava"
+  ]
+}

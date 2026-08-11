@@ -1,0 +1,55 @@
+{
+  "slug": "altin-tasta-gul-kuruttum",
+  "baslik": "Altın Tasta Gül Kuruttum",
+  "yore": "Hatay (Antakya)",
+  "kaynakKisi": "Sıdıka Şerbetçi",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Altın Tasta Gül Kuruttum, Hatay-Antakya yöresinin içli bir sevda türküsüdür. 'Aman Alim' nidalarıyla örülü sözleri, hasret ve sevdanın ağdalı, lirik bir söyleyişini taşır.\nBölgenin Arap ve Türk müzik geleneklerinin buluştuğu renkli tavrını yansıtan türkü, kaynak kişi Sıdıka Şerbetçi'den Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Hatay-Antakya'dan, 'aman Alim' nidalı, hasret yüklü içli bir sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın tasta gül kuruttum (aman Alim)",
+        "Yari sinemde uyuttum (Alim)",
+        "Yar söyledi ben unuttum (aman Alim)"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Antakya kırık havası; ağdalı, uzun havaya yakın lirik icra. Bölgenin Arap-Türk müzik etkileşimini yansıtır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Alt%C4%B1n%20Tasta%20G%C3%BCl%20Kuruttum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Alt%C4%B1n%20Tasta%20G%C3%BCl%20Kuruttum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Repertükül — Altın Tasta Gül Kuruttum",
+      "url": "https://www.repertukul.com/ALTIN-TASTA-GUL-KURUTTUM-485",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com",
+      "url": "https://www.turkuler.com/sozler/turku_altin_tasta_gul_kuruttum.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Hatay",
+    "Antakya",
+    "sevda",
+    "hasret"
+  ]
+}

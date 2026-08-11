@@ -1,0 +1,44 @@
+{
+  "slug": "sepetcioglu",
+  "baslik": "Sepetçioğlu",
+  "yore": "Kastamonu",
+  "hikaye": "Sepetçioğlu, derebeyinin zulmüne başkaldıran sepetçi Osman Efe'nin destanlaşan hikâyesini anlatan bir Kastamonu türküsüdür. Babasını erken yaşta kaybeden Osman, annesiyle Kastamonu'ya göçüp babasının mesleği sepetçiliği sürdürür; derebeyinin haksız istekleri ve iftirası karşısında dağa çıkar.\nTürkü onu bir eşkıyadan çok, haksızlığa uğrayanın yanında duran mert bir yiğit olarak betimler; adı 'Sepetçioğlu Osman Efe' olarak yörede destanlaşmıştır.",
+  "ozet": "Derebeyinin zulmüne başkaldıran sepetçi Osman Efe'nin destanlaştığı Kastamonu türküsü.",
+  "sozler": [],
+  "calim": {
+    "notlar": "Ağıt formuna yakın yöresel ezgi; kesin makam/usül netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sepet%C3%A7io%C4%9Flu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sepet%C3%A7io%C4%9Flu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Küre Ansiklopedi — Sepetçioğlu",
+      "url": "https://kureansiklopedi.com/tr/detay/sepetcioglu-turkusu-2acfd",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Taşköprü Postası",
+      "url": "https://www.taskoprupostasi.com/kastamonunun-kahramani-sepetcioglu-osman-efenin-destansi-hikayesi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kastamonu",
+    "kahramanlık",
+    "ağıt",
+    "eşkıya"
+  ]
+}

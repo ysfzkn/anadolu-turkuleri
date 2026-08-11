@@ -1,0 +1,40 @@
+{
+  "slug": "bartin-yolu-duzdedir",
+  "baslik": "Bartın Yolu Düzdedir",
+  "yore": "Bartın",
+  "hikaye": "Bartın Yolu Düzdedir, Bartın yöresinin kendine özgü ağzını ve gündelik yaşamını yansıtan kısa yapılı bir türküdür. Bartın türkülerinin çoğu gibi, yörenin günlük olaylarından doğup ağızdan ağıza yayılmış anonim bir eserdir.\nDüz bir yol imgesiyle açılan türkü, yörenin sade ve içten söyleyişini taşır.",
+  "ozet": "Bartın'dan; yörenin kendine özgü ağzını yansıtan kısa, anonim bir yöre türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bart%C4%B1n%20Yolu%20D%C3%BCzdedir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bart%C4%B1n%20Yolu%20D%C3%BCzdedir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Bartın türküleri",
+      "url": "https://www.turkudostlari.net/sor.asp?b=3588",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Bartın türküleri listesi",
+      "url": "https://turku.sitesi.web.tr/bartin/bartin-yolu-duzdedir.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bartın",
+    "yöre",
+    "gündelik hayat"
+  ]
+}

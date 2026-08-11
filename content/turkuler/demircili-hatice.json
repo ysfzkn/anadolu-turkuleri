@@ -1,0 +1,35 @@
+{
+  "slug": "demircili-hatice",
+  "baslik": "Demircili Hatice",
+  "yore": "Manisa (Demirci)",
+  "hikaye": "Demircili Hatice, Manisa'nın Demirci yöresinden, kökeni erken cumhuriyet dönemine uzanan tarihî bir türküdür. İstanbul Konservatuvarı'nın öncülü Darülelhan'ın 1920'lerde Batı Anadolu'dan (Alaşehir, Manisa, İzmir, Ödemiş, Aydın) derlediği kırk sekiz türküden biridir.\n'Demircinin bağlarında üzüm var' dizesiyle açılan türkü, arşivsel olarak belgelenmiş bir derleme geleneğinin parçasıdır; bu yönüyle yörenin müzik hafızasına ışık tutar.",
+  "ozet": "Manisa-Demirci'den, 1920'lerde Darülelhan derlemesinde belgelenmiş tarihî bir yöre türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Demircili%20Hatice%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Demircili%20Hatice",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "İSAM Arşivi — Demircili Hatice Türküsü",
+      "url": "https://arsiv.isam.org.tr/index.php/demircili-hatice-turkusu-manisa-yoresi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Manisa",
+    "Demirci",
+    "sevda",
+    "derleme"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "kadifeden-kesesi",
+  "baslik": "Kadifeden Kesesi",
+  "yore": "İstanbul",
+  "hikaye": "Kadifeden Kesesi, İstanbul'un incelikli türkülerinden biridir. Kadife kese imgesi, sevgiliye duyulan zarif bir özlemi ve şehrin kibar sevda dilini yansıtır.\nUşşak makamındaki ezgisi, İstanbul'un klasik türkü geleneğinin sıcak ve yakıcı havasını taşır; farklı söz çeşitlemeleriyle bilinir.",
+  "ozet": "İstanbul'un incelikli, uşşak makamındaki zarif bir sevda türküsü.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "usul": "Nim Sofyan"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kadifeden%20Kesesi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kadifeden%20Kesesi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Kadifeden_Kesesi",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "İstanbul",
+    "sevda",
+    "hasret"
+  ]
+}

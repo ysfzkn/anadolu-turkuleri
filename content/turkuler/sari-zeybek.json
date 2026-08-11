@@ -1,0 +1,38 @@
+{
+  "slug": "sari-zeybek",
+  "baslik": "Sarı Zeybek",
+  "yore": "İzmir",
+  "hikaye": "Sarı Zeybek, Ege'nin köklü zeybek ezgilerinden biridir. Erken dönem plak kayıtlarında İzmir yöresine bağlanan türkü, efe geleneğinin mağrur duruşunu ve dağların özgürlük çağrısını yansıtır.\nSelim Sırrı Tarcan'ın 1916'da bu ezgiden esinlenerek düzenlediği 'Tarcan Zeybeği', türkünün kültürel etkisinin bir göstergesidir.",
+  "ozet": "Ege'nin, İzmir'e bağlanan köklü zeybek ezgisi; 'Tarcan Zeybeği'ne de ilham vermiştir.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Zeybek",
+    "usul": "9 zamanlı"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20Zeybek%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20Zeybek",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Sar%C4%B1_Zeybek",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "zeybek",
+    "Ege",
+    "İzmir"
+  ]
+}

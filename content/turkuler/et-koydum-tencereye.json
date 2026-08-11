@@ -1,0 +1,56 @@
+{
+  "slug": "et-koydum-tencereye",
+  "baslik": "Et Koydum Tencereye",
+  "yore": "Bilecik (Söğüt)",
+  "kaynakKisi": "Mustafa Şimşek",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Et Koydum Tencereye, Bilecik'in Söğüt yöresinden derlenmiş kısa kıtalı bir kırık havadır. 'Şu Söğüt yedi dağdır, içinde yarim vardır' söyleyişiyle doğrudan Söğüt'ün yedi dağla çevrili coğrafyasını anar.\nGurbete ya da askere giden yardan haber alamamanın hasretini işleyen türkü, kaynak kişi Mustafa Şimşek'ten Muzaffer Sarısözen tarafından 1946'da derlenmiştir.",
+  "ozet": "Bilecik-Söğüt'ten, 'yedi dağ'la çevrili yöreyi anan, gurbet hasreti taşıyan kısa bir kırık hava.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Et koydum tencereye",
+        "Yar geldi pencereye",
+        "Yar Allah'ı seversen",
+        "Al beni içeriye"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Söğüt yöresi kırık havası."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Et%20Koydum%20Tencereye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Et%20Koydum%20Tencereye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Bilecik notaları",
+      "url": "https://www.turkuler.com/nota/tumyoreler.asp?yoresi=Bilecik",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Söğüt türküleri — Et Koydum Tencereye",
+      "url": "https://turku.sitesi.web.tr/sogut/et-koydum-tencereye.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bilecik",
+    "Söğüt",
+    "sevda",
+    "gurbet"
+  ]
+}

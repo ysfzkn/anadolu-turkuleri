@@ -1,0 +1,39 @@
+{
+  "slug": "nazlanma-yar-nazlanma",
+  "baslik": "Nazlanma Yar Nazlanma",
+  "yore": "Batman",
+  "hikaye": "Nazlanma Yar Nazlanma, Batman yöresiyle anılan Türkçe anonim bir sevda türküsüdür. Mardinli bir güzele duyulan sevdayı ve sevgilinin nazını işler.\nBatman ili 1990'da kurulduğundan, yörenin eserleri çoğu zaman komşu illerin repertuvarına kayıtlıdır; bu türkünün anonim ve Türkçe olduğu belgelenmekle birlikte TRT repertuvar tescili net doğrulanamadığından editör doğrulaması beklemektedir.",
+  "ozet": "Batman'dan; Mardinli bir güzele duyulan sevdayı işleyen Türkçe anonim türkü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nazlanma%20Yar%20Nazlanma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nazlanma%20Yar%20Nazlanma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nazlanma Yar Nazlanma",
+      "url": "https://tr.wikisource.org/wiki/Nazlanma_Yar_Nazlanma",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Batman İl Kültür ve Turizm Md.",
+      "url": "https://batman.ktb.gov.tr/TR-56588/batman-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Batman",
+    "sevda"
+  ]
+}

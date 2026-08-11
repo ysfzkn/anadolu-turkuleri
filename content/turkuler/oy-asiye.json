@@ -1,0 +1,44 @@
+{
+  "slug": "oy-asiye",
+  "baslik": "Oy Asiye",
+  "yore": "Giresun (Görele)",
+  "kaynakKisi": "Ömer Akpınar",
+  "hikaye": "Oy Asiye, Giresun'un Görele ilçesi Çavuşlu köyünde yaşandığı anlatılan bir olayın ağıdıdır. Zengin tüccar Nazif, içgüveysi olarak Asiye ile evlenir; bir gün köy meydanında gördüğü bir atlıyı sorunca 'Asiye'nin kocası' yanıtını alır ve yıkılıp oracıkta can verir. Bu acı, Nazif'in annesince ağıta dönüştürülür.\nÇoğunlukla 'Laz türküsü' sanılsa da aslında bir Çepni Türkmen ağıdıdır; Görele türküsü olarak ilk kez 1970'lerde kayda geçmiştir.",
+  "ozet": "Giresun-Görele'de bir yanlış anlamanın yol açtığı ölüm üzerine yakılan Çepni Türkmen ağıdı.",
+  "sozler": [],
+  "calim": {
+    "notlar": "Karadeniz yöresi ağıt/türkü formu; kemençe geleneği bağlamında icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Oy%20Asiye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Oy%20Asiye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Maksat Bilgi — Oy Asiye'nin hikâyesi",
+      "url": "https://maksatbilgi.com/oy-asiye-turkusunun-hikayesi/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Medya Giresun",
+      "url": "https://medyagiresun.com/agasarin-balini-oy-asiye-turkusu/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Giresun",
+    "Karadeniz",
+    "ağıt"
+  ]
+}

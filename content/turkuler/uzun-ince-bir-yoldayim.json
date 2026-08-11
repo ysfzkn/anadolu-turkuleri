@@ -1,0 +1,40 @@
+{
+  "slug": "uzun-ince-bir-yoldayim",
+  "baslik": "Uzun İnce Bir Yoldayım",
+  "yore": "Sivas (Şarkışla)",
+  "sozYazari": "Âşık Veysel",
+  "hikaye": "Uzun İnce Bir Yoldayım, Âşık Veysel'in 1966'da yazdığı, Türk halk şiirinin ve müziğinin başyapıtlarından biridir. Hayatı gündüz gece yürünen uzun ince bir yola benzeten şiir, doğumdan ölüme uzanan insan yolculuğunu derin bir tevekkülle anlatır.\nŞarkışlalı ozanın bu eseri, hüseyni makamındaki ezgisiyle Barış Manço'dan Özdemir Erdoğan'a birçok sanatçı tarafından yorumlanmış, kuşaklar boyu sevilmiştir.",
+  "ozet": "Âşık Veysel'in 1966'da yazdığı, hayatı bir yolculuğa benzeten başyapıt niteliğinde türkü.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Hüseyni makamı",
+    "usul": "4/4"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Uzun%20%C4%B0nce%20Bir%20Yolday%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Uzun%20%C4%B0nce%20Bir%20Yolday%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Uzun_%C4%B0nce_Bir_Yolday%C4%B1m",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Sivas",
+    "yaşam",
+    "ölüm",
+    "tasavvuf"
+  ]
+}

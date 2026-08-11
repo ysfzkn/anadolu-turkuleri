@@ -1,0 +1,55 @@
+{
+  "slug": "evlerine-varamadim-gazelden",
+  "baslik": "Evlerine Varamadım Gazelden",
+  "yore": "Sakarya (Geyve)",
+  "kaynakKisi": "Reşat Aker",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Evlerine Varamadım Gazelden, Sakarya'nın Geyve yöresinden bir kırık havadır. Sevgilinin evine, sokağına varamamanın ve 'ezelden severim' itirafının acısını, 'sürmeli gözlü yarim senden ayrılamadım' nakaratıyla dile getirir.\nDizelerdeki 'aman', 'efem' gibi ünlemler yöresel ağzı ve zeybek-efe kültürünün izlerini taşır; türkü kaynak kişi Reşat Aker'den Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Sakarya-Geyve'den, sevdiğine varamamanın acısını taşıyan, efe ağızlı bir kırık hava.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine varamadım gazelden",
+        "Sokağına çıkamadım güzelden",
+        "Sever idim kız ben seni ezelden"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Geyve yöresi kırık havası; zeybek/efe ağzı etkili."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Evlerine%20Varamad%C4%B1m%20Gazelden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Evlerine%20Varamad%C4%B1m%20Gazelden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Sakarya notaları",
+      "url": "https://www.turkuler.com/nota/tumyoreler.asp?yoresi=Sakarya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Sakarya Şehir Hafızası",
+      "url": "https://sehirhafizasi.sakarya.edu.tr/evlerine-varamadim-gazelden/",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Sakarya",
+    "Geyve",
+    "sevda",
+    "ayrılık"
+  ]
+}

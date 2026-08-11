@@ -1,0 +1,49 @@
+{
+  "slug": "yemen-turkusu",
+  "baslik": "Yemen Türküsü",
+  "digerAdlar": ["Havada Bulut Yok", "Muş'a Giden Yol"],
+  "yore": "Muş",
+  "hikaye": "Yemen Türküsü, Osmanlı'nın son döneminde Yemen cephesine gönderilip geri dönemeyen askerlerin ardından yakılmış bir ağıttır. Anadolu'nun pek çok köyünden gençler bu uzak cepheye gitmiş, çoğu geri gelmemiştir. Türkü, bir annenin ve bir yurdun evladına duyduğu hasreti; savaşın adını bile bilinmeyen bir coğrafyada tükenen canları anlatır.",
+  "ozet": "Yemen cephesine gidip dönemeyen askerlerin ardından yakılan geleneksel ağıt.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada bulut yok bu ne dumandır",
+        "Mahlede ölüm yok bu ne şivandır",
+        "Şu Yemen elleri ne de yamandır"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Ah o Yemendir gülü çemendir",
+        "Giden gelmiyor acep nedendir"
+      ]
+    }
+  ],
+  "calim": {
+    "duzen": "La kararlı",
+    "ayak": "Karcığar",
+    "usul": "Serbest (uzun hava karakterli)",
+    "notlar": "Ağıt havasında, hüzünlü ve ağır tempoda söylenir.",
+    "akorlar": ["Lam", "Rem", "Mi"]
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yemen%20T%C3%BCrk%C3%BCs%C3%BC%20Mu%C5%9F",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yemen%20T%C3%BCrk%C3%BCs%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    { "baslik": "TRT Türk Halk Müziği Repertuvarı", "tur": "kurum" }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": ["ağıt", "asker", "gurbet"]
+}

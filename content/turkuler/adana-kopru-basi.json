@@ -1,0 +1,40 @@
+{
+  "slug": "adana-kopru-basi",
+  "baslik": "Adana Köprü Başı",
+  "yore": "Adana",
+  "hikaye": "Adana Köprü Başı, 'Vur Çapayı Çapayı' adıyla da bilinen, Çukurova'nın canlı ve neşeli ezgili türkülerindendir. Adana'nın gündelik hayatından, çalışan insanının ritminden ve sevdasından izler taşır.\nTürküyü folklor araştırmacısı Halil Atılgan derleyip notaya almış ve TRT Türk Halk Müziği repertuvarına kazandırmıştır. Uşşak makamındaki hareketli yapısı, onu düğün ve eğlencelerin sevilen parçalarından biri kılar.",
+  "ozet": "Adana'dan, 'Vur Çapayı' adıyla da bilinen hareketli ve neşeli bir Çukurova türküsü.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "usul": "2/4",
+    "notlar": "Hareketli, oyun havası karakterinde icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Adana%20K%C3%B6pr%C3%BC%20Ba%C5%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Adana%20K%C3%B6pr%C3%BC%20Ba%C5%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Adana_K%C3%B6pr%C3%BC_Ba%C5%9F%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Çukurova",
+    "oyun havası",
+    "sevda",
+    "Adana"
+  ]
+}

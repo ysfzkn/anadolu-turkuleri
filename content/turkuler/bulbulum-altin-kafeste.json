@@ -1,0 +1,35 @@
+{
+  "slug": "bulbulum-altin-kafeste",
+  "baslik": "Bülbülüm Altın Kafeste",
+  "yore": "Rumeli (Selanik)",
+  "hikaye": "Bülbülüm Altın Kafeste, Balkan göçlerinin hüznünü taşıyan bir Rumeli türküsüdür. Altın kafesteki bülbül imgesi, güzel ama esaret altında bir yaşamı; geride bırakılan yurdu ve özgürlük özlemini anlatır.\nTürkü, Selanik ve çevresinden Anadolu'ya göç eden muhacirlerin belleğinde yaşamış; Ali Şevket Öndersev'in aktarımıyla Muzaffer Sarısözen tarafından derlenerek kayda geçmiştir.",
+  "ozet": "Balkan göçünün hüznünü taşıyan, özgürlük özlemini işleyen bir Rumeli (Selanik) türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCl%C3%BCm%20Alt%C4%B1n%20Kafeste%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCl%C3%BCm%20Alt%C4%B1n%20Kafeste",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/B%C3%BClb%C3%BCl%C3%BCm_Alt%C4%B1n_Kafeste_(t%C3%BCrk%C3%BC)",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Rumeli",
+    "göç",
+    "hasret",
+    "Selanik"
+  ]
+}

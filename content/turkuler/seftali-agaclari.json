@@ -1,0 +1,65 @@
+{
+  "slug": "seftali-agaclari",
+  "baslik": "Şeftali Ağaçları",
+  "digerAdlar": [
+    "Tini Mini Hanım"
+  ],
+  "yore": "Sinop",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Şeftali Ağaçları, halk arasında 'Tini Mini Hanım' olarak da bilinen neşeli bir Sinop türküsüdür. Şeftali ağaçları ve çiçek imgeleri üzerinden sevgiliye seslenen oyun havası, 'tin tin tini mini hanım' nakaratıyla akıllara kazınır.\nSinop'un Karadeniz kıyı bahçe kültürüne göndermeler taşıyan türkü, Muzaffer Sarısözen tarafından derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Sinop'tan, 'Tini Mini Hanım' nakaratıyla bilinen neşeli bir oyun havası.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çeftali ağaçları",
+        "Türlü çiçek başları",
+        "Yaktı yandırdı beni",
+        "Yarin hilal kaşları"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Tin tin tini mini hanım",
+        "Seni seviyor canım"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Oyun havası; kıvrak tempoda icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eeftali%20A%C4%9Fa%C3%A7lar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eeftali%20A%C4%9Fa%C3%A7lar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şeftali Ağaçları",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eeftali_A%C4%9Fa%C3%A7lar%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2821",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Sinop",
+    "Karadeniz",
+    "oyun havası",
+    "sevda"
+  ]
+}

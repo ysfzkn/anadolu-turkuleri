@@ -1,0 +1,45 @@
+{
+  "slug": "balikesir-bengisi",
+  "baslik": "Balıkesir Bengisi",
+  "yore": "Balıkesir",
+  "hikaye": "Balıkesir Bengisi, Balıkesir ovasının, özellikle Pamukçu beldesinin simgesi hâline gelmiş görkemli bir halk oyunudur. Dokuz zamanlı ritmi ve dokuz temel figürüyle, davul-zurna eşliğinde topluca oynanır.\nKökeni Orta Asya oyun geleneklerine kadar götürülen bengi, Balıkesir'in kültürel kimliğinin bir parçasıdır; yörede titizlikle korunup yaşatılmaktadır.",
+  "ozet": "Balıkesir'in, özellikle Pamukçu'nun simgesi olmuş, dokuz figürlü görkemli halk oyunu (bengi).",
+  "sozler": [],
+  "calim": {
+    "ayak": "Bengi (oyun havası)",
+    "usul": "9/4",
+    "notlar": "Dokuz temel figürle, davul-zurna eşliğinde oynanır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bal%C4%B1kesir%20Bengisi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bal%C4%B1kesir%20Bengisi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Balıkesir Folkloru — Pamukçu Bengisi",
+      "url": "https://balikesirfolkloru.com/pamukcu-bengisi/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Vikipedi — Balıkesir yöresi halk oyunları",
+      "url": "https://tr.wikipedia.org/wiki/Bal%C4%B1kesir_y%C3%B6resi_halk_oyunlar%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Balıkesir",
+    "oyun havası",
+    "bengi"
+  ]
+}

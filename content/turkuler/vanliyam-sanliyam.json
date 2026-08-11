@@ -1,0 +1,40 @@
+{
+  "slug": "vanliyam-sanliyam",
+  "baslik": "Vanlıyam Şanlıyam",
+  "yore": "Van",
+  "hikaye": "Vanlıyam Şanlıyam, 'Vanlıyam şanlıyam, kılıcı kanlıyam' nakaratıyla Van'a bağlılığı ve yiğitliği dile getiren bir türküdür. Yörede anlatılan bir fıkra-anekdot türkünün doğuşuyla ilişkilendirilir: kendini bu mağrur sözlerle tanıtan bir karakol komiserinin, karşısındakine boyun eğmeyişi.\nEserin kesin kökeni ve anonim mi yoksa belirli bir sanatçının katkısıyla mı biçimlendiği kaynaklarda çelişkilidir; bu nedenle kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Van'a bağlılığı ve yiğitliği dile getiren, 'Vanlıyam şanlıyam' nakaratıyla bilinen türkü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Vanl%C4%B1yam%20%C5%9Eanl%C4%B1yam%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Vanl%C4%B1yam%20%C5%9Eanl%C4%B1yam",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kültür Portalı — Vanlıyam Şanlıyam",
+      "url": "https://www.kulturportali.gov.tr/turkiye/van/kulturatlasi/vanliyam-sanliyam",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=3770",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Van",
+    "yiğitlik",
+    "memleket"
+  ]
+}

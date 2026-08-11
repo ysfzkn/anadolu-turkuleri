@@ -1,0 +1,42 @@
+{
+  "slug": "ah-su-yolu-su-yolu",
+  "baslik": "Ah Su Yolu Su Yolu",
+  "yore": "Kilis",
+  "kaynakKisi": "Şahin Yılmaz Dokuzoğuz",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Ah Su Yolu Su Yolu, Kilis yöresinin neşeli-lirik halk müziği geleneğinden bir türküdür. Su yolu ve çeşme başı imgeleri üzerinden kurulan sözleri, yörenin gündelik hayatını ve sevda dilini yansıtır.\nKilis türküleri TRT repertuvarına ilk kez 1949'da Muzaffer Sarısözen derlemeleriyle girmiştir; bu türkü de kaynak kişi Şahin Yılmaz Dokuzoğuz'dan derlenmiştir.",
+  "ozet": "Kilis'ten, su yolu ve çeşme başı imgeleriyle örülü neşeli-lirik bir yöre türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ah%20Su%20Yolu%20Su%20Yolu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ah%20Su%20Yolu%20Su%20Yolu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türküler.com — Kilis notaları",
+      "url": "https://www.turkuler.com/nota/tumyoreler.asp?yoresi=Kilis",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Anayurt Gazetesi — TRT'de kayıtlı Kilis türküleri",
+      "url": "https://anayurtgazetesi.com/makale/18716605/m-yahya-efe/trtde-kayitli-kilis-turkuleri",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kilis",
+    "sevda",
+    "gündelik hayat"
+  ]
+}

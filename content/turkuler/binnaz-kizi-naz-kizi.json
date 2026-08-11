@@ -1,0 +1,50 @@
+{
+  "slug": "binnaz-kizi-naz-kizi",
+  "baslik": "Binnaz Kızı Naz Kızı",
+  "yore": "Uşak",
+  "hikaye": "Binnaz Kızı Naz Kızı, Uşak yöresine ait neşeli görünümlü ama içinde bir itiraz taşıyan bir türküdür. Kırmızı yanaklı Binnaz'ın güzelliği övülürken, sevmediği biriyle evlendirilmeye karşı 'kaçıp gitme' arzusu satır aralarına işlenir.\nAnonim halk geleneğine ait türkü, Uşak derlemelerinde kayıtlıdır; oynak ezgisinin altında kadının kendi yazgısına dair sessiz bir itirazını barındırır.",
+  "ozet": "Uşak'tan; güzel Binnaz'ı översken sevmediğiyle evlenmeye karşı sessiz bir itiraz taşıyan türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Binnaz kızı naz kızı",
+        "Yanakları kırmızı",
+        "Al yanağın üstüne",
+        "Doğdu sabah yıldızı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Binnaz%20K%C4%B1z%C4%B1%20Naz%20K%C4%B1z%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Binnaz%20K%C4%B1z%C4%B1%20Naz%20K%C4%B1z%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Binnaz Kızı Naz Kızı",
+      "url": "https://tr.wikisource.org/wiki/Binnaz_Kızı_Naz_Kızı",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Repertükül",
+      "url": "https://www.repertukul.com/BINNAZ-KIZI-NAZ-KIZI-348",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Uşak",
+    "sevda",
+    "itiraz"
+  ]
+}

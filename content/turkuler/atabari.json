@@ -1,0 +1,44 @@
+{
+  "slug": "atabari",
+  "baslik": "Atabarı",
+  "yore": "Artvin",
+  "hikaye": "Atabarı, Artvin'in simgesi hâline gelmiş bir bar oyunudur. Eskiden 'Artvin barı' adıyla bilinen oyun, 1936'da bir Artvin ekibinin Mustafa Kemal Atatürk'ün huzurunda oynaması ve Atatürk'ün oyunu çok beğenip bizzat katılması üzerine 'Atabarı' adını almıştır.\nDoğu Karadeniz ve Kuzeydoğu Anadolu'nun bar geleneğine uygun olarak, zurna-davul eşliğinde, halka ve dizi düzeninde topluca oynanır.",
+  "ozet": "Artvin'in simgesi; 1936'da Atatürk'ün huzurunda oynanıp adını ondan alan bar oyunu.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Bar (oyun havası)",
+    "notlar": "Zurna-davul eşliğinde, halka/dizi düzeninde topluca oynanır."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Atabar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Atabar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Atabarı",
+      "url": "https://tr.wikipedia.org/wiki/Atabar%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Karadeniz — halk oyunları",
+      "url": "https://karadeniz.gov.tr/halk-oyunlari/",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Artvin",
+    "bar",
+    "oyun havası"
+  ]
+}

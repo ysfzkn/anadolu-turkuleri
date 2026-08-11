@@ -1,0 +1,46 @@
+{
+  "slug": "yastigi-kus-tuyunden",
+  "baslik": "Yastığı Kuş Tüyünden",
+  "yore": "Siirt",
+  "kaynakKisi": "Yöre Ekibi",
+  "derleyen": "Nevin Akyol",
+  "hikaye": "Yastığı Kuş Tüyünden, Siirt yöresine ait, köydeki bir sevgiliye duyulan özlemi 'vay le vay le' nakaratıyla dile getiren bir kırık havadır. Kuş tüyünden yastık imgesi, sevdanın inceliğini ve hasretin yumuşak acısını çağrıştırır.\nAnonim halk geleneğine ait türkü, Siirt yöre ekibinden derlenip Nevin Akyol tarafından notaya alınarak TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Siirt'ten; köydeki sevgiliye özlemi 'vay le' nakaratıyla işleyen bir kırık hava.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "usul": "4/4"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yast%C4%B1%C4%9F%C4%B1%20Ku%C5%9F%20T%C3%BCy%C3%BCnden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yast%C4%B1%C4%9F%C4%B1%20Ku%C5%9F%20T%C3%BCy%C3%BCnden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Repertükül — Yastığı Kuş Tüyünden (TRT 2354)",
+      "url": "https://www.repertukul.com/YASTIGI-KUS-TUYUNDEN-2354",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com — Siirt notaları",
+      "url": "https://www.turkuler.com/nota/yore.asp?yoresi=Siirt",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Siirt",
+    "sevda",
+    "hasret"
+  ]
+}

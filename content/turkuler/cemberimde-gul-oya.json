@@ -1,0 +1,32 @@
+{
+  "slug": "cemberimde-gul-oya",
+  "baslik": "Çemberimde Gül Oya",
+  "yore": "Çanakkale (Biga)",
+  "sozYazari": "Kâmil Nizam Bigalı",
+  "derleyen": "Ahmet Yamacı",
+  "hikaye": "Çemberimde Gül Oya, Çanakkale'nin Biga ilçesine bağlanan hüzünlü bir aşk türküsüdür. Sözleri Kâmil Nizam Bigalı'ya atfedilir; türkü, Selda Bağcan'ın 1971 tarihli kaydıyla geniş kitlelere ulaşmıştır.\nYerel anlatıya göre türkü, Biga'da kavuşamayan iki gencin hikâyesinden esinlenir. Ailelerin karşı çıkışı yüzünden ayrı düşen genç kızın, sessizce oturup işlediği oyalara duygularını nakşetmesi, türkünün 'çemberimde gül oya' imgesine ilham verir. Bu anlatı sözlü/yerel kaynaklara dayanır; akademik teyidi sınırlıdır.\nNot: Bu türkünün sözleri bilinen bir söz yazarına ait olduğundan ve modern dönemde derlendiğinden, telif durumu netleşene dek sözlere burada yer verilmemiştir; dinlemek için aşağıdaki bağlantıları kullanabilirsiniz.",
+  "ozet": "Çanakkale/Biga'ya bağlanan, kavuşamayan bir aşkı ve oya işleyen bir kadının hislerini anlatan hüzünlü türkü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87emberimde%20G%C3%BCl%20Oya",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87emberimde%20G%C3%BCl%20Oya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Çemberimde Gül Oya",
+      "url": "https://tr.wikipedia.org/wiki/%C3%87emberimde_G%C3%BCl_Oya",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": ["aşk", "hasret", "ayrılık", "oya", "Çanakkale"]
+}

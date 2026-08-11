@@ -1,0 +1,43 @@
+{
+  "slug": "ezo-gelin",
+  "baslik": "Ezo Gelin",
+  "yore": "Gaziantep",
+  "derleyen": "Cemil Cahit Güzelbey",
+  "hikaye": "Ezo Gelin, gerçek bir kadının yaşamöyküsünden doğmuş, zamanla efsaneleşmiş bir Gaziantep türküsüdür. Ezo'nun gerçek adı Zöhre Bozgeyik'tir; 1909'da Gaziantep'in Oğuzeli'ne bağlı bir köyde doğmuş, güzelliğiyle dillere destan olmuştur.\nİlk evliliği araya girenlerce bozulan Ezo, yörede yaygın 'berdel' geleneği yüzünden çok sevdiği yuvasından ayrılmak zorunda kalmış; ikinci kez berdelle evlenip Suriye'ye gelin gitmiştir. Gurbet acısıyla geçen bir ömrün ardından 1956'da vefat etmiş; adına türküler yakılmış, filmlere konu olmuş, ünlü 'Ezogelin çorbası' bile onun adıyla anılır olmuştur.",
+  "ozet": "Gerçek bir kadının (Zöhre Bozgeyik) berdel evliliği ve gurbet acısından doğan, efsaneleşmiş Gaziantep türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ezo%20Gelin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ezo%20Gelin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Ezo Gelin",
+      "url": "https://tr.wikipedia.org/wiki/Ezo_Gelin",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Kültür Portalı — Ezo Gelin",
+      "url": "https://www.kulturportali.gov.tr/turkiye/gaziantep/kulturatlasi/ezo-geln-hkayes",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Gaziantep",
+    "gelin",
+    "gurbet",
+    "berdel",
+    "ağıt"
+  ]
+}

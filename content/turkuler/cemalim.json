@@ -1,0 +1,40 @@
+{
+  "slug": "cemalim",
+  "baslik": "Cemalim",
+  "yore": "Trabzon",
+  "hikaye": "Cemalim, Karadeniz yöresinin sevilen türkülerindendir. Bir gencin, Cemal'in ardından söylenen; sitem, sevda ve yörenin coşkulu ezgisini bir arada taşıyan bir türküdür. Horon havasına yakın canlı ritmiyle düğünlerde ve yöresel icralarda sıkça seslendirilir.",
+  "ozet": "Trabzon yöresinden, canlı Karadeniz ezgili sevilen bir türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Cemalim Cemalim",
+        "Aman Cemalim Cemalim",
+        "Sen ağlama ben ağlayım"
+      ]
+    }
+  ],
+  "calim": {
+    "duzen": "La kararlı",
+    "usul": "7/8 (Karadeniz)",
+    "notlar": "Hareketli, horon karakterli; kemençe ve bağlama ile canlı icra edilir.",
+    "akorlar": ["Lam", "Mi"]
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cemalim%20Trabzon%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cemalim%20Trabzon",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    { "baslik": "TRT Türk Halk Müziği Repertuvarı", "tur": "kurum" }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": ["Karadeniz", "sevda"]
+}

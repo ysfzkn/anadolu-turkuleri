@@ -1,0 +1,57 @@
+{
+  "slug": "malatya-malatya",
+  "baslik": "Malatya Malatya",
+  "digerAdlar": [
+    "Bulunmaz Eşin"
+  ],
+  "yore": "Malatya",
+  "derleyen": "Selahattin Alpay",
+  "hikaye": "Malatya Malatya, 'Bulunmaz Eşin' adıyla da bilinen, Malatya'yı ve güzelliğini öven neşeli bir oyun havasıdır. Türküde geçen 'Kernek', Malatyalıların buluşma ve mesire yeri olan ünlü bir pınar başıdır.\nSelahattin Alpay'ın derlediği eserin ezgi kökeni tartışmalıdır; aslında Eğin (Kemaliye) yöresinden alınıp sözlerinin Malatya'ya uyarlandığı yaygın olarak aktarılır. Bugün Malatya denince ilk akla gelen türkülerden biridir.",
+  "ozet": "Malatya'yı öven, 'Bulunmaz Eşin' adıyla da bilinen neşeli oyun havası; ezgi kökeni tartışmalıdır.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Malatya Malatya bulunmaz eşin",
+        "Gönülleri coşturur ayla güneşin",
+        "Aman aman aman Kernek'li misin",
+        "Kerneğe gelmeye de yeminli misin"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Oyun havası. Kesin makam/usül kaynaklarda netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Malatya%20Malatya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Malatya%20Malatya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Malatya Malatya",
+      "url": "https://tr.wikisource.org/wiki/Malatya_Malatya_Bulunmaz_E%C5%9Fin",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2598",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Malatya",
+    "oyun havası",
+    "memleket"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "bayburtun-ince-yolunda",
+  "baslik": "Bayburt'un İnce Yolunda",
+  "yore": "Bayburt",
+  "kaynakKisi": "Seyfettin Sığmaz",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Bayburt'un İnce Yolunda, Bayburt yöresinin sevilen bar havalarından biridir. Dar bir yol kenarında, dalında bulunan bir ayva imgesiyle açılan türkü, yöreye özgü bir sadelik ve içtenlik taşır.\nMuzaffer Sarısözen tarafından kaynak kişi Seyfettin Sığmaz'dan derlenerek TRT repertuvarına kazandırılmıştır. Kayıtlarda yöre kimi zaman idari geçmiş nedeniyle Erzurum görünse de türkü Bayburt'a aittir.",
+  "ozet": "Bayburt'tan, dalındaki ayva imgesiyle açılan sevilen bir bar havası.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bayburt'un ince yolunda",
+        "Bir ayva buldum dalında"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Bar (oyun havası)",
+    "notlar": "Bar formunda; kesin makam/usül kaynaklarda netleşmemiştir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bayburt'un%20%C4%B0nce%20Yolunda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bayburt'un%20%C4%B0nce%20Yolunda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Yurdu — Bayburt'un İnce Yolunda",
+      "url": "https://www.turkuyurdu.com/bayburtun-ince-yolunda-4414.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com — Bayburt notaları",
+      "url": "https://www.turkuler.com/nota/yore.asp?yoresi=Bayburt",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Bayburt",
+    "bar",
+    "oyun havası",
+    "sevda"
+  ]
+}

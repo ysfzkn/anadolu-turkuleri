@@ -1,0 +1,52 @@
+{
+  "slug": "sari-gelin",
+  "baslik": "Sarı Gelin",
+  "digerAdlar": ["Erzurum Çarşı Pazar"],
+  "yore": "Erzurum",
+  "hikaye": "Sarı Gelin, Doğu Anadolu'da ve çevre coğrafyada yüzyıllardır dilden dile dolaşan, kavuşamayan bir sevdanın türküsüdür. Erzurum varyantında sevgilinin ardından yakılan bir ağıt havası taşır; 'sarı gelin' hem bir güzelin hem de erişilmezliğin simgesidir. Türkü, farklı halklar arasında ortak bir ezgi mirası olarak da anılır.",
+  "ozet": "Erzurum yöresinden, kavuşamayan bir sevdayı anlatan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erzurum çarşı pazar",
+        "Leylim aman aman",
+        "Leylim aman aman",
+        "Leylim aman aman sarı gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İçinde bir kız gezer",
+        "Leylim aman aman",
+        "Leylim aman aman",
+        "Leylim aman aman sarı gelin"
+      ]
+    }
+  ],
+  "calim": {
+    "duzen": "La kararlı (bağlama düzeni)",
+    "ayak": "Hüseyni",
+    "usul": "Serbest / 4/4",
+    "notlar": "Ağır ve duygulu icra edilir; nakarat bölümünde uzun 'aman aman' geçişleri vurgulanır.",
+    "akorlar": ["Lam", "Sol", "Fa"]
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20Gelin%20Erzurum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20Gelin%20Erzurum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    { "baslik": "TRT Türk Halk Müziği Repertuvarı", "tur": "kurum" }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": ["aşk", "ağıt", "gurbet"]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "gine-yesillendi-nigde-baglari",
+  "baslik": "Gine Yeşillendi Niğde Bağları",
+  "yore": "Niğde",
+  "kaynakKisi": "Nimet Balkan",
+  "derleyen": "Nida Tüfekçi",
+  "hikaye": "Gine Yeşillendi Niğde Bağları, Niğde bağlarının yeniden yeşermesi imgesiyle açılan bir sevda ve ayrılık türküsüdür. Rivayete göre türkü, bir beyin kızına gönül verdiği için hapsedilen bir gencin, beyden aman dilemek üzere yaktığı sözlerden doğar.\nAnonim halk geleneğine ait türkü, kaynak kişi Nimet Balkan'dan Nida Tüfekçi tarafından 1977'de derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Niğde bağlarının yeşermesiyle açılan, bir sevda ve ayrılık anlatısına dayanan Niğde türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gine yeşillendi Niğde bağları",
+        "Bize mesken oldu Niğde bağları"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gine%20Ye%C5%9Fillendi%20Ni%C4%9Fde%20Ba%C4%9Flar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gine%20Ye%C5%9Fillendi%20Ni%C4%9Fde%20Ba%C4%9Flar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gine Yeşillendi Niğde Bağları",
+      "url": "https://tr.wikisource.org/wiki/Gine_Ye%C5%9Fillendi_Ni%C4%9Fde_Ba%C4%9Flar%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com",
+      "url": "https://www.turkuler.com/sozler/turku_gine_yesillendi_nigde_baglari.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Niğde",
+    "sevda",
+    "ayrılık"
+  ]
+}

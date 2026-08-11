@@ -1,0 +1,35 @@
+{
+  "slug": "debreli-hasan",
+  "baslik": "Debreli Hasan",
+  "yore": "Rumeli (Drama)",
+  "hikaye": "Debreli Hasan, Drama yöresinde yaşamış bir halk kahramanı ve eşkıyanın türküsüdür. Drama, Kavala, İskeçe dolaylarında adı anılan Hasan'ın hikâyesi, dağa çıkışı ve direnişiyle Rumeli'nin çalkantılı dönemine tanıklık eder.\nTürkü, eşkıyalık anlatılarının halk belleğindeki yerini yansıtır; kahramanın trajik yazgısı, Balkan coğrafyasının ortak hüznüne karışır.",
+  "ozet": "Drama yöresinde yaşamış eşkıya-kahraman Hasan'ın hikâyesini anlatan Rumeli türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Debreli%20Hasan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Debreli%20Hasan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi (TR)",
+      "url": "https://tr.wikipedia.org/wiki/Debreli_Hasan",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Rumeli",
+    "eşkıya",
+    "kahramanlık",
+    "Drama"
+  ]
+}

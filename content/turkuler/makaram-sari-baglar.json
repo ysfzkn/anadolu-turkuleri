@@ -1,0 +1,58 @@
+{
+  "slug": "makaram-sari-baglar",
+  "baslik": "Makaram Sarı Bağlar",
+  "yore": "Diyarbakır",
+  "kaynakKisi": "Selahattin Mazlumoğlu",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Makaram Sarı Bağlar, Diyarbakır yöresinin en dokunaklı kırık havalarından biridir; 'Makaram Türküsü' ya da 'Asiye Türküsü' adlarıyla da anılır. Türküde sarı renk, Anadolu'nun pek çok yöresinde olduğu gibi yas ve uğursuzluğun simgesidir.\nYaygın anlatıya göre türkü, engellenmiş bir sevdanın ardından yakılmış bir ağıttır: bir terzinin, damatlık diktiği evin kızına tutulması ama kavuşamaması anlatılır. Hikâyenin birden çok varyantı vardır; türkü Muzaffer Sarısözen tarafından derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Diyarbakır'dan, sarı rengin yas simgesi olduğu, kavuşamayan bir sevdaya yakılmış hüzünlü kırık hava.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Makaram sarı bağlar",
+        "Kız söyler gelin ağlar",
+        "Ne ben öldüm kurtuldum",
+        "Asyem karalar bağlar"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Uşşak makamı",
+    "usul": "2/4",
+    "notlar": "Kırık hava formunda, hüzünlü icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Makaram%20Sar%C4%B1%20Ba%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Makaram%20Sar%C4%B1%20Ba%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikipedi — Makaram Sarı Bağlar",
+      "url": "https://tr.wikipedia.org/wiki/Makaram_Sar%C4%B1_Ba%C4%9Flar",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Yurdu",
+      "url": "https://www.turkuyurdu.com/makaram-sari-baglar-729.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Diyarbakır",
+    "ağıt",
+    "sevda",
+    "kırık hava"
+  ]
+}

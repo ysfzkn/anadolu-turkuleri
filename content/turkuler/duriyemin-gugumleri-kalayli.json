@@ -1,0 +1,56 @@
+{
+  "slug": "duriyemin-gugumleri-kalayli",
+  "baslik": "Düriye'min Güğümleri Kalaylı",
+  "yore": "Karabük (Safranbolu)",
+  "kaynakKisi": "Mistan Kürkçü",
+  "derleyen": "Ankara Devlet Konservatuvarı (Sarısözen ekibi)",
+  "hikaye": "Düriye'min Güğümleri Kalaylı, Karabük'ün Safranbolu yöresinden mizahî-lirik bir türküdür. Güğümlerini durmadan kalaylatan, alaylı etekli Düriye etrafında dönen sözleri, yörenin gündelik hayatına neşeli bir bakış sunar.\nSıkça Zonguldak'a atfedilse de TRT kaydında Safranbolu/Karabük yöresine, kaynak kişi Mistan Kürkçü'den derlenmiş olarak tescillidir; Hüzzam makamında, aksak usülde icra edilir.",
+  "ozet": "Karabük-Safranbolu'dan; güğümlerini kalaylatan Düriye üzerine mizahî-lirik bir türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düriye'min güğümleri kalaylı",
+        "Fistan giymiş etekleri alaylı",
+        "Düriye'mi aldatması kolay mı"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Hüzzam makamı",
+    "usul": "Aksak"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=D%C3%BCriye'min%20G%C3%BC%C4%9F%C3%BCmleri%20Kalayl%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/D%C3%BCriye'min%20G%C3%BC%C4%9F%C3%BCmleri%20Kalayl%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Repertükül — TRT 2456 (Karabük/Safranbolu)",
+      "url": "https://www.repertukul.com/DURIYE-MIN-GUGUMLERI-KALAYLI-2456",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Üsküdar Musiki Cemiyeti",
+      "url": "https://www.uskudarmusikicemiyeti.com/sozlu-eser/duriyemin-gugumleri-kalayli-huzzam-turku/",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Karabük",
+    "Safranbolu",
+    "mizah",
+    "sevda"
+  ]
+}

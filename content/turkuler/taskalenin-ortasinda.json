@@ -1,0 +1,40 @@
+{
+  "slug": "taskalenin-ortasinda",
+  "baslik": "Taşkale'nin Ortasında",
+  "yore": "Karaman (Taşkale)",
+  "hikaye": "Taşkale'nin Ortasında, Karaman'ın Taşkale beldesinden bir halk türküsüdür. Taşkale, kayalara oyulmuş tarihî tahıl ambarlarıyla ünlü bir yerleşimdir; türkü bu köklü coğrafyanın sevda ve gündelik hayatından izler taşır.\nAnonim halk geleneğine ait türkünün ayrıntılı künyesi kaynaklarda tam netleşmemiştir; bu nedenle kaydı editör doğrulaması beklemektedir.",
+  "ozet": "Karaman-Taşkale'den; tarihî kaya ambarlarıyla ünlü yörenin sevda türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ta%C5%9Fkale'nin%20Ortas%C4%B1nda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ta%C5%9Fkale'nin%20Ortas%C4%B1nda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kültür Portalı — Karaman türküleri",
+      "url": "https://www.kulturportali.gov.tr/turkiye/karaman/kulturatlasi/karaman-turkuleri",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türkü Dostları — Karaman türküleri",
+      "url": "https://www.turkudostlari.net/sor.asp?b=1806",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Karaman",
+    "Taşkale",
+    "sevda"
+  ]
+}

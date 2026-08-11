@@ -1,0 +1,53 @@
+{
+  "slug": "kagizmana-ismarladim-nar-gele",
+  "baslik": "Kağızman'a Ismarladım Nar Gele",
+  "yore": "Kars (Kağızman)",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Kağızman'a Ismarladım Nar Gele, Kars'ın Kağızman yöresinden, hüznü ve neşeyi bir arada taşıyan ilginç bir türküdür. Anlatıya göre hastalanan bir gelin nar ister; kocası nar bulmaya gönderilirken çevredekiler 'nar ha geldi ha gelecek' diye teselli eder. Gelin nara kavuşamadan vefat eder.\nÖzünde bir ağıt olan türkü, zamanla oyun havası (halay/bar) formunda söylenir olmuştur. Muzaffer Sarısözen tarafından 1938'deki Doğu Anadolu derlemeleri sırasında Kağızman'da kayda geçirilmiştir.",
+  "ozet": "Kars-Kağızman'dan; hasta bir gelinin nar özlemine yakılan, ağıttan oyun havasına dönüşen türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kağızman'a ısmarladım nar gele",
+        "Nar gele de gümüş kemer dar gele"
+      ]
+    }
+  ],
+  "calim": {
+    "notlar": "Kökeni ağıt; sonradan halay/bar (oyun havası) formunda icra edilir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ka%C4%9F%C4%B1zman'a%20Ismarlad%C4%B1m%20Nar%20Gele%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ka%C4%9F%C4%B1zman'a%20Ismarlad%C4%B1m%20Nar%20Gele",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kağızman'a Ismarladım",
+      "url": "https://tr.wikisource.org/wiki/Ka%C4%9F%C4%B1zman'a_Ismarlad%C4%B1m_Nar_Gele_Nar_Gele",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-10"
+    },
+    {
+      "baslik": "Türküler.com",
+      "url": "https://www.turkuler.com/sozler/turku_kagizmana_ismarladim_nar_gele_nar_gele.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-10"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kars",
+    "Doğu Anadolu",
+    "ağıt",
+    "oyun havası"
+  ]
+}
