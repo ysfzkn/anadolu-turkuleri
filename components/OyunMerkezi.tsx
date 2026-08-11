@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import dynamic from "next/dynamic";
 import { CanliMeydan } from "@/components/CanliMeydan";
 import type { OzanGorseli } from "@/lib/ozan-gorselleri";
 
@@ -15,9 +16,15 @@ export interface OyunTurkusu {
   ozanGorseli: OzanGorseli | null;
 }
 
-type OyunKodu = "yore" | "hikaye" | "ozan" | "soz" | "iz" | "hafiza" | "dokuma" | "canli";
+type OyunKodu = "atlas3d" | "yore" | "hikaye" | "ozan" | "soz" | "iz" | "hafiza" | "dokuma" | "canli";
+
+const Anadolu3DOyunu = dynamic(() => import("./Anadolu3DOyunu").then((modul) => modul.Anadolu3DOyunu), {
+  ssr: false,
+  loading: () => <div className="grid min-h-[70vh] place-items-center rounded-[2rem] bg-ceviz text-parsomen"><div className="text-center"><span className="oyun-eslesme-dalga mx-auto grid h-20 w-20 place-items-center rounded-full border border-white/20 text-3xl">◇</span><p className="mt-5 font-serif text-2xl">3B Anadolu sahnesi hazırlanıyor…</p></div></div>,
+});
 
 const OYUNLAR: Array<{ kod: OyunKodu; ad: string; aciklama: string; ikon: string; renk: string; rozet: string }> = [
+  { kod: "atlas3d", ad: "Anadolu Atlası 3B", aciklama: "45 saniyede türküleri üç boyutlu şehir kapılarına ulaştır.", ikon: "◈", renk: "from-[#182c38] to-[#8f4b2f]", rozet: "WebGL · zamanlı sefer" },
   { kod: "yore", ad: "Yöre Avı", aciklama: "Türküyü doğru şehre bağla.", ikon: "⌖", renk: "from-kilim to-kilim-dark", rozet: "Hız + coğrafya" },
   { kod: "hikaye", ad: "Hikâye Dedektifi", aciklama: "Anlatının ait olduğu türküyü bul.", ikon: "⌕", renk: "from-cini to-cini-dark", rozet: "Kültür + hafıza" },
   { kod: "ozan", ad: "Ozanı Tanı", aciklama: "Eseri ozanı veya söz sahibiyle eşleştir.", ikon: "♬", renk: "from-toprak to-toprak-dark", rozet: "Ozan geleneği" },
@@ -103,7 +110,7 @@ export function OyunMerkezi({ turkuler }: { turkuler: OyunTurkusu[] }) {
             <div><p className="text-xs font-semibold uppercase tracking-[0.18em] text-white/70">{oyun.rozet}</p><h1 className="font-serif text-3xl font-semibold">{oyun.ad}</h1><p className="mt-1 text-sm text-white/80">{oyun.aciklama}</p></div>
           </div>
         </div>
-        {aktif === "hafiza" ? <HafizaOyunu turkuler={turkuler} puanEkle={setToplamPuan} /> : aktif === "dokuma" ? <DizeDokuma turkuler={turkuler} puanEkle={setToplamPuan} /> : aktif === "canli" ? <CanliMeydan turkuler={turkuler} /> : <SoruOyunu turkuler={turkuler} mod={aktif} puanEkle={setToplamPuan} />}
+        {aktif === "atlas3d" ? <Anadolu3DOyunu turkuler={turkuler} puanEkle={setToplamPuan} /> : aktif === "hafiza" ? <HafizaOyunu turkuler={turkuler} puanEkle={setToplamPuan} /> : aktif === "dokuma" ? <DizeDokuma turkuler={turkuler} puanEkle={setToplamPuan} /> : aktif === "canli" ? <CanliMeydan turkuler={turkuler} /> : <SoruOyunu turkuler={turkuler} mod={aktif} puanEkle={setToplamPuan} />}
       </div>
     );
   }
@@ -140,7 +147,7 @@ function OyunOzeti({ deger, etiket }: { deger: string; etiket: string }) {
   return <div className="rounded-2xl border border-white/10 bg-white/10 px-4 py-3 backdrop-blur-sm"><strong className="block font-serif text-xl text-white">{deger}</strong><span className="text-xs text-parsomen/60">{etiket}</span></div>;
 }
 
-function SoruOyunu({ turkuler, mod, puanEkle }: { turkuler: OyunTurkusu[]; mod: Exclude<OyunKodu, "hafiza" | "dokuma" | "canli">; puanEkle: React.Dispatch<React.SetStateAction<number>> }) {
+function SoruOyunu({ turkuler, mod, puanEkle }: { turkuler: OyunTurkusu[]; mod: Exclude<OyunKodu, "atlas3d" | "hafiza" | "dokuma" | "canli">; puanEkle: React.Dispatch<React.SetStateAction<number>> }) {
   const uygun = useMemo(() => turkuler.filter((t) => mod !== "ozan" || t.ozan).filter((t) => mod !== "soz" || t.sozler.length > 1), [turkuler, mod]);
   const [indeks, setIndeks] = useState(0);
   const [soru, setSoru] = useState(() => soruOlustur(uygun, mod));
@@ -171,7 +178,7 @@ function SoruOyunu({ turkuler, mod, puanEkle }: { turkuler: OyunTurkusu[]; mod: 
 
 type SoruVerisi = ReturnType<typeof soruOlustur>;
 
-function SoruSahnesi({ mod, soru, ipucu, ipucuAc }: { mod: Exclude<OyunKodu, "hafiza" | "dokuma" | "canli">; soru: SoruVerisi; ipucu: number; ipucuAc: () => void }) {
+function SoruSahnesi({ mod, soru, ipucu, ipucuAc }: { mod: Exclude<OyunKodu, "atlas3d" | "hafiza" | "dokuma" | "canli">; soru: SoruVerisi; ipucu: number; ipucuAc: () => void }) {
   if (mod === "yore") return <div className="oyun-harita-sahne relative mt-2 min-h-64 overflow-hidden rounded-3xl border border-kilim/20 bg-gradient-to-br from-parsomen-dark to-white/70 p-6"><div className="oyun-harita-iz absolute inset-0 opacity-30" aria-hidden /><span className="oyun-konum-nabiz absolute left-[18%] top-[58%] h-5 w-5 rounded-full bg-kilim" /><span className="oyun-konum-nabiz absolute right-[20%] top-[28%] h-4 w-4 rounded-full bg-cini [animation-delay:.5s]" /><div className="relative mx-auto grid min-h-52 max-w-lg place-items-center text-center"><div><p className="text-xs font-semibold uppercase tracking-[.18em] text-kilim">{soru.ust}</p><h2 className="mt-3 font-serif text-3xl font-semibold text-ceviz sm:text-4xl">{soru.soru}</h2><p className="mt-3 text-sm text-ceviz-light">Doğru durağı seç ve türküyü evine ulaştır.</p></div></div></div>;
 
   if (mod === "hikaye") { const kelimeler = soru.soru.split(" "); const gorunen = kelimeler.slice(0, Math.min(kelimeler.length, 10 + ipucu * 10)).join(" "); return <div className="relative mt-2 overflow-hidden rounded-3xl bg-[#eadfc9] p-6 shadow-inner sm:p-8"><span className="absolute right-5 top-5 rotate-6 rounded border-2 border-kilim/35 px-3 py-1 font-mono text-xs font-bold uppercase text-kilim/60">Arşiv dosyası</span><div className="absolute inset-y-0 left-7 border-l border-dashed border-toprak/35" /><div className="relative pl-7"><p className="font-mono text-xs uppercase tracking-[.18em] text-ceviz-light">Vaka no. {String(gorunen.length).padStart(3, "0")}</p><h2 className="mt-5 font-serif text-2xl font-semibold leading-relaxed text-ceviz">“{gorunen}{gorunen.length < soru.soru.length ? "…" : ""}”</h2>{gorunen.length < soru.soru.length && <button onClick={ipucuAc} className="mt-5 rounded-full border border-toprak/30 bg-white/40 px-4 py-2 text-xs font-semibold text-toprak-dark hover:bg-white/70">Yeni ipucu aç · −20 puan</button>}</div></div>; }
@@ -183,7 +190,7 @@ function SoruSahnesi({ mod, soru, ipucu, ipucuAc }: { mod: Exclude<OyunKodu, "ha
   const izler = soru.soru.split(" · "); return <div className="relative mt-2 min-h-72 overflow-hidden rounded-3xl bg-gradient-to-br from-[#e7eee8] to-white p-6"><div className="oyun-pusula absolute -right-12 -top-12 grid h-52 w-52 place-items-center rounded-full border-2 border-[#3f7a62]/20"><span className="h-32 w-1 rotate-45 bg-gradient-to-b from-kilim to-cini" /></div><div className="relative max-w-md"><p className="text-xs font-semibold uppercase tracking-[.2em] text-[#3f7a62]">Kültür pusulası</p><h2 className="mt-3 font-serif text-3xl font-semibold text-ceviz">İzleri takip et</h2><div className="mt-6 flex flex-wrap gap-3">{izler.map((iz, i) => <span key={iz} className="oyun-iz-etiketi rounded-full border border-[#3f7a62]/25 bg-white/65 px-4 py-2 text-sm font-semibold text-[#28523f]" style={{ animationDelay: `${i * 140}ms` }}>{iz}</span>)}</div>{soru.detay && <button onClick={ipucuAc} disabled={ipucu > 0} className="mt-7 rounded-full bg-[#3f7a62] px-4 py-2 text-xs font-semibold text-white disabled:opacity-60">{ipucu ? `Eser izi: ${soru.detay}` : "Eser izini göster · −20 puan"}</button>}</div></div>;
 }
 
-function SecenekIsareti({ mod, metin, indeks, turkuler }: { mod: Exclude<OyunKodu, "hafiza" | "dokuma" | "canli">; metin: string; indeks: number; turkuler: OyunTurkusu[] }) {
+function SecenekIsareti({ mod, metin, indeks, turkuler }: { mod: Exclude<OyunKodu, "atlas3d" | "hafiza" | "dokuma" | "canli">; metin: string; indeks: number; turkuler: OyunTurkusu[] }) {
   if (mod === "ozan") {
     const gorsel = turkuler.find((t) => t.ozan === metin)?.ozanGorseli;
     return gorsel ? <span className="absolute inset-x-0 top-2 mx-auto h-10 w-10 overflow-hidden rounded-full border-2 border-white shadow-sm"><img src={gorsel.src} alt="" className="h-full w-full object-cover" /></span> : <span className="absolute inset-x-0 top-2 mx-auto grid h-10 w-10 place-items-center rounded-full bg-toprak/15 font-serif text-sm not-italic text-toprak-dark">{metin.charAt(0)}</span>;
@@ -194,7 +201,7 @@ function SecenekIsareti({ mod, metin, indeks, turkuler }: { mod: Exclude<OyunKod
   return <span className="mr-2 text-[#3f7a62]" aria-hidden>✦</span>;
 }
 
-function soruOlustur(turkuler: OyunTurkusu[], mod: Exclude<OyunKodu, "hafiza" | "dokuma" | "canli">) {
+function soruOlustur(turkuler: OyunTurkusu[], mod: Exclude<OyunKodu, "atlas3d" | "hafiza" | "dokuma" | "canli">) {
   const t = turkuler[Math.floor(Math.random() * turkuler.length)];
   if (mod === "yore") return { ust: "Bu türkü hangi yöreye ait?", soru: t.baslik, detay: null, cevap: t.il, secenekler: farkliSecenekler(turkuler.map((x) => x.il), t.il) };
   if (mod === "hikaye") return { ust: "Bu hikâye hangi türküye ait?", soru: t.ozet, detay: null, cevap: t.baslik, secenekler: farkliSecenekler(turkuler.map((x) => x.baslik), t.baslik) };
