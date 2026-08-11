@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { tarayiciSupabase } from "@/lib/supabase/client";
+import { SpotifyAktarButonu } from "@/components/SpotifyAktarButonu";
 
 interface Liste {
   id: string;
@@ -166,7 +167,8 @@ export default function ListelerimSayfasi() {
                 </Link>
                 <div className="text-sm text-ceviz-light">{l.adet} türkü</div>
               </div>
-              <div className="flex shrink-0 items-center gap-2 text-sm">
+              <div className="flex shrink-0 flex-wrap items-center justify-end gap-2 text-sm">
+                {l.adet > 0 && <SpotifyAktarButonu listeId={l.id} />}
                 <button
                   onClick={() => gorunurluk(l)}
                   className={`rounded-lg border px-2.5 py-1 ${
