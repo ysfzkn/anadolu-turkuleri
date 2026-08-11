@@ -7,6 +7,7 @@ import { tarayiciSupabase } from "@/lib/supabase/client";
 /** Header'da giriş durumunu gösterir: giriş linki ya da kullanıcı + çıkış. */
 export function KullaniciMenusu() {
   const [email, setEmail] = useState<string | null>(null);
+  const [kullaniciAdi, setKullaniciAdi] = useState<string | null>(null);
   const [hazir, setHazir] = useState(false);
 
   useEffect(() => {
@@ -17,12 +18,23 @@ export function KullaniciMenusu() {
       setHazir(true); // env yok → giriş linki göster
       return;
     }
+    async function profilYukle(kullaniciId: string) {
+      const { data } = await supabase
+        .from("profiller")
+        .select("kullanici_adi")
+        .eq("id", kullaniciId)
+        .maybeSingle();
+      setKullaniciAdi(data?.kullanici_adi ?? null);
+    }
     supabase.auth.getUser().then(({ data }) => {
       setEmail(data.user?.email ?? null);
+      if (data.user) profilYukle(data.user.id);
       setHazir(true);
     });
     const { data: sub } = supabase.auth.onAuthStateChange((_e, session) => {
       setEmail(session?.user?.email ?? null);
+      if (session?.user) profilYukle(session.user.id);
+      else setKullaniciAdi(null);
     });
     return () => sub.subscription.unsubscribe();
   }, []);
@@ -55,10 +67,10 @@ export function KullaniciMenusu() {
           Listelerim
         </Link>
         <span
-          className="max-w-[9rem] truncate text-ceviz-light"
-          title={email}
+          className="max-w-[9rem] truncate font-medium text-ceviz"
+          title={email ?? undefined}
         >
-          {email}
+          {kullaniciAdi ? `@${kullaniciAdi}` : (email ?? "")}
         </span>
         <button
           onClick={cikis}

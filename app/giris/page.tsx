@@ -16,9 +16,12 @@ export default function GirisSayfasi() {
           alt=""
           className="mx-auto mb-4 h-40 w-auto rounded-2xl object-contain"
         />
-        <h1 className="font-serif text-3xl font-semibold text-ceviz">Giriş</h1>
+        <h1 className="font-serif text-3xl font-semibold text-ceviz">
+          Giriş / Üye ol
+        </h1>
         <p className="mt-2 text-ceviz-light">
-          Kendi türkü listelerini oluştur, kaydet ve paylaş.
+          Google ya da Spotify ile devam et; ilk girişte sana bir kullanıcı
+          adı seçtireceğiz.
         </p>
       </div>
       <div className="rounded-2xl border border-toprak/30 bg-parsomen p-6 shadow-motif">

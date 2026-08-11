@@ -90,6 +90,19 @@ create policy "acik_liste_turkuleri_oku" on public.liste_turkuleri
             where l.id = liste_id and l.herkese_acik = true)
   );
 
+-- Kullanıcı profilleri (kullanıcı adı — liderlik tablosu vb. için)
+create table public.profiller (
+  id uuid primary key references auth.users(id) on delete cascade,
+  kullanici_adi text unique not null,
+  olusturulma timestamptz not null default now()
+);
+alter table public.profiller enable row level security;
+-- Kullanıcı adları herkese açık (liderlik tablosu, paylaşım)
+create policy "profiller_oku" on public.profiller for select using (true);
+-- Kişi yalnızca kendi profilini oluşturur/günceller
+create policy "profiller_kendi" on public.profiller
+  for all using (auth.uid() = id) with check (auth.uid() = id);
+
 -- Kişisel repertuvar (bağlamada çalınan/öğrenilen türküler)
 create table public.repertuvar (
   kullanici_id uuid not null references auth.users(id) on delete cascade,
