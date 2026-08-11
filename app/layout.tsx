@@ -3,6 +3,7 @@ import { Lora, Inter } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
 import { StarMotif } from "@/components/Motif";
+import { KullaniciMenusu } from "@/components/KullaniciMenusu";
 
 const serif = Lora({
   subsets: ["latin", "latin-ext"],
@@ -50,20 +51,23 @@ export default function RootLayout({
                 Anadolu Türküleri
               </span>
             </Link>
-            <nav className="flex items-center gap-4 text-sm font-medium text-ceviz-light sm:gap-6">
-              <Link href="/" className="hover:text-kilim transition-colors">
-                Türküler
-              </Link>
-              <Link href="/quiz" className="hover:text-kilim transition-colors">
-                Oyun
-              </Link>
-              <Link
-                href="/hakkinda"
-                className="hidden hover:text-kilim transition-colors sm:inline"
-              >
-                Hakkında
-              </Link>
-            </nav>
+            <div className="flex items-center gap-4 sm:gap-6">
+              <nav className="flex items-center gap-4 text-sm font-medium text-ceviz-light sm:gap-6">
+                <Link href="/" className="hover:text-kilim transition-colors">
+                  Türküler
+                </Link>
+                <Link href="/quiz" className="hover:text-kilim transition-colors">
+                  Oyun
+                </Link>
+                <Link
+                  href="/hakkinda"
+                  className="hidden hover:text-kilim transition-colors sm:inline"
+                >
+                  Hakkında
+                </Link>
+              </nav>
+              <KullaniciMenusu />
+            </div>
           </div>
         </header>
 

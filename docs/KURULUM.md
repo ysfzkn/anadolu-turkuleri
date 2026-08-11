@@ -93,6 +93,30 @@ create policy "acik_liste_turkuleri_oku" on public.liste_turkuleri
 
 ---
 
+## 1b) Google ile giriş (Google Cloud)
+
+1. https://console.cloud.google.com → üstten bir **proje oluştur** (ör.
+   `anadolu-turkuleri`).
+2. **APIs & Services → OAuth consent screen**:
+   - User Type: **External** → Create
+   - App name, User support email, Developer contact email doldur → Save
+   - (Yayına almadan test edeceksen "Test users"a kendi Gmail'ini ekle.)
+3. **APIs & Services → Credentials → Create Credentials → OAuth client ID**:
+   - Application type: **Web application**
+   - **Authorized redirect URIs** → şunu ekle (Spotify'daki ile AYNI Supabase
+     callback'i):
+     ```
+     https://<proje>.supabase.co/auth/v1/callback
+     ```
+   - Create → çıkan **Client ID** ve **Client Secret**'ı kopyala.
+4. **Supabase → Authentication → Providers → Google**'ı aç → bu Client ID /
+   Secret'ı yapıştır, kaydet.
+
+> Yani hem Google hem Spotify aynı Supabase callback adresine döner; her iki
+> sağlayıcının kendi panelinde de aynı redirect URI kullanılır.
+
+---
+
 ## 2) Spotify Developer (giriş + önizleme + listeye ekleme)
 
 1. https://developer.spotify.com/dashboard → **Create app**
