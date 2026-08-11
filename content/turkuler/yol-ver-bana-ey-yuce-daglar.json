@@ -1,0 +1,67 @@
+{
+  "slug": "yol-ver-bana-ey-yuce-daglar",
+  "baslik": "Yol Ver Bana Ey Yüce Dağlar",
+  "yore": "Sivas",
+  "hikaye": "Yol Ver Bana Ey Yüce Dağlar, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol ver bana yol ver ey yüce dağlar",
+        "Yol ver artık ben sılama gideyim",
+        "Şimdi çiçek açtı bizim yaylalar",
+        "Yol ver artık ben sılama gideyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Etme dağlar şu hasretliği kaldır",
+        "Bunca gurbet bir ömüre zarardır",
+        "O yar ile aramızda söz vardır",
+        "Yol ver artık ben sılama gideyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akarsu'yum kaldım zalim gurbette",
+        "Vefasız yari olan gülmez elbette",
+        "Gözüm yoktur benim malda servette",
+        "Yol ver artık ben sılama gideyim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yol%20Ver%20Bana%20Ey%20Y%C3%BCce%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yol%20Ver%20Bana%20Ey%20Y%C3%BCce%20Da%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yol Ver Bana Ey Yüce Dağlar",
+      "url": "https://tr.wikisource.org/wiki/Yol_Ver_Bana_Ey_Y%C3%BCce_Da%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

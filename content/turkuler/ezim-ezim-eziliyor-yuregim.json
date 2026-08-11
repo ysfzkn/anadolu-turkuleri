@@ -1,0 +1,85 @@
+{
+  "slug": "ezim-ezim-eziliyor-yuregim",
+  "baslik": "Ezim Ezim Eziliyor Yüreğim",
+  "yore": "Sivas",
+  "hikaye": "Ezim Ezim Eziliyor Yüreğim, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezim ezim eziliyor yüreğim (vay)",
+        "Çok yalvardım kabul olmaz dileğim (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ağlarım doktor ağlar dert ağlar",
+        "Harap oldum yari gördüğüm çağlar",
+        "Laleli sünbüllü ne güzel bağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Telgrafın direkleri (de) dört olur",
+        "Sen ağlama yüreğime dert olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ağlarım doktor ağlar dert ağlar",
+        "Harap oldum yari gördüğüm çağlar",
+        "Laleli sünbüllü ne güzel bağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir tel verdim diyarbekir (de) valiye (vay)",
+        "Haber gelir çarşambaya saliye (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ağlarım doktor ağlar dert ağlar",
+        "Harap oldum yari gördüğüm çağlar",
+        "Laleli sünbüllü ne güzel bağlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ezim%20Ezim%20Eziliyor%20Y%C3%BCre%C4%9Fim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ezim%20Ezim%20Eziliyor%20Y%C3%BCre%C4%9Fim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ezim Ezim Eziliyor Yüreğim",
+      "url": "https://tr.wikisource.org/wiki/Ezim_Ezim_Eziliyor_Y%C3%BCre%C4%9Fim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

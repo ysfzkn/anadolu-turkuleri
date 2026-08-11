@@ -1,6 +1,9 @@
 {
   "slug": "zeynebim",
   "baslik": "Zeynebim",
+  "digerAdlar": [
+    "Zeynep Bu Güzellik Var mı Soyunda"
+  ],
   "yore": "Sivas (Kangal)",
   "kaynakKisi": "Âşık Süleyman",
   "derleyen": "Muzaffer Sarısözen",
@@ -26,8 +29,8 @@
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Zeynebim%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=ovQrDTWpe6k",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",
@@ -46,6 +49,12 @@
       "baslik": "Türkü Dostları",
       "url": "https://www.turkudostlari.net/soz.asp?turku=1079",
       "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
       "erisimTarihi": "2026-08-11"
     }
   ],

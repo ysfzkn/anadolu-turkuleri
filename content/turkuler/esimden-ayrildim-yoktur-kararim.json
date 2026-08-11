@@ -1,0 +1,88 @@
+{
+  "slug": "esimden-ayrildim-yoktur-kararim",
+  "baslik": "Eşimden Ayrıldım Yoktur Kararım",
+  "yore": "Sivas",
+  "hikaye": "Eşimden Ayrıldım Yoktur Kararım, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eşimden ayrıldım yoktur kararım",
+        "Uçan kuştan haberini sorarım",
+        "Gece gündüz hasretine yanarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni öldürmeli döğmeli değil",
+        "Karadır gözleri sürmeli değil",
+        "Beni öldürmeli döğmeli değil"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yedi yıldır haberini almadım",
+        "Geçti ömrüm bir murada ermedim",
+        "Fırsat elde iken demler sürmedim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni öldürmeli döğmeli değil",
+        "Karadır gözleri sürmeli değil",
+        "Beni öldürmeli döğmeli değil"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elimden aldırdım gözü elayı",
+        "Onun için terkeyledim sılayı",
+        "Başıma almışım türlü belayı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni öldürmeli döğmeli değil",
+        "Karadır gözleri sürmeli değil",
+        "Beni öldürmeli döğmeli değil"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=E%C5%9Fimden%20Ayr%C4%B1ld%C4%B1m%20Yoktur%20Karar%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/E%C5%9Fimden%20Ayr%C4%B1ld%C4%B1m%20Yoktur%20Karar%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eşimden Ayrıldım Yoktur Kararım",
+      "url": "https://tr.wikisource.org/wiki/E%C5%9Fimden_Ayr%C4%B1ld%C4%B1m_Yoktur_Karar%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

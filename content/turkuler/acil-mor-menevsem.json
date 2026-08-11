@@ -1,0 +1,57 @@
+{
+  "slug": "acil-mor-menevsem",
+  "baslik": "Açıl Mor Menevşem",
+  "yore": "Sivas",
+  "hikaye": "Açıl Mor Menevşem, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "🎶",
+        "Açıl mor menevşem bahar erişti,",
+        "Lale, sümbül, nergis, reyhan yetişti.",
+        "Benim kısmetime ak zambak düştü,",
+        "Menevşem oy bir tanem, ey haydi de haydi.",
+        "🎶",
+        "Çadır almış nerelerden gelirsin,",
+        "Benim sana yandığımı bilirsin.",
+        "Çok da sürmez benim gibi olursun,",
+        "Menevşem oy bir tanem, ey haydi de haydi.",
+        "🎶",
+        "Açılmış menevşem ne güzel olmuş,"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C3%A7%C4%B1l%20Mor%20Menev%C5%9Fem%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C3%A7%C4%B1l%20Mor%20Menev%C5%9Fem",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Açıl Mor Menevşem",
+      "url": "https://tr.wikisource.org/wiki/A%C3%A7%C4%B1l_Mor_Menev%C5%9Fem",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

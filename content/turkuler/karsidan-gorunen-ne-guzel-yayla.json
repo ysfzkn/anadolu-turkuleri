@@ -1,0 +1,86 @@
+{
+  "slug": "karsidan-gorunen-ne-guzel-yayla",
+  "baslik": "Karşıdan Görünen Ne Güzel Yayla",
+  "yore": "Sivas",
+  "sozYazari": "Pir Sultan Abdal",
+  "hikaye": "Karşıdan Görünen Ne Güzel Yayla, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan görünen ne güzel yayla",
+        "Bir dem süremedim giderim böyle",
+        "Ala gözlü pirim sen himmet eyle",
+        "Ben de bu yayladan Şaha giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğer göverüben bostan olursam",
+        "Şu halkın diline destan olursam",
+        "Kara toprak senden üstün olursam",
+        "Bende bu yayladan Şaha giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir bölük turnaya sökün dediler",
+        "Yürekteki derdi dökün dediler",
+        "Yayladan ötesi yakın dediler",
+        "Ben de bu yayladan Şaha giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost elinden dolu içmiş deliyim",
+        "Üstü kan köpüklü meşeseliyim",
+        "Ben bir yol oğluyum yol sefiliyim",
+        "Ben de bu yayladan Şaha giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Sultan Abdal'ım dünya durulmaz",
+        "Gitti giden ömür geri dönülmez",
+        "Gözlerim de Şah yolundan ayrılmaz",
+        "Ben de bu yayladan Şaha giderim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%C5%9F%C4%B1dan%20G%C3%B6r%C3%BCnen%20Ne%20G%C3%BCzel%20Yayla%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%C5%9F%C4%B1dan%20G%C3%B6r%C3%BCnen%20Ne%20G%C3%BCzel%20Yayla",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karşıdan Görünen Ne Güzel Yayla",
+      "url": "https://tr.wikisource.org/wiki/Kar%C5%9F%C4%B1dan_G%C3%B6r%C3%BCnen_Ne_G%C3%BCzel_Yayla",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

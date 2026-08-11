@@ -1,0 +1,85 @@
+{
+  "slug": "mecnunum-leylami-gordum",
+  "baslik": "Mecnunum Leyla'mı Gördüm",
+  "yore": "Sivas",
+  "hikaye": "Mecnunum Leyla'mı Gördüm, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mecnunum leyla'mı gördüm",
+        "Bir kerece bakdı geçti",
+        "Ne sordu ne de söyledi",
+        "Kaşlarını yıktı geçti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Soramadım bir çift sözü",
+        "Ay mıydı gün müydü yüzü",
+        "Sandım ki zühre yıldızı",
+        "Şavkı beni yaktı geçti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ateşinden duramadım",
+        "Ben bu sırra eremedim",
+        "Seher vakti göremedim",
+        "Yıldız gibi aktı geçti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bilmem hangi burç yıldızı",
+        "Bu dertler yareler bizi",
+        "Gamze okun bazı bazı",
+        "Yar sineme çaktı geçti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İzzeti der ne hikmet iş",
+        "Uyur iken gördüm bir düş",
+        "Zülüflerin kement etmiş",
+        "Yar boynuma taktı geçti"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mecnunum%20Leyla'm%C4%B1%20G%C3%B6rd%C3%BCm%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mecnunum%20Leyla'm%C4%B1%20G%C3%B6rd%C3%BCm",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mecnunum Leyla'mı Gördüm",
+      "url": "https://tr.wikisource.org/wiki/Mecnunum_Leyla'm%C4%B1_G%C3%B6rd%C3%BCm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

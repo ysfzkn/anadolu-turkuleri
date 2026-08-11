@@ -1,0 +1,94 @@
+{
+  "slug": "mendilinde-kar-getir",
+  "baslik": "Mendilinde Kar Getir",
+  "yore": "Sivas",
+  "hikaye": "Mendilinde Kar Getir, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilinde kar getir (Uy anam güzeller)",
+        "Mendilinde kar getir (Uy anam güzeller)",
+        "Al da bize nar getir (Uy anam güzeller)",
+        "Al da bize nar getir (Uy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendilim turalıdır (Uy anam güzeller)",
+        "Mendilim turalıdır (Uy anam güzeller)",
+        "Sevdiğim buralıdır (Uy anam güzeller)",
+        "Sevdiğim buralıdır (Uy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil attım taşına (Uy anam güzeller)",
+        "Mendil attım taşına (Uy anam güzeller)",
+        "Göz doldu yaş ile (Uy anam güzeller)",
+        "Göz doldu yaş ile (Uy anam güzeller)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Uy güzeller güzeller (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)",
+        "Gerdana gül dizerler (Uy anam güzeller)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=R7WhePs4BAU",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mendilinde%20Kar%20Getir%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mendilinde Kar Getir (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Mendilinde_Kar_Getir_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

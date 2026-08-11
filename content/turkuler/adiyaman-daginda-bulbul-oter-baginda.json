@@ -2,14 +2,67 @@
   "slug": "adiyaman-daginda-bulbul-oter-baginda",
   "baslik": "Adıyaman Dağında Bülbül Öter Bağında",
   "yore": "Adıyaman",
-  "hikaye": "Adıyaman Dağında Bülbül Öter Bağında, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Adıyaman Dağında Bülbül Öter Bağında, Adıyaman yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Adıyaman yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adıyaman dağında",
+        "Adıyaman dağında",
+        "Bülbül öter bağında",
+        "Bülbül öter bağında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben yarimi tanırım",
+        "Ben yarimi tanırım",
+        "Beni var yanağında",
+        "Beni var yanağında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben yarimi tanırım",
+        "Ben yarimi tanırım",
+        "Beni var yanağında",
+        "Beni var yanağında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy aman vay aman",
+        "Burası Adıyaman",
+        "Burası Adıyaman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uy aman vay aman",
+        "Sevdiğim Adıyaman",
+        "Sevdiğim Adıyaman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adıyaman dağları",
+        "Adıyaman dağları",
+        "Mor sümbüldür bağları",
+        "Mor sümbüldür bağları"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Ad%C4%B1yaman%20Da%C4%9F%C4%B1nda%20B%C3%BClb%C3%BCl%20%C3%96ter%20Ba%C4%9F%C4%B1nda%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=CclUWzEY5x0",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

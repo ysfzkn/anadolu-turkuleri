@@ -1,0 +1,85 @@
+{
+  "slug": "geline-bak-geline",
+  "baslik": "Geline Bak Geline",
+  "yore": "Sivas",
+  "hikaye": "Geline Bak Geline, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geline bak geline",
+        "Kına yakmış eline",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare",
+        "Yazık olmuş geline",
+        "Düşmüş sarhoş eline",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köprüden geçti gelin",
+        "Saç bağın düştü gelin",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare",
+        "Eğildim su içmeye",
+        "Aklıma düştü gelin",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köprünün altı diken",
+        "Yaktın beni gül iken",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare",
+        "Allah da seni yaksın",
+        "Üç günlük gelin iken",
+        "Yar hayda",
+        "Halden bilmez ne fayda",
+        "Söz anlamaz ne çare"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=Ie8HdyCzqw4",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Geline%20Bak%20Geline%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Geline Bak Geline (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Geline_Bak_Geline_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

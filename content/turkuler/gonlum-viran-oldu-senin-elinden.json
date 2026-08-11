@@ -1,0 +1,64 @@
+{
+  "slug": "gonlum-viran-oldu-senin-elinden",
+  "baslik": "Gönlüm Viran Oldu Senin Elinden",
+  "yore": "Sivas",
+  "hikaye": "Gönlüm Viran Oldu Senin Elinden, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönlüm viran oldu senin elinden",
+        "Oy dağlar dağlar vay dağlar dağlar yanasın dağlar",
+        "Baykuş bile konmaz oldu ne çare",
+        "Oy dağlar dağlar yanasın dağlar",
+        "Mecnun olsam geçmem ıssız çölünden (oy dağlar)",
+        "Gafil avlanmışım amma ne çare",
+        "Oy dağlar dağlar yanasın dağlar derdi olan ağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Boşuna kar yağmış yüce dağlara",
+        "Oy dağlar dağlar vay dağlar dağlar yanasın dağlar",
+        "Bülbül zar ediyor güle bağlara",
+        "Oy dağlar dağlar yanasın dağlar",
+        "Mecnun gibi çıktım yüce dağlara (oy dağlar)",
+        "Feryadım duyarsın amma ne çare",
+        "Oy dağlar dağlar yanasın dağlar derdi olan ağlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=G%C3%B6nl%C3%BCm%20Viran%20Oldu%20Senin%20Elinden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/G%C3%B6nl%C3%BCm%20Viran%20Oldu%20Senin%20Elinden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gönlüm Viran Oldu Senin Elinden",
+      "url": "https://tr.wikisource.org/wiki/G%C3%B6nl%C3%BCm_Viran_Oldu_Senin_Elinden",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

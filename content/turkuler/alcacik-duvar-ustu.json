@@ -1,0 +1,74 @@
+{
+  "slug": "alcacik-duvar-ustu",
+  "baslik": "Alçacık Duvar Üstü",
+  "yore": "Sivas",
+  "hikaye": "Alçacık Duvar Üstü, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alçacık duvar üstü (gelin gelin amman vay üstü)",
+        "(haydi de) mendilim suya düstü",
+        "Mendilimi alırken (gelin gelin amman vay üstü)",
+        "(haydi de) yarim aklıma düştü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sallan gel boyuna da bakayım amman",
+        "Ak gerdana beşibirlik takayım amman",
+        "Gel gel aman gül gül aman",
+        "Duvar üstü kum tutar (gelin gelin amman vay üstü)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(haydi de) iki gelin mum tutar",
+        "Güzelleri sevdikçe (gelin gelin amman vay üstü)",
+        "(haydi de) çirkinleri huy tutar",
+        "Sallan gel boyuna da bakayım amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak gerdana beşibirlik takayım amman",
+        "Gel gel aman gül gül aman"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Al%C3%A7ac%C4%B1k%20Duvar%20%C3%9Cst%C3%BC%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Al%C3%A7ac%C4%B1k%20Duvar%20%C3%9Cst%C3%BC",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Alçacık Duvar Üstü",
+      "url": "https://tr.wikisource.org/wiki/Al%C3%A7ac%C4%B1k_Duvar_%C3%9Cst%C3%BC",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -2,9 +2,41 @@
   "slug": "adilemin-uc-boncuklu-hasiri",
   "baslik": "Adile'min Üç Boncuklu Hasırı",
   "yore": "Antalya",
-  "hikaye": "Adile'min Üç Boncuklu Hasırı, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Adile'min Üç Boncuklu Hasırı, Antalya yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Antalya yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adile’min üç boncuklu hasırı",
+        "Adile’m olmuş düşmanların yesiri",
+        "Hiç yok mudur abeysinin hatırı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Gül mü sandım gül Adile’m solacak",
+        "Sen ölürsen gara (gara) yerler dolacak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül mü sandım gül Adile’m solacak",
+        "Sen ölürsen gara (gara) yerler dolacak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adile’min saçına (da) altın takmalı",
+        "Takıp takıp cemaline bakmalı",
+        "Adile’mle bir odada yatmalı."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

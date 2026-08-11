@@ -2,9 +2,27 @@
   "slug": "aglama-kazibem-sizlama-kazibem",
   "baslik": "Ağlama Kâzibe'm Sızlama Kâzibe'm",
   "yore": "Edirne",
-  "hikaye": "Ağlama Kâzibe'm Sızlama Kâzibe'm, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Ağlama Kâzibe'm Sızlama Kâzibe'm, Edirne yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Edirne yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama Kâzibe’m sızlama Kâzibe’m",
+        "Telli de gelinsin Kâzibe’m telli de gelin",
+        "Yedi seneye varmadan Kâzibe’m",
+        "Sen yine benimsin Kâzibe’m sen yine benimsinKazibe’m heyDön gel oynaKazibe’m heyEl çırp oyna, Kâzibe’m",
+        "Sürücüler altında moryada Kâzibe’m",
+        "Aşlama ocağı Kâzibe’m aşlama ocağı",
+        "Pek atardın moryada Kâzibe’m",
+        "Bulamadın kocayı Kâzibe’m bulamadın kocayı",
+        "NAKARAT",
+        "Pencereden bakarsın Kâzibem",
+        "Elma mı atarsın Kâzibe’m elma mı atarsın",
+        "Hasan Kahya’yı görünce Kâzibe’m"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

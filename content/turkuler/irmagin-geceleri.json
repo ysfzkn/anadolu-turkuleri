@@ -1,0 +1,72 @@
+{
+  "slug": "irmagin-geceleri",
+  "baslik": "Irmağın Geçeleri",
+  "yore": "Sivas",
+  "hikaye": "Irmağın Geçeleri, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Irmağın geçeleri",
+        "(ağam gurban) kız kaldır peçeleri (hey)",
+        "Bu güzellik sendeyken",
+        "(ağam) öldürün niceleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Böyl'olsun da nazlı yarım böyl'olsun hey",
+        "Bu yazlık da bu kışlık da böyl'olsun hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Irmak sıra su sıra",
+        "(ağam) iplik sara masura (hey)",
+        "Koyun olsam yayılsam",
+        "(ağam) yarımın ardı sıra (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Böyl'olsun da nazlı yarım böyl'olsun hey",
+        "Bu yazlık da bu kışlık da böyl'olsun hey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Irma%C4%9F%C4%B1n%20Ge%C3%A7eleri%20(Sivas)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Irma%C4%9F%C4%B1n%20Ge%C3%A7eleri%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Irmağın Geçeleri (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Irma%C4%9F%C4%B1n_Ge%C3%A7eleri_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

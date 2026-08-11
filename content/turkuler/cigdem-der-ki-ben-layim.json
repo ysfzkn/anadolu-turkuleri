@@ -1,0 +1,100 @@
+{
+  "slug": "cigdem-der-ki-ben-layim",
+  "baslik": "Çiğdem Der ki Ben Âlâyım",
+  "yore": "Sivas",
+  "sozYazari": "Âşık Veysel",
+  "hikaye": "Çiğdem Der ki Ben Âlâyım, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser sahibi kayıtta Âşık Veysel olarak belirtilir. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çiğdem der ki ben elayım",
+        "Yiğit başına belayım",
+        "Hepisinden ben âlâyım",
+        "Benden âlâ çiçek var mı çiçek var mı hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al baharlı mavi dağlar",
+        "Yârim gurbet elde ağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lale der ki be hey tanrı",
+        "Benim boynum neden eğri",
+        "Yârdan ayrı düştüm gayrı",
+        "Benden âlâ çiçek var mı çiçek var mı hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayır çimen doldu dağlar",
+        "Yârim gurbet elde ağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nevruz der ki ben nazlıyım",
+        "Sarp kayalarda gizliyim",
+        "Mavi donlu gök gözlüyüm",
+        "Benden âlâ çiçek var mı çiçek var mı hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al baharlı mavi dağlar",
+        "Yârim gurbet elde ağlar",
+        "Sünbül der ki boyum uzun",
+        "Yapraklarım düzüm düzüm",
+        "Beni ak gerdana dizin",
+        ":Benden âlâ çiçek var mı çiçek var mı hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayır çimen doldu dağlar",
+        "Yârim gurbet elde ağlar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87i%C4%9Fdem%20Der%20ki%20Ben%20%C3%82l%C3%A2y%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87i%C4%9Fdem%20Der%20ki%20Ben%20%C3%82l%C3%A2y%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çiğdem Der ki Ben Âlâyım",
+      "url": "https://tr.wikisource.org/wiki/%C3%87i%C4%9Fdem_Der_ki_Ben_%C3%82l%C3%A2y%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "âşık geleneği"
+  ]
+}

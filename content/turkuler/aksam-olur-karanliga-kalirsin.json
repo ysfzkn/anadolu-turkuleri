@@ -1,0 +1,82 @@
+{
+  "slug": "aksam-olur-karanliga-kalirsin",
+  "baslik": "Akşam Olur Karanlığa Kalırsın",
+  "yore": "Sivas",
+  "hikaye": "Akşam Olur Karanlığa Kalırsın, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam olur karanlığa kalırsın",
+        "Derin derin sevdalara dalarsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni koyup yadellere varırsın",
+        "Sana zulum bana ölüm değil mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbül ne ötersin yuvan mı yoktur",
+        "Yoksa benim gibi sevdan mı çoktur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sar'altın yaptırsam yarin boynuna",
+        "Vallah güzellerin düşmanı çoktur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odası toz olmuş dolabı duman",
+        "Uyan kömür gözlüm uykudan uyan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellerin elime deydiği zaman",
+        "İster ölüm olsun ister ayrılık"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ak%C5%9Fam%20Olur%20Karanl%C4%B1%C4%9Fa%20Kal%C4%B1rs%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ak%C5%9Fam%20Olur%20Karanl%C4%B1%C4%9Fa%20Kal%C4%B1rs%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Akşam Olur Karanlığa Kalırsın",
+      "url": "https://tr.wikisource.org/wiki/Ak%C5%9Fam_Olur_Karanl%C4%B1%C4%9Fa_Kal%C4%B1rs%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

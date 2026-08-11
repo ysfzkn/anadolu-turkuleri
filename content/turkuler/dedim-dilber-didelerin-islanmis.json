@@ -1,0 +1,67 @@
+{
+  "slug": "dedim-dilber-didelerin-islanmis",
+  "baslik": "Dedim Dilber Didelerin Islanmış",
+  "yore": "Sivas",
+  "hikaye": "Dedim Dilber Didelerin Islanmış, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah, dedim dilber didelerin ıslanmış",
+        "Dedi çok ağladım sel yarasıdır",
+        "Ah, dedim dilber yanakların dişlenmiş",
+        "Dedi zülüf değdi tel yarasıdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah, dedim dilber yanakların al olmuş",
+        "Bugün bana başka başka hal olmuş",
+        "Ah, dedim dilber yanakların gül olmuş",
+        "Dedi çiçek soktum gül yarasıdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah, dedim emrah aklım başımdan aldın",
+        "Dedi bu cihanda beni mi buldun",
+        "Ah, dedim dilber niçin sarardın soldun",
+        "Dedi çekticeğim dil yarasıdır"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Dedim%20Dilber%20Didelerin%20Islanm%C4%B1%C5%9F%20(Sivas)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Dedim%20Dilber%20Didelerin%20Islanm%C4%B1%C5%9F%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dedim Dilber Didelerin Islanmış (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Dedim_Dilber_Didelerin_Islanm%C4%B1%C5%9F_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

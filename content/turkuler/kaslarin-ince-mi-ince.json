@@ -1,0 +1,58 @@
+{
+  "slug": "kaslarin-ince-mi-ince",
+  "baslik": "Kaşların İnce mi İnce",
+  "yore": "Sivas",
+  "hikaye": "Kaşların İnce mi İnce, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşların karasına (vay le le vay le)",
+        "Mim çekmiş arasına (yar yangınam ben vurgunam)",
+        "Seni merhem diyorlar (vay le le vay le)",
+        "Sinemin yarasına (yar yangınam ben vurgunam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşların ince mince (vay le le vay le)",
+        "Ölürüm görmeyince (yar yangınam ben vurgunam)",
+        "Ben senden ayrılamam (vay le le vay le)",
+        "Kabire girmeyince (yar yangınam ben vurgunam)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=M6ORHiaaJvM",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ka%C5%9Flar%C4%B1n%20%C4%B0nce%20mi%20%C4%B0nce",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaşların İnce mi İnce",
+      "url": "https://tr.wikisource.org/wiki/Ka%C5%9Flar%C4%B1n_%C4%B0nce_mi_%C4%B0nce",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "ocakta-kahve-pisirir",
+  "baslik": "Ocakta Kahve Pişirir",
+  "yore": "Sivas",
+  "hikaye": "Ocakta Kahve Pişirir, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ocakta kahve pişirir",
+        "Gören aklını şaşırır",
+        "Çıkmış bahçe de devşirir",
+        "Susam mıdır sünbül müdür",
+        "Güle de gül gül müdür bilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevdiğim seyrana çıkar",
+        "Ateşi sinemi yakar",
+        "Emzik emzik olmuş akar",
+        "Şeker midir şerbet midir",
+        "Bala da bal bal mıdır bilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir asilzade uşağı",
+        "Belinde ipek kuşağı",
+        "Dökmüş gerdana aşağı",
+        "Zülüf müdür kakül müdür",
+        "Tele de tel tel midir bilmem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sefil Suzani'nin yari",
+        "Boyu servi dal çınarı",
+        "Küsmüş söylemiyor barı",
+        "Dilli midir dilsiz midir",
+        "Lala da lal lal mıdır bilmem"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ocakta%20Kahve%20Pi%C5%9Firir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ocakta%20Kahve%20Pi%C5%9Firir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ocakta Kahve Pişirir",
+      "url": "https://tr.wikisource.org/wiki/Ocakta_Kahve_Pi%C5%9Firir",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

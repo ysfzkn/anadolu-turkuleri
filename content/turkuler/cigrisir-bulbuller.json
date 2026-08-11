@@ -1,0 +1,73 @@
+{
+  "slug": "cigrisir-bulbuller",
+  "baslik": "Çığrışır Bülbüller",
+  "yore": "Sivas",
+  "hikaye": "Çığrışır Bülbüller, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çığrışır bülbüller gelmiyor bağban",
+        "Hoyrat dost bağından (yar yar)",
+        "Gül aldı gitti",
+        "Yüz bin mihnet ile bir bağ bitirdim",
+        "Ben yari bezettim (yar yar)",
+        "El aldı gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüz bin mihnet çektim bir daha gerek",
+        "Hayli ömür ister (yar yar)",
+        "Bir daha gerek",
+        "Yari elden aldı o kanlı felek",
+        "Aktı gözüm yaşı (yar yar)",
+        "Sel oldu gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nazlı yardan kem haberler geliyor",
+        "Dostlarım ağlıyor (yar yar)",
+        "Düşman gülüyor",
+        "Dediler ki sefil emrah ölüyor",
+        "Kimi kazma kürek (yar yar)",
+        "Bel aldı gitti"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87%C4%B1%C4%9Fr%C4%B1%C5%9F%C4%B1r%20B%C3%BClb%C3%BCller%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87%C4%B1%C4%9Fr%C4%B1%C5%9F%C4%B1r%20B%C3%BClb%C3%BCller",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çığrışır Bülbüller",
+      "url": "https://tr.wikisource.org/wiki/%C3%87%C4%B1%C4%9Fr%C4%B1%C5%9F%C4%B1r_B%C3%BClb%C3%BCller",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

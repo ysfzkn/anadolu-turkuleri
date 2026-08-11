@@ -1,0 +1,67 @@
+{
+  "slug": "uc-bes-sik-bir-araya-gelmisler",
+  "baslik": "Üç Beş Âşık Bir Araya Gelmişler",
+  "yore": "Sivas",
+  "hikaye": "Üç Beş Âşık Bir Araya Gelmişler, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç beş âşık bir araya gelmişler (efendim cananım)",
+        "Onlar birbirine meydan ederler (ömrüm ömrüm yaresi dost)",
+        "İkrarından dönmez kadr-i sadıklar (efendim cananım)",
+        "Hakikat sırrını pünhan ederler (ömrüm ömrüm yaresi dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olaydın anların darına berdar (efendim cananım)",
+        "Cümlesine oldu aklım tarumar (ömrüm ömrüm yaresi dost)",
+        "On iki kovunum uç beş kuzum var (efendim cananım)",
+        "Gönül yaylasında cevyan ederler (ömrüm ömrüm yaresi dost)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dertli bu dertlere düşenden beri (efendim cananım)",
+        "Kimi geri çeker kimi ileri (ömrüm ömrüm yaresi dost)",
+        "Çeksem rakibi girmez içeri (efendim cananım)",
+        "Hakikata kuru bühtan ederler (ömrüm ömrüm yaresi dost)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%9C%C3%A7%20Be%C5%9F%20%C3%82%C5%9F%C4%B1k%20Bir%20Araya%20Gelmi%C5%9Fler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%9C%C3%A7%20Be%C5%9F%20%C3%82%C5%9F%C4%B1k%20Bir%20Araya%20Gelmi%C5%9Fler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Üç Beş Âşık Bir Araya Gelmişler",
+      "url": "https://tr.wikisource.org/wiki/%C3%9C%C3%A7_Be%C5%9F_%C3%82%C5%9F%C4%B1k_Bir_Araya_Gelmi%C5%9Fler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

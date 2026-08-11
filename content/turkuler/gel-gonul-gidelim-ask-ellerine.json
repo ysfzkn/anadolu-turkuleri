@@ -1,0 +1,88 @@
+{
+  "slug": "gel-gonul-gidelim-ask-ellerine",
+  "baslik": "Gel Gönül Gidelim Aşk Ellerine",
+  "yore": "Sivas",
+  "hikaye": "Gel Gönül Gidelim Aşk Ellerine, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gönül gidelim aşk ellerine",
+        "Muradın var ise bir tane yeter",
+        "Fikreyle kıldığın amellerine",
+        "Havayı cehline efsane yeter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havayı cehline efsane yeter",
+        "Efendim gül yüzlüm tabibim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meyl-i dünya kılıp olma bednam",
+        "Kim aldı felekten muradına kam",
+        "Ölüm var mı yok mu ahiri encam",
+        "Vakit geçirmeye virane yeter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vakit geçirmeye virane yeter",
+        "Efendim gül yüzlüm tabibim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Turabi özün payımal eyle",
+        "Erenler yolunda kesbi hal eyle",
+        "Şu fani dünyayı bir hayal eyle",
+        "Gelip konan göçtü nişane yeter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelip konan göçtü nişane yeter",
+        "Efendim gül yüzlüm tabibim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Gel%20G%C3%B6n%C3%BCl%20Gidelim%20A%C5%9Fk%20Ellerine%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Gel%20G%C3%B6n%C3%BCl%20Gidelim%20A%C5%9Fk%20Ellerine",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Gel Gönül Gidelim Aşk Ellerine",
+      "url": "https://tr.wikisource.org/wiki/Gel_G%C3%B6n%C3%BCl_Gidelim_A%C5%9Fk_Ellerine",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

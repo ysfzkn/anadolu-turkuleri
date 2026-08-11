@@ -1,0 +1,80 @@
+{
+  "slug": "sivasta-bir-yar-sevdim",
+  "baslik": "Sivas'ta Bir Yâr Sevdim",
+  "yore": "Sivas",
+  "hikaye": "Sivas'ta Bir Yâr Sevdim, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Sivas'ta bir yar sevdim adı Hürmüz aman",
+        "Kaşı gözü yaman, boyu posu keman",
+        "Aman aman Hürmüz, gel sen bize gündüz",
+        "Aman aman Hürmüz, gel sen bize gündüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Sivasın yollarında çok bekledim seni",
+        "Aldattın hep beni, nerden gördüm seni",
+        "Aman Aman Hürmüz, gel sen bize gündüz",
+        "Aman Aman Hürmüz, gel sen bize gündüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Sivas'ta bir yar sevdim adı Hürmüz aman",
+        "Kaşı gözü yaman, boyu posu keman",
+        "Aman aman Hürmüz, gel sen bize gündüz",
+        "Aman aman Hürmüz, gel sen bize gündüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey",
+        "Sivasın bağlarında bülbül gibi öter",
+        "Ötme Hürmüz yeter,oldu halim beter",
+        "Aman aman Hürmüz, gel sen bize gündüz",
+        "Aman aman Hürmüz, gel sen bize gündüz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sivas'ta%20Bir%20Y%C3%A2r%20Sevdim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sivas'ta%20Bir%20Y%C3%A2r%20Sevdim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sivas'ta Bir Yâr Sevdim",
+      "url": "https://tr.wikisource.org/wiki/Sivas'ta_Bir_Y%C3%A2r_Sevdim",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

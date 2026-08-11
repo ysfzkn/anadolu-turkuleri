@@ -1,0 +1,76 @@
+{
+  "slug": "baydigin-basinda-duman-irimaz",
+  "baslik": "Baydığın Başında Duman Irımaz",
+  "yore": "Sivas",
+  "hikaye": "Baydığın Başında Duman Irımaz, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baydığın başında duman ırımaz",
+        "Arap at yorulurda gönül yorulmaz",
+        "Benim yarim bu yerlerde bir tane",
+        "Arasam dünyayı dengi bulunmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yıkıldı duvarım kaldım avara",
+        "Kadir mevlam işlerimi onara",
+        "Sallanı sallanı eski pınara",
+        "Gelen yosma benim olsa gerektir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derdimi yüklesem arap atlara",
+        "Gözyaşım dökeyim yeşil otlara",
+        "Seni beni yaradanı seversen",
+        "Nasıl dayanayım ben bu dertlere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başının bir yanı yoldur",
+        "Doldur suna boylum destini doldur",
+        "Yolunun üstüne tatıp uyursam",
+        "Kaldır suna boylum sen beni kaldır"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bayd%C4%B1%C4%9F%C4%B1n%20Ba%C5%9F%C4%B1nda%20Duman%20Ir%C4%B1maz%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bayd%C4%B1%C4%9F%C4%B1n%20Ba%C5%9F%C4%B1nda%20Duman%20Ir%C4%B1maz",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Baydığın Başında Duman Irımaz",
+      "url": "https://tr.wikisource.org/wiki/Bayd%C4%B1%C4%9F%C4%B1n_Ba%C5%9F%C4%B1nda_Duman_Ir%C4%B1maz",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

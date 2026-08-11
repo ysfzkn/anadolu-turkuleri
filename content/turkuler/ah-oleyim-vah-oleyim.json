@@ -2,9 +2,28 @@
   "slug": "ah-oleyim-vah-oleyim",
   "baslik": "Ah Öleyim Vah Öleyim",
   "yore": "Ankara",
-  "hikaye": "Ah Öleyim Vah Öleyim, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Ah Öleyim Vah Öleyim, Ankara yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Ankara yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah öleyim vah öleyim",
+        "Esmeri nerde göreyim(yâr yandım aman)",
+        "Esmer yârimin yanında",
+        "Ben bayılayım öleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu gelen kimin kızı",
+        "Feracesi kırmızı (yâr yandım aman)",
+        "Gerdanında beş beni var",
+        "Sandım seher yıldızı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

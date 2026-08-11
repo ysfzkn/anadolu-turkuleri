@@ -1,0 +1,67 @@
+{
+  "slug": "beklerim-selamin-seher-zamani",
+  "baslik": "Beklerim Selamın Seher Zamanı",
+  "yore": "Sivas",
+  "hikaye": "Beklerim Selamın Seher Zamanı, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beklerim selamın seher zamanı",
+        "Ilgıt ılgıt esen yelinen gönder",
+        "Engel olur ise dağlar dumanı",
+        "Mektupla geç gelir telinen gönder"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşk ataşı gül sinende taşarsa",
+        "Firgat gelir ela gözler yaşarsa",
+        "Irmak kenarına yolun düşerse",
+        "Bırak boz bulanık selinen gönder"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Selviye benzersin dallar içinde",
+        "Alem seni söyler diller içinde",
+        "Eğer dolaşırsan güller içinde",
+        "Kopar yaprağını gülünen gönder"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Beklerim%20Selam%C4%B1n%20Seher%20Zaman%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Beklerim%20Selam%C4%B1n%20Seher%20Zaman%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beklerim Selamın Seher Zamanı",
+      "url": "https://tr.wikisource.org/wiki/Beklerim_Selam%C4%B1n_Seher_Zaman%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

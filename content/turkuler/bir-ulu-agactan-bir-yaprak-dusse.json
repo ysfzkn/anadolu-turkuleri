@@ -1,0 +1,76 @@
+{
+  "slug": "bir-ulu-agactan-bir-yaprak-dusse",
+  "baslik": "Bir Ulu Ağaçtan Bir Yaprak Düşse",
+  "yore": "Sivas",
+  "hikaye": "Bir Ulu Ağaçtan Bir Yaprak Düşse, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ulu ağaçtan bir yaprak düşse",
+        "O anda acısın duyar iniler",
+        "Katlansa acıya sakince geçse",
+        "Esen rüzgarlara uyar iniler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu aşkın meyinden içip de kanan",
+        "Gendeki başını sevdaya salan",
+        "Yârinden ayrılıp gurbette kalan",
+        "Geçen günlerini sayar iniler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çağlayıp akıyor bakarsın suya",
+        "Yağan yağmurlardan zevk duya duya",
+        "Geçer dolaplardan yeter arzuya",
+        "Başını çarklara koyar iniler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar çiçek açar Veysel dert açar",
+        "Derdine düştüğüm yar benden kaçar",
+        "Gerçek âşık olan kendinden geçer",
+        "Derdini aleme yayar iniler"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bir%20Ulu%20A%C4%9Fa%C3%A7tan%20Bir%20Yaprak%20D%C3%BC%C5%9Fse%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bir%20Ulu%20A%C4%9Fa%C3%A7tan%20Bir%20Yaprak%20D%C3%BC%C5%9Fse",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bir Ulu Ağaçtan Bir Yaprak Düşse",
+      "url": "https://tr.wikisource.org/wiki/Bir_Ulu_A%C4%9Fa%C3%A7tan_Bir_Yaprak_D%C3%BC%C5%9Fse",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

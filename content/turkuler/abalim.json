@@ -2,9 +2,55 @@
   "slug": "abalim",
   "baslik": "Abalım",
   "yore": "Aydın",
-  "hikaye": "Abalım, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Abalım, Aydın yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Aydın yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağarası yolları dardır irimdir",
+        "Beşparmak dağları benim yerimdir",
+        "Martinimle tabancam kendi malımdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abalım, Abalım belleri kamalım",
+        "Yârinden mi ayrılmış keklik simalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abalımın cepkeni sırma yelekli",
+        "Beşparmak dağları askerle kilitli",
+        "Abalımı vuran jandarma Giritli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abalım, Abalım elleri kınalım",
+        "Eşinden ayrılmış güvercin simalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağarası’nın dört tarafı kilitli",
+        "Abalımı vuran zaptiye Giritli",
+        "Abalımın gömleği sırma ilikli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abalım, Abalım elleri kınalım",
+        "Karşıdan geliyor güvercin simalım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

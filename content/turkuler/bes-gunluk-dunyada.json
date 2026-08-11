@@ -1,0 +1,76 @@
+{
+  "slug": "bes-gunluk-dunyada",
+  "baslik": "Beş Günlük Dünyada",
+  "yore": "Sivas",
+  "hikaye": "Beş Günlük Dünyada, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beş günlük dünyada hey adem oğlu",
+        "Kamili kamili hali gözle gel",
+        "Cümlemizin başı bir hakk'a bağlı",
+        "Hakikat söyleyen dili gözle gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zulmedip de imanını kayırma",
+        "Nefsine uyup da özün ayırma",
+        "Şaşkın olup gezme kırda bayırda",
+        "Uçarsın kayadan yolu gözle gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünyalığa tapıp odlara yanma",
+        "Zifafa girip de ölürüm sanma",
+        "Kuzgun gibi murdar leşse konma",
+        "Duduysa şeker balı gözle gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mülküğemi verdiler sana bu hanı",
+        "Hatıra değip de incitme canı",
+        "İnkar eden doğuncağız sen seni",
+        "Sakın diri bilme ölü gözle gel"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Be%C5%9F%20G%C3%BCnl%C3%BCk%20D%C3%BCnyada%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Be%C5%9F%20G%C3%BCnl%C3%BCk%20D%C3%BCnyada",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Beş Günlük Dünyada",
+      "url": "https://tr.wikisource.org/wiki/Be%C5%9F_G%C3%BCnl%C3%BCk_D%C3%BCnyada",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

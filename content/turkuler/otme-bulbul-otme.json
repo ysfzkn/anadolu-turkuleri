@@ -1,0 +1,77 @@
+{
+  "slug": "otme-bulbul-otme",
+  "baslik": "Ötme Bülbül Ötme",
+  "yore": "Sivas",
+  "sozYazari": "Pir Sultan Abdal",
+  "hikaye": "Ötme Bülbül Ötme, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ötme bülbül ötme, şen değil bağım",
+        "Dost senin derdinden ben yana yana",
+        "Tükendi fitilim eridi yağım",
+        "Dost senin derdinden ben yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deryadan bölünmüş sellere döndüm",
+        "Ateşi kararmış küllere döndüm",
+        "Vakitsiz açılmış güllere döndüm",
+        "Dost senin derdinden ben yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haberin duyarsın peyikler ile",
+        "Yaramı sarsınlar seyikler ile",
+        "Kırk yıl dağda gezdim geyikler ile",
+        "Dost senin derdinden ben yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abdal Pir Sultan'ım, doldum eksildim",
+        "Yemeden içmeden sudan kesildim",
+        "Zülfün kemendine kondum asıldım",
+        "Dost senin derdinden ben yana yana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%96tme%20B%C3%BClb%C3%BCl%20%C3%96tme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%96tme%20B%C3%BClb%C3%BCl%20%C3%96tme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ötme Bülbül Ötme",
+      "url": "https://tr.wikisource.org/wiki/%C3%96tme_B%C3%BClb%C3%BCl_%C3%96tme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

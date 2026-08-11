@@ -2,9 +2,42 @@
   "slug": "ahcigi-yolladim-urum-eline",
   "baslik": "Ahçiği Yolladım Urum Eline",
   "yore": "Elazığ",
-  "hikaye": "Ahçiği Yolladım Urum Eline, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Ahçiği Yolladım Urum Eline, Elazığ yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Elazığ yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahçiği yolladım urum eline",
+        "Eser badı saba zülfün teline",
+        "Gel seni götürsem İslam eline"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Serimi sevdaya salan o ahçik",
+        "Aman o ahçik civan o ahçik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım kiliseye baktım haçına",
+        "Gönlümü bağladım sırma saçına",
+        "Gel seni götürem İslam içine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım kiliseye hac suda döner",
+        "Ahçiği kaybettim yüreğim yanar",
+        "Ben dinen dönersem el beni kınar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

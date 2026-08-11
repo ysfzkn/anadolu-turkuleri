@@ -1,0 +1,88 @@
+{
+  "slug": "yuce-dag-basinda",
+  "baslik": "Yüce Dağ Başında",
+  "yore": "Sivas",
+  "hikaye": "Yüce Dağ Başında, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında bir kuş uçurdum",
+        "Ana nenni nenni bir kuş uçurdum",
+        "Ben meylimi bir güzele düşürdüm",
+        "Dilber nenni nenni yavrum düşürdüm",
+        "Duydum nazlı yarim yad eller almış",
+        "Ana nenni nenni yad eller almış",
+        "Vallah dostlar ben aklımı şaşırdım",
+        "Dilber nenni nenni vallah şaşırdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yürü güzel yürü yolundan kalma",
+        "Ana nenni nenni yolundan kalma",
+        "Her yüze güleni dost olur sanma",
+        "Dilber nenni nenni dost olur sanma",
+        "Ölümden korkup da sen geri",
+        "Dönme ana nenni nenni sen geri dönme",
+        "Yiğidin alnına yazılan gelir",
+        "Dilber nenni nenni yazılan gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ceylan bakışına kurban olduğum",
+        "Sallanma karşımda öldürme beni",
+        "Ah gülüm gülüm yürüsene yavrum",
+        "Mecnun edip beni de düşürdün çöle",
+        "Kerem gibi burda da yandırma beni",
+        "Ah gülüm gülüm yürüsene yavrum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu kadar sallanma da öldürdün beni",
+        "Ölürüm unutmam da sevdiğim seni",
+        "Ah gülüm gülüm yürüsene yavrum",
+        "Bırakın sallansın da nazlı gelini",
+        "Güzelin döndüğü de meydan öğünsün",
+        "Ah gülüm gülüm yürüsene yavrum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüce Dağ Başında",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCce_Da%C4%9F_Ba%C5%9F%C4%B1nda",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "turkmen-kizi-bar-oynuyor",
+  "baslik": "Türkmen Kızı Bar Oynuyor",
+  "yore": "Sivas",
+  "hikaye": "Türkmen Kızı Bar Oynuyor, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Türkmen kızı bar oynuyor",
+        "Allılar ey ballılar oy oy",
+        "Ellerini ata ata",
+        "Allılar ey ballılar oy oy",
+        "Nazı nazı sallanıyor",
+        "Allılar ey ballılar oy oy",
+        "Bülbül gibi öte öte",
+        "Allılar ey ballılar oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üçü birden mani söyler",
+        "Allılar ey ballılar oy oy",
+        "Irgalanır uzun boylar",
+        "Allılar ey ballılar oy oy",
+        "Yasdıdağ'a geldi köyler",
+        "Allılar ey ballılar oy oy",
+        "Birbirine ite ite",
+        "Allılar ey ballılar oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağ ayrı bostan ayrı",
+        "Dariley dariley seyranım",
+        "Yandım yarin elinden",
+        "Dariley dariley seyranım",
+        "Bir günümü görmedim",
+        "Dariley dariley seyranım",
+        "Yandım yarin elinden",
+        "Dariley dariley seyranım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Bar%20Oynuyor%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/T%C3%BCrkmen%20K%C4%B1z%C4%B1%20Bar%20Oynuyor",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Türkmen Kızı Bar Oynuyor",
+      "url": "https://tr.wikisource.org/wiki/T%C3%BCrkmen_K%C4%B1z%C4%B1_Bar_Oynuyor",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

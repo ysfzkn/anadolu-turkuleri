@@ -2,9 +2,47 @@
   "slug": "ada-yolu-kestane",
   "baslik": "Ada Yolu Kestane",
   "yore": "Bolu",
-  "hikaye": "Ada Yolu Kestane, Vikikaynak'ın Bolu türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Bolu yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Ada Yolu Kestane, Bolu yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Bolu yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ada yolu kestane",
+        "Amanın dökülür dane dane",
+        "Amanın dökülür dane dane",
+        "Kızlar yola dizilmiş",
+        "Amanın eylenecek zamandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ada yolu yamandır",
+        "Amanın da yolları yamandır",
+        "Bolu dağı dumandır",
+        "Amanın bolu dağı dumandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dostlar vurun sazlara",
+        "Amanın eylenecek zamandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ada yolu düz gider",
+        "Amanın ada yolları düz gider",
+        "Bir edalı kız gider",
+        "Amanın bir edalı kız gider",
+        "O kız yolu şaşırmış",
+        "Amanın inşallah bize gider"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

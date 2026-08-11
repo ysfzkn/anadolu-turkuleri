@@ -1,0 +1,76 @@
+{
+  "slug": "su-karsiki-karli-daglar",
+  "baslik": "Şu Karşıki Karlı Dağlar",
+  "yore": "Sivas",
+  "hikaye": "Şu Karşıki Karlı Dağlar, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu karşıki karlı dağlar (bilbil bilbil bilbil bilbil)",
+        "Başı dumanlı dumanlı",
+        "İkilikte yar sevenin (bilbil bilbil bilbil bilbil)",
+        "(ah) göynü gümanlı gümanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben seni severdim çoktan (bilbil bilbil bilbil bilbil)",
+        "Kaşlar yaydan kirpik oktan",
+        "Bir bezirgan gelir şahtan (bilbil bilbil bilbil bilbil)",
+        "(ah) aslı yemenli yemenli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İşte geldi bahar yazlar (bilbil bilbil bilbil bilbil)",
+        "Ötüşüyor turna kazlar",
+        "Hatıra değmen şahbazlar (bilbil bilbil bilbil bilbil)",
+        "(ah) sizler amanlı amanlı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül dererler deste deste (bilbil bilbil bilbil bilbil)",
+        "Armağan sunarlar dosta",
+        "Gülü bağbancıdan iste (bilbil bilbil bilbil bilbil)",
+        "(ah) bahçe dumanlı dumanlı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C5%9Eu%20Kar%C5%9F%C4%B1ki%20Karl%C4%B1%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C5%9Eu%20Kar%C5%9F%C4%B1ki%20Karl%C4%B1%20Da%C4%9Flar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Şu Karşıki Karlı Dağlar",
+      "url": "https://tr.wikisource.org/wiki/%C5%9Eu_Kar%C5%9F%C4%B1ki_Karl%C4%B1_Da%C4%9Flar",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

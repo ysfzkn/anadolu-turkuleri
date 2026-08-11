@@ -1,0 +1,94 @@
+{
+  "slug": "asagidan-gelir-eli-develi",
+  "baslik": "Aşağıdan Gelir Eli Develi",
+  "yore": "Sivas",
+  "hikaye": "Aşağıdan Gelir Eli Develi, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelir eli develi",
+        "Devesinin boynu altın laleli",
+        "Kız gelin olalı burnun havalı",
+        "Ben seni kız iken seven oğlanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül konma ağaç dalına",
+        "Seni de vururlar yarin yoluna",
+        "Konma bülbül konma dalım yok benim",
+        "Sineme saracak yarim yok benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelir hozalı gelin",
+        "Topla fistanını toz olur gelin",
+        "Kaldırsa peçesin görsem yüzünü",
+        "Eller arif olmuş söz olur gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül konma ağaç dalına",
+        "Seni de vururlar yarin yoluna",
+        "Konma bülbül konma dalım yok benim",
+        "Sineme saracak yarim yok benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güllü seni alır dağa kaçarım",
+        "Karlı dağ ardında çadır açarım",
+        "Kahve bulamazsam kenger içerim",
+        "Elbet ben de bir güllümü beslerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konma bülbül konma ağaç dalına",
+        "Seni de vururlar yarin yoluna",
+        "Konma bülbül konma dalım yok benim",
+        "Sineme saracak yarim yok benim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C5%9Fa%C4%9F%C4%B1dan%20Gelir%20Eli%20Develi%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C5%9Fa%C4%9F%C4%B1dan%20Gelir%20Eli%20Develi",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Aşağıdan Gelir Eli Develi",
+      "url": "https://tr.wikisource.org/wiki/A%C5%9Fa%C4%9F%C4%B1dan_Gelir_Eli_Develi",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "melullenme-deli-gonul",
+  "baslik": "Melüllenme Deli Gönül",
+  "yore": "Sivas",
+  "hikaye": "Melüllenme Deli Gönül, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Melüllenme deli gönül",
+        "Gez bir zaman gör nic'olur",
+        "İndir tahtını yücelerden",
+        "Yık bir zaman gör nic'olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir iş gelirse başına",
+        "Bahane bulma komşuna",
+        "Sefil hırka çek başına",
+        "Yat bir zaman gör nic'olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şah Hatay'ım doğan aylar",
+        "Geçinin yoksullar beyler",
+        "Herkes kemalini söyler",
+        "Konma gönül dur nic'olur"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mel%C3%BCllenme%20Deli%20G%C3%B6n%C3%BCl%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mel%C3%BCllenme%20Deli%20G%C3%B6n%C3%BCl",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Melüllenme Deli Gönül",
+      "url": "https://tr.wikisource.org/wiki/Mel%C3%BCllenme_Deli_G%C3%B6n%C3%BCl",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

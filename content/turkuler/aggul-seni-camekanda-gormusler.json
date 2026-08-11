@@ -1,0 +1,70 @@
+{
+  "slug": "aggul-seni-camekanda-gormusler",
+  "baslik": "Ağgül Seni Camekânda Görmüşler",
+  "yore": "Sivas",
+  "hikaye": "Ağgül Seni Camekânda Görmüşler, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağgül seni cemekanda görmüşler (Ağgül'üm gülüm)",
+        "Siyah saçın sırmayınan örmüşler (yar alen alen gül alen alen)",
+        "Ürüyamda seni bana vermişler (Ağgül'üm gülüm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni beyle yakar gor gider misin (yar alen alen gül alen alen)",
+        "Evvel sever sonra terk eder misin (yar alen alen gül alen alen)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acı boyraz gibi deli esmedim (Ağgül'üm gülüm)",
+        "Gaderime küstüm sana küsmedim (yar eğlen eğlen dur eğlen)",
+        "Ben o yarimden umudumu kesmedim (Ağgül'üm gülüm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni böyle yakar gor gider misin (yar alen alen gül alen alen)",
+        "Evvel sevip sonra terk eder misin (yar alen alen gül alen alen)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=A%C4%9Fg%C3%BCl%20Seni%20Camek%C3%A2nda%20G%C3%B6rm%C3%BC%C5%9Fler%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/A%C4%9Fg%C3%BCl%20Seni%20Camek%C3%A2nda%20G%C3%B6rm%C3%BC%C5%9Fler",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ağgül Seni Camekânda Görmüşler",
+      "url": "https://tr.wikisource.org/wiki/A%C4%9Fg%C3%BCl_Seni_Camek%C3%A2nda_G%C3%B6rm%C3%BC%C5%9Fler",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

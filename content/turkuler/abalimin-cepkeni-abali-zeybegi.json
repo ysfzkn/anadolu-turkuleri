@@ -2,9 +2,32 @@
   "slug": "abalimin-cepkeni-abali-zeybegi",
   "baslik": "Abalımın Cepkeni (Abalı Zeybeği)",
   "yore": "Aydın",
-  "hikaye": "Abalımın Cepkeni (Abalı Zeybeği), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Abalımın Cepkeni (Abalı Zeybeği), Aydın yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Aydın yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abalımın cepkeni safi sırma ilikli,",
+        "Abalımı vuranlar on iki de Giritli.",
+        "Abalım abalım başı belalım,",
+        "Abalım abalım gözleri elalım,",
+        "Yandım da efeler yandım, abalı da zeybeğe,",
+        "Yandım da dostlar yandım, abalı da zeybeğe."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beşparmak dağından gece ben geçtim,",
+        "Anadan babadan yârdan vazgeçtim.",
+        "Abalım abalım başı belalım,",
+        "Abalım abalım gözleri elalım,",
+        "Yandım da efeler yandım, abalı da zeybeğe,",
+        "Yandım da dostlar yandım, abalı da zeybeğe."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

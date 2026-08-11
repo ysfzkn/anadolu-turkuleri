@@ -2,9 +2,42 @@
   "slug": "agla-gonul-yine-bugun-aglamanin-zamani-geldi",
   "baslik": "Ağla Gönül Yine Bugün Ağlamanın Zamanı Geldi",
   "yore": "Adıyaman",
-  "hikaye": "Ağla Gönül Yine Bugün Ağlamanın Zamanı Geldi, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Ağla Gönül Yine Bugün Ağlamanın Zamanı Geldi, Adıyaman yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Adıyaman yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla gönül yine bugün",
+        "Ağlamanın zamanı geldi (vah vah)",
+        "Yas matem giyip karaları",
+        "Bağlamanın zamanı geldi (yar aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di gel anam di gel başın için olsun",
+        "Ağlatma beni ah garalara bağlatma beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek bahtıma gara dedi",
+        "Harap etti ömrümü (vah vah)",
+        "Gel kurtar ecel bu canı",
+        "Gitmek zamanı geldi (yar aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di gel anam di gel başın için olsun",
+        "Ağlatma beni ah garalara bağlatma beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

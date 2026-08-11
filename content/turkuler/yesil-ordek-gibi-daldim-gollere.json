@@ -4,7 +4,35 @@
   "yore": "Sivas (Zara)",
   "hikaye": "Yeşil Ördek Gibi Daldım Göllere, Sivas'ın Zara yöresinden köklü bir sevda türküsüdür; kaynaklarda geçmişi çok eskiye götürülür. Göle dalan yeşil ördek imgesi, iki insanın uyumunu ve iç içe geçmiş yaşamlarını simgeler.\nAnonim halk geleneğine ait türkü, sevda ve vefa temalarını sade ama derin bir söyleyişle dile getirir.",
   "ozet": "Göle dalan yeşil ördek imgesiyle sevda ve vefayı işleyen ünlü bir Sivas aşk türküsü.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşil ördek gibi daldım göllere",
+        "Sen düşürdün beni dilden dillere",
+        "Başım alıp gidem gurbet ellere",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel seninle ahd-ü peyman edelim",
+        "Bağlanalım bir karara varalım",
+        "Söylediğin sözde hemen duralım",
+        "Ne sen beni unut ne de ben seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevdiğim, cemalim güneşim mahım",
+        "Seni seven aşık çeker ezvahın",
+        "Getir el basayım Kelâmullahın",
+        "Ne sen beni unut ne de sen beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
@@ -29,12 +57,19 @@
       "url": "https://www.repertukul.com/YESIL-ORDEK-GIBI-DALDIM-GOLLERE-2363",
       "tur": "arsiv",
       "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
     }
   ],
   "dogrulama": "incelemede",
   "etiketler": [
     "Sivas",
     "sevda",
-    "vefa"
+    "vefa",
+    "anonim"
   ]
 }

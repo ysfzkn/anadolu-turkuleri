@@ -1,0 +1,76 @@
+{
+  "slug": "el-ne-bilir-yar-askina-yandigim",
+  "baslik": "El Ne Bilir Yar Aşkına Yandığım",
+  "yore": "Sivas",
+  "hikaye": "El Ne Bilir Yar Aşkına Yandığım, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El ne bilir yar aşkına yandığım",
+        "Mecnun'a döndürüp del'eyler beni",
+        "Aşkın kemendini atar boynuma",
+        "Bağlar zülüfüne köl'eyler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ateşten betermiş bu aşkın halı",
+        "Kurutur yaprağı soldurur dalı",
+        "Bağrım üryan olur kerem misali",
+        "Yakar ateşlerde kül evler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beklerim yolunu yağmurda karda",
+        "Hep günlerim geçer figanda zarda",
+        "Yaz bahar ayında azgın sularda",
+        "Çarpar taştan taşa sal eyler beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mahmut erdal derdim dökem sazıma",
+        "Hangi bir gün vanam kara yazıma",
+        "Her gelip geçtikçe basar yüzüme",
+        "Ayaklar altında çul eyler beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=El%20Ne%20Bilir%20Yar%20A%C5%9Fk%C4%B1na%20Yand%C4%B1%C4%9F%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/El%20Ne%20Bilir%20Yar%20A%C5%9Fk%C4%B1na%20Yand%C4%B1%C4%9F%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — El Ne Bilir Yar Aşkına Yandığım",
+      "url": "https://tr.wikisource.org/wiki/El_Ne_Bilir_Yar_A%C5%9Fk%C4%B1na_Yand%C4%B1%C4%9F%C4%B1m",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

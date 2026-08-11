@@ -1,0 +1,67 @@
+{
+  "slug": "nefes-harceyleme",
+  "baslik": "Nefes Harceyleme",
+  "yore": "Sivas",
+  "hikaye": "Nefes Harceyleme, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nefes harceyleme salma araya",
+        "Bir özün bilmeze bildiremezsin",
+        "Müşteri olmadan gelip geçene",
+        "Gel al demeyinen aldıramazsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne güzel kapıdır görünen kapı",
+        "Ordan gelir geçer kulların hepi",
+        "Yüz bin emek çeksen yapılmaz yapı",
+        "Kumdan duvar örme kaldıramazsın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derviş ali'm derki koyman hayını",
+        "Herkes beğenmiştir kendi huyunu",
+        "Dibi delik kaba hakkın suyunu",
+        "Taşıyıp yorulma dolduramazsın"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nefes%20Harceyleme%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nefes%20Harceyleme",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nefes Harceyleme",
+      "url": "https://tr.wikisource.org/wiki/Nefes_Harceyleme",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

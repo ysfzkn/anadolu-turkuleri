@@ -1,0 +1,77 @@
+{
+  "slug": "madimah-bitti-mola",
+  "baslik": "Madımah Bitti m'ola",
+  "yore": "Sivas",
+  "hikaye": "Madımah Bitti m'ola, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımah bitdimola",
+        "Yolları dutdumola",
+        "Elâ gözlü nazlı yâr",
+        "Beni unutdumola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        ":Bağlantı: Ah Madımah Madımah",
+        "::Yâr Madımah Madımah",
+        "::Dönde bir yol geribah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımayın alları",
+        "Dutdumuola yolları",
+        "Hiç aklımdan çıkmıyor",
+        "Yârin tatlı dilleri",
+        "::Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımah kurutmadım",
+        "Yâr seni unutmadım",
+        "Hatırını saydımda",
+        "Üstüne yâr tutmadım",
+        "::Bağlantı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mad%C4%B1mah%20Bitti%20m'ola%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mad%C4%B1mah%20Bitti%20m'ola",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Madımah Bitti m'ola",
+      "url": "https://tr.wikisource.org/wiki/Mad%C4%B1mah_Bitti_m'ola",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

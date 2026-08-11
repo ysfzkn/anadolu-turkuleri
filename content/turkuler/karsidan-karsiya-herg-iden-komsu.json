@@ -1,0 +1,58 @@
+{
+  "slug": "karsidan-karsiya-herg-iden-komsu",
+  "baslik": "Karşıdan Karşıya Herg İden Komşu",
+  "yore": "Sivas",
+  "hikaye": "Karşıdan Karşıya Herg İden Komşu, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan karşıya herg iden komşu",
+        "Yağlığım cebimden düştü gördün mü",
+        "Senin ile beni uygun görmüşler",
+        "Aramızdan bir vazgeçti gördün mü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Irmak kenarında bir çift kazım var",
+        "Ölene dek dilber sende gözüm var",
+        "Tenha yerde sana bir çift sözüm var",
+        "Tütünü çıkmadık dert ettin bana"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kar%C5%9F%C4%B1dan%20Kar%C5%9F%C4%B1ya%20Herg%20%C4%B0den%20Kom%C5%9Fu%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kar%C5%9F%C4%B1dan%20Kar%C5%9F%C4%B1ya%20Herg%20%C4%B0den%20Kom%C5%9Fu",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karşıdan Karşıya Herg İden Komşu",
+      "url": "https://tr.wikisource.org/wiki/Kar%C5%9F%C4%B1dan_Kar%C5%9F%C4%B1ya_Herg_%C4%B0den_Kom%C5%9Fu",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

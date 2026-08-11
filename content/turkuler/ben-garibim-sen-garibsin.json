@@ -1,0 +1,68 @@
+{
+  "slug": "ben-garibim-sen-garibsin",
+  "baslik": "Ben Garibim Sen Garibsin",
+  "yore": "Sivas",
+  "sozYazari": "Muhlis Akarsu",
+  "hikaye": "Ben Garibim Sen Garibsin, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Döne döne yandık aşkın narına",
+        "Ben garibim sen garipsin güzel dost",
+        "Neler vermedim senin uğruna",
+        "Ben garibim sen garibsin güzel dost"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bilmez idim ateş ile dumanı",
+        "Ben başka tanırdım ikrar imanı",
+        "Sen kaldırdın gönlümdeki gümanı",
+        "Ben garibim sen garibsin güzel dost"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akarsuyum yaramız çok derinden",
+        "Bir olsaydık yer oynardı yerinden",
+        "Öldüğümü duyar isen birinden",
+        "Ben garibim sen garibsin güzel dost"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ben%20Garibim%20Sen%20Garibsin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ben%20Garibim%20Sen%20Garibsin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ben Garibim Sen Garibsin",
+      "url": "https://tr.wikisource.org/wiki/Ben_Garibim_Sen_Garibsin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

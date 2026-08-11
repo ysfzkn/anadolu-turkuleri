@@ -1,0 +1,76 @@
+{
+  "slug": "bugun-yine-duman-sardi-basimi",
+  "baslik": "Bugün Yine Duman Sardı Başımı",
+  "yore": "Sivas",
+  "hikaye": "Bugün Yine Duman Sardı Başımı, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugün yine duman sardı başımı",
+        "Gönlümün gamını almadı dağlar",
+        "Eler oldum toprağını taşını",
+        "Tükendi dermanım kalmadı dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar dağlar",
+        "Yaralı dağlar dağlar",
+        "Sıralı dağlar dağlar",
+        "Dumanlı dağlar oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taşlar üzerime toprak tenime",
+        "Yol vermedi dağlar gidem yarime",
+        "Yürek mi dayanır ah u zarıma",
+        "Var gücünle vurdun sineme dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar dağlar",
+        "Yaralı dağlar dağlar",
+        "Sıralı dağlar dağlar",
+        "Dumanlı dağlar oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bug%C3%BCn%20Yine%20Duman%20Sard%C4%B1%20Ba%C5%9F%C4%B1m%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bug%C3%BCn%20Yine%20Duman%20Sard%C4%B1%20Ba%C5%9F%C4%B1m%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bugün Yine Duman Sardı Başımı",
+      "url": "https://tr.wikisource.org/wiki/Bug%C3%BCn_Yine_Duman_Sard%C4%B1_Ba%C5%9F%C4%B1m%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

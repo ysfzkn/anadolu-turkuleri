@@ -1,0 +1,58 @@
+{
+  "slug": "sabahtan-bizim-pinara",
+  "baslik": "Sabahtan Bizim Pınara",
+  "yore": "Sivas",
+  "hikaye": "Sabahtan Bizim Pınara, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan bizim pınara",
+        "İki gelin üç kız gelmiş (durnalar allılar telliler durnalar)",
+        "Civil civil ötüşürler",
+        "Sandım köye yaz geldi (durnalar allılar telliler durnalar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birisinin adı ayşe",
+        "Benleri var köşe köşe (durnalar allılar telliler durnalar)",
+        "Mail oldum kara kaşa",
+        "Selamın gelirse başa (durnalar allılar telliler durnalar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabahtan%20Bizim%20P%C4%B1nara%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabahtan%20Bizim%20P%C4%B1nara",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahtan Bizim Pınara",
+      "url": "https://tr.wikisource.org/wiki/Sabahtan_Bizim_P%C4%B1nara",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "ey-sevdigim-sana-sikayetim-var",
+  "baslik": "Ey Sevdiğim Sana Şikâyetim Var",
+  "yore": "Sivas",
+  "hikaye": "Ey Sevdiğim Sana Şikâyetim Var, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey sevdiğim sana şikayetim var",
+        "Ne sevdiğin belli ne sevmediğin",
+        "Ben de bir insanım bir de canım var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne sevdiğin belli ne sevmediğin",
+        "Hainsin oy zalimsin oy nedeyim oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eski günler hayalimden gitmiyor",
+        "Dün dediğin bugünkünü tutmuyor",
+        "Yiğidim ya sana gücüm yetmiyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne sevdiğin belli ne sevmediğin",
+        "Hainsin oy zalimsin oy nedeyim oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akarsuyum böyle miydi ahtımız",
+        "Onun için viran oldu tahtımız",
+        "Umudum yok gülmez artık bahtımız"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne sevdiğin belli ne sevmediğin",
+        "Hainsin oy zalimsin oy nedeyim oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ey%20Sevdi%C4%9Fim%20Sana%20%C5%9Eik%C3%A2yetim%20Var%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ey%20Sevdi%C4%9Fim%20Sana%20%C5%9Eik%C3%A2yetim%20Var",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ey Sevdiğim Sana Şikâyetim Var",
+      "url": "https://tr.wikisource.org/wiki/Ey_Sevdi%C4%9Fim_Sana_%C5%9Eik%C3%A2yetim_Var",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

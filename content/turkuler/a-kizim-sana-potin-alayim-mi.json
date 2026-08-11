@@ -2,14 +2,51 @@
   "slug": "a-kizim-sana-potin-alayim-mi",
   "baslik": "A Kızım Sana Potin Alayım mı",
   "yore": "Antalya",
-  "hikaye": "A Kızım Sana Potin Alayım mı, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "A Kızım Sana Potin Alayım mı, Antalya yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Antalya yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Babacığım Al",
+        "Potinimi Alayım",
+        "Ayağıma Giyeyim",
+        "Ben Ablama Gideyim",
+        "Şura Şuralarıma",
+        "Bura Buralarıma",
+        "İlle De Şuralara Hoş Yakışır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Babacığım Al",
+        "Ben Küpemi Alayım",
+        "Kulağıma Takayım",
+        "Ben Yengeme Gideyim",
+        "Şura Şuralarıma",
+        "Bura Buralarıma",
+        "İlle De Şuralara Hoş Yakışır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Babacığım Al",
+        "Ben Yüzüğümü Alayım",
+        "Parmağıma Takayım",
+        "Nişanlıma Gideyim",
+        "Şura Şuralarıma",
+        "Bura Buralarıma",
+        "İlle De Şuralara Hoş Yakışır"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=A%20K%C4%B1z%C4%B1m%20Sana%20Potin%20Alay%C4%B1m%20m%C4%B1%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=dHQgfPx8KFQ",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

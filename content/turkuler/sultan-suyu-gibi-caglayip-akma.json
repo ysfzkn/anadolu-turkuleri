@@ -1,0 +1,68 @@
+{
+  "slug": "sultan-suyu-gibi-caglayip-akma",
+  "baslik": "Sultan Suyu Gibi Çağlayıp Akma",
+  "yore": "Sivas",
+  "sozYazari": "Pir Sultan Abdal",
+  "hikaye": "Sultan Suyu Gibi Çağlayıp Akma, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser sahibi kayıtta Pir Sultan Abdal olarak belirtilir. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sultan suyu gibi çağlayıp akma",
+        "Erilir gam yeme divane gönül",
+        "Er başımda duman, dağ başında kış",
+        "Erilir gam yeme divane gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yıkılır mı hakk’ın yaptığı havuz",
+        "Şah-ı merdani' nin, biz de kılavuz",
+        "Üç günlük dünyada, şu yahşi yavuz",
+        "Erilir gam yeme divane gönül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir sultan abdal’ım, sırdan sırada",
+        "Bu iş böyle oldu, kalsın burada",
+        "Cümlemiz niyetlendiği murada",
+        "Erilir gam yeme divane gönül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sultan%20Suyu%20Gibi%20%C3%87a%C4%9Flay%C4%B1p%20Akma%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sultan%20Suyu%20Gibi%20%C3%87a%C4%9Flay%C4%B1p%20Akma",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sultan Suyu Gibi Çağlayıp Akma",
+      "url": "https://tr.wikisource.org/wiki/Sultan_Suyu_Gibi_%C3%87a%C4%9Flay%C4%B1p_Akma",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "âşık geleneği"
+  ]
+}

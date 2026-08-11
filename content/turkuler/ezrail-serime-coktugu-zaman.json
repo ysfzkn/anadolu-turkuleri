@@ -1,0 +1,76 @@
+{
+  "slug": "ezrail-serime-coktugu-zaman",
+  "baslik": "Ezrail Serime Çöktüğü Zaman",
+  "yore": "Sivas",
+  "hikaye": "Ezrail Serime Çöktüğü Zaman, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ezrail serime çöktüğü zaman",
+        "Kırılır kanadım kol yavaş yavaş",
+        "Mevlam nasip etsin din ile iman",
+        "Akar gözlerimden sel yavaş yavaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek uçan gönül yorulur bir gün",
+        "Mizan terazisi kurulur bir gün",
+        "Herkesin ettiği sorulur bir gün",
+        "Döner mi yarabbim dil yavaş yavaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mezarım üstüne dikerler taşı",
+        "Kimi gölgesinde saklarsın başı",
+        "Baba oğlu görmez kardaş kardaşı",
+        "Gider geri dönmez yol yavaş yavaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Isıcak ılıman suyun koyarlar",
+        "İyi kötü elbiseni soyarlar",
+        "Meslekiyem öldüğümü duyarlar",
+        "Girer salacama el yavaş yavaş"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ezrail%20Serime%20%C3%87%C3%B6kt%C3%BC%C4%9F%C3%BC%20Zaman%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ezrail%20Serime%20%C3%87%C3%B6kt%C3%BC%C4%9F%C3%BC%20Zaman",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ezrail Serime Çöktüğü Zaman",
+      "url": "https://tr.wikisource.org/wiki/Ezrail_Serime_%C3%87%C3%B6kt%C3%BC%C4%9F%C3%BC_Zaman",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

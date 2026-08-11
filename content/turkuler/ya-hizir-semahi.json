@@ -1,0 +1,105 @@
+{
+  "slug": "ya-hizir-semahi",
+  "baslik": "Ya Hızır Semahı",
+  "yore": "Sivas",
+  "sozYazari": "Pir Sultan Abdal",
+  "hikaye": "Ya Hızır Semahı, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim sevdiğimin şirin sözleri",
+        "Büyüdü sinemde ne hallar oldu",
+        "Karınca yükünü fil çekmez oldu",
+        "Azdı zaman azdı ne çağlar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya hızır ya hızır ne çağlar oldu",
+        "Ya hızır ya hızır ya hızır ne çağlar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Talip gelmez oldu pir nefesine",
+        "Elin alıp gitmez oldu yazına",
+        "Dağlar sindi tepeler gölgesine",
+        "Büyüdü tepeler ne dağlar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya hızır ya hızır ne dağlar oldu",
+        "Ya hızır ya hızır ya hızır ne dağlar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nesimi yüzüldü mansur asıldı",
+        "Ali düldüle bindi küffar basıldı",
+        "Nice ulu sular arktan kesildi",
+        "Aktı kör pınarlar ne çaylar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya hızır ya hızır ne çaylar oldu",
+        "Ya hızır ya hızır ya hızır ne çaylar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gönül turnam uçtu gitti gölünden",
+        "Bülbül vazgeçer mi gonca gülünden",
+        "Abdal pir sultanım çarkın elinden",
+        "Dideler yaş döktü kan ağlar oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya hızır ya hızır kan ağlar oldu",
+        "Ya hızır ya hızır ya hızır kan ağlar oldu"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ya%20H%C4%B1z%C4%B1r%20Semah%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ya%20H%C4%B1z%C4%B1r%20Semah%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ya Hızır Semahı",
+      "url": "https://tr.wikisource.org/wiki/Ya_H%C4%B1z%C4%B1r_Semah%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

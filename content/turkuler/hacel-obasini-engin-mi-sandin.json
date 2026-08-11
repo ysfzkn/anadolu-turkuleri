@@ -1,0 +1,76 @@
+{
+  "slug": "hacel-obasini-engin-mi-sandin",
+  "baslik": "Hacel Obasını Engin mi Sandın",
+  "yore": "Sivas",
+  "hikaye": "Hacel Obasını Engin mi Sandın, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hacel'obasını engin mi sandın",
+        "Ayağında potin zengin mi sandın",
+        "Her olur olmazı dengin mi sandın",
+        "Ay da geçti göremedim yâr seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tıkır tıkır merdivenden inişin",
+        "Cığıştıyor altınınan gümüşün",
+        "Önce söz verip de sonra dönüşün",
+        "Ay da geçti göremedim yâr seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tiren gelir acı acı seslenir",
+        "Yağmur yağar çit entere ıslanır",
+        "Analığın duyar sana herslenir",
+        "Ay da geçti göremedim yâr seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya gider bir incecik yolu var",
+        "Sıktırmış kemeri ince beli bar",
+        "Söylerim söylemez tatlı dili var",
+        "Ay da geçti göremedim yâr seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Hacel%20Obas%C4%B1n%C4%B1%20Engin%20mi%20Sand%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Hacel%20Obas%C4%B1n%C4%B1%20Engin%20mi%20Sand%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Hacel Obasını Engin mi Sandın",
+      "url": "https://tr.wikisource.org/wiki/Hacel_Obas%C4%B1n%C4%B1_Engin_mi_Sand%C4%B1n",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

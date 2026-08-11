@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { iller, ilTurkuleri } from "@/lib/data";
 import { bolgeBul, BOLGE_ADI } from "@/lib/yore-bolge";
-import { TurkuCard } from "@/components/TurkuCard";
+import { YoreTurkuListesi } from "@/components/YoreTurkuListesi";
 import { YoreMotifi } from "@/components/YoreMotifi";
 import { KonserAra } from "@/components/KonserAra";
 import { YoreVitrini } from "@/components/YoreVitrini";
@@ -62,11 +62,7 @@ export default function YoreSayfasi({ params }: { params: { il: string } }) {
 
       <YoreVitrini il={il.ad} bolge={bolge} />
 
-      <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {turkuler.map((t) => (
-          <TurkuCard key={t.slug} turku={t} />
-        ))}
-      </div>
+      <YoreTurkuListesi turkuler={turkuler} />
 
       <div className="mt-10">
         <KonserAra il={il.ad} />

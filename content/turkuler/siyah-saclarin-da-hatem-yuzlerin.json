@@ -1,0 +1,80 @@
+{
+  "slug": "siyah-saclarin-da-hatem-yuzlerin",
+  "baslik": "Siyah Saçların da Hatem Yüzlerin",
+  "yore": "Sivas",
+  "sozYazari": "Sıdkı Baba",
+  "hikaye": "Siyah Saçların da Hatem Yüzlerin, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Siyah saçların da hatem yüzlerin",
+        "Garip bülbül gibi zareyler beni",
+        "Hilal ebrulerın ahu gözlerin",
+        "Tığı sevda ile canım yaralar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşların bismillah, vechin Beytullah",
+        "Seni öz nurundan yaratmış Allah",
+        "Sevmişem ben seni terketmem billah",
+        "Aşkın hançeriyle canım, vursalar beni",
+        "Hudey hudey hudey vursalar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dost cemalin gördüm ah-ü zar oldum",
+        "Aşkına düşeli sevda kâr oldum",
+        "Kalmadı tahmülüm bi karar oldum",
+        "Meğer tabutlara, canım, saralar beni",
+        "Hudey hudey hudey saralar beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sıtkı'yam billahi terkin etmezem",
+        "Gayri güzellere gönül katmazam",
+        "Dövseler kovsalar burdan getmezem",
+        "Meğer ferman gele canım, süreler beni",
+        "Hudey hudey hudey süreler beni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Siyah%20Sa%C3%A7lar%C4%B1n%20da%20Hatem%20Y%C3%BCzlerin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Siyah%20Sa%C3%A7lar%C4%B1n%20da%20Hatem%20Y%C3%BCzlerin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Siyah Saçların da Hatem Yüzlerin",
+      "url": "https://tr.wikisource.org/wiki/Siyah_Sa%C3%A7lar%C4%B1n_da_Hatem_Y%C3%BCzlerin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "keklik-idim-vurdular",
+  "baslik": "Keklik İdim Vurdular",
+  "yore": "Sivas",
+  "hikaye": "Keklik İdim Vurdular, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keklik idim vurdular",
+        "Kanadımı kırdılar",
+        "Daha ben ne idim ki",
+        "Anamdan ayırdılar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel yanıma keklik",
+        "Kastın canıma keklik",
+        "Al kınalı parmakları",
+        "Batır kanıma keklik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keklik kayalı yerde",
+        "Öter mayalı yerde",
+        "Sevdiğimin kavalı",
+        "Kaldı dayalı yerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kayalar kölgelendi",
+        "Güzeller suya indi",
+        "Al kınalı parmakların",
+        "Batır kanıma keklik"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Keklik%20%C4%B0dim%20Vurdular%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Keklik%20%C4%B0dim%20Vurdular",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Keklik İdim Vurdular",
+      "url": "https://tr.wikisource.org/wiki/Keklik_%C4%B0dim_Vurdular",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

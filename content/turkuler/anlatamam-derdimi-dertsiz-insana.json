@@ -1,0 +1,77 @@
+{
+  "slug": "anlatamam-derdimi-dertsiz-insana",
+  "baslik": "Anlatamam Derdimi Dertsiz İnsana",
+  "yore": "Sivas",
+  "sozYazari": "Âşık Veysel",
+  "hikaye": "Anlatamam Derdimi Dertsiz İnsana, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser sahibi kayıtta Âşık Veysel olarak belirtilir. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Anlatamam derdimi dertsiz insana",
+        "Dert çekmeyen dert kıymetin bilemez",
+        "Derdim bana derman imiş bilmedim",
+        "Hiçbir zaman gül dikensiz olamaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülü yetiştirir dikenli çalı",
+        "Arı her çiçekten yapıyor balı",
+        "Kişi sabır ile bulur kemali",
+        "Sabretmeyen maksudunu bulamaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah çeker aşıklar ağlar zarınan",
+        "Yüce dağlar şöhret bulmuş karınan",
+        "Çağlar deli gönül ırmaklarınan",
+        "Ağlar ağlar göz yaşların silemez"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Veysel günler geçti yaş altmış oldu",
+        "Döküldü yaprağım güllerim soldu",
+        "Gemi yükün aldı gam ilen doldu",
+        "Harekete kimse mani olamaz"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Anlatamam%20Derdimi%20Dertsiz%20%C4%B0nsana%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Anlatamam%20Derdimi%20Dertsiz%20%C4%B0nsana",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Anlatamam Derdimi Dertsiz İnsana",
+      "url": "https://tr.wikisource.org/wiki/Anlatamam_Derdimi_Dertsiz_%C4%B0nsana",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "âşık geleneği"
+  ]
+}

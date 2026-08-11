@@ -1,0 +1,85 @@
+{
+  "slug": "yoru-bire-cicek-dagi",
+  "baslik": "Yörü Bire Çiçek Dağı",
+  "yore": "Sivas",
+  "hikaye": "Yörü Bire Çiçek Dağı, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yörü bire çiçek dağı",
+        "Sende suna boylum kaldı",
+        "Hep kuşların dönüm çağı",
+        "Bülbülün goncası soldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bakarım ki yar gelecek",
+        "Yareme melhem olacak",
+        "Mısır'a sultan olacak",
+        "Yusuf'a kenan'ım geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Göllerde küçücük suna",
+        "Sesi hayat verir cana",
+        "Ben ağlarım yana yana",
+        "Firkat-i figanım geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bakarım ki yar gelecek",
+        "Yareme melhem olacak",
+        "Mısır'a sultan olacak",
+        "Yusuf'a kenan'ım geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dedemoğlu ne hal oldu",
+        "Dünya haldan hala kaldı",
+        "Tez seviştik tez ayrıldık",
+        "Ahırı pişmanım geldi"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%B6r%C3%BC%20Bire%20%C3%87i%C3%A7ek%20Da%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%B6r%C3%BC%20Bire%20%C3%87i%C3%A7ek%20Da%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yörü Bire Çiçek Dağı",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%B6r%C3%BC_Bire_%C3%87i%C3%A7ek_Da%C4%9F%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

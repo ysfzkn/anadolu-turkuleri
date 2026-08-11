@@ -1,0 +1,58 @@
+{
+  "slug": "kaleden-inis-molur",
+  "baslik": "Kaleden İniş m'olur",
+  "yore": "Sivas",
+  "hikaye": "Kaleden İniş m'olur, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden iniş m'olur (nanay nanay zalim nanay kibar nanay)",
+        "Ham demir gümüş m'olur (yad ele bakma ciğerim yakma)",
+        "Evvelden ikrar verip (nanay nanay zalim nanay kibar nanay)",
+        "Sabaha dönüş m'olur (yad ele bakma ciğerim yakma)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağlar eze dağlar (nanay nanay zalim nanay kibar nanay)",
+        "Yar gele geze dağlar (yad ele bakma ciğerim yakma)",
+        "Suları şarap olmuş (nanay nanay zalim nanay kibar nanay)",
+        "Çiçeği meze dağlar (yad ele bakma ciğerim yakma)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kaleden%20%C4%B0ni%C5%9F%20m'olur%20(Sivas)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kaleden%20%C4%B0ni%C5%9F%20m'olur%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kaleden İniş m'olur (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Kaleden_%C4%B0ni%C5%9F_m'olur_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

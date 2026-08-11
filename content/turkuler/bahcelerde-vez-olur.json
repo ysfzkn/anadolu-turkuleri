@@ -1,0 +1,76 @@
+{
+  "slug": "bahcelerde-vez-olur",
+  "baslik": "Bahçelerde Vez Olur",
+  "yore": "Sivas",
+  "hikaye": "Bahçelerde Vez Olur, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde vez olur",
+        "Gül açılır yaz olur",
+        "Ben yârime gül demem",
+        "Gülün ömrü az olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere benim yârim ellere vay",
+        "Saç bağın döküde vermiş bellere vay",
+        "Nazlı yârim seni de vermem ellere vay",
+        "Dayanamam dokunaklı dillere vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde gül vari",
+        "Var git ellerin yari",
+        "Sen bana yâr olmazsın",
+        "Yüzüme gülme bari"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ellere benim yârim ellere vay",
+        "Saç bağın döküde vermiş bellere vay",
+        "Nazlı yârim seni de vermem ellere vay",
+        "Dayanamam dokunaklı dillere vay"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7elerde%20Vez%20Olur%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Bah%C3%A7elerde%20Vez%20Olur",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bahçelerde Vez Olur",
+      "url": "https://tr.wikisource.org/wiki/Bah%C3%A7elerde_Vez_Olur",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

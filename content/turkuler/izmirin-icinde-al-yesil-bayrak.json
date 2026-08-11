@@ -1,0 +1,75 @@
+{
+  "slug": "izmirin-icinde-al-yesil-bayrak",
+  "baslik": "İzmir'in İçinde Al Yeşil Bayrak",
+  "yore": "Sivas",
+  "hikaye": "İzmir'in İçinde Al Yeşil Bayrak, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İzmir’in içinde al yeşil bayrak",
+        "Bir yanın bal olmuş bir yanın kaymak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünya da olur mu hiç yare doymak",
+        "Vermem seni yad ellere ellere",
+        "Hey sürmelim hey hey karagözlüm hey",
+        "İzmir’in içinde gülünen diken",
+        "Kör olsun dikeni yoluma diken"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayrılık değil mi belimi büken",
+        "Vermem seni yad ellere ellere",
+        "Hey sürmelim hey hey karagözlüm hey",
+        "İzmir’in içinde ekerler darı",
+        "Ekerler biçerler ederler karı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüreğimden çıkmıyor yarin zarı",
+        "Vermem seni yad ellere ellere",
+        "Hey sürmelim hey hey karagözlüm hey"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=Q0RO6YkpRwM",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0zmir'in%20%C4%B0%C3%A7inde%20Al%20Ye%C5%9Fil%20Bayrak",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İzmir'in İçinde Al Yeşil Bayrak",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0zmir'in_%C4%B0%C3%A7inde_Al_Ye%C5%9Fil_Bayrak",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

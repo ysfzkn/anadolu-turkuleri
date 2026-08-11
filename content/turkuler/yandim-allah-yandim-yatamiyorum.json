@@ -1,0 +1,76 @@
+{
+  "slug": "yandim-allah-yandim-yatamiyorum",
+  "baslik": "Yandım Allah Yandım Yatamıyorum",
+  "yore": "Sivas",
+  "hikaye": "Yandım Allah Yandım Yatamıyorum, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım allah yandım yatamıyorum",
+        "Gençlik elden çıktı tutamıyorum (vah vah)",
+        "Yarin bahçesinde bir bülbül idim",
+        "Alındı dillerim ötemiyorum (vah vah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman amaney",
+        "Gülüm aman amaney",
+        "Bugün kara gözlü yardan",
+        "Ayrıldım oy oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında kar yiyeyim mi",
+        "Yar senin aşkından eriyeyim mi (vah vah)",
+        "Aşkın zencirini taktın boynuma",
+        "Kıyamete kadar sürüyeyim mi (vah vah)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman amaney",
+        "Gülüm aman amaney",
+        "Bugün kara gözlü yardan",
+        "Ayrıldım oy oy"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Yand%C4%B1m%20Allah%20Yand%C4%B1m%20Yatam%C4%B1yorum%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Yand%C4%B1m%20Allah%20Yand%C4%B1m%20Yatam%C4%B1yorum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yandım Allah Yandım Yatamıyorum",
+      "url": "https://tr.wikisource.org/wiki/Yand%C4%B1m_Allah_Yand%C4%B1m_Yatam%C4%B1yorum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

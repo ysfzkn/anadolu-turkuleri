@@ -2,9 +2,37 @@
   "slug": "aci-biberim-aci",
   "baslik": "Acı Biberim Acı",
   "yore": "Balıkesir",
-  "hikaye": "Acı Biberim Acı, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Acı Biberim Acı, Balıkesir yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Balıkesir yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acı biberim acı",
+        "Ocağa koydum sacı",
+        "Şimdiki kızlar kaçıyor (Bandırmalı güzelim)",
+        "Nedir bunun ilacı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El edersem eve gel",
+        "Göz edersem cama gel",
+        "Hiçbir şeyler bilmezsen (Bandırmalı güzelim)",
+        "Al testiyi suya gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Penceresi tül perde",
+        "Perdenin ucu yerde",
+        "Yürek oynar can titrer (Bandırmalı güzelim)",
+        "Seni gördüğüm yerde"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

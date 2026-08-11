@@ -1,0 +1,88 @@
+{
+  "slug": "halay-basi-kim-ceker",
+  "baslik": "Halay Başı Kim Çeker",
+  "yore": "Sivas",
+  "hikaye": "Halay Başı Kim Çeker, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halay başı kim çeker",
+        "Bir edalı kız çeker",
+        "O kız yolu şaşırmış",
+        "İnşallah bize gider"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halaylı yar halaylı",
+        "Maşrabası kalaylı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halayda gördüm seni",
+        "Gül iken derdim seni",
+        "Öpmeye kıyamazken",
+        "Ellere verdim seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halaylı yar halaylı",
+        "Maşrabası kalaylı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Girerim böylesine",
+        "Şehitler yaylasına",
+        "Şehitler konup gitmiş",
+        "Giderim ardısıra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halaylı yar halaylı",
+        "Maşrabası kalaylı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Halay%20Ba%C5%9F%C4%B1%20Kim%20%C3%87eker%20(Sivas)%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Halay%20Ba%C5%9F%C4%B1%20Kim%20%C3%87eker%20(Sivas)",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Halay Başı Kim Çeker (Sivas)",
+      "url": "https://tr.wikisource.org/wiki/Halay_Ba%C5%9F%C4%B1_Kim_%C3%87eker_(Sivas)",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

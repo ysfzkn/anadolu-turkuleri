@@ -2,9 +2,58 @@
   "slug": "adananin-yollari-taslik",
   "baslik": "Adana’nın Yolları Taşlık",
   "yore": "Adana",
-  "hikaye": "Adana’nın Yolları Taşlık, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
-  "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "hikaye": "Adana’nın Yolları Taşlık, Adana yöresinin sözlü müzik belleğinde yer alan geleneksel eserlerden biridir. Vikikaynak kaydı eseri anonim metin olarak sınıflandırır ve söz varyantını açık arşivde korur.\nBu sayfada yalnızca kaynakta doğrulanabilen yöre, anonimlik ve söz bilgileri sunulur. Eserin belirli bir olaya dayanan hikâyesi veya derleme künyesi güvenilir bir kurumsal kaynakla doğrulanana kadar kesin bir anlatı kurulmaz.",
+  "ozet": "Adana yöresine ait, açık arşivde anonim olarak sınıflandırılan geleneksel türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adana’nın yolları taşlık,",
+        "Yok cebimizde beş para harçlık.",
+        "Elden gitti kahpe de gençlik.",
+        "Agam Adanalı pasam Adanalı,",
+        "Evde duramıyom sana dadanalı.",
+        "Sebebim sen oldun şişman delikanlı.",
+        "Hey güllü hele hele güllü,",
+        "Kız güllü hele hele güllü,",
+        "Peştemalı püsküllü, peştemalı sümbüllü.",
+        "Ağam Adanalı paşam Adanalı,",
+        "Evde duramıyom sana dadanalı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adana'nın bayırına,",
+        "Ağam at güverdim çayırına,",
+        "Anam babam hayırına.",
+        "Ağam Adanalı paşam Adanalı,",
+        "Evde duramıyom sana dadanalı.",
+        "Sebebim sen oldun şişman delikanlı.",
+        "Hey güllü hele hele güllü,",
+        "Kız güllü hele hele güllü,",
+        "Peştemalı püsküllü, peştemalı sümbüllü.",
+        "Ağam Adanalı paşam Adanalı,",
+        "Evde duramıyom sana dadanalı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'nın yolları taştan,",
+        "Sen çıkardın beni baştan,",
+        "Hem anadan hem kardaştan.",
+        "Ağam Adanalı paşam Adanalı,",
+        "Evde duramıyom sana dadanalı.",
+        "Sebebim sen oldun şişman delikanlı.",
+        "Hey güllü hele hele güllü,",
+        "Kız güllü hele hele güllü,",
+        "Peştemalı püsküllü, peştemalı sümbüllü.",
+        "Ağam Adanalı paşam Adanalı,",
+        "Evde duramıyom sana dadanalı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

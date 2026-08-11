@@ -1,0 +1,76 @@
+{
+  "slug": "nasip-olsa-gine-gitsem-yaylaya",
+  "baslik": "Nasip Olsa Gine Gitsem Yaylaya",
+  "yore": "Sivas",
+  "hikaye": "Nasip Olsa Gine Gitsem Yaylaya, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nasip olsa gine gitsem yaylaya",
+        "Doya doya baksam suna boyluya",
+        "Senin için yalvarayım mevlaya",
+        "Belki seni bana yazar yaradan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seni gördüm evvel bahar yaz iken",
+        "O güzellik sende ilvan naz iken",
+        "Güller taze iken teller saz iken",
+        "Belki seni bana yazar yaradan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında pınar gözüsün",
+        "Sürüden seçilmiş körpe kuzusun",
+        "Güzeller güzeli yayla kızısın",
+        "Belki seni bana yazar yaradan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ela göz üstüne eğmedir kaşı",
+        "Başına bağlamış bir telli poşu",
+        "Talibi coşkun der bulunmaz eşi",
+        "Belki seni bana yazar yaradan"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Nasip%20Olsa%20Gine%20Gitsem%20Yaylaya%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Nasip%20Olsa%20Gine%20Gitsem%20Yaylaya",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Nasip Olsa Gine Gitsem Yaylaya",
+      "url": "https://tr.wikisource.org/wiki/Nasip_Olsa_Gine_Gitsem_Yaylaya",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

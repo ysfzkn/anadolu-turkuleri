@@ -1,0 +1,105 @@
+{
+  "slug": "kiremit-bacalari",
+  "baslik": "Kiremit Bacaları",
+  "yore": "Sivas",
+  "hikaye": "Kiremit Bacaları, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Kadın) Kiremit bacaları oy canım",
+        "Kiremit bacaları oy canım",
+        "Geydik alacaları oy canım",
+        "Geydik alacaları oy canım",
+        "Sevmeyin gelinleri oy canım",
+        "Sevmeyin gelinleri oy canım",
+        "Darılır kocaları canım",
+        "Darılır kocaları canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Erkek) Kiremit bacaları oy canım",
+        "Kiremit bacaları oy canım",
+        "Geydik alacaları oy canım",
+        "Geydik alacaları oy canım",
+        "Sevelim gelinleri canım",
+        "Sevelim gelinleri canım",
+        "Darılsın kocaları canım",
+        "Darılsın kocaları canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Kadın) Bahçeyi belliyorlar canım",
+        "Bahçeyi belliyorlar canım",
+        "Gülünü elliyorlar canım",
+        "Gülünü elliyorlar canım",
+        "Bu ne şirin şehirdir canım",
+        "Bu ne şirin şehirdir canım",
+        "Sevmeden biliyorlar canım",
+        "Sevmeden biliyorlar canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Kadın) Kereviz bitmezindi canım",
+        "Kereviz bitmezindi canım",
+        "Postamız gitmezindi canım",
+        "Postamız gitmezindi canım",
+        "Daha çok söylerindi canım",
+        "Daha çok söylerindi canım",
+        "Vaktimiz yetmezindi canım",
+        "Vaktimiz yetmezindi canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Kadın) Kiremit bacaları oy canım",
+        "Kiremit bacaları oy canım",
+        "Geydim alacaları oy canım",
+        "Geydim alacaları oy canım",
+        "Sevmeyin gelinleri oy canım",
+        "Sevmeyin gelinleri oy canım",
+        "Darılır kocaları canım",
+        "Darılır kocaları canım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=LlyOEfd5zfs",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kiremit%20Bacalar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kiremit Bacaları",
+      "url": "https://tr.wikisource.org/wiki/Kiremit_Bacalar%C4%B1",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

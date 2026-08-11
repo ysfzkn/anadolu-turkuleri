@@ -1,0 +1,67 @@
+{
+  "slug": "cali-koydum-ocaga",
+  "baslik": "Çalı Koydum Ocağa",
+  "yore": "Sivas",
+  "hikaye": "Çalı Koydum Ocağa, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çalı koydum ocağa",
+        "Yanmam diyebilir mi",
+        "Seven kız seven oğlan",
+        "Sarmam diyebilir mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben çalıyı topladım",
+        "Nazlı yar yaksın diye",
+        "Urbaları giyindim",
+        "Arkamdan baksın diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Martini atamadım",
+        "Pahalı satamadım",
+        "Yarim senin sevdandan",
+        "Orucu tutamadım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C3%87al%C4%B1%20Koydum%20Oca%C4%9Fa%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C3%87al%C4%B1%20Koydum%20Oca%C4%9Fa",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Çalı Koydum Ocağa",
+      "url": "https://tr.wikisource.org/wiki/%C3%87al%C4%B1_Koydum_Oca%C4%9Fa",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

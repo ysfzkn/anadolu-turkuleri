@@ -13,7 +13,9 @@
     "review": "tsx scripts/review.ts",
     "validate": "tsx scripts/validate.ts",
     "sync:city-images": "tsx scripts/sync-city-images.ts",
-    "sync:wikisource": "tsx scripts/sync-wikisource-catalog.ts"
+    "sync:wikisource": "tsx scripts/sync-wikisource-catalog.ts",
+    "enrich:wikisource": "tsx scripts/enrich-wikisource.ts",
+    "sync:sivas": "tsx scripts/sync-sivas.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.4",

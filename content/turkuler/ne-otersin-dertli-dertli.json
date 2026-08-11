@@ -1,0 +1,76 @@
+{
+  "slug": "ne-otersin-dertli-dertli",
+  "baslik": "Ne Ötersin Dertli Dertli",
+  "yore": "Sivas",
+  "hikaye": "Ne Ötersin Dertli Dertli, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne ötersin dertli dertli",
+        "Dayanamam zara bülbül",
+        "Hem dertliyim hem firkatli",
+        "Yakma beni nara bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ötme bülbül ötme bülbül",
+        "Derdi derde katma bülbül",
+        "Benim derdim bana yeter",
+        "Bir dert de sen etme bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bilirim aşıksın güle",
+        "Benim halimden kim bile",
+        "Bizim bahçedeki güle",
+        "El atıp dolaşma bülbül"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbüllerin nesli misin",
+        "Kafeslerde besli misin",
+        "Benim gibi yaslı mısın",
+        "Niçin giydin kara bülbül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ne%20%C3%96tersin%20Dertli%20Dertli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ne%20%C3%96tersin%20Dertli%20Dertli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ne Ötersin Dertli Dertli",
+      "url": "https://tr.wikisource.org/wiki/Ne_%C3%96tersin_Dertli_Dertli",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

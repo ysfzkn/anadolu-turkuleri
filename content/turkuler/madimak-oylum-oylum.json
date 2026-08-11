@@ -1,0 +1,112 @@
+{
+  "slug": "madimak-oylum-oylum",
+  "baslik": "Madımak Oylum Oylum",
+  "yore": "Sivas",
+  "hikaye": "Madımak Oylum Oylum, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımak oylum oylum",
+        "Geliyor civanda boylum",
+        "Civan boylum gelirse",
+        "Şen olur benim de gönlüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy madımak teke tüke sakalı",
+        "Oy madımak evelik yemlik",
+        "Oy madımak kuşkuşu yemlik",
+        "Oy madımak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımak biçim de biçim",
+        "Ölüyom senin de için",
+        "Madımak toplar iken",
+        "Başımdan düştü çitim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy madımak teke tüke sakalı",
+        "Oy madımak evelik yemlik",
+        "Oy madımak kuşkuşu yemlik",
+        "Oy madımak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımak pişer oldu",
+        "Tencerem taşar oldu",
+        "Günde yediğim şamarlar",
+        "Bir iken beşer oldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy madımak teke tüke sakalı",
+        "Oy madımak evelik yemlik",
+        "Oy madımak kuşkuşu yemlik",
+        "Oy madımak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madımak oymak oymak",
+        "Olur mu yare doymak",
+        "Yare doydum diyenin",
+        "Caizdir boynunu vurmak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy madımak teke tüke sakalı",
+        "Oy madımak evelik yemlik",
+        "Oy madımak kuşkuşu yemlik",
+        "Oy madımak"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=HXy0vmF_qwU",
+      "dogrulandi": true
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mad%C4%B1mak%20Oylum%20Oylum",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Madımak Oylum Oylum",
+      "url": "https://tr.wikisource.org/wiki/Mad%C4%B1mak_Oylum_Oylum",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

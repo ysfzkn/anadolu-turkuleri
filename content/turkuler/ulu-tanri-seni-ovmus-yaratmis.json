@@ -1,0 +1,67 @@
+{
+  "slug": "ulu-tanri-seni-ovmus-yaratmis",
+  "baslik": "Ulu Tanrı Seni Övmüş Yaratmış",
+  "yore": "Sivas",
+  "hikaye": "Ulu Tanrı Seni Övmüş Yaratmış, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ulu Tanrı seni övmüş yaratmış (oy oy oy)",
+        "Baş eylemiş güzellerin üstüne (gel)",
+        "Siyah zülfün tel tel etmiş daramış (oy oy oy)",
+        "Salıvermiş ince belin üstüne (gel)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yaz gelende köşe başı dört olur (oy oy oy)",
+        "Ak sürüye kara koyun kurt olur (gel)",
+        "Göremezsem yüreğime derd olur (oy oy oy)",
+        "Benim ile mercimeği taşlı da yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında kar ister gönül (oy oy oy)",
+        "Ayvadan usandı da nar ister gönül (hey)",
+        "Laleden sünbülden gülden usandım (oy oy oy)",
+        "Yârin bahçesinden gül ister gönül (hey)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ulu%20Tanr%C4%B1%20Seni%20%C3%96vm%C3%BC%C5%9F%20Yaratm%C4%B1%C5%9F%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ulu%20Tanr%C4%B1%20Seni%20%C3%96vm%C3%BC%C5%9F%20Yaratm%C4%B1%C5%9F",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Ulu Tanrı Seni Övmüş Yaratmış",
+      "url": "https://tr.wikisource.org/wiki/Ulu_Tanr%C4%B1_Seni_%C3%96vm%C3%BC%C5%9F_Yaratm%C4%B1%C5%9F",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

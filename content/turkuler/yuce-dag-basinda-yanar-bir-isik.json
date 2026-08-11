@@ -1,0 +1,76 @@
+{
+  "slug": "yuce-dag-basinda-yanar-bir-isik",
+  "baslik": "Yüce Dağ Başında Yanar Bir Işık",
+  "yore": "Sivas",
+  "hikaye": "Yüce Dağ Başında Yanar Bir Işık, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında yanar bir ışık",
+        "Düşmüşüm derdine olmuşum aşık",
+        "Ağ buğday benizli zülfü dolaşık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dividim kalemim yazarım",
+        "Böyle bir yavrunun derdi var bende",
+        "Yar bende oy bende",
+        "Aha ben gidiyom sen hemen ağla",
+        "Yan ağla dön ağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başından indiremedim",
+        "Yönünü yönüme döndüremedim",
+        "Bir yarin aklını kandıramadım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dividim kalemim yazarım",
+        "Böyle bir yavrunun derdi var bende",
+        "Yar bende oy bende",
+        "Aha ben gidiyom sen hemen ağla",
+        "Yan ağla dön ağla"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Yanar%20Bir%20I%C5%9F%C4%B1k%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Y%C3%BCce%20Da%C4%9F%20Ba%C5%9F%C4%B1nda%20Yanar%20Bir%20I%C5%9F%C4%B1k",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Yüce Dağ Başında Yanar Bir Işık",
+      "url": "https://tr.wikisource.org/wiki/Y%C3%BCce_Da%C4%9F_Ba%C5%9F%C4%B1nda_Yanar_Bir_I%C5%9F%C4%B1k",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

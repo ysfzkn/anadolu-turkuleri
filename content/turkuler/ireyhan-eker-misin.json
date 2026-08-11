@@ -1,0 +1,67 @@
+{
+  "slug": "ireyhan-eker-misin",
+  "baslik": "İreyhan Eker Misin",
+  "yore": "Sivas",
+  "hikaye": "İreyhan Eker Misin, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İreyhan eker misin,(lili yar)",
+        "Balınan seker misin.(Lili De lili yar)",
+        "Dünyada ettiğini,(lili yar)",
+        "Ahrette çeker misin.(Lili De lili yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil oylum oylum,(lili yar)",
+        "Geliyor servi boylum.(Lili De lili yar)",
+        "Servi boylum gelince,(lili yar)",
+        "Sen olur benim gönlüm.(Lili De lili yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil olacaksın,(lili yar)",
+        "Sararıp solacaksın.(Lili De lili yar)",
+        "Ben hakime danıştım,(lili yar)",
+        "Sen benim olacaksın.(Lili De lili yar)"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=%C4%B0reyhan%20Eker%20Misin%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/%C4%B0reyhan%20Eker%20Misin",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — İreyhan Eker Misin",
+      "url": "https://tr.wikisource.org/wiki/%C4%B0reyhan_Eker_Misin",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

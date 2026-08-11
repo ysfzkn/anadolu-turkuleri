@@ -1,0 +1,113 @@
+{
+  "slug": "benim-adim-dertli-dolap",
+  "baslik": "Benim Adım Dertli Dolap",
+  "yore": "Sivas",
+  "sozYazari": "Yunus Emre",
+  "hikaye": "Benim Adım Dertli Dolap, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser sahibi kayıtta Yunus Emre olarak belirtilir. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dolap niçin inilersin",
+        "Derdim vardır inilerim",
+        "Ben Mevlâ'ya aşık oldum",
+        "Anın için inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim adım dertli dolap",
+        "Suyum akar yalap yalap",
+        "Böyle emreylemiş Çalap",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni bir dağda buldular",
+        "Kolum kanadım yoldular",
+        "Dolaba lâyık gördüler",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben bir dağın ağacıyım",
+        "Ne tatlıyım ne acıyım",
+        "Ben Mevlâya duacıyım",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan kestiler hezenim",
+        "Bozuldu türlü düzenim",
+        "Ben bir usanmaz ozanım",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dülgerler her yanım yöndü",
+        "Her âzım yerine kondu",
+        "Bu iniltim Haktan geldi",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suyum alçaktan çekerim",
+        "Dönüp yükseğe dökerim",
+        "Görün ben neler çekerim",
+        "Derdim vardır inilerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yunus bunda gelen gülmez",
+        "Kişi muradına ermez",
+        "Bu fânide kimse kalmaz",
+        "Derdim vardır inilerim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Benim%20Ad%C4%B1m%20Dertli%20Dolap%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Benim%20Ad%C4%B1m%20Dertli%20Dolap",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Benim Adım Dertli Dolap",
+      "url": "https://tr.wikisource.org/wiki/Benim_Ad%C4%B1m_Dertli_Dolap",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "âşık geleneği"
+  ]
+}

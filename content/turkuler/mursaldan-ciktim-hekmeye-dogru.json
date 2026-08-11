@@ -1,0 +1,119 @@
+{
+  "slug": "mursaldan-ciktim-hekmeye-dogru",
+  "baslik": "Mursal'dan Çıktım Hekme'ye Doğru",
+  "yore": "Sivas",
+  "hikaye": "Mursal'dan Çıktım Hekme'ye Doğru, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mursal'dan çıktım hekme'ye doğru",
+        "Bir gelin yavruma çağrıyı nenni nenni nenni",
+        "Dedim bacım nerelisin dedi mursal'lı",
+        "Yoldaş olam şu yollarda barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "barabar barabar barabar",
+        "ölek ölek ölek barabar",
+        "gelin dedi bu yoncalık gayrı çamırlık",
+        "bir ahd eyledim ki gardaş of of o da ömürlük",
+        "ali'mi salmıyı zalım ayrılık",
+        "mektup yazak şu yollarda barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan dedi tanımam ki yazayım",
+        "Goyver bacım şu dağları gezeyim",
+        "Evliyisen sennen nasıl gideyim",
+        "Ben ayrıldım garşı yoldan barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "barabar barabar barabar",
+        "ölek ölek ölek barabar",
+        "gelin dedi bu yoncalık gayrı çamırlık",
+        "bir ahd eyledim ki gardaş of of o da ömürlük",
+        "ali'mi salmıyı zalım ayrılık",
+        "mektup yazak şu yollarda barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin dedi şu gediği savuştur",
+        "Gorkiyim allah ali nerdeyse bana kavuştur",
+        "Gardaş oruyaca beni yolla barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "barabar barabar barabar",
+        "ölek ölek ölek barabar",
+        "gelin dedi bu yoncalık gayrı çamırlık",
+        "bir ahd eyledim ki gardaş of of o da ömürlük",
+        "ali'mi salmıyı zalım ayrılık",
+        "mektup yazak şu yollarda barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan dedi ki ben ölem bacım",
+        "Ekin değmiş keçeye dönmüş saçı",
+        "İşte ben ali'yim canımın içi",
+        "Yol üstünde ağladırlar ki barabar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "barabar barabar barabar",
+        "ölek ölek ölek barabar",
+        "gelin dedi bu yoncalık gayrı çamırlık",
+        "bir ahd eyledim ki gardaş of of o da ömürlük",
+        "ali'mi salmıyı zalım ayrılık",
+        "mektup yazak şu yollarda barabar"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mursal'dan%20%C3%87%C4%B1kt%C4%B1m%20Hekme'ye%20Do%C4%9Fru%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mursal'dan%20%C3%87%C4%B1kt%C4%B1m%20Hekme'ye%20Do%C4%9Fru",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mursal'dan Çıktım Hekme'ye Doğru",
+      "url": "https://tr.wikisource.org/wiki/Mursal'dan_%C3%87%C4%B1kt%C4%B1m_Hekme'ye_Do%C4%9Fru",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

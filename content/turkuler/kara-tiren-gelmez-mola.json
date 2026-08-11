@@ -1,0 +1,67 @@
+{
+  "slug": "kara-tiren-gelmez-mola",
+  "baslik": "Kara Tiren Gelmez m'ola",
+  "yore": "Sivas",
+  "hikaye": "Kara Tiren Gelmez m'ola, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara tiren gelmez m’ ola,",
+        "Düdüğünü çalmaz m’ ola.",
+        "Gurbet ele yar yolladım,",
+        "Mektubunu salmaz m’ ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Allı gelin al olaydın,",
+        "Selvilere dal olaydın.",
+        "Gelen geçen yolculardan,",
+        "Nazlı yar beni soraydın."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldım çantamı elime,",
+        "Düştüm gurbetin yoluna.",
+        "Böyle bilseydim sevmezdim,",
+        "Düştüm el âlem diline."
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Kara%20Tiren%20Gelmez%20m'ola%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Kara%20Tiren%20Gelmez%20m'ola",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kara Tiren Gelmez m'ola",
+      "url": "https://tr.wikisource.org/wiki/Kara_Tiren_Gelmez_m'ola",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "slug": "sabahtan-erkenden-gelmis-cesmeye",
+  "baslik": "Sabahtan Erkenden Gelmiş Çeşmeye",
+  "yore": "Sivas",
+  "hikaye": "Sabahtan Erkenden Gelmiş Çeşmeye, Sivas'ın âşıklık ve halk müziği geleneğinde korunan eserlerden biridir. Açık arşiv kaydı türkünün söz varyantını; Sivas İl Kültür ve Turizm Müdürlüğü ise eseri şehrin repertuvarı içinde belgeler.\nEser açık arşivde anonim metin olarak sınıflandırılır. Belirli bir olaya dayanan hikâye doğrulanmadıkça rivayetler olgu gibi aktarılmaz.",
+  "ozet": "Sivas yöresinin sözlü müzik belleğinden kaynaklı türkü kaydı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan erkenden gelmiş çeşmeye (oy gürcüm gürcüm)",
+        "İstedim testiden bir su içmeye",
+        "Ahtetmiştik gülüm benlen kaçmaya (oy gürcüm gürcüm)",
+        "Neden beni böyle derde düşürdün",
+        "Vay gürcüm gürcüm dur yolcum yolcum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınarın başında elimi yudum (oy gürcüm gürcüm)",
+        "Elinde bakracı geliyor dudu'm",
+        "Ölüp de almaktır yar benim ahtım (oy gürcüm gürcüm)",
+        "Neden muradımı gözümde koydun",
+        "Vay gürcüm gürcüm dur yolcum yolcum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabahtan erkenden kalk da bize gel (oy gürcüm gürcüm)",
+        "Gerdana gülleri tak da bize gel",
+        "Bugün bayram günü komşu kınanmaz (oy gürcüm gürcüm)",
+        "Eline kınalar yak da bize gel",
+        "Vay gürcüm gürcüm dur yolcum yolcum"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sabahtan%20Erkenden%20Gelmi%C5%9F%20%C3%87e%C5%9Fmeye%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sabahtan%20Erkenden%20Gelmi%C5%9F%20%C3%87e%C5%9Fmeye",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Sabahtan Erkenden Gelmiş Çeşmeye",
+      "url": "https://tr.wikisource.org/wiki/Sabahtan_Erkenden_Gelmi%C5%9F_%C3%87e%C5%9Fmeye",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Sivas İl Kültür ve Turizm Müdürlüğü — Sivas Türküleri",
+      "url": "https://sivas.ktb.gov.tr/TR-278692/sivas-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "anonim"
+  ]
+}
