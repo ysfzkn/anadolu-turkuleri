@@ -50,11 +50,17 @@ export default function RootLayout({
                 Anadolu Türküleri
               </span>
             </Link>
-            <nav className="hidden sm:flex items-center gap-6 text-sm font-medium text-ceviz-light">
+            <nav className="flex items-center gap-4 text-sm font-medium text-ceviz-light sm:gap-6">
               <Link href="/" className="hover:text-kilim transition-colors">
                 Türküler
               </Link>
-              <Link href="/hakkinda" className="hover:text-kilim transition-colors">
+              <Link href="/quiz" className="hover:text-kilim transition-colors">
+                Oyun
+              </Link>
+              <Link
+                href="/hakkinda"
+                className="hidden hover:text-kilim transition-colors sm:inline"
+              >
                 Hakkında
               </Link>
             </nav>

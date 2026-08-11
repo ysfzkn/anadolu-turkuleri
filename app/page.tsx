@@ -1,6 +1,7 @@
 import Link from "next/link";
-import { tumTurkuler, iller, ilSlug } from "@/lib/data";
-import { TurkuCard } from "@/components/TurkuCard";
+import { tumTurkuler, iller, ilSlug, ilAdi, kartlar, tumEtiketler } from "@/lib/data";
+import { TurkuArsivi } from "@/components/TurkuArsivi";
+import { GununTurkusu } from "@/components/GununTurkusu";
 import { TurkiyeHaritasi, type HaritaIl } from "@/components/TurkiyeHaritasi";
 import { RastgeleButon } from "@/components/RastgeleButon";
 import { MotifBorder, StarMotif } from "@/components/Motif";
@@ -8,6 +9,13 @@ import { MotifBorder, StarMotif } from "@/components/Motif";
 export default function AnaSayfa() {
   const turkuler = tumTurkuler();
   const ilListesi = iller();
+  const kartVerisi = kartlar();
+  const yoreAdlari = Array.from(
+    new Set(turkuler.map((t) => ilAdi(t.yore))),
+  ).sort((a, b) => a.localeCompare(b, "tr"));
+  const enCokEtiket = tumEtiketler()
+    .slice(0, 14)
+    .map((e) => e.etiket);
 
   // Harita için: her ile ait başlıklar
   const haritaIller: HaritaIl[] = ilListesi.map((il) => ({
@@ -40,38 +48,38 @@ export default function AnaSayfa() {
           <TurkiyeHaritasi iller={haritaIller} />
         </div>
 
-        {/* Yöre rozetleri (mobil + SEO + JS'siz erişim) */}
-        <div className="mt-6 flex flex-wrap items-center justify-center gap-2">
-          <span className="text-sm text-ceviz-light">Türküsü olan yöreler:</span>
-          {ilListesi.map((il) => (
-            <Link
-              key={il.slug}
-              href={`/yore/${il.slug}`}
-              className="rounded-full border border-kilim/40 bg-kilim/5 px-3 py-1 text-sm font-medium text-kilim-dark transition-colors hover:bg-kilim hover:text-parsomen"
-            >
-              {il.ad}
-              <span className="ml-1 text-xs opacity-70">{il.adet}</span>
-            </Link>
-          ))}
+        {/* Keşif kısayolları */}
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <RastgeleButon sluglar={turkuler.map((t) => t.slug)} />
+          <Link
+            href="/quiz"
+            className="inline-flex items-center gap-1.5 rounded-full border border-toprak/40 bg-toprak/5 px-3 py-1 text-sm font-medium text-toprak-dark transition-colors hover:bg-toprak hover:text-parsomen"
+          >
+            🪕 Bilgi oyunu
+          </Link>
+          <span className="text-sm text-ceviz-light">
+            {turkuler.length} türkü · {ilListesi.length} yöre
+          </span>
         </div>
+      </section>
+
+      {/* Günün türküsü + Ayın favorisi */}
+      <section className="mx-auto mt-10 max-w-5xl px-4">
+        <GununTurkusu turkuler={kartVerisi} />
       </section>
 
       <MotifBorder className="mt-12 opacity-80" />
 
-      {/* Arşiv */}
+      {/* Arşiv — arama + filtre */}
       <section className="mx-auto max-w-5xl px-4 py-12">
-        <div className="mb-6 flex items-end justify-between">
-          <h2 className="font-serif text-2xl font-semibold text-ceviz">
-            Tüm türküler
-          </h2>
-          <span className="text-sm text-ceviz-light">{turkuler.length} türkü</span>
-        </div>
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-          {turkuler.map((t) => (
-            <TurkuCard key={t.slug} turku={t} />
-          ))}
-        </div>
+        <h2 className="mb-6 font-serif text-2xl font-semibold text-ceviz">
+          Türkü arşivi
+        </h2>
+        <TurkuArsivi
+          turkuler={kartVerisi}
+          yoreler={yoreAdlari}
+          etiketler={enCokEtiket}
+        />
       </section>
     </>
   );

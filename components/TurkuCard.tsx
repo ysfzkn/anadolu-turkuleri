@@ -2,7 +2,13 @@ import Link from "next/link";
 import type { Turku } from "@/lib/types";
 import { CornerFlourish } from "./Motif";
 
-export function TurkuCard({ turku }: { turku: Turku }) {
+/** Kart için gereken hafif alt küme (hikâye/sözler taşımaz). */
+export type KartTurku = Pick<
+  Turku,
+  "slug" | "baslik" | "yore" | "ozet" | "etiketler"
+>;
+
+export function TurkuCard({ turku }: { turku: KartTurku }) {
   return (
     <Link
       href={`/turku/${turku.slug}`}

@@ -99,3 +99,27 @@ export function iller(): IlOzeti[] {
 export function ilTurkuleri(ilSlugu: string): Turku[] {
   return tumTurkuler().filter((t) => ilSlug(t.yore) === ilSlugu);
 }
+
+/** Kart/liste görünümleri için hafif alt küme (hikâye/sözler taşımaz). */
+export function kartlar() {
+  return tumTurkuler().map((t) => ({
+    slug: t.slug,
+    baslik: t.baslik,
+    yore: t.yore,
+    ozet: t.ozet,
+    etiketler: t.etiketler,
+  }));
+}
+
+/** Tüm etiketleri (tema) sıklığa göre azalan sırada döndürür. */
+export function tumEtiketler(): { etiket: string; adet: number }[] {
+  const sayac = new Map<string, number>();
+  for (const t of tumTurkuler()) {
+    for (const e of t.etiketler ?? []) {
+      sayac.set(e, (sayac.get(e) ?? 0) + 1);
+    }
+  }
+  return Array.from(sayac.entries())
+    .map(([etiket, adet]) => ({ etiket, adet }))
+    .sort((a, b) => b.adet - a.adet);
+}
