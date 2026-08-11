@@ -37,3 +37,32 @@ body {
 .sozler-satir {
   white-space: pre-wrap;
 }
+
+/* Anadolu Oyunları hareket dili: kısa, anlamlı ve hareket azaltma tercihine duyarlı. */
+@keyframes oyun-sahne-giris { from { opacity: 0; transform: translateY(14px) scale(.985); } to { opacity: 1; transform: none; } }
+@keyframes oyun-nabiz { 0%,100% { box-shadow: 0 0 0 0 rgba(156,43,33,.35); } 50% { box-shadow: 0 0 0 18px rgba(156,43,33,0); } }
+@keyframes oyun-radar { from { transform: scale(.65); opacity: .8; } to { transform: scale(1.55); opacity: 0; } }
+@keyframes oyun-dalga { 0%,100% { box-shadow: 0 0 0 0 rgba(255,255,255,.16), 0 0 0 0 rgba(255,255,255,.08); } 50% { box-shadow: 0 0 0 22px rgba(255,255,255,0), 0 0 0 46px rgba(255,255,255,0); } }
+@keyframes oyun-etiket { from { opacity: 0; transform: translateY(9px) rotate(-2deg); } to { opacity: 1; transform: none; } }
+@keyframes oyun-dogru { 0% { transform: scale(.96); } 55% { transform: scale(1.035); } 100% { transform: none; } }
+@keyframes oyun-yanlis { 20%,60% { transform: translateX(-4px); } 40%,80% { transform: translateX(4px); } }
+@keyframes oyun-pusula { from { transform: rotate(-8deg); } to { transform: rotate(8deg); } }
+
+.oyun-sahne-giris { animation: oyun-sahne-giris .42s cubic-bezier(.2,.8,.2,1) both; }
+.oyun-konum-nabiz { animation: oyun-nabiz 1.8s ease-out infinite; }
+.oyun-radar::before, .oyun-radar::after { content: ""; position: absolute; inset: 0; border: 1px solid rgba(255,255,255,.35); border-radius: 9999px; animation: oyun-radar 2s ease-out infinite; }
+.oyun-radar::after { animation-delay: 1s; }
+.oyun-eslesme-dalga { animation: oyun-dalga 2s ease-in-out infinite; }
+.oyun-iz-etiketi { animation: oyun-etiket .4s ease-out both; }
+.oyun-dogru { animation: oyun-dogru .45s ease-out; }
+.oyun-yanlis { animation: oyun-yanlis .35s ease-out; }
+.oyun-pusula { animation: oyun-pusula 2.2s ease-in-out infinite alternate; }
+.oyun-harita-iz { background-image: radial-gradient(circle at 20% 50%, rgba(156,43,33,.45) 0 2px, transparent 3px), radial-gradient(circle at 72% 35%, rgba(31,86,115,.45) 0 2px, transparent 3px), linear-gradient(25deg, transparent 48%, rgba(200,135,63,.25) 49% 51%, transparent 52%); background-size: 100% 100%; }
+
+@media (prefers-reduced-motion: reduce) {
+  .oyun-sahne-giris, .oyun-konum-nabiz, .oyun-radar::before, .oyun-radar::after,
+  .oyun-eslesme-dalga, .oyun-iz-etiketi, .oyun-dogru, .oyun-yanlis, .oyun-pusula {
+    animation: none !important;
+  }
+  .oyun-secenek { transition: none !important; }
+}
