@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { GirisPaneli } from "@/components/GirisPaneli";
 
 export const metadata: Metadata = {
@@ -25,7 +26,9 @@ export default function GirisSayfasi() {
         </p>
       </div>
       <div className="rounded-2xl border border-toprak/30 bg-parsomen p-6 shadow-motif">
-        <GirisPaneli />
+        <Suspense fallback={<p className="text-sm text-ceviz-light">Yükleniyor…</p>}>
+          <GirisPaneli />
+        </Suspense>
       </div>
     </div>
   );

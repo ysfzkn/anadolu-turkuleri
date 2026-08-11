@@ -44,6 +44,7 @@ export async function spotifyTrackUri(
 }
 
 export interface SpotifyOnizleme {
+  id: string | null;
   ad: string;
   sanatci: string;
   onizlemeUrl: string | null;
@@ -68,6 +69,7 @@ export async function turkuOnizleme(
   if (!items.length) return null;
   const parca = items.find((i) => i.preview_url) ?? items[0];
   return {
+    id: parca.id ?? null,
     ad: parca.name,
     sanatci: (parca.artists ?? []).map((a: any) => a.name).join(", "),
     onizlemeUrl: parca.preview_url ?? null,

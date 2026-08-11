@@ -1,6 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import { authHataMesaji, hashHataKodu } from "@/lib/auth-hatalari";
 import { tarayiciSupabase } from "@/lib/supabase/client";
 import { GoogleIkon, SpotifyIkon } from "./MarkaIkonlari";
 
@@ -8,8 +10,28 @@ const SPOTIFY_SCOPES =
   "playlist-modify-public playlist-modify-private user-read-email";
 
 export function GirisPaneli() {
+  const searchParams = useSearchParams();
   const [durum, setDurum] = useState<"hazir" | "yonleniyor" | "hata">("hazir");
   const [mesaj, setMesaj] = useState("");
+
+  useEffect(() => {
+    const hashHata = hashHataKodu();
+    const queryHata = searchParams.get("hata");
+    const kod = hashHata ?? queryHata;
+    if (!kod) return;
+
+    setDurum("hata");
+    setMesaj(authHataMesaji(kod));
+
+    // Hash'i temizle; query param kalabilir (sayfa yenilemede mesaj görünsün).
+    if (hashHata) {
+      window.history.replaceState(
+        null,
+        "",
+        window.location.pathname + window.location.search,
+      );
+    }
+  }, [searchParams]);
 
   async function giris(saglayici: "google" | "spotify") {
     try {

@@ -53,9 +53,11 @@ export function ListeyeEkle({ turkuSlug }: { turkuSlug: string }) {
       .from("liste_turkuleri")
       .select("liste_id")
       .eq("turku_slug", turkuSlug);
-    const icindeSet = new Set((icinde ?? []).map((r) => r.liste_id));
+    const icindeSet = new Set(
+      ((icinde ?? []) as Array<{ liste_id: string }>).map((r) => r.liste_id),
+    );
     setListeler(
-      (tumu ?? []).map((l) => ({
+      ((tumu ?? []) as Array<{ id: string; baslik: string }>).map((l) => ({
         id: l.id,
         baslik: l.baslik,
         icinde: icindeSet.has(l.id),

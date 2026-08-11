@@ -3,6 +3,7 @@ import { Lora, Inter } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
 import { KullaniciMenusu } from "@/components/KullaniciMenusu";
+import { AnaNavigasyon } from "@/components/AnaNavigasyon";
 
 const serif = Lora({
   subsets: ["latin", "latin-ext"],
@@ -40,8 +41,8 @@ export default function RootLayout({
     <html lang="tr" className={`${serif.variable} ${sans.variable}`}>
       <body className="font-sans antialiased min-h-screen flex flex-col">
         <div className="kilim-strip" />
-        <header className="border-b border-toprak/30 bg-parsomen/80 backdrop-blur">
-          <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
+        <header className="sticky top-0 z-40 border-b border-toprak/20 bg-parsomen/88 shadow-[0_1px_0_rgba(110,72,40,0.04)] backdrop-blur-xl">
+          <div className="mx-auto flex min-h-[72px] max-w-6xl items-center justify-between gap-3 px-4">
             <Link href="/" className="flex items-center gap-2.5 group">
               <img
                 src="/logo-mark.png"
@@ -50,25 +51,12 @@ export default function RootLayout({
                 height={40}
                 className="h-10 w-10 object-contain transition-transform group-hover:scale-105"
               />
-              <span className="font-serif text-xl sm:text-2xl font-semibold text-ceviz">
+              <span className="hidden font-serif text-xl font-semibold text-ceviz min-[440px]:inline sm:text-2xl">
                 Anadolu Türküleri
               </span>
             </Link>
-            <div className="flex items-center gap-4 sm:gap-6">
-              <nav className="flex items-center gap-4 text-sm font-medium text-ceviz-light sm:gap-6">
-                <Link href="/" className="hover:text-kilim transition-colors">
-                  Türküler
-                </Link>
-                <Link href="/quiz" className="hover:text-kilim transition-colors">
-                  Oyun
-                </Link>
-                <Link
-                  href="/hakkinda"
-                  className="hidden hover:text-kilim transition-colors sm:inline"
-                >
-                  Hakkında
-                </Link>
-              </nav>
+            <div className="flex items-center gap-2 sm:gap-3">
+              <AnaNavigasyon />
               <KullaniciMenusu />
             </div>
           </div>
