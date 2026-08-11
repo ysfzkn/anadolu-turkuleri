@@ -29,15 +29,13 @@ async function erisimTokeni(): Promise<string> {
   return token;
 }
 
-/** Kullanıcı token'ıyla parça arar; ilk sonucun Spotify URI'sini döndürür. */
-export async function spotifyTrackUri(
-  token: string,
-  sorgu: string,
-): Promise<string | null> {
+/** Uygulama token'ıyla parça arar; kullanıcı oturum süresinden etkilenmez. */
+export async function spotifyTrackUri(sorgu: string): Promise<string | null> {
+  const uygulamaTokeni = await erisimTokeni();
   const url =
     "https://api.spotify.com/v1/search?type=track&limit=1&market=TR&q=" +
     encodeURIComponent(sorgu);
-  const res = await fetch(url, { headers: { Authorization: `Bearer ${token}` } });
+  const res = await fetch(url, { headers: { Authorization: `Bearer ${uygulamaTokeni}` } });
   if (!res.ok) return null;
   const j = (await res.json()) as { tracks?: { items?: any[] } };
   return j.tracks?.items?.[0]?.uri ?? null;

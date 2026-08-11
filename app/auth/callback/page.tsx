@@ -31,11 +31,13 @@ function CallbackIcerik() {
       try {
         const supabase = tarayiciSupabase();
 
-        // Geri/yenile gibi durumlarda kod daha önce işlenmiş olabilir. Geçerli
-        // oturum varsa kullanıcıya yanlış bir "giriş tamamlanamadı" göstermeyiz.
+        // Spotify mevcut hesaba bağlanırken kullanıcı zaten oturum açmış
+        // olabilir. Yine de yeni kod işlenmeli; provider_token ancak bu
+        // değişimden sonra oturuma yazılır.
         let { data: oturumVerisi } = await supabase.auth.getSession();
-        if (!oturumVerisi.session && code) {
-          const { error } = await supabase.auth.exchangeCodeForSession(code);
+        if (code) {
+          const { data: yeniOturum, error } = await supabase.auth.exchangeCodeForSession(code);
+          if (yeniOturum.session) oturumVerisi = yeniOturum;
           if (error) {
             // Kod başka bir istemci tarafından çoktan işlendiyse oturum oluşmuş
             // olabilir; hata göstermeden önce bir kez daha kontrol et.

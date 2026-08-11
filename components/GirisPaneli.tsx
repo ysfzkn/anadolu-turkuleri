@@ -42,6 +42,7 @@ export function GirisPaneli() {
         options: {
           redirectTo: `${window.location.origin}/auth/callback`,
           scopes: saglayici === "spotify" ? SPOTIFY_SCOPES : undefined,
+          queryParams: saglayici === "spotify" ? { show_dialog: "true" } : undefined,
         },
       });
       if (error) throw error;

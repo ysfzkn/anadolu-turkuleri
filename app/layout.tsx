@@ -5,6 +5,7 @@ import "./globals.css";
 import { KullaniciMenusu } from "@/components/KullaniciMenusu";
 import { AnaNavigasyon } from "@/components/AnaNavigasyon";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { AnalitikIzni } from "@/components/AnalitikIzni";
 
 const serif = Lora({
   subsets: ["latin", "latin-ext"],
@@ -120,6 +121,7 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+        <AnalitikIzni />
       </body>
     </html>
   );

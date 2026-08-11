@@ -46,7 +46,7 @@ export async function POST(request: Request) {
   for (const slug of slugs) {
     const t = turkuBul(slug);
     if (!t) continue;
-    const uri = await spotifyTrackUri(token, `${t.baslik} ${t.yore}`);
+    const uri = await spotifyTrackUri(`${t.baslik} ${t.yore}`);
     if (uri) uris.push(uri);
   }
   if (!uris.length)
@@ -65,8 +65,10 @@ export async function POST(request: Request) {
         public: false,
       }),
     });
-  if (plRes.status === 401 || plRes.status === 403)
-    return Response.json({ hata: "spotify-token" }, { status: 400 });
+  if (plRes.status === 401)
+    return Response.json({ hata: "spotify-token", yenidenBagla: true }, { status: 401 });
+  if (plRes.status === 403)
+    return Response.json({ hata: "spotify-yetki", yenidenBagla: true }, { status: 403 });
   if (!plRes.ok)
     return Response.json({ hata: "playlist-olusmadi" }, { status: 400 });
   const pl = (await plRes.json()) as {
@@ -85,8 +87,8 @@ export async function POST(request: Request) {
   });
   if (!ekleRes.ok) {
     return Response.json(
-      { hata: ekleRes.status === 401 || ekleRes.status === 403 ? "spotify-token" : "parcalar-eklenemedi" },
-      { status: 400 },
+      { hata: ekleRes.status === 401 ? "spotify-token" : ekleRes.status === 403 ? "spotify-yetki" : "parcalar-eklenemedi", yenidenBagla: ekleRes.status === 401 || ekleRes.status === 403 },
+      { status: ekleRes.status === 401 || ekleRes.status === 403 ? ekleRes.status : 400 },
     );
   }
 

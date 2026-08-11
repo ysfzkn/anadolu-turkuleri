@@ -22,6 +22,8 @@ export default function ListelerimSayfasi() {
   const [uid, setUid] = useState<string | null>(null);
   const [kopyalanan, setKopyalanan] = useState<string | null>(null);
   const [bildirim, setBildirim] = useState("");
+  const [bildirimTuru, setBildirimTuru] = useState<"basari" | "hata">("basari");
+  const [silinecek, setSilinecek] = useState<Liste | null>(null);
 
   useEffect(() => {
     let supabase: ReturnType<typeof tarayiciSupabase>;
@@ -69,32 +71,48 @@ export default function ListelerimSayfasi() {
       .select("id,baslik,herkese_acik,paylasim_kodu")
       .single();
     if (error) {
+      setBildirimTuru("hata");
       setBildirim("Liste oluşturulamadı. Lütfen yeniden deneyin.");
     } else if (data) {
       setListeler((ls) => [{ ...(data as any), adet: 0 }, ...ls]);
       setYeniAd("");
+      setBildirimTuru("basari");
       setBildirim(`“${ad}” listesi oluşturuldu.`);
     }
   }
 
   async function gorunurluk(liste: Liste) {
     const supabase = tarayiciSupabase();
-    await supabase
+    const { error } = await supabase
       .from("listeler")
       .update({ herkese_acik: !liste.herkese_acik })
       .eq("id", liste.id);
+    if (error) {
+      setBildirimTuru("hata");
+      setBildirim("Liste görünürlüğü değiştirilemedi. Lütfen yeniden dene.");
+      return;
+    }
     setListeler((ls) =>
       ls.map((l) =>
         l.id === liste.id ? { ...l, herkese_acik: !l.herkese_acik } : l,
       ),
     );
+    setBildirimTuru("basari");
+    setBildirim(liste.herkese_acik ? "Liste gizli hâle getirildi." : "Liste paylaşmaya açıldı.");
   }
 
   async function sil(liste: Liste) {
-    if (!confirm(`"${liste.baslik}" listesi silinsin mi?`)) return;
     const supabase = tarayiciSupabase();
-    await supabase.from("listeler").delete().eq("id", liste.id);
+    const { error } = await supabase.from("listeler").delete().eq("id", liste.id);
+    if (error) {
+      setBildirimTuru("hata");
+      setBildirim("Liste silinemedi. Lütfen yeniden dene.");
+      return;
+    }
     setListeler((ls) => ls.filter((l) => l.id !== liste.id));
+    setSilinecek(null);
+    setBildirimTuru("basari");
+    setBildirim(`“${liste.baslik}” listesi silindi.`);
   }
 
   function paylasimKopyala(kod: string) {
@@ -152,7 +170,7 @@ export default function ListelerimSayfasi() {
           Oluştur
         </button>
         </div>
-        <p className="mt-2 min-h-5 text-sm text-ceviz-light" aria-live="polite">{bildirim}</p>
+        {bildirim && <div role={bildirimTuru === "hata" ? "alert" : "status"} className={`mt-3 rounded-xl border px-4 py-3 text-sm ${bildirimTuru === "hata" ? "border-kilim/25 bg-kilim/5 text-kilim-dark" : "border-[#3f7a62]/25 bg-[#3f7a62]/10 text-[#28523f]"}`}>{bildirim}</div>}
       </div>
 
       {listeler.length === 0 ? (
@@ -165,7 +183,7 @@ export default function ListelerimSayfasi() {
           {listeler.map((l) => (
             <li
               key={l.id}
-              className="flex items-center justify-between gap-3 rounded-2xl border border-toprak/30 bg-parsomen p-4 shadow-motif"
+              className="grid gap-4 rounded-2xl border border-toprak/30 bg-parsomen p-5 shadow-motif lg:grid-cols-[minmax(150px,1fr)_minmax(0,2fr)] lg:items-center"
             >
               <div className="min-w-0">
                 <Link
@@ -176,8 +194,9 @@ export default function ListelerimSayfasi() {
                 </Link>
                 <div className="text-sm text-ceviz-light">{l.adet} türkü</div>
               </div>
-              <div className="flex shrink-0 flex-wrap items-center justify-end gap-2 text-sm">
+              <div className="flex min-w-0 flex-col gap-3 lg:items-end">
                 {l.adet > 0 && <SpotifyAktarButonu listeId={l.id} />}
+                <div className="flex flex-wrap items-center gap-2 text-sm lg:justify-end">
                 <button
                   onClick={() => gorunurluk(l)}
                   className={`rounded-lg border px-2.5 py-1 ${
@@ -198,15 +217,29 @@ export default function ListelerimSayfasi() {
                   </button>
                 )}
                 <button
-                  onClick={() => sil(l)}
+                  onClick={() => setSilinecek(l)}
                   className="min-h-11 rounded-lg border border-kilim/40 px-3 py-2 text-kilim-dark hover:bg-kilim hover:text-parsomen"
                 >
                   Sil
                 </button>
+                </div>
               </div>
             </li>
           ))}
         </ul>
+      )}
+      {silinecek && (
+        <div className="fixed inset-0 z-[110] grid place-items-center bg-ceviz/45 p-4 backdrop-blur-sm" role="presentation" onMouseDown={(e) => { if (e.target === e.currentTarget) setSilinecek(null); }}>
+          <section role="alertdialog" aria-modal="true" aria-labelledby="liste-sil-baslik" className="w-full max-w-md rounded-3xl border border-toprak/30 bg-parsomen p-6 shadow-[0_24px_80px_rgba(43,33,24,.3)]">
+            <span className="grid h-11 w-11 place-items-center rounded-full bg-kilim/10 text-xl text-kilim" aria-hidden>!</span>
+            <h2 id="liste-sil-baslik" className="mt-4 font-serif text-2xl font-semibold text-ceviz">Liste silinsin mi?</h2>
+            <p className="mt-2 text-sm leading-6 text-ceviz-light">“{silinecek.baslik}” ve içindeki kayıtlar kalıcı olarak silinecek. Bu işlem geri alınamaz.</p>
+            <div className="mt-6 flex justify-end gap-2">
+              <button type="button" onClick={() => setSilinecek(null)} className="min-h-11 rounded-xl border border-toprak/30 px-4 text-sm font-semibold text-ceviz hover:bg-toprak/10">Vazgeç</button>
+              <button type="button" onClick={() => void sil(silinecek)} className="min-h-11 rounded-xl bg-kilim px-4 text-sm font-semibold text-white hover:bg-kilim-dark">Listeyi sil</button>
+            </div>
+          </section>
+        </div>
       )}
     </div>
   );

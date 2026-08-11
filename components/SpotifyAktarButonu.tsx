@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { SpotifyIkon } from "./MarkaIkonlari";
 import { tarayiciSupabase } from "@/lib/supabase/client";
+import { olayKaydet } from "@/lib/analytics";
 
 const SPOTIFY_SCOPES =
   "playlist-modify-public playlist-modify-private user-read-email";
@@ -14,6 +15,9 @@ const HATA_MESAJ: Record<string, string> = {
   "playlist-olusmadi": "Çalma listesi oluşturulamadı",
   "parcalar-eklenemedi": "Çalma listesi oluştu ancak parçalar eklenemedi",
   "spotify-token": "Spotify oturumu süresi dolmuş — tekrar giriş yap",
+  "spotify-yetki": "Spotify çalma listesi izni eksik",
+  "liste-yok": "Liste bilgisi eksik",
+  "liste-bulunamadi": "Liste bulunamadı veya erişim iznin yok",
 };
 
 export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
@@ -25,6 +29,7 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
   const [baglantiGerekli, setBaglantiGerekli] = useState(false);
 
   async function aktar() {
+    olayKaydet("spotify_aktarim_basladi");
     setDurum("calisiyor");
     setMesaj("");
     setBaglantiGerekli(false);
@@ -38,16 +43,19 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
       if (d.url) {
         setUrl(d.url);
         setDurum("bitti");
+        olayKaydet("spotify_aktarim_tamamlandi", { eklenen: d.eklenen ?? 0, toplam: d.toplam ?? 0 });
       } else {
         setMesaj(HATA_MESAJ[d.hata] ?? "Aktarılamadı");
         setBaglantiGerekli(
-          d.hata === "spotify-baglanti-gerekli" || d.hata === "spotify-token",
+          Boolean(d.yenidenBagla) || d.hata === "spotify-baglanti-gerekli" || d.hata === "spotify-token" || d.hata === "spotify-yetki",
         );
         setDurum("hata");
+        olayKaydet("spotify_aktarim_hatasi", { hata: d.hata ?? "bilinmiyor" });
       }
     } catch {
       setMesaj("Bir hata oluştu");
       setDurum("hata");
+      olayKaydet("spotify_aktarim_hatasi", { hata: "ag_hatasi" });
     }
   }
 
@@ -68,11 +76,11 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
       const sonuc = spotifyBagli
         ? await supabase.auth.signInWithOAuth({
             provider: "spotify",
-            options: { redirectTo, scopes: SPOTIFY_SCOPES },
+            options: { redirectTo, scopes: SPOTIFY_SCOPES, queryParams: { show_dialog: "true" } },
           })
         : await supabase.auth.linkIdentity({
             provider: "spotify",
-            options: { redirectTo, scopes: SPOTIFY_SCOPES },
+            options: { redirectTo, scopes: SPOTIFY_SCOPES, queryParams: { show_dialog: "true" } },
           });
       if (sonuc.error) throw sonuc.error;
     } catch {
@@ -89,7 +97,7 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
         href={url}
         target="_blank"
         rel="noopener noreferrer"
-        className="inline-flex items-center gap-1.5 rounded-lg bg-[#1DB954] px-2.5 py-1 text-sm font-medium text-white hover:bg-[#1aa34a]"
+        className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#1DB954] px-4 text-sm font-semibold text-white hover:bg-[#1aa34a]"
       >
         <SpotifyIkon className="h-4 w-4" /> Spotify'da aç
       </a>
@@ -97,27 +105,33 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
   }
 
   return (
-    <span className="inline-flex flex-wrap items-center gap-2">
+    <div className="w-full sm:w-auto">
+      <div className="flex flex-wrap items-center gap-2">
       <button
         onClick={aktar}
         disabled={durum === "calisiyor"}
-        className="inline-flex items-center gap-1.5 rounded-lg border border-[#1DB954]/50 px-2.5 py-1 text-sm font-medium text-[#1a9e49] transition-colors hover:bg-[#1DB954] hover:text-white disabled:opacity-60"
+        className="inline-flex min-h-11 items-center gap-2 rounded-xl border border-[#1DB954]/50 px-4 text-sm font-semibold text-[#16883f] transition-colors hover:bg-[#1DB954] hover:text-white disabled:cursor-wait disabled:opacity-60"
       >
         <SpotifyIkon className="h-4 w-4" />
         {durum === "calisiyor" ? "Aktarılıyor…" : "Spotify'a aktar"}
       </button>
-      {durum === "hata" && (
-        <span className="text-xs text-kilim-dark">{mesaj}</span>
-      )}
       {baglantiGerekli && (
         <button
           type="button"
           onClick={spotifyBagla}
-          className="inline-flex items-center gap-1.5 rounded-lg bg-[#1DB954] px-2.5 py-1 text-sm font-medium text-white transition-colors hover:bg-[#1aa34a]"
+          className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#1DB954] px-4 text-sm font-semibold text-white transition-colors hover:bg-[#1aa34a]"
         >
           <SpotifyIkon className="h-4 w-4" /> Spotify'ı bağla
         </button>
       )}
-    </span>
+      </div>
+      {durum === "hata" && (
+        <div role="alert" className="mt-2 flex max-w-md items-start gap-2 rounded-xl border border-kilim/25 bg-kilim/5 px-3 py-2 text-xs leading-5 text-kilim-dark">
+          <span aria-hidden>!</span>
+          <span>{mesaj}. {baglantiGerekli ? "Hesabını yeniden yetkilendirip tekrar deneyebilirsin." : "Lütfen biraz sonra yeniden dene."}</span>
+        </div>
+      )}
+      {durum === "calisiyor" && mesaj && <p role="status" className="mt-2 text-xs text-ceviz-light">{mesaj}</p>}
+    </div>
   );
 }
