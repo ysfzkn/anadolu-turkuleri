@@ -1,0 +1,53 @@
+{
+  "slug": "huma-kusu-yukseklerden-seslenir",
+  "baslik": "Huma Kuşu Yükseklerden Seslenir",
+  "yore": "Erzurum (Ilıca)",
+  "hikaye": "Huma Kuşu Yükseklerden Seslenir, Erzurum'un Ilıca yöresinden bir uzun havadır. Anlatıya göre Tikkir (Çiğdemli) köyünden evli Mustafa askere alınır; her sabah kocasını bekleyen gelinini gören kayınpeder, Mustafa'yı haberci Huma kuşuna benzeterek bu ağıdı yakar.\nAnonim halk geleneğine ait türkü, serbest ritimli söyleyişiyle Erzurum halk müziğinin en etkileyici uzun havalarındandır.",
+  "ozet": "Askere gidip dönmeyen bir yiğidi efsanevi Huma kuşuna benzeten, uzun hava formunda ünlü Erzurum ağıdı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Huma kuşu yükseklerden seslenir",
+        "Yar koynunda bir çift suna beslenir"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Uzun hava",
+    "notlar": "Serbest ritimli uzun hava."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Huma%20Ku%C5%9Fu%20Y%C3%BCkseklerden%20Seslenir%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Huma%20Ku%C5%9Fu%20Y%C3%BCkseklerden%20Seslenir",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Huma Kuşu Yükseklerden Seslenir",
+      "url": "https://tr.wikisource.org/wiki/Huma_Ku%C5%9Fu_Y%C3%BCkseklerden_Seslenir",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2411",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Erzurum",
+    "uzun hava",
+    "asker",
+    "ağıt"
+  ]
+}

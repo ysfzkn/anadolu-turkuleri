@@ -1,0 +1,52 @@
+{
+  "slug": "bulbulun-kanadi-sari",
+  "baslik": "Bülbülün Kanadı Sarı",
+  "yore": "Diyarbakır",
+  "kaynakKisi": "Celal Güzelses",
+  "derleyen": "Mehmet Özbek",
+  "hikaye": "Bülbülün Kanadı Sarı, Diyarbakır'ın hasret yüklü türkülerindendir. Elinden yâri alınan bir garip, 'garip garip ötme bülbül' diyerek kendi acısını kuşun sesinde bulur; sarı renk yine yas ve ayrılığı çağrıştırır.\nAnonim halk geleneğine ait türkü, Celal Güzelses'in plaklarından derlenmiş, Mehmet Özbek tarafından notaya alınmıştır.",
+  "ozet": "Elinden yâri alınan bir garibin bülbüle seslendiği, hasret ve ayrılık dolu Diyarbakır türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bülbülün kanadı sarı",
+        "Ben ağlarım zarı zarı",
+        "Elimden aldılar yâri",
+        "Garip garip ötme bülbül"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=B%C3%BClb%C3%BCl%C3%BCn%20Kanad%C4%B1%20Sar%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/B%C3%BClb%C3%BCl%C3%BCn%20Kanad%C4%B1%20Sar%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Bülbülün Kanadı Sarı",
+      "url": "https://tr.wikisource.org/wiki/B%C3%BClb%C3%BCl%C3%BCn_Kanad%C4%B1_Sar%C4%B1_(Diyarbak%C4%B1r)",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=271",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Diyarbakır",
+    "ayrılık",
+    "hasret"
+  ]
+}

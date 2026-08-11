@@ -1,0 +1,62 @@
+{
+  "slug": "salin-da-gel-meydan-kiz-gorsun",
+  "baslik": "Salın da Gel Meydan Kız Görsün",
+  "yore": "Kayseri",
+  "kaynakKisi": "Ahmet Gazi Ayhan",
+  "derleyen": "Nida Tüfekçi",
+  "hikaye": "Salın da Gel Meydan Kız Görsün, Kayseri'nin neşeli oyun türkülerindendir. Sevgiliye salınarak, serpilerek gelmesi için seslenen sözler, kınalı parmaklar ve nazik bel imgeleriyle coşkulu bir güzellemeye dönüşür.\nAnonim halk geleneğine ait türkü, kaynak kişi Ahmet Gazi Ayhan'dan Nida Tüfekçi tarafından derlenmiştir.",
+  "ozet": "Sevgiliye 'salınarak gel' diye seslenen, kınalı parmakları ve nazik beli öven eğlenceli Kayseri oyun türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Salın da gel meydan kız görsün",
+        "Serpil de gel düşmanlar ölsün",
+        "Hopla da gel gel yanıma",
+        "Vallah kıyarım canıma"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Kınalı parmaklar ne güzel eller",
+        "Sarmaya yakışır o nazik beller"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Oyun havası"
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sal%C4%B1n%20da%20Gel%20Meydan%20K%C4%B1z%20G%C3%B6rs%C3%BCn%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sal%C4%B1n%20da%20Gel%20Meydan%20K%C4%B1z%20G%C3%B6rs%C3%BCn",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Salın da Gel Meydan Kız Görsün",
+      "url": "https://tr.wikisource.org/wiki/Sal%C4%B1n_da_Gel_Meydan_K%C4%B1z_G%C3%B6rs%C3%BCn",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Repertükül",
+      "url": "https://www.repertukul.com/SALIN-DA-GEL-MEYDAN-KIZ-GORSUN-1662",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kayseri",
+    "oyun havası",
+    "sevda"
+  ]
+}

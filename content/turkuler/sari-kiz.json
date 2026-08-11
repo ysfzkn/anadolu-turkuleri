@@ -1,0 +1,60 @@
+{
+  "slug": "sari-kiz",
+  "baslik": "Sarı Kız",
+  "digerAdlar": [
+    "Yılan Aktı Kamışa"
+  ],
+  "yore": "Kayseri",
+  "hikaye": "Sarı Kız, Kayseri yöresinden yanık bir sevda türküsüdür; 'Yılan aktı kamışa' dizesiyle açılır. Sabır ve ayrılık temalarını, 'hele yandım sarı kız' söyleyişiyle içli bir feryada dönüştürür.\nAnonim halk geleneğine ait türkü, aynı adı taşıyan başka yöre türküleriyle karıştırılmamalıdır; bu, Kayseri'nin 'Yılan Aktı Kamışa' ile bilinen varyantıdır.",
+  "ozet": "'Sarı Kız'a seslenen, ayrılık ve yanık aşk temalı bir Kayseri türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yılan aktı kamışa",
+        "Su neylesin yanmışa",
+        "Mevlam sabırlar versin",
+        "Yarinden ayrılmışa"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Hele yandım sarı kız",
+        "Aman aman sarı kız"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Sar%C4%B1%20K%C4%B1z%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Sar%C4%B1%20K%C4%B1z",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Türkü Dostları — Sarı Kız (Yılan Aktı Kamışa)",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=3526",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Yurdu — Kayseri türküleri",
+      "url": "http://www.turkuyurdu.com/yoreler/kayseri-yoresi-turkuleri.htm",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kayseri",
+    "sevda",
+    "ayrılık"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "eczanenin-siseleri",
+  "baslik": "Eczanenin Şişeleri",
+  "yore": "Konya",
+  "kaynakKisi": "Ahmet Çopur",
+  "hikaye": "Eczanenin Şişeleri, Konya oturak âlemlerinin en tanınmış havalarından biridir. Nişaburek makamındaki ezgisiyle, yörenin muhabbet ve eğlence geleneğinin karakteristik bir örneğidir.\nAnonim halk geleneğine ait türkü, Konya'nın kendine özgü oturak (muhabbet) kültürünü yansıtır; kaynak kişi olarak Ahmet Çopur anılır.",
+  "ozet": "Konya oturak âlemlerinin en bilinen havalarından biri; Nişaburek makamında bir muhabbet türküsü.",
+  "sozler": [],
+  "calim": {
+    "ayak": "Nişaburek makamı",
+    "notlar": "Konya oturak (muhabbet) havası."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eczanenin%20%C5%9Ei%C5%9Feleri%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eczanenin%20%C5%9Ei%C5%9Feleri",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Ahmet Çadırcı — Konya türküleri",
+      "url": "https://turku.ahmetcadirci.com/konya/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "DergiPark — Konya Kaşık Havaları (akademik)",
+      "url": "https://dergipark.org.tr/tr/download/article-file/257648",
+      "tur": "akademik",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Konya",
+    "oturak havası",
+    "muhabbet"
+  ]
+}

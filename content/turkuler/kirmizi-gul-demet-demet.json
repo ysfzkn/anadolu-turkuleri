@@ -1,0 +1,51 @@
+{
+  "slug": "kirmizi-gul-demet-demet",
+  "baslik": "Kırmızı Gül Demet Demet",
+  "yore": "Erzurum",
+  "derleyen": "Nida Tüfekçi",
+  "hikaye": "Kırmızı Gül Demet Demet, Erzurum'un en tanınmış ağıtlarından biridir. Yaygın anlatıda, dul ve varlıklı bir ananın tek oğlu Mehmet, ticaret için gittiği Revan'da (bugünkü Erivan) hastalığa yakalanıp ölür; her akşam anasına gül demeti getiren oğlunun ölümüyle ana aklını yitirip elinde kırmızı güllerle dağlara düşer.\nAnonim halk geleneğine ait türkü, evlat acısının kırmızı gül imgesiyle bütünleştiği en dokunaklı örneklerdendir.",
+  "ozet": "Evladını yitiren bir ananın ağıdı olarak bilinen, kırmızı gül demetiyle işlenen çok ünlü Erzurum türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı gül demet demet",
+        "Sevda değil bir alâmet",
+        "Gitti gelmez ol muhannet",
+        "Şol Revan'da balam kaldı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=K%C4%B1rm%C4%B1z%C4%B1%20G%C3%BCl%20Demet%20Demet%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/K%C4%B1rm%C4%B1z%C4%B1%20G%C3%BCl%20Demet%20Demet",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Kırmızı Gül Demet Demet",
+      "url": "https://tr.wikisource.org/wiki/K%C4%B1rm%C4%B1z%C4%B1_G%C3%BCl_Demet_Demet",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Erzurum İl Kültür Md. — Hikâyelerle Erzurum türküleri",
+      "url": "https://erzurum.ktb.gov.tr/TR-308649/hikayelerle-erzurum-turkuleri.html",
+      "tur": "kurum",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Erzurum",
+    "ağıt",
+    "evlat acısı"
+  ]
+}

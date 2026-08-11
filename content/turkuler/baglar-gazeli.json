@@ -1,0 +1,40 @@
+{
+  "slug": "baglar-gazeli",
+  "baslik": "Bağlar Gazeli",
+  "yore": "Konya",
+  "hikaye": "Bağlar Gazeli, Konya yöresinden bağ-bahçe imgeleriyle örülü bir türküdür; adını 'Bağlar Gazeli' lakaplı bir güzelden alır. Konya'nın bağ kültürünü ve sevda dilini bir araya getirir.\nSözleri 1926 tarihli 'Konya İli Halkiyatı ve Harsiyatı' derlemesine dayanan türkü, belgeli biçimde geleneksel/anonim kökenlidir.",
+  "ozet": "'Bağlar Gazeli' lakaplı bir güzeli konu alan, bağ-bahçe imgeli Konya türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ba%C4%9Flar%20Gazeli%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ba%C4%9Flar%20Gazeli",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Konya türküleri — Bağlar Gazeli",
+      "url": "https://turku.sitesi.web.tr/konya/baglar-gazeli.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=9522",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Konya",
+    "sevda",
+    "gazel"
+  ]
+}

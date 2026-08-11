@@ -1,0 +1,49 @@
+{
+  "slug": "firat-kenarinin-ince-dumani",
+  "baslik": "Fırat Kenarının İnce Dumanı",
+  "yore": "Şanlıurfa (Bozova)",
+  "hikaye": "Fırat Kenarının İnce Dumanı, Şanlıurfa'nın Bozova yöresinden dokunaklı bir ağıttır. Yaygın anlatıya göre iki komşu köyün gençleri sevişip evlenirken, gelin alayında bir serseri kurşun gelini vurur; düğün yasa döner.\nDamadın her gece sevdiğinin mezarı başında yaktığı sözler, Fırat'ın seher dumanına karışarak bu ağıda dönüşmüştür.",
+  "ozet": "Düğün alayında serseri bir kurşunla can veren gelinin ardından, Fırat kıyısında yakılan ağıt.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fırat kenarının ince dumanı",
+        "Dağlara yayılır seher zamanı",
+        "Ben yârimden kestim artık gümanı"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=F%C4%B1rat%20Kenar%C4%B1n%C4%B1n%20%C4%B0nce%20Duman%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/F%C4%B1rat%20Kenar%C4%B1n%C4%B1n%20%C4%B0nce%20Duman%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fırat Kenarının İnce Dumanı",
+      "url": "https://tr.wikisource.org/wiki/F%C4%B1rat_Kenar%C4%B1n%C4%B1n_%C4%B0nce_Duman%C4%B1",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=3570",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Şanlıurfa",
+    "ağıt",
+    "ayrılık"
+  ]
+}

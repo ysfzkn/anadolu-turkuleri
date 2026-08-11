@@ -1,0 +1,51 @@
+{
+  "slug": "urfaliyam-ezelden",
+  "baslik": "Urfalıyam Ezelden",
+  "yore": "Şanlıurfa",
+  "hikaye": "Urfalıyam Ezelden, Şanlıurfa'nın halay ve sıra gecesi kültüründen doğmuş canlı bir türküdür. Anlatıya göre başını sarma biçimi ve halaydaki zarafetiyle ün salmış 'Ömer' adlı bir delikanlı için yakılmış, zamanla efsaneleşmiştir.\nUrfalılık, güzellik ve yöreye bağlılık temalarını coşkulu bir söyleyişle bir araya getirir.",
+  "ozet": "Urfa'nın efsaneleşmiş yakışıklısı 'Ömer' için söylenen; Urfalılığı ve halay geleneğini öven canlı türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Urfalıyam ezelden",
+        "Göynüm geçmez güzelden",
+        "Göynümün gözü çıksın",
+        "Sevmeseydim ezelden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Urfal%C4%B1yam%20Ezelden%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Urfal%C4%B1yam%20Ezelden",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Urfalıyam Ezelden",
+      "url": "https://tr.wikisource.org/wiki/Urfal%C4%B1yam_Ezelden",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=3988",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Şanlıurfa",
+    "güzelleme",
+    "halay",
+    "sevda"
+  ]
+}

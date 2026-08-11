@@ -1,0 +1,50 @@
+{
+  "slug": "eledim-eledim-holluk-eledim",
+  "baslik": "Eledim Eledim Höllük Eledim",
+  "yore": "Erzurum",
+  "kaynakKisi": "Muharrem Akkuş",
+  "derleyen": "Yücel Paşmakçı",
+  "hikaye": "Eledim Eledim Höllük Eledim, Erzurum'un yürek yakan ana ağıtlarındandır. Anlatıya göre uzun süre çocuğu olmayan bir çift bir erkek evlat büyütür; delikanlı çağına gelen oğul cepheye gönderilip şehit olur ve ananın derin acısı bu ağıdı doğurur.\n('Höllük', beşikte bebeğin altına serilen elenmiş ince topraktır.) Anonim halk geleneğine ait türkü, kaynak kişi Muharrem Akkuş'tan Yücel Paşmakçı tarafından derlenmiştir.",
+  "ozet": "Büyütüp askere yolladığı evladını cephede yitiren bir ananın acısını dile getiren ünlü Erzurum ağıdı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eledim eledim höllük eledim",
+        "Aynalı beşikte canan bebek beledim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Eledim%20Eledim%20H%C3%B6ll%C3%BCk%20Eledim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Eledim%20Eledim%20H%C3%B6ll%C3%BCk%20Eledim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Eledim Eledim Höllük Eledim",
+      "url": "https://tr.wikisource.org/wiki/Eledim_Eledim_H%C3%B6ll%C3%BCk_Eledim",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=16694",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Erzurum",
+    "ağıt",
+    "evlat acısı"
+  ]
+}

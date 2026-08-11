@@ -1,0 +1,57 @@
+{
+  "slug": "diyarbekir-sad-akar",
+  "baslik": "Diyarbekir Şad Akar",
+  "yore": "Diyarbakır",
+  "kaynakKisi": "Cemil Cankat",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Diyarbekir Şad Akar, Dicle nehrinin eski/yerel adı olan 'Şad' üzerinden kurulan bir Diyarbakır sevda türküsüdür. Şehrin Urfa ve Mardin'e bakan coğrafyasını, 'hele yâr zalim yâr' nakaratıyla harmanlar.\nAnonim halk geleneğine ait türkü, kaynak kişi Cemil Cankat'tan Muzaffer Sarısözen tarafından derlenerek TRT repertuvarına kazandırılmıştır.",
+  "ozet": "Dicle'nin ('Şad') akışı ve Diyarbakır coğrafyası üzerinden söylenen, 'hele yâr zalim yâr' nakaratlı sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbekir şad akar",
+        "Urfa Mardin'e bakar"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Hele yâr zalim yâr",
+        "Severem ben seni"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Diyarbekir%20%C5%9Ead%20Akar%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Diyarbekir%20%C5%9Ead%20Akar",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Diyarbekir Şad Akar",
+      "url": "https://tr.wikisource.org/wiki/Diyarbekir_%C5%9Ead_Akar",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=385",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Diyarbakır",
+    "sevda",
+    "Dicle"
+  ]
+}

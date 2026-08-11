@@ -1,0 +1,52 @@
+{
+  "slug": "mendil-bagladim-yandan",
+  "baslik": "Mendil Bağladım Yandan",
+  "yore": "Şanlıurfa",
+  "kaynakKisi": "Hamza Şenses (Kel Hamza)",
+  "hikaye": "Mendil Bağladım Yandan, Şanlıurfa'nın sıra gecesi geleneğinin canlı ve oynak türkülerindendir. 'İki yerden yâr olmaz' diyerek sevgilisinden kesin bir tercih isteyen âşığın tatlı sitemini, 'aman yavrum' nakaratlarıyla neşeli bir havada dile getirir.\nUrfa'nın efsane sesi Kel Hamza'nın (Hamza Şenses) icrasıyla özdeşleşen türkü, yörenin muhabbet meclislerinin vazgeçilmezlerindendir.",
+  "ozet": "Urfa sıra gecesinden; 'iki yerden yâr olmaz' diyerek sevgiliden kesin bir tercih isteyen oynak türkü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil bağladım yandan",
+        "Seni severim candan",
+        "İki yerden yâr olmaz",
+        "Ya ondan geç ya benden"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Mendil%20Ba%C4%9Flad%C4%B1m%20Yandan%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Mendil%20Ba%C4%9Flad%C4%B1m%20Yandan",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Mendil Bağladım Yandan",
+      "url": "https://tr.wikisource.org/wiki/Mendil_Ba%C4%9Flad%C4%B1m_Yandan_(%C5%9Eanl%C4%B1urfa)",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Vikikaynak — Şanlıurfa türküleri",
+      "url": "https://tr.wikisource.org/wiki/Kategori:%C5%9Eanl%C4%B1urfa_t%C3%BCrk%C3%BCleri",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Şanlıurfa",
+    "sevda",
+    "sıra gecesi",
+    "oyun havası"
+  ]
+}

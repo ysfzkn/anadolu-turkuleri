@@ -1,0 +1,55 @@
+{
+  "slug": "ali-dagi",
+  "baslik": "Ali Dağı",
+  "digerAdlar": [
+    "Ali Dağı Derler de Dağların Hası"
+  ],
+  "yore": "Kayseri",
+  "hikaye": "Ali Dağı, Kayseri'nin simgelerinden Ali Dağı ve Hisarcık'ın kirazı üzerinden söylenen neşeli bir güzelleme-oyun türküsüdür. Düğünlerin ve eğlencelerin canlı havalarından biridir.\nEski Kayseri türkülerinden olan eserin kaynak kişi/derleyen künyesi kaynaklarda çelişkilidir; söz ve ezgi anonim halk geleneğine aittir.",
+  "ozet": "Kayseri'nin simgesi Ali Dağı ve Hisarcık kirazı üzerinden güzelleme yapan neşeli oyun türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali Dağı derler de dağların hası",
+        "İndik Hisarcık'a yedik kirazı"
+      ]
+    }
+  ],
+  "calim": {
+    "ayak": "Kaşık havası",
+    "notlar": "Neşeli oyun havası. Kaynak/derleyen künyesi kaynaklarda çelişkilidir."
+  },
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Ali%20Da%C4%9F%C4%B1%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Ali%20Da%C4%9F%C4%B1",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Kayseri türküleri — Ali Dağı",
+      "url": "https://turku.sitesi.web.tr/kayseri/ali-dagi-derler-de-daglarin-hasi.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türküler.com",
+      "url": "https://www.turkuler.com/sozler/turku_ali_dagi_derler_de_daglarin_hasi.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Kayseri",
+    "oyun havası",
+    "güzelleme"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "fincanin-etrafi-yesil",
+  "baslik": "Fincanın Etrafı Yeşil",
+  "yore": "Diyarbakır",
+  "kaynakKisi": "Hami Ağa",
+  "derleyen": "Celal Güzelses",
+  "hikaye": "Fincanın Etrafı Yeşil, Diyarbakır'ın en tanınmış türkülerindendir. Fincanın yeşili murada ermeyi, sarısı ayrılığı simgeler; sarhoş bir delikanlının dili dolaşarak sevdiğine döktüğü içini anlatır.\nYaygın aktarıma göre 1935'te Celal Güzelses tarafından, Diyarbakır Melik Ahmet mahallesinden esnaf Hami Ağa'dan derlenmiştir; söz ve ezgi anonim halk geleneğine aittir.",
+  "ozet": "Diyarbakır'ın en tanınmış türkülerinden; yeşilin murat, sarının ayrılık simgesi olduğu bir sevda türküsü.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincanın etrafı yeşil",
+        "At kolun boynuma aşır",
+        "Sarhoşum dilim dolaşır"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Fincan%C4%B1n%20Etraf%C4%B1%20Ye%C5%9Fil%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Fincan%C4%B1n%20Etraf%C4%B1%20Ye%C5%9Fil",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Fincanın Etrafı Yeşil",
+      "url": "https://tr.wikisource.org/wiki/Fincan%C4%B1n_Etraf%C4%B1_Ye%C5%9Fil",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=1094",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Diyarbakır",
+    "sevda",
+    "kırık hava"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "daglar-seni-delik-delik-delerim",
+  "baslik": "Dağlar Seni Delik Delik Delerim",
+  "yore": "Erzurum",
+  "hikaye": "Dağlar Seni Delik Delik Delerim, Erzurum'un Kerem ile Aslı efsanesine dayanan dokunaklı türkülerindendir. Aslı bir keşişin kızıdır; babası türlü bahanelerle Kerem'e kızını vermez, göç ederek sevgilileri ayırır.\nSevdiğine kavuşamayan Kerem'in dağlara sitemi, bu türkünün özünü oluşturur; ayrılığın çaresizliği doğaya haykırılır.",
+  "ozet": "Kerem ile Aslı hikâyesine dayanan, ayrılık acısını dağlara haykıran ünlü Erzurum türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Da%C4%9Flar%20Seni%20Delik%20Delik%20Delerim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Da%C4%9Flar%20Seni%20Delik%20Delik%20Delerim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Dağlar Seni Delik Delik Delerim",
+      "url": "https://tr.wikisource.org/wiki/Da%C4%9Flar_Seni_Delik_Delik_Delerim_(Erzurum)",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=335",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Erzurum",
+    "ağıt",
+    "ayrılık",
+    "Kerem ile Aslı"
+  ]
+}

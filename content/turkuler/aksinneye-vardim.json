@@ -1,0 +1,35 @@
+{
+  "slug": "aksinneye-vardim",
+  "baslik": "Aksinne'ye Vardım",
+  "yore": "Konya",
+  "kaynakKisi": "Ahmet Çopur",
+  "hikaye": "Aksinne'ye Vardım, Konya halk müziğinin bilinen türkülerindendir. Rıza Konyalı ve Nida Tüfekçi gibi ustalarca seslendirilmiş; sözleri üzerine akademik çalışmalara da konu olmuştur.\nAnonim halk geleneğine ait türkü, kaynak kişi olarak Ahmet Çopur'la anılır; Konya'nın yöresel söyleyişini ve sevda dilini taşır.",
+  "ozet": "'Aksinne'ye vardım' dizesiyle açılan, akademik çalışmalara da konu olmuş bir Konya halk türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Aksinne'ye%20Vard%C4%B1m%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Aksinne'ye%20Vard%C4%B1m",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Konya türküleri",
+      "url": "https://turku.sitesi.web.tr/konya/",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Konya",
+    "sevda",
+    "yöre"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "zeynebim",
+  "baslik": "Zeynebim",
+  "yore": "Sivas (Kangal)",
+  "kaynakKisi": "Âşık Süleyman",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Zeynebim, Sivas'ın Kangal ilçesi Mamaş köyünden güzel Zeynep için yakıldığı anlatılan ünlü bir ağıttır. Yaygın anlatıda Erzincanlı bir asker ile Mamaşlı Zeynep arasındaki aşk ve Zeynep'in yaşadığı acı konu edilir.\nSözleri Âşık Süleyman'a atfedilse de zamanla 'usta malı' olarak anonimleşmiştir; bu nedenle söz sahipliği kesin değildir ve kayıt editör doğrulaması beklemektedir.",
+  "ozet": "Mamaşlı güzel Zeynep için yakılan, imkânsız bir aşkın trajedisini anlatan ünlü Sivas ağıdı.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zeynep bu güzellik var mı soyunda",
+        "Elvan elvan güller biter bağında",
+        "Arife gününde bayram ayında"
+      ]
+    },
+    {
+      "tur": "nakarat",
+      "satirlar": [
+        "Zeynebim Zeynebim allı Zeynebim",
+        "Beş köyün içinde şanlı Zeynebim"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Zeynebim%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Zeynebim",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Zeynep Bu Güzellik Var mı Soyunda",
+      "url": "https://tr.wikisource.org/wiki/Zeynep_Bu_G%C3%BCzellik_Var_m%C4%B1_Soyunda",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=1079",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "taslak",
+  "etiketler": [
+    "Sivas",
+    "ağıt",
+    "sevda"
+  ]
+}

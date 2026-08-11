@@ -1,0 +1,52 @@
+{
+  "slug": "karanfilsin-tarcinsin",
+  "baslik": "Karanfilsin Tarçınsın",
+  "yore": "Diyarbakır",
+  "kaynakKisi": "Ahmet Yüksekses",
+  "derleyen": "Muzaffer Sarısözen",
+  "hikaye": "Karanfilsin Tarçınsın, Diyarbakır'ın oynak güzellemelerinden biridir. Sevgiliyi karanfile, tarçına, inci dişe ve kalem kaşa benzeten sözleri, 'hop nanay' nakaratıyla neşeli bir oyun havasına dönüşür.\nAnonim halk geleneğine ait türkü, kaynak kişi Ahmet Yüksekses'ten Muzaffer Sarısözen tarafından derlenmiştir.",
+  "ozet": "Sevgiliyi karanfil, tarçın, inci dişli benzetmeleriyle öven, 'hop nanay' nakaratlı oynak Diyarbakır güzellemesi.",
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilsin tarçınsın",
+        "İnci dişlim kalem kaşlım",
+        "Sırma saçlım dalyan boylum",
+        "Kendi malım"
+      ]
+    }
+  ],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Karanfilsin%20Tar%C3%A7%C4%B1ns%C4%B1n%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Karanfilsin%20Tar%C3%A7%C4%B1ns%C4%B1n",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Vikikaynak — Karanfilsin Tarçınsın",
+      "url": "https://tr.wikisource.org/wiki/Karanfilsin_Tar%C3%A7%C4%B1ns%C4%B1n",
+      "tur": "diger",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=2486",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Diyarbakır",
+    "güzelleme",
+    "oyun havası"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "cemile",
+  "baslik": "Cemile",
+  "digerAdlar": [
+    "Gapıları Kalındır"
+  ],
+  "yore": "Konya",
+  "kaynakKisi": "Yöre Ekibi",
+  "hikaye": "Cemile, Konya'nın oturak ve kaşık havası geleneğine ait bir sevda türküsüdür. 'Kalın kapılar' imgesiyle açılan sözler, sevgili Cemile'ye seslenir ve yörenin muhabbet meclislerinin havasını taşır.\nSefa Odabaşı'nın 'Dünden Bugüne Konya Türküleri' derlemesiyle de anılan türkü, anonim halk geleneğine aittir.",
+  "ozet": "Konya'nın oturak ve kaşık havası geleneğinden, 'Cemile'ye seslenen bir sevda türküsü.",
+  "sozler": [],
+  "baglantilar": [
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/results?search_query=Cemile%20t%C3%BCrk%C3%BC",
+      "dogrulandi": false
+    },
+    {
+      "platform": "spotify",
+      "url": "https://open.spotify.com/search/Cemile",
+      "dogrulandi": false
+    }
+  ],
+  "kaynaklar": [
+    {
+      "baslik": "Konya türküleri — Cemile",
+      "url": "https://turku.sitesi.web.tr/konya/cemile-gapilari-kalindir.html",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    },
+    {
+      "baslik": "Türkü Dostları",
+      "url": "https://www.turkudostlari.net/soz.asp?turku=28701",
+      "tur": "arsiv",
+      "erisimTarihi": "2026-08-11"
+    }
+  ],
+  "dogrulama": "incelemede",
+  "etiketler": [
+    "Konya",
+    "oyun havası",
+    "sevda"
+  ]
+}
