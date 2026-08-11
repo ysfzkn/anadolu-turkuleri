@@ -43,6 +43,12 @@ export function KullaniciMenusu() {
     return (
       <div className="flex items-center gap-3 text-sm">
         <Link
+          href="/repertuvar"
+          className="hidden font-medium text-toprak-dark hover:text-kilim sm:inline"
+        >
+          Repertuvarım
+        </Link>
+        <Link
           href="/listelerim"
           className="hidden font-medium text-cini-dark hover:text-kilim sm:inline"
         >

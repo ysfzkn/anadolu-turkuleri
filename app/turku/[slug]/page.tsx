@@ -1,13 +1,16 @@
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
-import { turkuBul, tumSluglar } from "@/lib/data";
+import { turkuBul, tumSluglar, ilSlug } from "@/lib/data";
+import { bolgeBul } from "@/lib/yore-bolge";
+import { YoreMotifi } from "@/components/YoreMotifi";
 import { Sozler } from "@/components/Sozler";
 import { CalimPanel } from "@/components/CalimPanel";
 import { PlatformLinks } from "@/components/PlatformLinks";
 import { ShareCard } from "@/components/ShareCard";
 import { ListeyeEkle } from "@/components/ListeyeEkle";
 import { OnizlemeCalar } from "@/components/OnizlemeCalar";
+import { RepertuvaraEkle } from "@/components/RepertuvaraEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 
@@ -36,6 +39,7 @@ export default function TurkuSayfasi({
 }) {
   const turku = turkuBul(params.slug);
   if (!turku) notFound();
+  const bolge = bolgeBul(ilSlug(turku.yore));
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-10">
@@ -60,6 +64,7 @@ export default function TurkuSayfasi({
             Diğer adlar: {turku.digerAdlar.join(", ")}
           </p>
         )}
+        <YoreMotifi bolge={bolge} className="mt-4 opacity-80" />
         <dl className="mt-4 flex flex-wrap gap-x-6 gap-y-1 text-sm text-ceviz-light">
           {turku.kaynakKisi && (
             <div>
@@ -93,6 +98,7 @@ export default function TurkuSayfasi({
         <PlatformLinks baglantilar={turku.baglantilar} />
         <OnizlemeCalar sorgu={`${turku.baslik} ${turku.yore}`} />
         <ListeyeEkle turkuSlug={turku.slug} />
+        <RepertuvaraEkle turkuSlug={turku.slug} />
       </section>
 
       {/* Hikâye */}

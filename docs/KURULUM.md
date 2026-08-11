@@ -89,6 +89,20 @@ create policy "acik_liste_turkuleri_oku" on public.liste_turkuleri
     exists (select 1 from public.listeler l
             where l.id = liste_id and l.herkese_acik = true)
   );
+
+-- Kişisel repertuvar (bağlamada çalınan/öğrenilen türküler)
+create table public.repertuvar (
+  kullanici_id uuid not null references auth.users(id) on delete cascade,
+  turku_slug text not null,
+  durum text not null default 'calmak-istiyorum',
+    -- 'calabiliyorum' | 'ogreniyorum' | 'calmak-istiyorum'
+  eklenme timestamptz not null default now(),
+  primary key (kullanici_id, turku_slug)
+);
+alter table public.repertuvar enable row level security;
+create policy "sahibi_repertuvar" on public.repertuvar
+  for all using (auth.uid() = kullanici_id)
+  with check (auth.uid() = kullanici_id);
 ```
 
 ---

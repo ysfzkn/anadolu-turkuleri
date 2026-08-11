@@ -2,8 +2,9 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { iller, ilTurkuleri } from "@/lib/data";
+import { bolgeBul, BOLGE_ADI } from "@/lib/yore-bolge";
 import { TurkuCard } from "@/components/TurkuCard";
-import { MotifBorder } from "@/components/Motif";
+import { YoreMotifi } from "@/components/YoreMotifi";
 import { KonserAra } from "@/components/KonserAra";
 
 export function generateStaticParams() {
@@ -27,6 +28,7 @@ export default function YoreSayfasi({ params }: { params: { il: string } }) {
   const il = iller().find((i) => i.slug === params.il);
   if (!il) notFound();
   const turkuler = ilTurkuleri(params.il);
+  const bolge = bolgeBul(params.il);
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
@@ -37,17 +39,17 @@ export default function YoreSayfasi({ params }: { params: { il: string } }) {
         ← Haritaya dön
       </Link>
 
-      <header className="mb-8">
-        <p className="text-sm font-medium text-kilim">Yöre</p>
+      <header className="mb-6">
+        <p className="text-sm font-medium text-kilim">
+          Yöre · {BOLGE_ADI[bolge]}
+        </p>
         <h1 className="font-serif text-4xl font-semibold text-ceviz">
           {il.ad} Türküleri
         </h1>
-        <p className="mt-2 text-ceviz-light">
-          Bu yöreden {il.adet} türkü.
-        </p>
+        <p className="mt-2 text-ceviz-light">Bu yöreden {il.adet} türkü.</p>
       </header>
 
-      <MotifBorder className="mb-8 opacity-70" />
+      <YoreMotifi bolge={bolge} className="mb-8 opacity-80" />
 
       <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {turkuler.map((t) => (
