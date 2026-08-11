@@ -47,6 +47,7 @@ body {
 @keyframes oyun-dogru { 0% { transform: scale(.96); } 55% { transform: scale(1.035); } 100% { transform: none; } }
 @keyframes oyun-yanlis { 20%,60% { transform: translateX(-4px); } 40%,80% { transform: translateX(4px); } }
 @keyframes oyun-pusula { from { transform: rotate(-8deg); } to { transform: rotate(8deg); } }
+@keyframes oyun-dokuma { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: none; } }
 
 .oyun-sahne-giris { animation: oyun-sahne-giris .42s cubic-bezier(.2,.8,.2,1) both; }
 .oyun-konum-nabiz { animation: oyun-nabiz 1.8s ease-out infinite; }
@@ -57,11 +58,12 @@ body {
 .oyun-dogru { animation: oyun-dogru .45s ease-out; }
 .oyun-yanlis { animation: oyun-yanlis .35s ease-out; }
 .oyun-pusula { animation: oyun-pusula 2.2s ease-in-out infinite alternate; }
+.oyun-dokuma-satiri { animation: oyun-dokuma .32s cubic-bezier(.2,.8,.2,1) both; }
 .oyun-harita-iz { background-image: radial-gradient(circle at 20% 50%, rgba(156,43,33,.45) 0 2px, transparent 3px), radial-gradient(circle at 72% 35%, rgba(31,86,115,.45) 0 2px, transparent 3px), linear-gradient(25deg, transparent 48%, rgba(200,135,63,.25) 49% 51%, transparent 52%); background-size: 100% 100%; }
 
 @media (prefers-reduced-motion: reduce) {
   .oyun-sahne-giris, .oyun-konum-nabiz, .oyun-radar::before, .oyun-radar::after,
-  .oyun-eslesme-dalga, .oyun-iz-etiketi, .oyun-dogru, .oyun-yanlis, .oyun-pusula {
+  .oyun-eslesme-dalga, .oyun-iz-etiketi, .oyun-dogru, .oyun-yanlis, .oyun-pusula, .oyun-dokuma-satiri {
     animation: none !important;
   }
   .oyun-secenek { transition: none !important; }
