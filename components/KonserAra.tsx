@@ -1,3 +1,5 @@
+import { lokatif } from "@/lib/turkce";
+
 /**
  * Yöreye göre türkü konseri arama — CANLI deep-link'ler.
  * Konser verisi DEPOLANMAZ (bayatlar + ToS); bunun yerine bilet platformu,
@@ -28,7 +30,7 @@ export function KonserAra({ il }: { il: string }) {
   return (
     <div className="rounded-2xl border border-cini/30 bg-cini/5 p-6">
       <h2 className="font-serif text-xl font-semibold text-cini-dark">
-        🎫 {il}'de türkü konseri
+        🎫 {lokatif(il)} türkü konseri
       </h2>
       <p className="mt-1 text-sm text-ceviz-light">
         Yöredeki güncel türkü konserlerini ara ve bilet/etkinlik sayfasına git.
