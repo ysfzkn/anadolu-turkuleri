@@ -23,6 +23,13 @@ export function AnaNavigasyon() {
     document.addEventListener("mousedown", disTiklama);
     return () => document.removeEventListener("mousedown", disTiklama);
   }, []);
+  useEffect(() => {
+    function klavye(event: KeyboardEvent) {
+      if (event.key === "Escape") setAcik(false);
+    }
+    document.addEventListener("keydown", klavye);
+    return () => document.removeEventListener("keydown", klavye);
+  }, []);
 
   return (
     <div ref={kapsayici} className="relative">
@@ -40,7 +47,8 @@ export function AnaNavigasyon() {
       <button
         type="button"
         onClick={() => setAcik((deger) => !deger)}
-        aria-label="Menüyü aç"
+        aria-label={acik ? "Menüyü kapat" : "Menüyü aç"}
+        aria-controls="mobil-ana-menu"
         aria-expanded={acik}
         className="grid h-11 w-11 place-items-center rounded-full border border-toprak/25 bg-white/60 text-ceviz shadow-sm md:hidden"
       >
@@ -50,9 +58,9 @@ export function AnaNavigasyon() {
       </button>
 
       {acik && (
-        <nav className="absolute right-0 z-40 mt-3 w-48 rounded-2xl border border-toprak/25 bg-parsomen p-2 shadow-[0_18px_50px_rgba(75,45,25,0.18)] md:hidden" aria-label="Mobil menü">
+        <nav id="mobil-ana-menu" className="absolute right-0 z-40 mt-3 w-48 rounded-2xl border border-toprak/25 bg-parsomen p-2 shadow-[0_18px_50px_rgba(75,45,25,0.18)] md:hidden" aria-label="Mobil menü">
           {BAGLANTILAR.map((baglanti) => (
-            <Link key={baglanti.href} href={baglanti.href} className="block rounded-xl px-4 py-3 text-sm font-semibold text-ceviz transition hover:bg-toprak/8">
+            <Link key={baglanti.href} href={baglanti.href} aria-current={(baglanti.href === "/" ? pathname === "/" : pathname.startsWith(baglanti.href)) ? "page" : undefined} className="block min-h-11 rounded-xl px-4 py-3 text-sm font-semibold text-ceviz transition hover:bg-toprak/8 aria-[current=page]:bg-toprak/10 aria-[current=page]:text-kilim">
               {baglanti.etiket}
             </Link>
           ))}
