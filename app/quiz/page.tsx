@@ -20,5 +20,5 @@ export default function OyunSayfasi() {
     etiketler: t.etiketler ?? [],
     sozler: t.sozler.flatMap((kita) => kita.satirlar),
   }));
-  return <main className="mx-auto max-w-6xl px-4 py-8 sm:py-10"><OyunMerkezi turkuler={veri} /></main>;
+  return <div className="mx-auto max-w-6xl px-4 py-8 sm:py-10"><OyunMerkezi turkuler={veri} /></div>;
 }

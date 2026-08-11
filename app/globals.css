@@ -16,6 +16,16 @@ body {
   background-position: 0 0;
 }
 
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid theme("colors.kilim.DEFAULT");
+  outline-offset: 3px;
+}
+
+::selection {
+  background: theme("colors.toprak.light");
+  color: theme("colors.ceviz.DEFAULT");
+}
+
 /* İnce üst kilim şeridi tüm sayfalarda */
 .kilim-strip {
   height: 6px;
@@ -62,6 +72,8 @@ body {
 .oyun-harita-iz { background-image: radial-gradient(circle at 20% 50%, rgba(156,43,33,.45) 0 2px, transparent 3px), radial-gradient(circle at 72% 35%, rgba(31,86,115,.45) 0 2px, transparent 3px), linear-gradient(25deg, transparent 48%, rgba(200,135,63,.25) 49% 51%, transparent 52%); background-size: 100% 100%; }
 
 @media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto !important; }
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; }
   .oyun-sahne-giris, .oyun-konum-nabiz, .oyun-radar::before, .oyun-radar::after,
   .oyun-eslesme-dalga, .oyun-iz-etiketi, .oyun-dogru, .oyun-yanlis, .oyun-pusula, .oyun-dokuma-satiri {
     animation: none !important;

@@ -116,18 +116,19 @@ export function Anadolu3DOyunu({ turkuler, puanEkle }: { turkuler: OyunTurkusu[]
   const [seri, setSeri] = useState(0);
   const [sure, setSure] = useState(45);
   const [bitti, setBitti] = useState(false);
+  const [duraklatildi, setDuraklatildi] = useState(false);
 
   useEffect(() => {
-    if (bitti) return;
+    if (bitti || duraklatildi) return;
     const sayac = window.setInterval(() => setSure((deger) => {
       if (deger <= 1) { setBitti(true); return 0; }
       return deger - 1;
     }), 1000);
     return () => window.clearInterval(sayac);
-  }, [bitti]);
+  }, [bitti, duraklatildi]);
 
   function cevapla(il: string) {
-    if (secilen || bitti) return;
+    if (secilen || bitti || duraklatildi) return;
     setSecilen(il);
     const dogru = il === soru.turku.il;
     if (dogru) {
@@ -143,7 +144,7 @@ export function Anadolu3DOyunu({ turkuler, puanEkle }: { turkuler: OyunTurkusu[]
   }
 
   function yenidenBasla() {
-    setSoru(soruUret(turkuler)); setSecilen(null); setPuan(0); setSeri(0); setSure(45); setBitti(false);
+    setSoru(soruUret(turkuler)); setSecilen(null); setPuan(0); setSeri(0); setSure(45); setBitti(false); setDuraklatildi(false);
   }
 
   return (
@@ -156,7 +157,7 @@ export function Anadolu3DOyunu({ turkuler, puanEkle }: { turkuler: OyunTurkusu[]
         <div className="pointer-events-none absolute inset-x-0 top-0 bg-gradient-to-b from-black/80 via-black/35 to-transparent p-5 text-white sm:p-7">
           <div className="mx-auto flex max-w-4xl items-start justify-between gap-4">
             <div><p className="text-xs font-semibold uppercase tracking-[.2em] text-toprak-light">Anadolu Atlası · 3B</p><h2 className="mt-2 max-w-2xl font-serif text-2xl font-semibold sm:text-4xl">{soru.turku.baslik}</h2><p className="mt-1 text-sm text-white/60">Türküyü doğru şehir kapısına gönder.</p></div>
-            <div className={`grid h-16 w-16 shrink-0 place-items-center rounded-full border-4 font-mono text-xl font-bold ${sure <= 10 ? "border-kilim bg-kilim/20 text-[#ffb5a9]" : "border-toprak/50 bg-black/30"}`}>{sure}</div>
+            <div className="pointer-events-auto flex shrink-0 flex-col items-center gap-2"><div className={`grid h-16 w-16 place-items-center rounded-full border-4 font-mono text-xl font-bold ${sure <= 10 ? "border-kilim bg-kilim/20 text-[#ffb5a9]" : "border-toprak/50 bg-black/30"}`}>{sure}</div><button type="button" onClick={() => setDuraklatildi((deger) => !deger)} className="min-h-10 rounded-full border border-white/20 bg-black/35 px-3 text-xs font-semibold text-white backdrop-blur hover:bg-black/55">{duraklatildi ? "Devam et" : "Duraklat"}</button></div>
           </div>
         </div>
 
@@ -164,6 +165,7 @@ export function Anadolu3DOyunu({ turkuler, puanEkle }: { turkuler: OyunTurkusu[]
           <div className="mx-auto flex max-w-4xl items-center justify-between rounded-2xl border border-white/10 bg-black/55 px-4 py-3 text-white backdrop-blur-md"><span><strong className="font-serif text-2xl">{puan}</strong><small className="ml-2 text-white/50">puan</small></span><span className="text-sm text-toprak-light">{seri > 1 ? `${seri} doğru seri · bonus aktif` : "Taşlara dokun veya aşağıdan seç"}</span></div>
         </div>
 
+        {duraklatildi && !bitti && <div className="absolute inset-0 grid place-items-center bg-black/60 p-5 text-center text-white backdrop-blur-sm"><div><p className="font-serif text-4xl font-semibold">Sefer duraklatıldı</p><button type="button" onClick={() => setDuraklatildi(false)} className="mt-6 min-h-11 rounded-xl bg-kilim px-6 py-3 font-semibold text-white">Oyuna devam et</button></div></div>}
         {bitti && <div className="absolute inset-0 grid place-items-center bg-black/75 p-5 text-center text-white backdrop-blur-sm"><div className="max-w-md rounded-3xl border border-white/15 bg-ceviz/90 p-8 shadow-2xl"><p className="text-xs font-semibold uppercase tracking-[.2em] text-toprak-light">Sefer tamamlandı</p><h3 className="mt-3 font-serif text-4xl font-semibold">{puan} puan</h3><p className="mt-3 text-white/65">Anadolu şehir kapılarında {seri} cevaplık son seriyle yolculuğu tamamladın.</p><button onClick={yenidenBasla} className="mt-6 rounded-xl bg-kilim px-6 py-3 font-semibold text-white">Yeniden oyna</button></div></div>}
       </div>
 

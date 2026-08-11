@@ -25,7 +25,8 @@ export function generateMetadata({
     description: `${il.ad} türküleri; hikâyeleri, yöre bilgileri, ozanları, sözleri ve çalım notlarıyla kaynaklı halk müziği arşivinde.`,
     alternates: { canonical: `/yore/${il.slug}` },
     keywords: [`${il.ad} türküleri`, `${il.ad} türkü listesi`, `${il.ad} halk müziği`, "türkü hikâyeleri"],
-    openGraph: { type: "website", url: `/yore/${il.slug}`, title: `${il.ad} Türküleri ve Hikâyeleri`, description: `${il.ad} yöresinin kaynaklı türkü arşivi.` },
+    openGraph: { type: "website", url: `/yore/${il.slug}`, title: `${il.ad} Türküleri ve Hikâyeleri`, description: `${il.ad} yöresinin kaynaklı türkü arşivi.`, images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: `${il.ad} türküleri` }] },
+    twitter: { card: "summary_large_image", title: `${il.ad} Türküleri`, description: `${il.ad} yöresinin kaynaklı türkü arşivi.`, images: ["/opengraph-image.png"] },
   };
 }
 

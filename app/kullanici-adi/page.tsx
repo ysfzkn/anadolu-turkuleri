@@ -4,6 +4,7 @@ import { KullaniciAdiFormu } from "@/components/KullaniciAdiFormu";
 
 export const metadata: Metadata = {
   title: "Kullanıcı adı seç",
+  robots: { index: false, follow: false },
 };
 
 export default function KullaniciAdiSayfasi() {

@@ -21,6 +21,7 @@ export default function ListelerimSayfasi() {
   const [yeniAd, setYeniAd] = useState("");
   const [uid, setUid] = useState<string | null>(null);
   const [kopyalanan, setKopyalanan] = useState<string | null>(null);
+  const [bildirim, setBildirim] = useState("");
 
   useEffect(() => {
     let supabase: ReturnType<typeof tarayiciSupabase>;
@@ -62,14 +63,17 @@ export default function ListelerimSayfasi() {
     const ad = yeniAd.trim();
     if (!ad || !uid) return;
     const supabase = tarayiciSupabase();
-    const { data } = await supabase
+    const { data, error } = await supabase
       .from("listeler")
       .insert({ baslik: ad, kullanici_id: uid })
       .select("id,baslik,herkese_acik,paylasim_kodu")
       .single();
-    if (data) {
+    if (error) {
+      setBildirim("Liste oluşturulamadı. Lütfen yeniden deneyin.");
+    } else if (data) {
       setListeler((ls) => [{ ...(data as any), adet: 0 }, ...ls]);
       setYeniAd("");
+      setBildirim(`“${ad}” listesi oluşturuldu.`);
     }
   }
 
@@ -130,20 +134,25 @@ export default function ListelerimSayfasi() {
       </h1>
 
       {/* Yeni liste */}
-      <div className="mb-8 flex gap-2">
+      <div className="mb-8">
+        <label htmlFor="yeni-liste-adi" className="mb-2 block text-sm font-semibold text-ceviz">Yeni liste oluştur</label>
+        <div className="flex gap-2">
         <input
+          id="yeni-liste-adi"
           value={yeniAd}
           onChange={(e) => setYeniAd(e.target.value)}
           onKeyDown={(e) => e.key === "Enter" && olustur()}
           placeholder="Yeni liste adı…"
-          className="flex-1 rounded-xl border border-toprak/40 bg-parsomen px-4 py-2.5 focus:border-kilim focus:outline-none"
+          className="min-h-11 min-w-0 flex-1 rounded-xl border border-toprak/40 bg-parsomen px-4 py-2.5 focus:border-kilim focus:outline-none"
         />
         <button
           onClick={olustur}
-          className="rounded-xl bg-kilim px-5 py-2.5 font-medium text-parsomen hover:bg-kilim-dark"
+          className="min-h-11 rounded-xl bg-kilim px-5 py-2.5 font-medium text-parsomen hover:bg-kilim-dark"
         >
           Oluştur
         </button>
+        </div>
+        <p className="mt-2 min-h-5 text-sm text-ceviz-light" aria-live="polite">{bildirim}</p>
       </div>
 
       {listeler.length === 0 ? (
@@ -173,9 +182,9 @@ export default function ListelerimSayfasi() {
                   onClick={() => gorunurluk(l)}
                   className={`rounded-lg border px-2.5 py-1 ${
                     l.herkese_acik
-                      ? "border-cini/40 bg-cini/10 text-cini-dark"
+                    ? "border-cini/40 bg-cini/10 text-cini-dark"
                       : "border-toprak/40 text-ceviz-light"
-                  }`}
+                  } min-h-11`}
                   title="Herkese açık paylaşım"
                 >
                   {l.herkese_acik ? "Açık" : "Gizli"}
@@ -183,14 +192,14 @@ export default function ListelerimSayfasi() {
                 {l.herkese_acik && (
                   <button
                     onClick={() => paylasimKopyala(l.paylasim_kodu)}
-                    className="rounded-lg border border-toprak/40 px-2.5 py-1 text-ceviz hover:bg-ceviz hover:text-parsomen"
+                    className="min-h-11 rounded-lg border border-toprak/40 px-3 py-2 text-ceviz hover:bg-ceviz hover:text-parsomen"
                   >
                     {kopyalanan === l.paylasim_kodu ? "Kopyalandı ✓" : "Bağlantı"}
                   </button>
                 )}
                 <button
                   onClick={() => sil(l)}
-                  className="rounded-lg border border-kilim/40 px-2.5 py-1 text-kilim-dark hover:bg-kilim hover:text-parsomen"
+                  className="min-h-11 rounded-lg border border-kilim/40 px-3 py-2 text-kilim-dark hover:bg-kilim hover:text-parsomen"
                 >
                   Sil
                 </button>

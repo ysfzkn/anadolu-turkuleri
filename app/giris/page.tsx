@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "Giriş",
   description:
     "Google veya Spotify ile giriş yapın; kişisel türkü listelerinizi oluşturun ve paylaşın.",
+  robots: { index: false, follow: false },
 };
 
 export default function GirisSayfasi() {

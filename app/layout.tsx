@@ -30,11 +30,32 @@ export const metadata: Metadata = {
   authors: [{ name: "Anadolu Türküleri" }],
   creator: "Anadolu Türküleri",
   category: "kültür ve müzik arşivi",
+  applicationName: "Anadolu Türküleri",
+  referrer: "origin-when-cross-origin",
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
+  alternates: { canonical: "/" },
+  icons: { icon: "/icon.png", apple: "/icon.png" },
+  manifest: "/manifest.webmanifest",
   openGraph: {
     type: "website",
     locale: "tr_TR",
     siteName: "Anadolu Türküleri",
+    title: "Anadolu Türküleri — Hikâyeleriyle Türküler",
+    description: "Türkü hikâyeleri, yöreler, ozanlar, sözler ve çalım bilgileriyle kaynaklı Anadolu halk müziği arşivi.",
+    url: "https://anadoluturkuleri.com",
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Anadolu Türküleri dijital arşivi" }],
   },
+  twitter: { card: "summary_large_image", title: "Anadolu Türküleri", description: "Türkülerin hikâyelerini, yörelerini ve ozanlarını keşfedin.", images: ["/opengraph-image.png"] },
 };
 
 export default function RootLayout({
@@ -45,6 +66,7 @@ export default function RootLayout({
   return (
     <html lang="tr" className={`${serif.variable} ${sans.variable}`}>
       <body className="font-sans antialiased min-h-screen flex flex-col">
+        <a href="#ana-icerik" className="sr-only z-[100] rounded-lg bg-ceviz px-4 py-3 text-parsomen focus:not-sr-only focus:fixed focus:left-4 focus:top-4">Ana içeriğe geç</a>
         <YapilandirilmisVeri veri={[
           { "@context": "https://schema.org", "@type": "WebSite", name: "Anadolu Türküleri", url: "https://anadoluturkuleri.com", inLanguage: "tr-TR", description: "Türkü hikâyeleri, yöreler, ozanlar ve halk müziği repertuvarı." },
           { "@context": "https://schema.org", "@type": "Organization", name: "Anadolu Türküleri", url: "https://anadoluturkuleri.com", logo: "https://anadoluturkuleri.com/logo-mark.png" },
@@ -71,7 +93,7 @@ export default function RootLayout({
           </div>
         </header>
 
-        <main className="flex-1">{children}</main>
+        <main id="ana-icerik" className="flex-1" tabIndex={-1}>{children}</main>
 
         <footer className="mt-16 bg-ceviz text-parsomen/80">
           <div className="kilim-strip" />
@@ -90,6 +112,11 @@ export default function RootLayout({
                 Kayıtların kaynakları ve editoryal durumu ilgili türkü
                 sayfasında açıkça belirtilir.
               </p>
+              <nav aria-label="Alt menü" className="mt-5 flex flex-wrap gap-x-4 gap-y-2 text-sm">
+                <Link href="/" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Türkü arşivi</Link>
+                <Link href="/quiz" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Anadolu oyunları</Link>
+                <Link href="/hakkinda" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Yöntem ve kaynaklar</Link>
+              </nav>
             </div>
           </div>
         </footer>

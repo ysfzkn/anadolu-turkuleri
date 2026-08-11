@@ -5,6 +5,7 @@ import { herkeseAcikListe } from "@/lib/listeler";
 import { turkuBul } from "@/lib/data";
 import { TurkuCard } from "@/components/TurkuCard";
 import { MotifBorder, StarMotif } from "@/components/Motif";
+import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 
 export const dynamic = "force-dynamic";
 
@@ -19,6 +20,8 @@ export async function generateMetadata({
     title: `${liste.baslik} — Türkü Listesi`,
     description:
       liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`,
+    alternates: { canonical: `/liste/${params.kod}` },
+    openGraph: { type: "website", url: `/liste/${params.kod}`, title: `${liste.baslik} — Türkü Listesi`, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: liste.baslik }] },
   };
 }
 
@@ -39,6 +42,7 @@ export default async function ListeSayfasi({
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
+      <YapilandirilmisVeri veri={{ "@context": "https://schema.org", "@type": "ItemList", name: liste.baslik, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, url: `https://anadoluturkuleri.com/liste/${params.kod}`, numberOfItems: turkuler.length, itemListElement: turkuler.map((turku, indeks) => ({ "@type": "ListItem", position: indeks + 1, name: turku.baslik, url: `https://anadoluturkuleri.com/turku/${turku.slug}` })) }} />
       {/* Başlık kartı — Anadolu desenli */}
       <div className="relative overflow-hidden rounded-3xl border border-toprak/40 bg-parsomen p-8 text-center shadow-motif">
         <div className="kilim-strip absolute inset-x-0 top-0" />

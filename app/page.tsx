@@ -12,6 +12,7 @@ export const metadata: Metadata = {
   title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv",
   description: "500'ü aşkın Anadolu türküsünü hikâyeleri, yöreleri, ozanları, sözleri ve çalım bilgileriyle keşfedin. Şehre, temaya ve sözlere göre arayın.",
   alternates: { canonical: "/" },
+  openGraph: { type: "website", url: "/", title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv", description: "500'ü aşkın türküyü hikâyeleri, yöreleri, ozanları ve sözleriyle keşfedin.", images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Anadolu Türküleri arşivi" }] },
 };
 
 export default function AnaSayfa() {
