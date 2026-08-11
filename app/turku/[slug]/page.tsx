@@ -6,6 +6,7 @@ import { Sozler } from "@/components/Sozler";
 import { CalimPanel } from "@/components/CalimPanel";
 import { PlatformLinks } from "@/components/PlatformLinks";
 import { ShareCard } from "@/components/ShareCard";
+import { ListeyeEkle } from "@/components/ListeyeEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 
@@ -86,9 +87,10 @@ export default function TurkuSayfasi({
         </dl>
       </header>
 
-      {/* Dinle */}
-      <section className="mb-8">
+      {/* Dinle + Listeye ekle */}
+      <section className="mb-8 flex flex-wrap items-center gap-3">
         <PlatformLinks baglantilar={turku.baglantilar} />
+        <ListeyeEkle turkuSlug={turku.slug} />
       </section>
 
       {/* Hikâye */}
