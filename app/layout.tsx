@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Lora, Inter } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
-import { StarMotif } from "@/components/Motif";
 import { KullaniciMenusu } from "@/components/KullaniciMenusu";
 
 const serif = Lora({
@@ -43,10 +42,14 @@ export default function RootLayout({
         <div className="kilim-strip" />
         <header className="border-b border-toprak/30 bg-parsomen/80 backdrop-blur">
           <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-3 group">
-              <span className="text-kilim group-hover:text-kilim-dark transition-colors">
-                <StarMotif size={34} />
-              </span>
+            <Link href="/" className="flex items-center gap-2.5 group">
+              <img
+                src="/logo-mark.png"
+                alt=""
+                width={40}
+                height={40}
+                className="h-10 w-10 object-contain transition-transform group-hover:scale-105"
+              />
               <span className="font-serif text-xl sm:text-2xl font-semibold text-ceviz">
                 Anadolu Türküleri
               </span>
@@ -73,17 +76,24 @@ export default function RootLayout({
 
         <main className="flex-1">{children}</main>
 
-        <footer className="mt-16 border-t border-toprak/30 bg-parsomen-dark/60">
-          <div className="mx-auto max-w-5xl px-4 py-8 text-sm text-ceviz-light">
-            <p className="font-serif text-base text-ceviz mb-1">Anadolu Türküleri</p>
-            <p>
-              Amacımız Anadolu'nun türkü mirasını hikâyeleri ve yöreleriyle
-              yaşatmak, tanıtmak ve gelecek kuşaklara aktarmaktır.
-            </p>
-            <p className="mt-3 text-xs text-ceviz-light/80">
-              İçerikler geleneksel/anonim türkülerden derlenmiştir; kaynak
-              atıfları her türkü sayfasında belirtilir.
-            </p>
+        <footer className="mt-16 bg-ceviz text-parsomen/80">
+          <div className="kilim-strip" />
+          <div className="mx-auto flex max-w-5xl flex-col gap-5 px-4 py-10 sm:flex-row sm:items-center sm:justify-between">
+            <img
+              src="/logo-footer.png"
+              alt="Anadolu Türküleri"
+              className="h-24 w-auto opacity-90"
+            />
+            <div className="max-w-md text-sm">
+              <p className="leading-relaxed">
+                Amacımız Anadolu'nun türkü mirasını hikâyeleri ve yöreleriyle
+                yaşatmak, tanıtmak ve gelecek kuşaklara aktarmaktır.
+              </p>
+              <p className="mt-3 text-xs text-parsomen/50">
+                İçerikler geleneksel/anonim türkülerden derlenmiştir; kaynak
+                atıfları her türkü sayfasında belirtilir.
+              </p>
+            </div>
           </div>
         </footer>
       </body>

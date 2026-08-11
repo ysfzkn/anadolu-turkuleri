@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { GirisPaneli } from "@/components/GirisPaneli";
-import { StarMotif } from "@/components/Motif";
 
 export const metadata: Metadata = {
   title: "Giriş",
@@ -10,11 +9,13 @@ export const metadata: Metadata = {
 
 export default function GirisSayfasi() {
   return (
-    <div className="mx-auto max-w-md px-4 py-16">
+    <div className="mx-auto max-w-md px-4 py-12">
       <div className="mb-8 text-center">
-        <span className="mx-auto mb-3 flex w-fit text-kilim">
-          <StarMotif size={44} />
-        </span>
+        <img
+          src="/logo-baglama.png"
+          alt=""
+          className="mx-auto mb-4 h-40 w-auto rounded-2xl object-contain"
+        />
         <h1 className="font-serif text-3xl font-semibold text-ceviz">Giriş</h1>
         <p className="mt-2 text-ceviz-light">
           Kendi türkü listelerini oluştur, kaydet ve paylaş.
