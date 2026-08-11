@@ -7,6 +7,7 @@ import { CalimPanel } from "@/components/CalimPanel";
 import { PlatformLinks } from "@/components/PlatformLinks";
 import { ShareCard } from "@/components/ShareCard";
 import { ListeyeEkle } from "@/components/ListeyeEkle";
+import { OnizlemeCalar } from "@/components/OnizlemeCalar";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 
@@ -87,9 +88,10 @@ export default function TurkuSayfasi({
         </dl>
       </header>
 
-      {/* Dinle + Listeye ekle */}
+      {/* Dinle + Önizleme + Listeye ekle */}
       <section className="mb-8 flex flex-wrap items-center gap-3">
         <PlatformLinks baglantilar={turku.baglantilar} />
+        <OnizlemeCalar sorgu={`${turku.baslik} ${turku.yore}`} />
         <ListeyeEkle turkuSlug={turku.slug} />
       </section>
 
