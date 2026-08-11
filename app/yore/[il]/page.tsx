@@ -4,6 +4,7 @@ import Link from "next/link";
 import { iller, ilTurkuleri } from "@/lib/data";
 import { TurkuCard } from "@/components/TurkuCard";
 import { MotifBorder } from "@/components/Motif";
+import { KonserAra } from "@/components/KonserAra";
 
 export function generateStaticParams() {
   return iller().map((il) => ({ il: il.slug }));
@@ -52,6 +53,10 @@ export default function YoreSayfasi({ params }: { params: { il: string } }) {
         {turkuler.map((t) => (
           <TurkuCard key={t.slug} turku={t} />
         ))}
+      </div>
+
+      <div className="mt-10">
+        <KonserAra il={il.ad} />
       </div>
     </div>
   );
