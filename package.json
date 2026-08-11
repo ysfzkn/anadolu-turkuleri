@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "description": "Anadolu türkülerini hikâyeleri, yöreleri, ozanları ve notalarıyla buluşturan dijital arşiv.",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
+    "lint": "npm run typecheck",
     "typecheck": "tsc --noEmit",
+    "check:deploy": "tsx scripts/check-deploy.ts",
+    "verify:deploy": "npm run typecheck && npm run check:deploy && npm run build",
     "ingest": "tsx scripts/ingest.ts",
     "review": "tsx scripts/review.ts",
     "validate": "tsx scripts/validate.ts",
@@ -24,7 +29,7 @@
     "@supabase/ssr": "^0.12.4",
     "@supabase/supabase-js": "^2.112.3",
     "html-to-image": "1.11.11",
-    "next": "14.2.15",
+    "next": "^16.3.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-force-graph-2d": "^1.29.1",
@@ -37,10 +42,10 @@
     "@types/react-dom": "18.3.0",
     "@types/three": "^0.170.0",
     "autoprefixer": "10.4.19",
-    "postcss": "8.4.39",
+    "postcss": "^8.5.26",
     "sharp": "^0.35.3",
     "tailwindcss": "3.4.6",
-    "tsx": "4.16.2",
+    "tsx": "^4.23.12",
     "typescript": "5.5.3"
   }
 }

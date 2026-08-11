@@ -1,11 +1,8 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
 
-/**
- * Her istekte Supabase oturumunu tazeler (token yenileme + çerez senkronu).
- * Ortam değişkenleri yoksa hiçbir şey yapmadan geçer (henüz yapılandırılmadı).
- */
-export async function middleware(request: NextRequest) {
+/** Supabase oturumunu tazeler ve yenilenen çerezleri yanıta taşır. */
+export async function proxy(request: NextRequest) {
   let response = NextResponse.next({ request });
 
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
@@ -18,13 +15,9 @@ export async function middleware(request: NextRequest) {
         return request.cookies.getAll();
       },
       setAll(cerezler) {
-        cerezler.forEach(({ name, value }) =>
-          request.cookies.set(name, value),
-        );
+        cerezler.forEach(({ name, value }) => request.cookies.set(name, value));
         response = NextResponse.next({ request });
-        cerezler.forEach(({ name, value, options }) =>
-          response.cookies.set(name, value, options),
-        );
+        cerezler.forEach(({ name, value, options }) => response.cookies.set(name, value, options));
       },
     },
   });
@@ -35,7 +28,6 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    // Statik varlıklar ve harita dışındaki tüm yollar
     "/((?!_next/static|_next/image|favicon.ico|turkey.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp)$).*)",
   ],
 };

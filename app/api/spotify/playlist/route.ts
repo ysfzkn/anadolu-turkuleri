@@ -3,6 +3,7 @@ import { turkuBul } from "@/lib/data";
 import { spotifyTrackUri } from "@/lib/spotify";
 
 export const runtime = "nodejs";
+export const maxDuration = 60;
 
 /**
  * POST /api/spotify/playlist  { listeId }
@@ -11,7 +12,7 @@ export const runtime = "nodejs";
  * (yani kullanıcı Spotify ile giriş yapmış olmalı).
  */
 export async function POST(request: Request) {
-  const supabase = sunucuSupabase();
+  const supabase = await sunucuSupabase();
   const {
     data: { session },
   } = await supabase.auth.getSession();

@@ -22,7 +22,7 @@ export async function herkeseAcikListe(
   kod: string,
 ): Promise<ListeSatiri | null> {
   if (!envVar()) return null;
-  const supabase = sunucuSupabase();
+  const supabase = await sunucuSupabase();
   const { data, error } = await supabase
     .from("listeler")
     .select(
@@ -38,7 +38,7 @@ export async function herkeseAcikListe(
 /** Şu anki oturum kullanıcısı (yoksa null). */
 export async function aktifKullanici() {
   if (!envVar()) return null;
-  const supabase = sunucuSupabase();
+  const supabase = await sunucuSupabase();
   const { data } = await supabase.auth.getUser();
   return data.user;
 }

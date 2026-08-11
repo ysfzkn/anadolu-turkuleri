@@ -19,7 +19,9 @@ Vercel'e) girip entegrasyonu kuracağım.
 2. **Project Settings → API** sayfasından şunları kopyala:
    - `Project URL`  → `NEXT_PUBLIC_SUPABASE_URL`
    - `anon public`  → `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - `service_role` → `SUPABASE_SERVICE_ROLE_KEY` (GİZLİ — yalnızca sunucuda)
+   - `service_role` → mevcut uygulama akışlarında gerekli değil. İleride yönetim
+     işlemleri için kullanılırsa `SUPABASE_SERVICE_ROLE_KEY` adıyla yalnızca
+     sunucu ortamına eklenmeli.
    - `<proje>` kısmı senin **proje referansın** (Project URL'deki alt alan adı,
      ör. `abcd1234efgh`). Callback adresin şu olacak:
      **`https://<proje>.supabase.co/auth/v1/callback`**
@@ -189,7 +191,8 @@ Proje kökünde `.env.local` (Git'e girmez — `.gitignore`'da):
 # Supabase
 NEXT_PUBLIC_SUPABASE_URL=https://<proje>.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon-public-key>
-SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
+# Opsiyonel; mevcut uygulama akışlarında kullanılmıyor:
+# SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 
 # Spotify
 SPOTIFY_CLIENT_ID=<client-id>
