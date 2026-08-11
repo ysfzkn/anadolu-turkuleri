@@ -1,0 +1,9 @@
+# NOT: Asıl küratörlü kaynak artık scripts/seed-turkuler.json (yöre + tema +
+# wikiBaslik + sozSahibi taşır). ingest önce onu okur. Bu düz liste yalnızca
+# hızlı/tek seferlik denemeler için bir yedektir.
+#
+# Kullanım: npm run ingest -- --source=wikipedia --terms="Gesi Bağları,Çökertme zeybeği"
+
+Gesi Bağları
+Çökertme zeybeği
+Kâtibim
