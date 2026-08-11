@@ -20,13 +20,25 @@ Vercel'e) girip entegrasyonu kuracağım.
    - `Project URL`  → `NEXT_PUBLIC_SUPABASE_URL`
    - `anon public`  → `NEXT_PUBLIC_SUPABASE_ANON_KEY`
    - `service_role` → `SUPABASE_SERVICE_ROLE_KEY` (GİZLİ — yalnızca sunucuda)
+   - `<proje>` kısmı senin **proje referansın** (Project URL'deki alt alan adı,
+     ör. `abcd1234efgh`). Callback adresin şu olacak:
+     **`https://<proje>.supabase.co/auth/v1/callback`**
 3. **Authentication → Providers → Spotify**'ı aç:
-   - Aşağıdaki (2. adımdaki) Spotify Client ID/Secret'ı buraya gir.
-   - Supabase sana bir **Redirect (callback) URL** verir
-     (`https://<proje>.supabase.co/auth/v1/callback`) — bunu Spotify uygulamasına
-     ekleyeceğiz.
-   - (İsteğe bağlı) Google sağlayıcısını da aynı şekilde ekleyebilirsin.
-4. **SQL Editor**'de aşağıdaki şemayı çalıştır (listeler + RLS):
+   - 2. adımdaki Spotify **Client ID / Client Secret**'ı buraya gir, kaydet.
+   - Bu ekranda Supabase **"Callback URL (for OAuth)"** diye bir adres gösterir —
+     tam olarak bu adresi kopyala; **Spotify uygulamasının Redirect URI'sine bunu
+     gireceğiz** (aşağıda 2. bölüm).
+   - (İsteğe bağlı) Google sağlayıcısını da aynı mantıkla ekleyebilirsin.
+4. **Authentication → URL Configuration**:
+   - **Site URL**: geliştirme için `http://localhost:3000` (canlıda
+     `https://anadoluturkuleri.com` yaparız)
+   - **Redirect URLs** (izin listesi) — şunları ekle:
+     - `http://localhost:3000/**`
+     - `https://anadoluturkuleri.com/**`
+     - `https://*.vercel.app/**` (Vercel önizleme dağıtımları için, isteğe bağlı)
+   > Bunlar, giriş sonrası kullanıcının GERİ DÖNECEĞİ site adresleridir —
+   > Spotify'daki Redirect URI'den FARKLIDIR (o Supabase callback'idir).
+5. **SQL Editor**'de aşağıdaki şemayı çalıştır (listeler + RLS):
 
 ```sql
 -- Kullanıcı listeleri
@@ -84,22 +96,33 @@ create policy "acik_liste_turkuleri_oku" on public.liste_turkuleri
 ## 2) Spotify Developer (giriş + önizleme + listeye ekleme)
 
 1. https://developer.spotify.com/dashboard → **Create app**
-   - App name: `Anadolu Türküleri`
-   - **Redirect URIs** (hepsini ekle):
-     - `https://<proje>.supabase.co/auth/v1/callback` (Supabase login için — 1.3'teki URL)
-     - `http://localhost:3000/api/spotify/callback` (yerel geliştirme)
-     - `https://anadoluturkuleri.com/api/spotify/callback` (canlı)
-   - APIs: **Web API**
+   - App name: `Anadolu Türküleri` · App description: kısa bir açıklama
+   - **Redirect URIs** — buraya SADECE **Supabase callback adresini** gir
+     (Bölüm 1.3'te kopyaladığın adres):
+     ```
+     https://<proje>.supabase.co/auth/v1/callback
+     ```
+     Başka bir şey (localhost, /api/... vb.) EKLEMENE gerek yok — giriş akışı
+     Supabase üzerinden döndüğü için Spotify yalnızca bu adresi tanımalı.
+     (`<proje>` = senin Supabase proje referansın.)
+   - **Which API/SDKs**: **Web API**'yi işaretle.
 2. Oluşturunca **Settings**'ten kopyala:
    - `Client ID`     → `SPOTIFY_CLIENT_ID`
    - `Client secret` → `SPOTIFY_CLIENT_SECRET` (GİZLİ)
-3. Kullanacağımız izinler (scope):
-   - `playlist-modify-public`, `playlist-modify-private` — kullanıcı listesini
-     Spotify çalma listesine dönüştürmek için
+   - Bu ikisini **Supabase → Auth → Providers → Spotify** ekranına da girmiştin
+     (Bölüm 1.3).
+3. İzinler (scope) — bunları uygulama panelinde ayarlamana gerek YOK; giriş
+   isteğinde koddan istiyoruz. Kullanacaklarımız:
+   - `playlist-modify-public`, `playlist-modify-private` — listeyi Spotify çalma
+     listesine dönüştürmek için
    - `user-read-email` — temel profil
 
 > Not: 30 saniyelik **önizleme** (`preview_url`) için kullanıcı girişi gerekmez;
-> arama Client Credentials ile yapılır. Yalnızca "listeme ekle" kullanıcı OAuth'ı ister.
+> arama Client Credentials ile sunucu tarafında yapılır. Yalnızca "listeme ekle"
+> kullanıcı OAuth'ı (yukarıdaki scope'lar) gerektirir.
+>
+> ⚠️ Spotify, loopback dışındaki tüm Redirect URI'lerin **https** olmasını ister;
+> Supabase callback'i zaten https olduğu için sorun yok.
 
 ---
 
