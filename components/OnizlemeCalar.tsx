@@ -12,8 +12,6 @@ interface Veri {
   guven?: number;
 }
 
-const SES_IZNI = "anadolu-sesli-onizleme";
-
 export function OnizlemeCalar({
   sorgu,
   baslik,
@@ -27,7 +25,7 @@ export function OnizlemeCalar({
   ozan?: string;
   kompakt?: boolean;
 }) {
-  const [durum, setDurum] = useState<"yukleniyor" | "izin" | "acik" | "yok">("yukleniyor");
+  const [durum, setDurum] = useState<"yukleniyor" | "acik" | "yok">("yukleniyor");
   const [veri, setVeri] = useState<Veri | null>(null);
   const [caliyor, setCaliyor] = useState(false);
   const [engellendi, setEngellendi] = useState(false);
@@ -38,6 +36,7 @@ export function OnizlemeCalar({
     if (!audio) return;
     try {
       await audio.play();
+      window.sessionStorage.setItem("anadolu-sesli-onizleme", "1");
       setCaliyor(true);
       setEngellendi(false);
     } catch {
@@ -63,8 +62,9 @@ export function OnizlemeCalar({
           return;
         }
         setVeri(data);
-        const izinli = window.sessionStorage.getItem(SES_IZNI) === "1";
-        setDurum(izinli ? "acik" : "izin");
+        // Her eşleşmede otomatik oynatmayı doğrudan deneriz. Tarayıcı sesli
+        // autoplay'i engellerse aşağıdaki oynat düğmesi erişilebilir kalır.
+        setDurum("acik");
       } catch {
         if (!iptal) setDurum("yok");
       }
@@ -74,16 +74,10 @@ export function OnizlemeCalar({
   }, [sorgu, baslik, yore, ozan]);
 
   useEffect(() => {
-    if (durum === "acik" && veri?.onizlemeUrl && window.sessionStorage.getItem(SES_IZNI) === "1") {
+    if (durum === "acik" && veri?.onizlemeUrl) {
       void oynat();
     }
   }, [durum, veri?.onizlemeUrl, oynat]);
-
-  async function izinVer() {
-    window.sessionStorage.setItem(SES_IZNI, "1");
-    setDurum("acik");
-    setTimeout(() => void oynat(), 0);
-  }
 
   function calDurdur() {
     const audio = audioRef.current;
@@ -102,34 +96,25 @@ export function OnizlemeCalar({
     return <span className="inline-flex min-h-11 items-center rounded-xl border border-toprak/25 px-4 text-sm text-ceviz-light">Önizleme bulunamadı</span>;
   }
 
-  if (durum === "izin") {
-    return (
-      <button onClick={izinVer} className="group inline-flex min-h-12 items-center gap-3 rounded-2xl border border-[#1DB954]/35 bg-[#1DB954]/10 px-4 text-left shadow-sm transition hover:-translate-y-0.5 hover:bg-[#1DB954]/15 hover:shadow-md">
-        <span className="grid h-8 w-8 place-items-center rounded-full bg-[#1DB954] text-white" aria-hidden>▶</span>
-        <span>
-          <span className="block text-sm font-semibold text-ceviz">30 sn önizlemeyi otomatik çal</span>
-          {!kompakt && <span className="block text-xs text-ceviz-light">Bu sekme için ses izni ver</span>}
-        </span>
-      </button>
-    );
-  }
-
   if (!veri?.onizlemeUrl && veri?.id) {
     return (
-      <div className="w-full max-w-xl overflow-hidden rounded-2xl border border-[#1DB954]/35 bg-white/55 shadow-sm">
-        <div className="flex items-center gap-3 px-4 py-3">
+      <div className="min-w-0 w-full max-w-xl overflow-hidden rounded-2xl border border-[#1DB954]/35 bg-white/55 shadow-sm">
+        <div className={`flex min-w-0 items-center gap-3 ${kompakt ? "px-3 py-2" : "px-4 py-3"}`}>
           {veri.gorsel && <img src={veri.gorsel} alt="" className="h-10 w-10 rounded-xl object-cover" />}
           <div className="min-w-0 flex-1"><p className="truncate text-sm font-semibold text-ceviz">En olası Spotify eşleşmesi · {veri.ad}</p><p className="truncate text-xs text-ceviz-light">{veri.sanatci} · Spotify oynatıcısı</p></div>
         </div>
-        <iframe
-          title={`${veri.ad} Spotify oynatıcısı`}
-          src={`https://open.spotify.com/embed/track/${veri.id}?utm_source=generator&theme=0&autoplay=1`}
-          width="100%"
-          height="152"
-          loading="lazy"
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          className="block border-0"
-        />
+        <div className={`w-full overflow-hidden ${kompakt ? "h-20" : "h-[152px]"}`}>
+          <iframe
+            title={`${veri.ad} Spotify oynatıcısı`}
+            src={`https://open.spotify.com/embed/track/${veri.id}?utm_source=generator&theme=0&autoplay=1`}
+            width="100%"
+            height={kompakt ? 80 : 152}
+            loading="eager"
+            allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            scrolling="no"
+            className="block h-full w-full border-0"
+          />
+        </div>
       </div>
     );
   }
