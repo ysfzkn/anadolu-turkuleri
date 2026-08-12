@@ -4,7 +4,29 @@
   "yore": "Ankara",
   "hikaye": "Bahçelerde Ayda Bar, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde aydabar (şelebim nenni)",
+        "Bugün evde bay'da var (şelebim nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erken erken kalkarım (şelebim nenni)",
+        "Elim kolum yıkarım (şelebim nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şelebim şimşir kaşıkday (şelebim nenni)",
+        "Men şelebiye aşıkday (şelebim nenni)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

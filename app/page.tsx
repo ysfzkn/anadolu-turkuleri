@@ -109,7 +109,7 @@ export default async function AnaSayfa() {
       <section className="mx-auto max-w-5xl px-4 pt-12">
         <div className="flex flex-wrap items-end justify-between gap-3"><div><p className="text-xs font-bold uppercase tracking-[.2em] text-kilim">Fotoğraflarla kültür atlası</p><h2 className="mt-2 font-serif text-3xl font-semibold text-ceviz">Ezginin doğduğu yere yaklaşın</h2></div><Link href="/kultur-rotalari" className="text-sm font-semibold text-cini-dark underline underline-offset-4">Tüm kültür rotaları →</Link></div>
         <div className="mt-6 grid gap-4 md:grid-cols-3">
-          <SehirFotografi il="Sivas" href="/kultur-rotalari/sivas-ozanlar-yolu" baslik="Ozanların İzinde Sivas" aciklama="Selçuklu taş işçiliğinden âşık meclislerine uzanan sözlü bellek." className="min-h-80 md:col-span-2" />
+          <SehirFotografi il="Sivas" href="/kultur-rotalari/sivas-ozanlar-yolu" baslik="Ozanların İzinde Sivas" aciklama="Çifte Minareli Medrese’den Âşık Veysel’in köyü Sivrialan’a uzanan bir kültür rotası." className="min-h-80 md:col-span-2" />
           <div className="grid gap-4"><SehirFotografi il="Şanlıurfa" href="/kultur-rotalari/sanliurfa-sira-gecesi" baslik="Sıra Gecesinin Hafızası" className="min-h-[152px]" /><SehirFotografi il="İzmir" href="/kultur-rotalari/izmir-zeybek-yolu" baslik="Efelerin ve Zeybeklerin Yolu" className="min-h-[152px]" /></div>
         </div>
       </section>
@@ -129,7 +129,7 @@ export default async function AnaSayfa() {
       <section className="border-t border-toprak/20 bg-parsomen-dark/35">
         <div className="mx-auto grid max-w-5xl gap-8 px-4 py-12 lg:grid-cols-[1.1fr_.9fr]">
           <div>
-            <p className="text-xs font-semibold uppercase tracking-[.18em] text-kilim">Anadolu'nun sözlü belleği</p>
+            <p className="text-xs font-semibold uppercase tracking-[.18em] text-kilim">Anadolu'nun yaşayan türkü arşivi</p>
             <h2 className="mt-2 font-serif text-3xl font-semibold text-ceviz">Türküleri yalnızca dinlemeyin; izlerini keşfedin</h2>
             <div className="mt-4 space-y-4 leading-7 text-ceviz-light">
               <p>Türküler; yaşanmış olayları, göçleri, sevdaları, ağıtları ve yöresel yaşamı ezgiyle aktaran halk anlatılarıdır. Bu arşiv, her eseri mümkün olduğunca kaynak kişisi, derleyeni, yöresi ve farklı anlatılarıyla birlikte sunar.</p>

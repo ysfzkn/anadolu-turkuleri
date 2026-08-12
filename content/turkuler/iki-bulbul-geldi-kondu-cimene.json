@@ -4,7 +4,38 @@
   "yore": "Ankara",
   "hikaye": "İki Bülbül Geldi Kondu Çimene, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki Bülbül Geldi Kondu Çimene (Dayanamıyom)",
+        "Kendim İçtim Kendim (De) Oldum Divane",
+        "Ben Ölürsem Gurbet Elde Kime Ne (Dayanamıyom)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom Ey Nazlım Da Ağlattın Beni",
+        "Arar İsen Yar Yanında Bul Beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki Bülbül Gül Dalında Ötüyor (Dayanamıyom)",
+        "Ötme Bülbül Derdim (De) Bana Yetiyor",
+        "Eylen Güzel İşte Salım Gidiyor (Dayanamıyom)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom Ey Nazlım Da Ağlattın Beni",
+        "Arar İsen Yar Yanında Bul Beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

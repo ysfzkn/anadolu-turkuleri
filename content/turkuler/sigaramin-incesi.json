@@ -4,7 +4,35 @@
   "yore": "Manisa",
   "hikaye": "Sigaramın İncesi, Vikikaynak'ın Manisa türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Manisa yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sigaramın İncesi (Baylan Cemile'm)",
+        "Göynümün Eğlencesi",
+        "Bir Akşam Gel Bir Sabah (Baylan Cemile'm)",
+        "İlle Cuma Gecesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden İnişelim (Baylan Cemile'm)",
+        "Kuş Gibi Dönüşelim",
+        "Gündüzden Haberim Var (Baylan Cemile'm)",
+        "Akşama Görüşelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Manisa'nın Üzümü (Baylan Cemile'm)",
+        "Karartmadı Yüzümü",
+        "Yedi Yıl Hizmetim Var (Baylan Cemile'm)",
+        "Dönüverdi Yüzünü"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

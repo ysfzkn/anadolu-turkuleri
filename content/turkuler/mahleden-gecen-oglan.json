@@ -4,7 +4,62 @@
   "yore": "Kars",
   "hikaye": "Mahleden Geçen Oğlan, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mahleden Geçen Oğlan",
+        "Beni yar Seçen Oğlan",
+        "Başkasına Sözüm Var",
+        "Dönemem İnan Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Gel Gel Gel Oğlan",
+        "Bala Ceylan Sevgilim Dur Gel",
+        "Dur Gel Oğlan Bala",
+        "Benim Özgülüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşımda Durma Oğlan",
+        "Boynunu Burma Oğlan",
+        "Bana Her Dem Söz Atıp",
+        "Özünü Yorma Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Gel Gel Gel Oğlan",
+        "Bala Ceylan Sevgilim Dur Gel",
+        "Dur Gel Oğlan Bala",
+        "Benim Özgülüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne Güzel Gözlerin Var",
+        "Yüzün Av Gibi Parlar",
+        "Sözlerin Ateş Sanki",
+        "Can Evimi Alevler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Gel Gel Gel Oğlan",
+        "Bala Ceylan Sevgilim Dur Gel",
+        "Dur Gel Oğlan Bala",
+        "Benim Özgülüm"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

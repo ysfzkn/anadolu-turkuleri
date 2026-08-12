@@ -4,7 +4,59 @@
   "yore": "Ankara",
   "hikaye": "Mor Koyun Meler Gelir-2, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Mor Koyun Meler Gelir",
+        "(Yavrum) Dağları Deler Gelir",
+        "(Aman) Hakikatli Yar Olsa",
+        "(Yavrum) Uykuyu Böler Gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nesine De Yavrum Nesine",
+        "Sigara Da Koymuş Fesine",
+        "Yavrum Ben Yandım Birisine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Mor Koyun Kuzusuna",
+        "(Yavrum) Can Kaynar Birisine",
+        "(Aman) Nedeydim De Ağlayım",
+        "(Yavrum) Alnımın Yazısına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nesine De Yavrum Nesine",
+        "Sigara Da Koymuş Fesine",
+        "Yavrum Ben Yandım Birisine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Mor Koyun Meşelerde",
+        "(Yavrum) Gül Suyu Şişelerde",
+        "(Aman) Eller Yarimi Almış",
+        "(Yavrum) Ben Kaldım Köşelerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nesine De Yavrum Nesine",
+        "Sigara Da Koymuş Fesine",
+        "Yavrum Ben Yandım Birisine"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

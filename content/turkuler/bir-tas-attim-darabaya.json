@@ -4,7 +4,35 @@
   "yore": "Antalya",
   "hikaye": "Bir Taş Attım Darabaya, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{eser başlığı|başlık=Bir Taş Attım Darabaya|esersahibi=Anonim|bölüm=|önceki=Antalya türküleri|sonraki=|notlar=:Derleyen Durmuş Yazıcıoğlu (1952)",
+        "Notaya Alan :Durmuş Yazıcıoğlu}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım darabaya tık dedi, tık dedi,",
+        "Bir gız çıktı annem evde yok dedi",
+        "İnanmazsan çık yukarı bak dedi, bak dedi",
+        "BAĞLANTI",
+        "Ölüm ver Allahım ayrılık verme",
+        "Gız seni seviyom da ellere deme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Galkar galkar darabaya avrulur, avrulur",
+        "Siyah saçlar yanağa devrülür",
+        "Seni saran yanar yanar gavrulur, gavrulur",
+        "BAĞLANTI"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

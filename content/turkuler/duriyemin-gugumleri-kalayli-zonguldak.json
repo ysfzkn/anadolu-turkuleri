@@ -4,7 +4,38 @@
   "yore": "Zonguldak",
   "hikaye": "Düriyem'in Güğümleri Kalaylı, Vikikaynak'ın Zonguldak türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Zonguldak yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düriyem'in Güğümleri Kalaylı [Ah Kalaylı]",
+        "Fistan Giymiş Etekleri Alaylı [Alaylı Aman Aman]"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düriyem'i Aldatması Kolay Mı [Ah Kolay Mı]",
+        "Ah Alırım Dedin De Aldattın Beni [Aldattın Beni Aman]",
+        "Üç Telli Saz İle Oynattın Beni [Oynattın Beni Aman]"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giyme Dedim Giydin Sen Bu Alleri [Ah Alleri]",
+        "Başıma Getirdin Türlü Halleri [Halleri Aman Aman]",
+        "Düşman Ettin Bana Bütün Elleri [Ah Elleri]"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah Alırım Dedin De Aldattın Beni [Aldattın Beni Aman]",
+        "Üç Telli Saz İle Oynattın Beni [Oynattın Beni Aman]"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

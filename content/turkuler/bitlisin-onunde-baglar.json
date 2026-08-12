@@ -4,12 +4,61 @@
   "yore": "Bitlis",
   "hikaye": "Bitlis'in Önünde Bağlar, Vikikaynak'ın Bitlis türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bitlis yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bitlis'in önünde bağlar hanımey le le",
+        "O yar oturmuş gül bağlar belalım le le",
+        "Bu dertlere dayanamaz hanımey le le",
+        "Ne hastalar ne de sağlar belalım le le"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay hanım hanım hanım hanım hanımey le le",
+        "Sensin benim yar dermanım belalım le le"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bitlis'in başında bora hanımey le le",
+        "Cahil idim düştüm tora belalım le le",
+        "Beni tora düşürenler hanımey le le",
+        "Dilerim yansınlar nara belalım le le"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay hanım hanım hanım hanım hanımey le le",
+        "Sensin benim yar dermanım belalım le le"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Göğe de yıldız serpseler hanımey le le",
+        "Beni de toya salsalar belalım le le",
+        "Canım kurban ederem hanımey le le",
+        "Yari bana verseler belalım le le"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay hanım hanım hanım hanım hanımey le le",
+        "Sensin benim yar dermanım belalım le le"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bitlis'in%20%C3%96n%C3%BCnde%20Ba%C4%9Flar%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=5EtNA5UqjjI",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

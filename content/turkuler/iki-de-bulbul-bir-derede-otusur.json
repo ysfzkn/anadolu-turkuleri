@@ -4,7 +4,38 @@
   "yore": "Trabzon",
   "hikaye": "İki de Bülbül Bir Derede Ötüşür, Vikikaynak'ın Trabzon türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Trabzon yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki de bülbül bir derede ötüşür",
+        "Ötme bülbül derdim bana yetişir",
+        "Ateş düşmüş ciyerim tutuşur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İmana gel sevdiceğim imana",
+        "Mail oldum kaşı gözü kemana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki bülbül geldi kondu çimene",
+        "Kendim sevdim kendim oldum divane",
+        "Ben ölürsem gurbet elde kime ne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İmana gel sevdiceğim imana",
+        "Mail oldum kaşı gözü kemana"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

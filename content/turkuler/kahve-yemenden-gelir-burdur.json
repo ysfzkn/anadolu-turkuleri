@@ -4,7 +4,35 @@
   "yore": "Burdur",
   "hikaye": "Kahve Yemen'den Gelir (Burdur), Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemenden gelir",
+        "Bülbül çimenden gelir",
+        "Ak topuk beyaz gerdan",
+        "Her gün yabandan gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Hop şinanay nay lay lom",
+        "Karaları bağlama",
+        "Kömür gözlüm ağlama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hükümet önünden geçtim",
+        "Allı da şemsiye açtım",
+        "Ben yârimi görünce",
+        "Yavuklumdan vazgeçtim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

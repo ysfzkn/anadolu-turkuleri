@@ -4,7 +4,38 @@
   "yore": "Ordu",
   "hikaye": "Ne Uzundur Şu Fatsa'nın Yolları, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne uzundur şu fatsanın yolları",
+        "Arşın olmuş mustafa'nın kolları",
+        "Acep ne söyledi şirin dilleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mustafam mustafa'm garip mustafa'm",
+        "Düşman ellerinde giden mustafam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne uzundur şu fatsanın gezisi",
+        "Böyleyimiş alnımızın yazısı",
+        "Mustafa annesinin bir tek kuzusu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mustafam mustafa'm garip mustafa'm",
+        "Düşman ellerinde giden mustafam"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

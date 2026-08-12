@@ -4,7 +4,42 @@
   "yore": "Kastamonu",
   "hikaye": "Karanfilim Dağ Başında, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilim (Aman) Dağ Başında Çanakta (İmanım)",
+        "Benim Yarim Şu Karşıki Konakta",
+        "Benleri Var (Aman) Sıra Sıra Yanakta (İmanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin Gelin Ey Dostlar Bakın Bakın Ahbaplar",
+        "Sevda Beni Neyliyor",
+        "Başında Da Mor Fes Sırtında Da Canfes",
+        "Sallanı Sallanı Geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilim Dağ Başında Bitmez Mi (İmanım)",
+        "Gül Olmazsa Bülbül Coşup Ötmez Mi",
+        "Issız Kalan Yuva Yarsız Tütmez Mi (İmanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin Gelin Ey Dostlar Bakın Bakın Ahbaplar",
+        "Sevda Beni Neyliyor",
+        "Başında Da Mor Fes Sırtında Da Canfes",
+        "Sallanı Sallanı Geliyor"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

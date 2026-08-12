@@ -4,7 +4,34 @@
   "yore": "Bilecik",
   "hikaye": "Ay Oğlan Tatar mısın, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay oğlan tatar mısın",
+        "Şeftali satar mısın",
+        "Şeftali şöyle dursun (ay oğlan)",
+        "Benimle kaçar mısın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Haydi yârim kaya başına kaya başına",
+        "Al beni yanına yanıbaşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay oğlan imana gel",
+        "Dolaş da pınara gel",
+        "Hiç bahanen yoğusa (ay oğlan)",
+        "Elini yumağa gel"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

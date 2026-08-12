@@ -4,7 +4,53 @@
   "yore": "Elazığ",
   "hikaye": "Kevengin Yollarında, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kevengin yollarında",
+        "Çimeydim göllerinde (He anam he)",
+        "İlik düğme olaydım",
+        "O yarin kollarında (He anam he)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandan yana",
+        "Severim seni candan (He anam he)",
+        "Üç gün oldu seveli",
+        "Ne tez usandın benden (He anam he)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama vurdum çatmayı",
+        "Seslen gelsin Fatmayı(He anam he)",
+        "Fatman nerden öğrenmiş",
+        "Çarşaftan kol atmayı (He anam he)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandan yana",
+        "Severim seni candan (He anam he)",
+        "Üç gün oldu seveli",
+        "Ne tez usandın benden (He anam he)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kevengin yazıları",
+        "Meliyor kuzuları (He anam he)",
+        "Ben buraya gelmezdim",
+        "Alnımın yazıları"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

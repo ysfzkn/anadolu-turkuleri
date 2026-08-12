@@ -4,7 +4,35 @@
   "yore": "Antalya",
   "hikaye": "Cigaramı İnce Sar, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cigaramı ince sar",
+        "Almıyor barmaklarım",
+        "Yok salınma sevdiğim",
+        "Kan doldu yanaklarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cigaramın incesi",
+        "Gönlümün eğlencesi",
+        "Bir akşam gel bir sabah",
+        "İlle de cuma gecesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indirdiler",
+        "Tirene bindirdiler",
+        "Daha on dört yaşında",
+        "Cepheye gönderdiler"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

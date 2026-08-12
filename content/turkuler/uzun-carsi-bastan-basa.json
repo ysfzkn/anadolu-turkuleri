@@ -4,7 +4,40 @@
   "yore": "Balıkesir",
   "hikaye": "Uzun Çarşı Baştan Başa, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun çarşı baştan başa",
+        "Keklik seker taştan taşa",
+        "Bir ülfetin olmaz paşa",
+        "Sevdiğim bir o saydığım bir o"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olacak ülfet senindir",
+        "Vallah billah senindir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızılcık üzüm turşusu",
+        "Yüzüne vurmuş ekşisi",
+        "Bir ülfetin has komşusu",
+        "Sevdiğim bir o saydığım bir o"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olacak ülfet senindir",
+        "Vallah billah senindir"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

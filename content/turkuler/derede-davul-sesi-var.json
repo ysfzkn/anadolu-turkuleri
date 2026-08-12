@@ -4,7 +4,38 @@
   "yore": "Bursa",
   "hikaye": "Derede Davul Sesi Var, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Uy) derede davul sesi var",
+        "Bugün gelinin yası var (a gelin)",
+        "Bir oğlandan gayrı nesi var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alırlar seni elimden",
+        "Sararlar ince belinden (a gelin)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Uy) gölgelerde gabaçlar",
+        "Asbap yuğdumuz akdaşlar",
+        "Sarılıp yattığımız gardaşlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alırlar seni elimden",
+        "Sararlar ince belinden (a gelin)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,56 @@
   "yore": "Elazığ",
   "hikaye": "Bir Taş Attım Çaya Düştü (Elazığ), Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım çaya düştü",
+        "Çaydan çift güvercin uçtu",
+        "Benim gönlüm sana düştü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aldır gelin",
+        "Lira vermem bozdur gelin",
+        "Ağ gerdana dizdir gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü budur",
+        "Çifte güğüm dolu sudur",
+        "Yar sevenin hali budur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aldır gelin",
+        "Lira vermem bozdur gelin",
+        "Ağ gerdana dizdir gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şahnişine yaptım kapı",
+        "Kırıldı keserin sapı",
+        "Benim yarim altın topu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aldır gelin",
+        "Lira vermem bozdur gelin",
+        "Ağ gerdana dizdir gelin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

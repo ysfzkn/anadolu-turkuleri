@@ -4,7 +4,43 @@
   "yore": "Ankara",
   "hikaye": "Çayıra da Vurdum Gazmayı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırada Vurdum Gazmayı da Oğlan Gülüm Oğlan",
+        "Al Başımdan Yazmayı da Oğlan Gülüm Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen Nereden Belledin de Oğlan Gülüm Oğlan",
+        "Selbes Selbes Gezmeyi de Oğlan Gülüm Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sergende Gümüş Balta da Oğlanda Gülüm Oğlan",
+        "Yar Gelir Dart Darta da Oğlanda Gülüm Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sergene Uzanmışam da Oğlan Gülüm Oğlan",
+        "Gül Gibi Gızarmışam da Oğlan Gülüm Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırda Gezen Oğlan da Oğlan Gülüm Oğlan",
+        "Saraltın Gazan Oğlan da Oğlan Gülüm Oğlan"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

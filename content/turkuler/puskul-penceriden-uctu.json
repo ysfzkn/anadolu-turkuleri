@@ -4,7 +4,38 @@
   "yore": "Edirne",
   "hikaye": "Püskül Penceriden Uçtu, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Püskül pencireden uçtu (amman)",
+        "Uçtu da deryaya düştü (amman)",
+        "Benim gönlüm sana düştü (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynan kızlar döne döne amman",
+        "Ben kül oldum yana yana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Püskülü neden yaparlar (amman)",
+        "Beden ipekten yaparlar (amman)",
+        "Yapar beylere satarlar (amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oynan kızlar döne döne amman",
+        "Ben kül oldum yana yana"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

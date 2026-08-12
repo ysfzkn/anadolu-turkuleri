@@ -4,7 +4,63 @@
   "yore": "Çanakkale",
   "hikaye": "Arda Boylarında Kırmızı Erik, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arda boylarında kırmızı erik",
+        "Helime’nin ardında on yedi belik",
+        "Ah anneciğim ah anneciğim yaktın ya beni Bu genç yaşta denizlere attın ya beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arda boylarında sarı karınca",
+        "Ah nere gideyim sabah olunca",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yakın ingeler yakın kınamı yakın",
+        "Yarın halay boş dönecek seyrine bakın",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arda boylarına ben kendim gittim",
+        "Dalgalar vurdukça can teslim ettim",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alıverin feracemi anneciğim giysin",
+        "O kıymetli İsmail’e kendisi gitsin",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uyan uyan a Recebim senin olayım",
+        "Ardalar’da beraber mutluluğa dolalım",
+        "NAKARAT"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Doku anneciğim doku paltomu doku",
+        "O paltomun cebindeki mektubu sen oku"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

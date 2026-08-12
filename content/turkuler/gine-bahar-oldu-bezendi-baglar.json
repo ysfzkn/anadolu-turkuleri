@@ -4,7 +4,53 @@
   "yore": "Kars",
   "hikaye": "Gine Bahar Oldu Bezendi Bağlar, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{söz|Gine Bahar Oldu Bezendi Bağlar",
+        "Hasretlik Kar Etti Gel Leylam Leylam",
+        "Yar Senin Ateşin Sinemi Dağlar",
+        "Gönülde Mihmanım Ol Leylam Leylam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşkın Beni Vurdu Derbeder Etti",
+        "Eyüp'ten Çok Çektim Cana Kar Etti",
+        "Yıktı Bu Gönlümü Virane Etti",
+        "Yana Yana Oldum Kül Leylam Leylam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ta Ezelden Tecellim Kurmuş Temeli",
+        "Leyla'yı Severim Mecnun Misali",
+        "Koy Bana Desinler Yusuf Sevdalı",
+        "Olaydım Kapında Kul Leylam Leylam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyla Leyla Dedim Dağlar Başında",
+        "Ot Yayıldım Çimen Bitti Dişimde",
+        "Bütün Kuşlar Yuva Yaptı Başımda",
+        "Gel Buna Bir Çare Bul Leylam Leylam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cevlani Bu Halde Kamandım Kaldım",
+        "Yar Senin Derdinden Sarardım Soldum",
+        "Ben De Mecnun Gibi Leylamı Buldum",
+        "Kendine Bir Çare Bul Leylam Leylam}}"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

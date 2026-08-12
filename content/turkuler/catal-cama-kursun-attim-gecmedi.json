@@ -4,7 +4,36 @@
   "yore": "Muğla",
   "hikaye": "Çatal Çama Kurşun Attım Geçmedi, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çatal çama kurşun attım geçmedi",
+        "Ben o yare rakı verdim fidan boylum içmedi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi çatal çamın arası",
+        "Yaktı beni kaşlarının karası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnme turnam inme böyle susuz göllere",
+        "Ben ölürsem fidan boylum sen kalırsın ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydindi taşlarında mor boncuk",
+        "Saramadım fidan boylum bir yolcuk"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

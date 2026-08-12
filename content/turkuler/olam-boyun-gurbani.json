@@ -4,7 +4,71 @@
   "yore": "Kars",
   "hikaye": "Olam Boyun Gurbanı, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olam Boyun Gurbanı",
+        "Sensin Dağlar Ceylanı",
+        "Kara Kaşın Gözlerin",
+        "Budur Aşkın Fermanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey",
+        "Öldürme Beni",
+        "Şevmişem Seni",
+        "Guş Diline Gurban",
+        "İnce Beline Hayran",
+        "Şeker Lebine Doymam",
+        "Vay Benim Maralım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İncidir Dişin Senin",
+        "Hoştur Gülüşün Senin",
+        "Aşkından Ölürem Men",
+        "Yok Mu İnsafın Senin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey",
+        "Öldürme Beni",
+        "Şevmişem Seni",
+        "Guş Diline Gurban",
+        "İnce Beline Hayran",
+        "Şeker Lebine Doymam",
+        "Vay Benim Maralım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kekliğin Gözü Ela",
+        "Başıma Açtı Bela",
+        "Yiğit Ona Demişem",
+        "Sevdiğini Tez Ala"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey",
+        "Öldürme Beni",
+        "Şevmişem Seni",
+        "Guş Diline Gurban",
+        "İnce Beline Hayran",
+        "Şeker Lebine Doymam",
+        "Vay Benim Maralım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

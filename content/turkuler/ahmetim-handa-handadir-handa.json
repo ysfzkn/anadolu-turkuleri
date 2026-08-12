@@ -4,7 +4,39 @@
   "yore": "Balıkesir",
   "hikaye": "Ahmetim Handa Handadır Handa, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki de elleri kandadır kanda",
+        "Ahmet'in gönlü bendedir bende"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al şu mumları eline yak demedim mi",
+        "Karşılardan da bak demedim mi",
+        "Akşama yolun uzak kal demedim mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahmet'im oturmuş batlıcan oyar",
+        "Batlıcan rengine bastonun boyar",
+        "Sen kimin yarisin her yanın oynar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al şu mumları eline yak demedim mi",
+        "Karşılardan da bak demedim mi",
+        "Akşama yolun uzak kal demedim mi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

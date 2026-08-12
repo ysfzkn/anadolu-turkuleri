@@ -4,7 +4,28 @@
   "yore": "Bilecik",
   "hikaye": "Armut Dalda Dik Durur, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Armut dalda dik durur da",
+        "Dibinde yiğit durur",
+        "Döndüm baktım ardıma da",
+        "Sevdiceğim gelip durur",
+        "Yalel yalel yalelli yalelel yalelli of"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırana kurşun attım da",
+        "Kırandan aşırmağa",
+        "Cebime ayna koydum da",
+        "Kızları şaşırmağa",
+        "Yalel yalel yalelli yalelel yalelli of"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

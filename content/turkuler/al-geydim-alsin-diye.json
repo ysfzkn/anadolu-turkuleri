@@ -4,7 +4,26 @@
   "yore": "Çanakkale",
   "hikaye": "Al Geydim Alsın Diye, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al geydim alsın diye",
+        "Mor giydim sarsın diye",
+        "İsteyene varmadım",
+        "Sevdiğim alsın diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva sarısı yârim",
+        "Limon yarısı yârim",
+        "Ben senden ayrılmam",
+        "Lafın doğrusu yârim”"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

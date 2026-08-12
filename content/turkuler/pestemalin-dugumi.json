@@ -4,7 +4,74 @@
   "yore": "Rize",
   "hikaye": "Peştemalin Duğumi, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemalin Duğumi",
+        "Aldılar Sevduğumi",
+        "Daha Bu Genç Yaşumda",
+        "Yaktılar Yüreğumi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali Peştemali",
+        "Kızlar Bağlar Peştemali",
+        "Seven Seveni Alır",
+        "Düğün Eder Ahali",
+        "Kız Sana Alacağum",
+        "Mavili Peştemali",
+        "Alacak Mısın Bana",
+        "Mavili Peştemali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali Sarıdan",
+        "Başlar Oni Yarıdan",
+        "Sevdaluk Eder Kızlar",
+        "İbret Alur Arıdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali Peştemali",
+        "Kızlar Bağlar Peştemali",
+        "Seven Seveni Alır",
+        "Düğün Eder Ahali",
+        "Kız Sana Alacağum",
+        "Mavili Peştemali",
+        "Alacak Mısın Bana",
+        "Mavili Peştemali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali Kırmızı",
+        "Her Zaman Güler Yuzi",
+        "Ne İsteyusun Benden",
+        "E Müslümanın Kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Peştemali Peştemali",
+        "Kızlar Bağlar Peştemali",
+        "Seven Seveni Alır",
+        "Düğün Eder Ahali",
+        "Kız Sana Alacağum",
+        "Mavili Peştemali",
+        "Alacak Mısın Bana",
+        "Mavili Peştemali"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Asker Oldun Vatana (Zalif'im), Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asker Oldun Vatana (Zalif'im)",
+        "Gidiyon Mu Kıtana (Zalif'im)",
+        "Kışla Boyu Yol Boyu (Zalif'im)",
+        "Adam Ederler Toyu (Zalif'im)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazak Ördüm Ağladım Zalif'im",
+        "İlmek İlmek Bağladım Zalif'im",
+        "Seni Gelecek Diye Zalif'im",
+        "Tandır Sacı Yağladım Zalif'im"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sizin Köyün Arası (Zalif'im)",
+        "Bende Gönül Yarası (Zalif'im)",
+        "Babam Beni Verecek (Zalif'im)",
+        "Yüzbin Başlık Parası (Zalif'im)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazak Ördüm Ağladım Zalif'im",
+        "İlmek İlmek Bağladım Zalif'im",
+        "Seni Gelecek Diye Zalif'im",
+        "Tandır Sacı Yağladım Zalif'im"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çorak Dere Sazaklı (Zalif'im)",
+        "Gelir Yeşil Gazaklı (Zalif'im)",
+        "Ben Sana Yarim Demem (Dimem) (Zalif'im)",
+        "Sizin Köyler Tuzaklı (Zalif'im)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazak Ördüm Ağladım Zalif'im",
+        "İlmek İlmek Bağladım Zalif'im",
+        "Seni Gelecek Diye Zalif'im",
+        "Tandır Sacı Yağladım Zalif'im"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

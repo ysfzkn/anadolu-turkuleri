@@ -4,7 +4,56 @@
   "yore": "Edirne",
   "hikaye": "Esmer Kızlar Edalı, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of Esmer kızlar edalı sarışınlar cefalı hey",
+        "Beyaz da güzel ama kumral kızlar vefalı of of"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay",
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of ipek mendil ellerde sırma kemer bellerde hey",
+        "Benim sevdiğim var şu karşı ki ellerde of of"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay",
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of of menekşeler soldu mu yaprağını yoldu mu hey",
+        "Koruluklar içinde bizi gören oldu mu of of"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay",
+        "Gülinesi dalına bülbül konmuş dalına",
+        "Annem beni salmıyor sevgilimin yanına vay"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

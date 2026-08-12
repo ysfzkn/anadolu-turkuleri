@@ -4,7 +4,40 @@
   "yore": "Ankara",
   "hikaye": "Al Kahat Mavi Kahat, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al kahat mavi kahat",
+        "Ağlarım sahat sahat",
+        "Sen orada ben burada",
+        "Nasıl gönül ırahat"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın bahar bahar sular akar",
+        "Yarim serhoş olmuş baygın baygın bakar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al kağadı yazdırır",
+        "Deryaları gezdirir",
+        "Senin orda duruşun",
+        "Beni candan bezdirir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın bahar bahar sular akar",
+        "Yarim serhoş olmuş baygın baygın bakar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

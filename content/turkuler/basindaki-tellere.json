@@ -4,7 +4,44 @@
   "yore": "Diyarbakır",
   "hikaye": "Başındaki Tellere, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başındaki Tellere (Lo)",
+        "Bak Şu Esen Yellere",
+        "Kıymet Verip Kim Bakar (Lo)",
+        "Sen Var İken Ellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağam O Yar Elinden",
+        "Paşam O Yar Elinden",
+        "Nasıl Edem Nere Gidem",
+        "Şu Zalımın Elinden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kevene Bak Kevene (Lo)",
+        "Yazık Seni Sevene",
+        "Seni Seven Divane (Lo)",
+        "Senin Nene Güvene"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağam O Yar Elinden",
+        "Paşam O Yar Elinden",
+        "Nasıl Edem Nere Gidem",
+        "Şu Zalımın Elinden"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,56 @@
   "yore": "Diyarbakır",
   "hikaye": "Esmerin Ağı Gerek, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmer Bugün Ağlamış,",
+        "Ciğerimi Dağlamış.",
+        "Kara Kaşın Üstüne,",
+        "Siyah Puşi Bağlamış."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hele Yar Yar Yar, Kibar Yarim Esmerim.",
+        "Sen Güzelsin Esmerim, Sen Benimsin Esmerim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmerin Ağı Gerek,",
+        "Alnında Dağı Gerek.",
+        "Esmer Yari Olanın,",
+        "Zincirden Bağı Gerek."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hele Yar Yar Yar, Kibar Yarim Esmerim.",
+        "Sen Güzelsin Esmerim, Sen Benimsin Esmerim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Esmer Bu Gün Toydadır,",
+        "Kesimi Ne Boydadır.",
+        "Ne Kadar Esmer Varsa,",
+        "Hepsi Bizim Soydadır."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hele Yar Yar Yar, Kibar Yarim Esmerim.",
+        "Sen Güzelsin Esmerim, Sen Benimsin Esmerim."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,59 @@
   "yore": "Çankırı",
   "hikaye": "Anası Kızından, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü çiftlik,",
+        "Evlerinin önü çiftlik,",
+        "Çiftlikte bükerler iplik",
+        "Anası kızından keklik, yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adı Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet, yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerine varabilsem",
+        "Evlerine varabilsem",
+        "Ben kızı görebilsem",
+        "Hem de pek çok sarabilsem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adı Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet, yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü kaya",
+        "Evlerinin önü kaya",
+        "Kayadan bakalar aya",
+        "Anası kızından maya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adı Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet, yar nenni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

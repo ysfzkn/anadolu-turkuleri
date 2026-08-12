@@ -4,7 +4,62 @@
   "yore": "Kars",
   "hikaye": "Ay Sallanıp Geden Yar, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay Sallanıp Geden Yar",
+        "Getme Getme Sözüm Var",
+        "Goy Bir Bakim Doyunca",
+        "Gözlerinde Gözüm Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey) Gelişine Gidişine Duruşuna Kurban",
+        "Bakışına Gülüşüne Süzüşüne Heyran",
+        "Ay Ay Gara Gaşlım Ay Sırmalı Saçlım",
+        "Ay Ay İnce Bellim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elma Attım Denize",
+        "Geliyor Yüze Yüze",
+        "Gız Allah'ın Seversen",
+        "Geçerken Uğra Bize"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey) Gelişine Gidişine Duruşuna Kurban",
+        "Bakışına Gülüşüne Süzüşüne Heyran",
+        "Ay Ay Gara Gaşlım Ay Sırmalı Saçlım",
+        "Ay Ay İnce Bellim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim Elin Çiçeği",
+        "Gars’ımızın Göyçeği",
+        "Ay Gız Seni Sevmişem",
+        "Budur Sözün Gerçeği"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey) Gelişine Gidişine Duruşuna Kurban",
+        "Bakışına Gülüşüne Süzüşüne Heyran",
+        "Ay Ay Gara Gaşlım Ay Sırmalı Saçlım",
+        "Ay Ay İnce Bellim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

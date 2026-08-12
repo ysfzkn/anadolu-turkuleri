@@ -4,7 +4,51 @@
   "yore": "Burdur",
   "hikaye": "Denizin Dibinde Haçcem Demirden Evler, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denizin dibinde haçcem demirden evler",
+        "Ak gerdanın altında da çiftedir benler",
+        "O gınalı barmaklarda o beyaz eller",
+        "Yolcuyu yolundan eyleyen dilber"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağ:",
+        "Ovalara duman çökmüş göremedinmi",
+        "A gız gendi saçını öremedinmi",
+        "Dalga dalga dalga dalga dalgalanıyor",
+        "Haççeyi görenler aman sevdalanıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arvalının önünde de pınarlar harlar",
+        "Haçcem çıkmış pencereye ay gibi parlar",
+        "Ben Haççeyi yitirdim de dumanlı dağlar",
+        "Gözlerimin pınarları durmadan çağlar",
+        "Bağ:",
+        "Alçaklara garlar yağmış yükseklere buz",
+        "Gel seninle gezelim ince belli gız",
+        "Onu onu onu onu onu onuna",
+        "Bende yandım haççenin mor fistanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başına haçcem ekin ekilmez",
+        "Yağmur yağmayınca aman kökü sökülmez",
+        "Ellerin köyünde Haçcem gahır çekilmez",
+        "Doldur ağuları içelim Haçcem",
+        "Bağlantı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

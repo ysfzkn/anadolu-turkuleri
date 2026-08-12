@@ -4,7 +4,38 @@
   "yore": "Kırşehir",
   "hikaye": "İki Büyük Nimetim Var, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki Büyük Nimetim Var",
+        "Biri Anam Biri Yarim",
+        "İkisine De Hürmetim Var",
+        "Biri Anam Biri Yarim",
+        "Anam Anam Garip Anam Bu Derdimi Kime Yanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ana Deyip De Geçilmez",
+        "O Yar Anadan Seçilmez",
+        "İkisine De Gıymat Biçilmez",
+        "Biri Anam Biri Yarim",
+        "Anam Anam Garip Anam Bu Derdimi Kime Yanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birisi Var Etti Beni",
+        "Birisi Yar Etti Beni",
+        "İkisinin De Birdir Teni",
+        "Biri Anam Biri Yarim",
+        "Anam Anam Garip Anam Bu Derdimi Kime Yanam"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,48 @@
   "yore": "Antalya",
   "hikaye": "Bir Kilo Kestaneyi Aldım Elliye, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{Türkü bilgi kutuları",
+        "| Türkü adı =Bir kilo kestaneyi aldım elliye",
+        "| Resim =",
+        "| Resim altı =",
+        "| Diğer adları =",
+        "| Yöre = Antalya",
+        "| Tür =Türkü",
+        "| Kaynak kişi =",
+        "| Derleyen =",
+        "| Notaya alan =",
+        "}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir kilo kestaneyi aldım elliye",
+        "Kabuğunu soydurdum esmer benliye",
+        "Esmer bana küsmüş aldattım diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kestaneyi kavurdum soba üstünde",
+        "Kabuğunu soydurdum sofa üstünde",
+        "Sen kaybettim esmerim bana küstün de"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kestaneyi kavurdum arabalarda",
+        "Kabuğunu kuruttum darabalarda",
+        "Benim sevdiceğim yok aralarında"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

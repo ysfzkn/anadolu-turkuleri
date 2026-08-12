@@ -4,7 +4,35 @@
   "yore": "Nevşehir",
   "hikaye": "Alim Deresinin Delik Daşları, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alim Deresinin Delik Daşları",
+        "Üstümüzde Dönüyor Ecel Guşları",
+        "Bütün Şehit Olmuş Din Gardaşları",
+        "Sevdiceğim Sarsın Yarelerimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alim Deresinde Guzgunlar Gezer",
+        "İnsan Sevdiğinden Bu Kadar Bezer",
+        "Hiç Olmazsa Ayda Bir Mektup Yazar",
+        "Sevdiceğim Sarsın Yarelerimi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alim Deresinde Meşe Kesilmez",
+        "Hekimin Sardığı Yare Çözülmez",
+        "Lokman Hekim Gelse Yarem İy'olmaz",
+        "Sevdiceğim Sarsın Yarelerimi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

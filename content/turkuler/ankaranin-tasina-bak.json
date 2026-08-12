@@ -4,12 +4,81 @@
   "yore": "Ankara",
   "hikaye": "Ankara'nın Taşına Bak, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'nın taşına bak",
+        "Gözlerimin yaşına bak",
+        "Biz düşmanı esir ettik",
+        "Şu feleğin işine bak",
+        "Pek şanlıyız"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'nın taştır yolu",
+        "Her tarafı asker dolu",
+        "Yetiş Kemal Paşa yetiş",
+        "Kan ağlıyor Anadolu",
+        "Pek gamlıyız"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'da şanlı ordu",
+        "Her tarafa çadır kurdu",
+        "Türk ordusu karşısında",
+        "Zalim düşman kaçıyordu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'dan uçan kuşlar",
+        "Aydın yaylasında kışlar",
+        "Düşman bize teslim oldu",
+        "Kolu nişanlı çavuşlar",
+        "Pek şanlıyız"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "===Çeşitlemesi===",
+        "Ankara'nın taşına bak",
+        "Gözlerimin yaşına bak",
+        "Uyan uyan Gazi Kemal",
+        "Şu feleğin işine bak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kılıcını vurdum taşa",
+        "Taş yarıldı baştan başa",
+        "Uyan da bak Gazi Kemal",
+        "Başımıza gelen işe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara'nın dardır yolu",
+        "Düşman aldı sağı, solu",
+        "Sen gösterdin Paşam bize",
+        "Böyle günlerde doğru yolu",
+        "Pek şanlıyız"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Ankara'n%C4%B1n%20Ta%C5%9F%C4%B1na%20Bak%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=GpmXvrxI5T8",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

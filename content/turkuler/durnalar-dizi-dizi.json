@@ -4,7 +4,80 @@
   "yore": "Adıyaman",
   "hikaye": "Durnalar Dizi Dizi, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Durnalar dizi dizi",
+        "Aşar dağı denizi",
+        "Uçun sılama doğru",
+        "Dilan’ım bekler bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel benim Dilan’ım",
+        "Ben yoluna gurbanım",
+        "Seni alır gaçarım",
+        "Vermezse anan hanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şalvarında düğümü",
+        "Elindeki güğümü",
+        "Dilan’ım nerde gördün",
+        "Bir kere güldüğümü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel benim Dilan’ım",
+        "Ben yoluna gurbanım",
+        "Seni alır gaçarım",
+        "Vermezse anan hanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar yücelere",
+        "Gün doğar gecelere",
+        "Ayrılık çok sürerse",
+        "Halımız nicelere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel benim Dilan’ım",
+        "Ben yoluna gurbanım",
+        "Seni alır gaçarım",
+        "Vermezse anan hanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dut ağacı burulur",
+        "Dibinde su durulur",
+        "Eller dilan dedikçe",
+        "Benim boyum burulur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gel benim Dilan’ım",
+        "Ben yoluna gurbanım",
+        "Seni alır gaçarım",
+        "Vermezse anan hanım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

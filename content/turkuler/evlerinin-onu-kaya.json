@@ -4,7 +4,84 @@
   "yore": "Konya",
   "hikaye": "Evlerinin Önü Kaya, Vikikaynak'ın Konya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Konya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü kaya",
+        "Evlerinin önü kaya",
+        "Kayadan bakarlar aya",
+        "Anası kızından maya",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adın Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü iğde",
+        "Evlerinin önü iğde",
+        "İğdenin dalları yerde",
+        "Benim sevdiğim kız nerde",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adın Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü kavak",
+        "Evlerinin önü kavak",
+        "Kavaktan dökülür yaprak",
+        "Elim kına yüzüm duvak",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adın Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü nane",
+        "Evlerinin önü nane",
+        "Yarim naneden bana ne",
+        "Elim kına yüzüm duvak",
+        "Yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan adın Ahmet",
+        "Verme bize zahmet",
+        "Kız ceddine rahmet",
+        "Yar nenni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,24 @@
   "yore": "Antalya",
   "hikaye": "Cepkenimi Al İsterim, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cepkenimi al isterim (aman)",
+        "Yenlerini dar isterim (aman)",
+        "Ben yandım aman aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cepkenimi serdim taşa (aman)",
+        "Yazılanlar gelir başa (aman)",
+        "Ben yandım aman aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

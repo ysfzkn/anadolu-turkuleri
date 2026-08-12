@@ -4,7 +4,29 @@
   "yore": "Edirne",
   "hikaye": "Ahırköy'ün Meşeleri, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahırköy'ün meşeleri (amucam oğlu)",
+        "Dolu gelir şişeleri (amucam oğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahırköy'ün heydeleri (amucam oğlu)",
+        "Dilber olur güzelleri (amucam oğlu)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aldın aldın alasıya (amucam oğlu)",
+        "Alış vermez veresiye (amucam oğlu)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

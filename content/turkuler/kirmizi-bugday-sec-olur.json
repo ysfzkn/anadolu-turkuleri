@@ -4,7 +4,26 @@
   "yore": "Edirne",
   "hikaye": "Kırmızı Buğday Sec Olur, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı buğday sec olur",
+        "(Ah) güzeller güleç olur",
+        "Meyil verme güzele",
+        "Ayrılması güç olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harmanda harar olur",
+        "(Ah) yüreğim yanar durur",
+        "Salıverin gideyim",
+        "Sevdiğim arar durur"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

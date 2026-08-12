@@ -4,7 +4,44 @@
   "yore": "Antalya",
   "hikaye": "Estirir Oğlan Estirir, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{eser başlığı|başlık=Estirir Oğlan Estirir|esersahibi=Anonim|bölüm=|önceki=Antalya türküleri|sonraki=|notlar=:Derleyen:Durmuş Yazıcıoğlu (1969)",
+        "Kayanak Kişi: Ali Çatlı, Mehmet Panter",
+        "Notaya Alan: Durmuş Yazıcıoğlu}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Estirir oğlan estirir",
+        "Üç toptan şalvar kestirir",
+        "Güççük gız böyüğünü bastırır",
+        "BAĞLANTI",
+        "Hacı leylam gönlüm şen olsun",
+        "Olsun da badeler dolsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçede erik dalları",
+        "Fırladı atın nalları",
+        "Senden ummazdım böyle dilleri",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Garanfil ektim yalıya",
+        "Bitmedi döndü çalıya",
+        "Ben varmam senin gibi deliye"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

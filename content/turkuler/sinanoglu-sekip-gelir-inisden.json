@@ -4,12 +4,45 @@
   "yore": "Aydın",
   "hikaye": "Sinanoğlu Sekip Gelir İnişden, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu sekip gelir inişden",
+        "Her yanları görünmeyor aman gümüşden",
+        "Her yanları görünmeyor aman gümüşden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnan olsun haberim yok bu işden",
+        "Ah ne olaydı vah ne olaydı teslim olaydı",
+        "Konak avlusuna kendim kendim varaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu derler benim bir adım",
+        "Tavlada bağlı kaldı aman kır atım",
+        "Tavlada bağlı kaldı aman kır atım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hasret kıyamete kaldı mıradım",
+        "Ah ne olaydı vah ne olaydı teslim olaydı",
+        "Konak avlusuna kendim kendim varaydım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Sinano%C4%9Flu%20Sekip%20Gelir%20%C4%B0ni%C5%9Fden%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=j5fGeLxPbCA",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

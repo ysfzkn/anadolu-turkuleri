@@ -4,7 +4,35 @@
   "yore": "Aydın",
   "hikaye": "Ördek Suya Dal da Gel (Aydın), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördek suya dal da gel",
+        "Kanadını ser de gel",
+        "Eğer yarim gelmezse",
+        "Tut kolundan alda gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlarda gezer oldum",
+        "Okuyup yazar oldum",
+        "Ben bir yarin uğruna",
+        "Kuruyup gazal oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlarda geze geze",
+        "Oldum ben bir geveze",
+        "Kimselerde düşmesin",
+        "Arsıza edepsize"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

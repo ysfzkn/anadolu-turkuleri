@@ -4,7 +4,29 @@
   "yore": "Kayseri",
   "hikaye": "Asmalarda Kol Uzatmış Dallere, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalar da (aman) kol uzatmış dallere (dallere hele dallere)",
+        "Sen düşürdün (aman) beni halden allere ( hele hallere vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalar da (aman) kol uzatmış engine (engine hele hele engine)",
+        "Şimdi rağbet (aman) güzel ile zengine (hele hele zengine vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalar da (aman) kol uzatmış incire (incire hele hele incire)",
+        "ikimizi (aman) bir sarsınlar zincire (hele hele zincire vay)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -8,7 +8,38 @@
   "derleyen": "Muzaffer Sarısözen",
   "hikaye": "Iğdır'ın Al Alması, Iğdır yöresine ait, aşk ve ayrılık temalı bir türküdür; 'Ölürem yar sevirem yar' adıyla da anılır. Iğdır-Kars-Azerbaycan sınır bölgesinin ağzını ve müzik geleneğini taşır, Azerbaycan türküleriyle akrabalık gösterir.\nAnonim halk geleneğine ait türkü, Muzaffer Sarısözen tarafından TRT repertuvarına derlenmiştir; sınır coğrafyasının ortak duygu dünyasını yansıtır.",
   "ozet": "Iğdır'dan, Azerbaycan geleneğiyle akraba, aşk ve ayrılık temalı ('Ölürem yar') bir sınır türküsü.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğdırın al alması, ay balam,",
+        "Yemeye bal alması.",
+        "Yar gelenden sonra",
+        "Yaramın sağalması.",
+        "Ölürem, ölürem yar,",
+        "Yetimem yar, Sevirem yar,",
+        "Sevirem yar, sevirem yar."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğdırdan alma aldım, ay balam,",
+        "Yarımı yada saldım.",
+        "Yar gidenden sonra,",
+        "Ayva gibi saraldım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deryada deryalıklar, ay balam,",
+        "Suda oynar balıklar.",
+        "Ne bu sevda olaydı",
+        "Ne de bu ayrılıklar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

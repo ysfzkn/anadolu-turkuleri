@@ -4,7 +4,35 @@
   "yore": "Kırşehir",
   "hikaye": "Ne Güzel Yaratmış Seni Yaradan, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne Güzel Yaratmış (Yar Yar) Seni Yaradan",
+        "İstemem Esmesin (Yar Yar) Yeller (Yeller) İncinir",
+        "Güzelsin Sevdiğim (Yar Yar) Gülden Goncadan",
+        "Uzanmasın Sana (Yar Yar) Eller İncinir (İncinir)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kirpiklerin Oktur (Yar Yar) Kaşın Yay Gibi",
+        "Gözlerin Aklımı (Yar Yar) Etti Zay Gibi",
+        "Cemalin Güneşe Benzer (Yar Yar) Yüzün Ay Gibi",
+        "Değmesin Zülüfler (Yar Yar) Teller İncinir (İncinir)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Garibim Düştüm (Yar Yar) Gurbet Ellere",
+        "Aşığım Ben (Yar Yar) Sinendeki Güllere",
+        "Korkarım Adını (Yar Yar) Demem Ellere",
+        "Düşersin Dillere (Yar Yar) Diller İncinir (İncinir)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

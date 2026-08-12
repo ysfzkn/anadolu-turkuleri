@@ -4,7 +4,35 @@
   "yore": "Ankara",
   "hikaye": "Ay Bulutta Bulutta, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay bulutta bulutta",
+        "Medilim kaldı dutta",
+        "Kalırsa varsın kalsın",
+        "Yenisi var sandıkta"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giden ay tutulurmu",
+        "Bala tuz katılırmı",
+        "Şu uzun gecelerde",
+        "Yalınız yatılırmı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mektepte okuyorum",
+        "Çuvallık dokuyorum",
+        "Yar ben seni alırım",
+        "Anandan korkuyorum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,38 @@
   "yore": "Kayseri",
   "hikaye": "Al Bostancı Bir Bostan Ver Hastam Var, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Bostancı Bir Bostan Ver Hastam Var (Aman)",
+        "Asmanın Dibine Gelmiş Yosmam Var",
+        "Sen Olmasan Beni Burda İster Var (Aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Efeler Şu Mahlede Bir Güzel",
+        "Devriyeler Gelir (Gelir De) Peşime Düşer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Bostancı Bir Bostan Ver Yiyeyim (Aman)",
+        "Yiyeyimde Bu Diyardan Gideyim",
+        "Nazlı Yardan Ayrı Düştüm Nideyim (Aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Efeler Şu Mahlede Bir Güzel",
+        "Devriyeler Gelir (Gelir De) Peşime Düşer"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,59 @@
   "yore": "Kars",
   "hikaye": "Dişlerin İncidendir, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dişlerin İncidendir",
+        "Dürdendir İncidendir",
+        "Üzün Nece Gözelse",
+        "Dilin Can İncidendir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İncidendir İncidendir",
+        "Dilin Can İncidendir",
+        "Dilin Dilin Dilin Can İncidendir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sev Dedin Aldın Meni",
+        "Çöllere Saldın Meni",
+        "Dilin Şahmar İlan Tek",
+        "Ne Dedin Çaldı Meni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaldı Meni Çaldı Meni",
+        "Ne Dedin Çaldı Meni",
+        "Dilin Dilin Dilin Can İncidendir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvan Gülü Olaydı",
+        "Gülü Sünbülü Olaydı",
+        "Keşki Sevdiğim Gözel",
+        "Şirin Dilli Olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirin Dilli Şirin Dilli",
+        "Şirin Dilli Olaydı",
+        "Dilin Dilin Dilin Can İncidendir"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

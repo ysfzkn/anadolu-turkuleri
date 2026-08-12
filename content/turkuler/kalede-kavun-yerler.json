@@ -4,7 +4,39 @@
   "yore": "Elazığ",
   "hikaye": "Kalede Kavun Yerler, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Yar sarı kavun dilimi",
+        "Oğlan tutma elimi",
+        "Sen bükersin belimi",
+        "Gönder gelsin sevgilimi gülümü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bende gitsem ne derler",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yardan murad almaya",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koymadı zalım eller",
+        "Bağlantı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

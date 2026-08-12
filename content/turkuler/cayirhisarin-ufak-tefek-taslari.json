@@ -4,7 +4,38 @@
   "yore": "Balıkesir",
   "hikaye": "Çayırhisar'ın Ufak Tefek Taşları, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırhisar'ın (aman) ufak tefek taşları",
+        "Refia da hanımın hilal kaşları",
+        "Bir omuzdan (aman) bir omuza saçları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Abdullah yol buralardan saptırma",
+        "Çok seviyorum beni de efelere kaptırma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam ile (aman) ikindinin arası",
+        "Yaktı da beni kaşlarının karası",
+        "Bulunmaz mı (aman) kavuşmanın çaresi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman Abdullah yol buralardan saptırma",
+        "Çok seviyorum beni de efelere kaptırma"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

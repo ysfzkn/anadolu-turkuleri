@@ -4,12 +4,79 @@
   "yore": "Bolu",
   "hikaye": "Karanfilim Saksılarda Çanakta (Arslan Karam), Vikikaynak'ın Bolu türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bolu yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilim saksılarda çanakta çanakta",
+        "Bir yar sevdim şu karşıki konakta gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arslan karam gel karam",
+        "Fındıkları kır karam",
+        "Eller yarini bulmuş",
+        "Sen de benim ol karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arslan karam gel karam",
+        "Fındıkları kır karam",
+        "Eller yarini bulmuş",
+        "Sen de benim ol karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım pencereye tık dedi tık dedi",
+        "Bir kız çıktı annem evde yok dedi gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arslan karam gel karam",
+        "Fındıkları kır karam",
+        "Eller yarini bulmuş",
+        "Sen de benim ol karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arslan karam gel karam",
+        "Fındıkları kır karam",
+        "Eller yarini bulmuş",
+        "Sen de benim ol karam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söğüdün çürüğü özünden olur den olur",
+        "Yar için ağlayan gözünden olur gel gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arslan karam gel karam",
+        "Fındıkları kır karam",
+        "Eller yarini bulmuş",
+        "Sen de benim ol karam"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Karanfilim%20Saks%C4%B1larda%20%C3%87anakta%20(Arslan%20Karam)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=2lRlacRHlz0",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

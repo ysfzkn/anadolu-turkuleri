@@ -4,7 +4,44 @@
   "yore": "Rize",
   "hikaye": "Tabancamın Sapını, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabancamın Sapını",
+        "Gülle Donatacağım",
+        "Alacağım Başka Yar",
+        "Seni Çatlatacağım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Benim Gülizar'um",
+        "Hem Söyler Hem Yazarum",
+        "Gonuştuğumuz Yerler",
+        "Olsun Senun Mezarun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabancam Doli Mermi",
+        "Seven Böyle Eder Mı",
+        "İnsan Sevduği Yarı",
+        "Bırakurda Gider Mi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabancam Doli Saçma",
+        "Kaçma Sevduğum Kaçma",
+        "Zaten Ben Yaralıyım",
+        "Bir Yara Da Sen Açma"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

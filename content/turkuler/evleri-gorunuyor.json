@@ -4,7 +4,43 @@
   "yore": "Elazığ",
   "hikaye": "Evleri Görünüyor, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri görünüyor (Bağ altına, bağ altına, al beni çardak altına)",
+        "Gönüldür yeriniyor (Bağ altına, bağ altına, al beni çardak altına)",
+        "Çekilecek dert değil (Bağ altına, bağ altına, al beni çardak altına)",
+        "Mevlam sabır veriyor (Bağ altına, bağ altına, al beni çardak altına)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri uçda yarim (Bağ altına, bağ altına, al beni çardak altına)",
+        "Ver bana müjde yarim (Bağ altına, bağ altına, al beni çardak altına)",
+        "Bastığın topraklara (Bağ altına, bağ altına, al beni çardak altına)",
+        "Kılayım secde yarim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri görünüyor nananay nananay nananay nananay",
+        "Gönüldür yeriniyor vay ben yandım yar",
+        "Mevlam sabır veriyor vay beni (yandım yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpa ektim düzlere nananay nananay nananay nananay",
+        "Nail oldum gözlere vay beni (yandım yar)",
+        "Ben buradan giderim nananay nananay nananay nananay",
+        "Harput kalsın sizlere vay beni (yandım yar)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

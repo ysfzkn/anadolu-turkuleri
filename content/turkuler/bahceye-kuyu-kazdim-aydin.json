@@ -4,12 +4,70 @@
   "yore": "Aydın",
   "hikaye": "Bahçeye Kuyu Kazdım (Aydın), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçeye kuyu kazdım",
+        "Hem okudum hem yazdım",
+        "Gördüm yârin yüzüne",
+        "Düştüm bayılı yazdım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman kader ne imiş",
+        "Karagözlüm işveli değilmiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar arasına",
+        "Gün doğar sırasına",
+        "Ben bir yâr bulamadım",
+        "Elimin parasına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın imanım neyimiş",
+        "Görüşmeli galim (gaylim) neylemiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahvede oturanlar",
+        "Derdime artıranlar",
+        "Bana bir akıl verin",
+        "Yârden ayrılanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın imanım neyimiş",
+        "Görüşmeli galim (gaylim) neylemiş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aydın uzak yoruldum",
+        "Kız kaşlarına vuruldum",
+        "A benim ala gözlüm",
+        "Sen kimlerden ayrıldın"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7eye%20Kuyu%20Kazd%C4%B1m%20(Ayd%C4%B1n)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=4wXt1VpLNEo",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,38 @@
   "yore": "Elazığ",
   "hikaye": "Gelin Oldum Gelinliğim Bilmedim, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin oldum gelinliğim bilmedim aman amman",
+        "Allı da pullu paytonlara binmedim",
+        "Vefasız dünyada murada dalmadım aman amman",
+        "Alma da dalgam alma taze gelini",
+        "Balıklara verdim nazik canımı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin oldum gelinliğim bilmedim",
+        "Allı da pullu paytonlara binmedim",
+        "Vefasız dünyada murad almadım",
+        "Alma dalgam alma taze gelini",
+        "Balıklara verdim nazik canımı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin oldum gınasın çamur ettiler",
+        "Gözümün sürmesin kömür ettiler",
+        "Çayda balıklara yar mı ettiler aman amman",
+        "Alma dalgam alma taze gelini",
+        "Balıklara verdim taze tenimi (nazik canımı)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

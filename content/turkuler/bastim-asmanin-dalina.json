@@ -4,7 +4,40 @@
   "yore": "Niğde",
   "hikaye": "Bastım Asmanın Dalına, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bastım (çıktım) asmanın dalına",
+        "Dal kırılıverdi abaruh",
+        "Girdim yarin bahçesine",
+        "Yar sarılıverdi abaruh"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağzı burnu ufacık ufacık",
+        "Kaşı gözü karacık karacık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben atımı nalladırım",
+        "Okkada nalınan abaruh",
+        "Ben o kızı oynadırım",
+        "Dökme de zilinen abaruh"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağzı burnu ufacık ufacık",
+        "Kaşı gözü karacık karacık"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,61 @@
   "yore": "Adana",
   "hikaye": "Şu Kışlanın Kapısına, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mail oldum yapısına",
+        "Telli kurban bağlayayım",
+        "Asker yârin kapısına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağlar olmasaydı",
+        "Laleleri solmasaydı",
+        "Ölüm Allah’ın emri de",
+        "Şu ayrılık olmasaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara kazan kaynamasın",
+        "Altım cirit oynamasın",
+        "İki sene asker oldum",
+        "Nazlı yârim ağlamasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağlar olmasaydı",
+        "Laleleri solmasaydı",
+        "Ölüm Allah’ın emri de",
+        "Şu ayrılık olmasaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kıratımın beli ince",
+        "Ölürüm yar görmeyince",
+        "Telli yatak serdiremem",
+        "Asker yârim gelmeyince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağlar olmasaydı",
+        "Laleleri solmasaydı",
+        "Ölüm Allah’ın emri de",
+        "Şu ayrılık olmasaydı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,40 @@
   "yore": "Elazığ",
   "hikaye": "Kar mı Yağmış Şu Harput'un Başına, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar mı yağmış şu Harputun başına",
+        "Kurbanolam toprağına taşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman henüz girmiş on üç on dört yaşına",
+        "Küçükten bir yar sevdim vah nenni yar nenni yar nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ah çeksem karşıki dağlar yıkılır",
+        "Bugün posta günü canım sıkılır",
+        "Ellerin mektubu gelmiş okunur",
+        "Benim yüreğime hançer sokulur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir ah çeksem karşıki dağlar ünüler",
+        "Ah ettikçe eski derdim yeniler",
+        "Ben ölürsem mezar taşım iniler",
+        "Bu dert beni iflah etmez öldürür"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

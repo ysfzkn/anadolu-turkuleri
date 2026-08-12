@@ -4,7 +4,32 @@
   "yore": "Bayburt",
   "hikaye": "Bebeğin Beşiği Çamdan, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bebeğin beşiği de çamdan",
+        "Yuvarlandı düştü de damdan",
+        "Beybabası gelir şam'dan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızlar gelin çaydan geçek",
+        "Çay bulanık nerden içek",
+        "Bebek ölmüş nere gidek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bebek beni del eyledi",
+        "Yaktı beni kül eyledi",
+        "Her kapıya kul eyledi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

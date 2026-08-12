@@ -4,7 +4,44 @@
   "yore": "Artvin",
   "hikaye": "Fincan İçi Fiğ Olur, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fincan içi fiğ olur",
+        "İçi dolu gül olur",
+        "Fincana giden gizin",
+        "Dileği gabul olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deniz üstü batağı",
+        "Bura tombul yatağı",
+        "Olursa benim olsun",
+        "Ben istemem ortağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağı dağladılar",
+        "Yüreğim dağladılar",
+        "Sevmediğim adamı",
+        "Başıma bağladılar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnerim çalılara",
+        "Guş konar çalılara",
+        "Benden selamlar olsun",
+        "Sarı çemberlilere"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

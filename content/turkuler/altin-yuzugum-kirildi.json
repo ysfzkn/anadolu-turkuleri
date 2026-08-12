@@ -4,7 +4,43 @@
   "yore": "Adıyaman",
   "hikaye": "Altın Yüzüğüm Kırıldı, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzüğüm kırıldı (hey)",
+        "Suya düştü su duruldu (hey)",
+        "Dediler yâr geliyor (hey)",
+        "İnce bellerim kırıldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Tel tel tellerine",
+        "Kurban olam dillerine vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımın da nalı yoktur (hey)",
+        "Üzerinde çulu yoktur (hey)",
+        "Göl başında yolu yoktur (hey)",
+        "Git gelemem emmim gızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altınlarım nal edeyim (hey)",
+        "Al hırkamı çul edeyim (hey)",
+        "Göl başını yol edeyim (hey)",
+        "Ben gelemem emim kızı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,26 @@
   "yore": "Bolu",
   "hikaye": "Çatal Çama Kurşun Attım, Vikikaynak'ın Bolu türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bolu yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çatal çama kurşun attım geçmedi",
+        "Ali Efe'ye ayran verdim içmedi aman yandı",
+        "Öşürcü Yakup elime geçmedi",
+        "Teke bıçak tırpan gibi biçmedi aman yandım aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kova kova çapulama kum doldu",
+        "Silahlarım senin için dün doldu aman yandım aman",
+        "Öşürcüler bizim köyden kovuldu",
+        "Düşmanlarım dumanlara boğuldu aman yandım aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

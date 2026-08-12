@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Şu Kavak Meşe Kavak, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu kavak meşe kavak",
+        "Dalını döşe kavak",
+        "Yarim gölgende yatmış",
+        "Sen binler yaşa kavak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman kekliğim",
+        "Gerdana gül ektiğim",
+        "Yeter senin elinden",
+        "Bunca zaman çektiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Limonum portakalım",
+        "Yalvarırım kalalım",
+        "Güzel kızlar polis olmuş",
+        "Hemen teslim olalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman kekliğim",
+        "Gerdana gül ektiğim",
+        "Yeter senin elinden",
+        "Bunca zaman çektiğim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kavak senden uzun yok",
+        "Dalların çok üzüm yok",
+        "Küstürdüm de gönderdim",
+        "Gel demeye yüzüm yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman kekliğim",
+        "Gerdana gül ektiğim",
+        "Yeter senin elinden",
+        "Bunca zaman çektiğim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

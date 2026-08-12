@@ -4,7 +4,40 @@
   "yore": "Kars",
   "hikaye": "Ay Gız Kimin Gızısan, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay gız kimin gızısan",
+        "Almadan kırmızısan",
+        "Atan anan beslesin",
+        "Büyüyende bizimsen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aç hurcunu al bıçağı kes elmayı",
+        "Ver yara dilim dilim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay gız sene mailem",
+        "Göksünde hamayilem",
+        "Küsme yesirin olam",
+        "Her ne desen gailem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aç hurcunu al bıçağı kes elmayı",
+        "Ver yara dilim dilim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

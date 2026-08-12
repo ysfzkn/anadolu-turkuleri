@@ -4,7 +4,42 @@
   "yore": "Bursa",
   "hikaye": "Arpa da Ektim Olacak, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpa Da Ektim Olacak (Aman Onyedili Fadimem)",
+        "Dertlerin Beni Alacak",
+        "İkimizin Sevgisi (Aman Onyedili Fadimem)",
+        "Mahşere Mi Kalacak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevsem Uyanmaz",
+        "Gecelerin Uzununa Da",
+        "Canlar Dayanmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpa Da Ektim Gül Bitti (Aman Onyedili Fadimem)",
+        "Dalında Bülbül Öttü",
+        "Fadimem Senin Yoluna (Aman Onyedili Fadimem)",
+        "Binbeşyüz Altın Gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevsem Uyanmaz",
+        "Gecelerin Uzununa Da",
+        "Canlar Dayanmaz"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

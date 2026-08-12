@@ -4,7 +4,43 @@
   "yore": "Antalya",
   "hikaye": "Bahçemizin Gülleri, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derleyen: Muzaffer Sarıözen (24.6.1949)",
+        "Kaynak kişi: Mustafa Salman",
+        "Notaya Alan: Muzaffer Sarıözen}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçemizin Gülleri(Hop de güzelim)",
+        "Al menevşe elleri",
+        "Yaktı beni kül etti (Hop de güzelim)",
+        "Yarin kibar elleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendil aldım kırkbeşe (Hop de güzelim)",
+        "Yudum serdim güneşe",
+        "Senin yarin gül ise (Hop de güzelim)",
+        "Benim yarim menvşe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri çukur mukur (Hop de güzelim)",
+        "Çufallık dokur mokur",
+        "Sadıçım düğün yapıyor (Hop de güzelim)",
+        "Bizi de okur mokur"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

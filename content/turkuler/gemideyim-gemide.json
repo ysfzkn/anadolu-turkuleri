@@ -4,7 +4,56 @@
   "yore": "Burdur",
   "hikaye": "Gemideyim Gemide, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemideyim gemide",
+        "Ayağım yemenide",
+        "Sür gemici gemiyi",
+        "Nişanlım var gemide"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi basın gidelim",
+        "Yar nasıl edelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geminin başındayım",
+        "On sekiz yaşındayım",
+        "On iki yaştan beri",
+        "Şu kızın peşindeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi basın gidelim",
+        "Yar nasıl edelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gemi gelir yanaşır",
+        "İçi dolu çamaşır",
+        "Yar kapıdan girince",
+        "Bakan gözler kamaşır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi basın gidelim",
+        "Yar nasıl edelim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

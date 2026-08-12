@@ -4,7 +4,35 @@
   "yore": "Aydın",
   "hikaye": "Kıllıoğlu Hüseyin Efe Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mardan Dağı sis durur",
+        "Yörükleri yas durur",
+        "Hüseyin Efe’me yürüdü",
+        "Düşmana kan kusturur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanıkhan’ın içinde",
+        "Yetmiş zeybek yanında",
+        "Hüseyin Efe’me yürüdü",
+        "Mavzerleri boynunda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim Aydın elleri",
+        "Yunan kesti yolları",
+        "Silah ettik yürüdük",
+        "Kazma, kürek, belleri"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

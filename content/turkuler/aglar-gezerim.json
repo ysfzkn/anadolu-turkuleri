@@ -4,7 +4,25 @@
   "yore": "Kayseri",
   "hikaye": "Ağlar Gezerim, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{söz|",
+        "Aşkın derdine düşeli",
+        "Mecnunum dağlar gezerim",
+        "Katram kaynayıp coşalı",
+        "Sel oldum çağlar gezerim",
+        "Pir eşiğin bildim",
+        "Kabe hatası var ise tövbe",
+        "Derd ile erdim Eyyüb'e",
+        "Yarimi bağlar gezerim",
+        "Kimi beydir kimi geda",
+        "Cümlesine yaren hüda",
+        "Yusuf'umdan düştüm cüda"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,78 @@
   "yore": "İzmir",
   "hikaye": "Birgi'nin Kavakları, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birgi'nin kavakları",
+        "Dökülür yaprakları",
+        "Çakıcı Mehmet'i sorarsan",
+        "Ürkütür konakları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kadifeden kesesi",
+        "Kahveden gelir sesi",
+        "Oturmuş kahve içiyor",
+        "Bozdağ'ın efesi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin ektim bir evlek",
+        "Geldi kondu bir leylek",
+        "Çakıcı'nın yüreği",
+        "Çekirdeksiz ham döğlek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekinim ekiliyor",
+        "Kefenim biçiliyor",
+        "Saçından üç kıl aldım",
+        "Kefenim dikiliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıkabilsem şu yokuşun başına",
+        "Güneş vurmuş martinimin başına",
+        "Çakıcı Mehmet'i sorarsan",
+        "Girmiş yirmi yaşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım pencereye tak dedi",
+        "Mehmet çıktı, annem evde yok dedi",
+        "İnanmaz iseniz efeler",
+        "Girin içeriye bak dedi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İri ufak şu Bozdağ'ın taşları",
+        "Kalem gibi Çakıcı Mehmet'in kaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya gider su testisi elinde",
+        "Allar giymiş etekleri belinde",
+        "Çakıcı Mehmet'i sorar isen",
+        "Cümle alemin dilinde"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

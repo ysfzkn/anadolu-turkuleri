@@ -4,7 +4,41 @@
   "yore": "Aydın",
   "hikaye": "Emirim Suya Gider Desti Doldurur, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emir’im suya gider desti doldurur",
+        "Destinin kulpuna bülbüller kondurur",
+        "Emir’in yan bakışı beyler öldürür",
+        "Emir’im Emir’im ben yine gelirim",
+        "Akan çaylar gibi ağlar da gelirim",
+        "Doğan aylar gibi parlar da gelirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emir’imin evleri taşlık değil mi",
+        "Salıver kahkülünü gençlik değil mi",
+        "Ceplerine koyduğum harçlık değil mi",
+        "Emir’im Emir’im ben yine gelirim",
+        "Akan çaylar gibi ağlar da gelirim",
+        "Doğan aylar gibi parlar da gelirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Böyük avluda yediveren asması",
+        "Emir’in giydiği Nazilli basması",
+        "Emir’i sorarsanız köyler yosması",
+        "Emir’im Emir’im ben yine gelirim",
+        "Akan çaylar gibi ağlar da gelirim",
+        "Doğan aylar gibi parlar da gelirim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

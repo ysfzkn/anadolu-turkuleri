@@ -4,7 +4,42 @@
   "yore": "İzmir",
   "hikaye": "Asmalı Mencere, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalı mencere",
+        "Kara gözlüm al beni içere",
+        "Merdivanım kırk ayak",
+        "Kırkına vurdum dayak",
+        "Benden başka seversen",
+        "Kalkmaz döşeklere yat"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olurmu böyle",
+        "Kara gözlüm derdini söyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden indirdiler",
+        "Kır ata bindirdiler",
+        "Üç günlük güvey iken",
+        "Yemen'e gönderdiler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olurmu böyle",
+        "Kara gözlüm derdini söyle"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,69 @@
   "yore": "Adana",
   "hikaye": "Çıktım Kozan Dağına, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım Kozan’ın dağına",
+        "Remil attım dost bağına",
+        "Aşiretten imdat olmaz",
+        "Kaçalım Kozan dağına",
+        "Kara çadır eğmeyinenUcu sırma düğmeyinenNe kaçarsın KozanoğluBeş bin atlı gelmeyinen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım kozanın dağına",
+        "Karı dizleyi dizleyi",
+        "Yaraların göz göz oldu",
+        "Cerrah gözleyi gözleyi",
+        "Kara çadırın karasıKarıştı Kozan arasıBen öpmeğe kıyamazdımAk göğsü süngü yarası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olur mu beyler olur mu",
+        "Evlat babayı vurur mu",
+        "Padişahın zalimleri",
+        "Bu dünya size kalır mı?",
+        "Kozan Dağı dağ değil mi?İçi dolu bey değil mi?Kozan beyini öldürmüşlerBu da bize ar değil mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne inişin dibindeyim",
+        "Ne yokuşun başındayım",
+        "Bana ölüm yakışır mı?",
+        "On üç, on dört yaşındayım",
+        "Kır at gelir seke sekeKulağında elmas küpeÇifte kızlar hizmet ederAk kolların çırpa çırpa."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıktım Kozan’ın dağına",
+        "Remil attım dost bağına",
+        "Aşiretten imdat olmaz",
+        "Aman amanın of",
+        "Kaçalım Kozan dağına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara çadır eğmeğile",
+        "Kurşun sesi duymağile",
+        "Ne yatıyon Kozanoğlu",
+        "Beş yüz atlı gelmeğile",
+        "Aman amanın of",
+        "Kaçalım Kozan dağına"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

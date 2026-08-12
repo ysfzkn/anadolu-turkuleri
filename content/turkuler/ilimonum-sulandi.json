@@ -4,7 +4,26 @@
   "yore": "Burdur",
   "hikaye": "İlimonum Sulandı, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlimonum sulandı",
+        "Gine gönlüm bulandı",
+        "Kırılası kollarım (oy gelin)",
+        "O boynuna dolandı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İlimonum çiçeğim",
+        "Bir yol verin geçeyim",
+        "O yar bana darılmış (oy gelin)",
+        "Zehirler mi içeyim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

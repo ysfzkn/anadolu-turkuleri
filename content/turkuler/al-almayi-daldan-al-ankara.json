@@ -4,7 +4,46 @@
   "yore": "Ankara",
   "hikaye": "Al Almayı Daldan Al (Ankara), Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al elmayı daldan al",
+        "Daldan alma benden al",
+        "Duydum gelin olisin",
+        "Dur ben ölem ondan al"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy Henno Henno Henno",
+        "Yar Henno Henno Henno",
+        "Eller kınalı Henno",
+        "Gözler sürmeli Henno"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al almanın dördünü",
+        "Sev yiğidin merdini",
+        "Seversen bir güzel sev",
+        "Çekme çirkin derdini",
+        "Nakarat"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Almayı daldan aldım",
+        "Sevdayı yardan aldım",
+        "Sana gönül vereli",
+        "Bir kuru cana kaldım",
+        "Nakarat"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

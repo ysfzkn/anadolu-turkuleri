@@ -4,7 +4,35 @@
   "yore": "Adana",
   "hikaye": "Ölüm Yakamdan Tutma Git, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölüm yakamdan tutma git",
+        "Gençlik çağım geçende gel",
+        "Gurbet elde merhamet et",
+        "Var sılama göçende gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu dünyanın hevasından",
+        "Geçmez gönül davasından",
+        "Yavrularım yuvasından",
+        "Ganatlanıp uçanda gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Feymani'nin ladesini",
+        "Takib eyle vadesini",
+        "Ölümsüzlük badesini",
+        "Var elinden içinde gel"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

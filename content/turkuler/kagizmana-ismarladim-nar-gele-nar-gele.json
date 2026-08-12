@@ -4,7 +4,32 @@
   "yore": "Kars",
   "hikaye": "Kağızman'a Ismarladım Nar Gele Nar Gele, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kağızman'a Ismarladım Nar Gele Nar Gele",
+        "Gümüş Kemer İnce Bele Dar Gele Dar Gele Vay",
+        "Dar Gele Dar Gele Vay Dar Gele Dar Gele"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Baharda Yayılır Kuzu Yan Yana Yan Yana",
+        "Benim Yarim İnci Takar Gerdana Gerdana Vay",
+        "Gerdana Gerdana Vay Gerdana Gerdana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim Yarim Güzellerden Bir Dane",
+        "İçlerinde Sarı Saçlı Güldane Vay",
+        "Güldane Güldane Vay Güldane Güldane"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,62 @@
   "yore": "Yozgat",
   "hikaye": "Akşam arada kaldı, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam Arada Kaldı (Da)",
+        "Fitil Yarede Kaldı",
+        "Ellerin Yâri Geldi (De)",
+        "Sevdiğim Nerde Kaldı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi Yavrum Çınara'cı (Da)",
+        "Çift Gezer İki Bacı",
+        "Büyüğü Şöyle Böyle (De)",
+        "Küçüğü Can İlacı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Git Gurbet Ellerine (De)",
+        "Daş Attım Yollarına",
+        "İlik Düğme Olayım (Da)",
+        "O Yârin Kollarına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi De Yavrum Çınarım (Da)",
+        "Dallarına Konarım",
+        "Yârim Benim Olmazsa (Da)",
+        "Hergün Böyle Yanarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Terekteki Siniler (De)",
+        "El Değmeden İniler",
+        "Yâri Gurbette Olanın",
+        "Kulakları Çiniler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi De Yavrum Olacak (Da)",
+        "Sevdan Beni Alacak",
+        "İkimizin Sevdası (Da)",
+        "Kıyamete Kalacak"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,12 +4,47 @@
   "yore": "Burdur",
   "hikaye": "Onikidir Şu Burdur'un Dermeni, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Onikidir imanım aman şu Burdur'un dermeni",
+        "Dermenciye aman nasıl gönül vermeli",
+        "Ya kendisi imanım aman ya kellesi gelmeli",
+        "Ay karanlık aman görünmüyor izimiz",
+        "Üç kardeşiz aman kurban gitsin birimiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olalım olalım olalım efem zeybek olalım",
+        "Güzel de kızlar polis olmuş teslim olalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir incecik imanım aman yolum gider dermene",
+        "Oturmuşlar aman çayır ile çimene",
+        "Hem severim imanım aman hem koklarım kimene",
+        "Al karanfil aman mor şişede ıslanır",
+        "Birgün olur aman deli gönül uslanır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Olalım olalım olalım efem zeybek olalım",
+        "Güzel de kızlar polis olmuş teslim olalım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Onikidir%20%C5%9Eu%20Burdur'un%20Dermeni%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=5dEDDby3dGU",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

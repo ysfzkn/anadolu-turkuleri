@@ -4,7 +4,35 @@
   "yore": "Elazığ",
   "hikaye": "Dağlar Dağımdır Benim (Diyarbakır), Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar dağımdır benim",
+        "Gam ortağımdır benim",
+        "Ağlatma zalim felek",
+        "Zalim çağımdır benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağlar olmasaydı",
+        "Gül benzim solmasaydı",
+        "Ölüm Allah'ın emri",
+        "Ayrılık olmasaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy havar havar havar",
+        "Zülüf gerdanı kovar",
+        "İki gönül bir olsa",
+        "Bir aylık yolda ne var"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

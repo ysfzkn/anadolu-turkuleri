@@ -4,7 +4,35 @@
   "yore": "Adana",
   "hikaye": "Yeşillim Yele Yele, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeşillim yele yele (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Ben gittim gurbet ele (efendim efendim alen alen)",
+        "Kız ben senin yüzünden (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Düşmüşem bilden dile (efendim efendim alen alen)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam ardına gelsene (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Şeker aldım yesene (efendim efendim alen alen)",
+        "Anan izin vermezse (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Tay boşandı desene (efendim efendim alen alen)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sepet sepet narım var (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Bir'ni yesem biri var (efendim efendim alen alen)",
+        "İki yerde yarim var (yeşillim yeşillim amman amman oy oy oy oy)",
+        "Biri ölse biri var (efendim efendim alen alen)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

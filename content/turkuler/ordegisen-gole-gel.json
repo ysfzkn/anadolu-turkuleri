@@ -4,7 +4,53 @@
   "yore": "Kastamonu",
   "hikaye": "Ördeğisen Göle Gel, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördeğisen Göle Gel",
+        "Şahin İsen Gola Gel",
+        "Dağlarda Galdım",
+        "Hanım Ablam Sevdaya Daldım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördek Suy A Dal Da Gel",
+        "Yardan Haber Al Da Gel",
+        "Ersil'de Kış Var",
+        "Hanım Ablam Bunda Bir İş Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğer Yarim Gelmezse",
+        "Yalvar Yakar Al Da Gel",
+        "Dağlar Gazeli",
+        "Hanım Ablam Dünya Güzeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaynar Kazan Taşmaz Mı",
+        "Yol Buradan Aşmaz Mı",
+        "Dağlarda Galdım",
+        "Hanım Ablam Sevdaya Daldım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sil Gözünün Yaşını",
+        "Ayrılan Kavuşmaz Mı",
+        "Dağlar Gazeli",
+        "Hanım Ablam Dünya Güzeli"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

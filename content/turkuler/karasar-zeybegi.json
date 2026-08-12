@@ -4,12 +4,73 @@
   "yore": "Ankara",
   "hikaye": "Karaşar Zeybeği, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zeybek misin zeybek donu giyecek efem",
+        "Katil misin tatlı cana kıyacak",
+        "Cahil misin el sözüne uyacak efem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koç gibi meydanlarda dönenlerdeniz",
+        "Biz ahbap uğruna ölenlerdeniz."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dökül dü mü maşrapamın kalayı efem",
+        "Bozuldu mu zeybeklerin alayı",
+        "Düşmanları öldürmenin kolayı efem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yattım uykulardan uyanamadım",
+        "Yağlı kamalara dayanamadım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alıverin martinimi atayım efem",
+        "Atayım da Karaşar'ı katayım",
+        "Fırsat virin düşmanları haklayım efem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koç gibi meydanlarda dönenlerdeniz",
+        "Biz millet uğruna ölenlerdeniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Zeybekleri yaylalarda bastılar efem",
+        "Cepkenini çam dalına astılar",
+        "Beş kardeşi bir tahtada kestiler efem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldürmem Üseyin'i kıymayın Ali'ye",
+        "Kelleleri bahşiş gitti valiye."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Kara%C5%9Far%20Zeybe%C4%9Fi%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=qbeAZeATyKY",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

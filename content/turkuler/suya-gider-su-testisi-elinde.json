@@ -4,7 +4,68 @@
   "yore": "Çankırı",
   "hikaye": "Suya Gider Su Testisi Elinde, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya gider su testisi elinde",
+        "Allar geymiş etekleri belinde (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Fadime’m",
+        "Suya gidemem",
+        "Sensiz edemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim yârim şimdi gurbet elinde",
+        "Vermem seni yad ellere ellere (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Fadime’m",
+        "Suya gidemem",
+        "Sensiz edemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya gider su testisin doldurur",
+        "Eve gelir gül benzini soldurur (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Fadime’m",
+        "Suya gidemem",
+        "Sensiz edemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dert beni iflah etmez öldürür",
+        "Varam gidem annesine yalvaram (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Fadime’m",
+        "Suya gidemem",
+        "Sensiz edemem"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

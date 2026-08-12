@@ -4,7 +4,38 @@
   "yore": "Adana",
   "hikaye": "Aşağıdan Gelen Gelin Alıcı, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gelen gelin alıcı",
+        "Uğruna tutarlar yalın kılıcı",
+        "Biz de biliyoruz elin olucu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız seni almaya geldik almaya",
+        "Güllerin dermeye geldik dermeye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan gürül gürül göç gelir",
+        "Gelir amma gürültüsü geç gelir",
+        "Gız anadan ayrılması güç gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gız seni almaya geldik almaya",
+        "Alıp da dönmeye geldik dönmeye"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

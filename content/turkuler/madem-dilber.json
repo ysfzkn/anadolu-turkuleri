@@ -4,7 +4,35 @@
   "yore": "Ankara",
   "hikaye": "Madem Dilber, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Madem dilber meylin yoğidi bende,",
+        "Ezelinden ikrar vermeye-yidin.",
+        "Muhabbettir güzelliğin nişanı,",
+        "Uğrun uğrun bakıp gülmeye-yidin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Siyah saçlarını eylersin perde,",
+        "Beni sen uğrattın bu zalim derde,",
+        "Ben kendi halimde gezdiğim yerde,",
+        "Çağırıp yadigâr vermeye-yidin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karacaoğlan der ki ey mahı mestim,",
+        "Kasla göz eylersin bana mı kastın.",
+        "Severler güzeli darılma dostum,",
+        "Darıldıysan güzel olmaya-yidin."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

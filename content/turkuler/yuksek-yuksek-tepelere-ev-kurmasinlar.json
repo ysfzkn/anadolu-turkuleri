@@ -4,7 +4,42 @@
   "yore": "Edirne",
   "hikaye": "Yüksek Yüksek Tepelere Ev Kurmasınlar, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek yüksek tepelere ev kurmasınlar",
+        "Aşrı aşrı memlekete kız vermesinler",
+        "Annesinin bir tanesini hor görmesinler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uçan da kuşlara malûm olsun",
+        "Ben annemi özledim",
+        "Hem annemi hem babamı",
+        "Ben köyümü özledim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Annemin yelkeni olsa açsa da gelse",
+        "Babamın bir atı olsa binse de gelse",
+        "Kardeşlerim yollarımı bilse de gelse"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uçan da kuşlara malûm olsun",
+        "Ben annemi özledim",
+        "Hem annemi hem babamı",
+        "Ben köyümü özledim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

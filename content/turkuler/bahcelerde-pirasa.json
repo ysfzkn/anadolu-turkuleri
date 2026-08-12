@@ -4,7 +4,35 @@
   "yore": "Çankırı",
   "hikaye": "Bahçelerde Pırasa, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde pırasa da",
+        "Yaprağına kar yağsa",
+        "Oğlan oğlan oğlan",
+        "Aman çapkın oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köprünün altı bostan",
+        "Yıkılsın Arabistan",
+        "Arabistan kızları",
+        "Ne don giyer ne fistan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kayalar oylum oylum",
+        "Geliyor selvi boylum",
+        "Selvi boylum gelmezse",
+        "Şen olmaz benim gönlüm"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,35 @@
   "yore": "Adıyaman",
   "hikaye": "Gel Gülüm Gel Canım, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel gülüm gel canım seni severem (diley)",
+        "Saram kollarıma sensiz giderem",
+        "Al canım fedadır senin yoluna (diley)",
+        "Ağlama sil gözün vallah ölürem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı :",
+        "Vur davulcu vur davulu güm güm gümlesin (diley)",
+        "Kız oğlanı sevmiştir yabanı neylesin",
+        "Kız oğlanı sevmi dünya malını neylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız ela gözlerin bendimi yakar (diley)",
+        "Sevdiğin almayan canından bıkar",
+        "Gel seni kaçıram bizim ovaya (diley)",
+        "Ben sevem el alsın bana kim bakar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,35 @@
   "yore": "Rize",
   "hikaye": "Haldoz'un Portakali, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haldoz'un Portakali (Aman Aman)",
+        "Kuvaroz'un Limoni (Haydi Haydi)",
+        "Ben Gitmişim Karaya (Aman Aman)",
+        "Yavrum Sen Tut Dümeni (Haydi Haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Askaros Burun Burun (Aman Aman)",
+        "Martine Fişek Sürün (Haydi Haydi)",
+        "Alayım Sevduğumi (Aman Aman)",
+        "Sonra Beni Eldurun (Haydi Haydi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yalı Boyu Kavaklar (Aman Aman)",
+        "Açtı Yeşil Yapraklar (Haydi Haydi)",
+        "Ben Almadım O Yari (Aman Aman)",
+        "Alsın Kara Topraklar (Haydi Haydi)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

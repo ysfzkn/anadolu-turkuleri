@@ -4,7 +4,45 @@
   "yore": "Burdur",
   "hikaye": "Penceresi Köşeli, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Penceresi köşeli (aman aman)",
+        "Eller(i) billur şişeli (maviş )",
+        "Sarardım muma döndüm (aman aman)",
+        "Ben bu aşka düşeli (maviş)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı :",
+        "Susamış hanımlara su verin aman aman maviş",
+        "Mini mini hanımlara yol verin aman maviş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pencereden bakıyor (aman aman)",
+        "Halka(l)ı şeker atıyor (maviş )",
+        "Senin or(a)da duruşun (aman aman)",
+        "Beni burda yakıyor (maviş )"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı :",
+        "Penceresi perdeli (aman aman)",
+        "Çiçek açmış zerdali (mavi )",
+        "Benim yari sorarsan (aman aman)",
+        "Ta ezelden sevdalı (maviş )",
+        "Bağlantı :"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

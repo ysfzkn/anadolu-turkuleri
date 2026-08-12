@@ -4,7 +4,39 @@
   "yore": "Aydın",
   "hikaye": "Kır Atıma Bineyim Yâr Yoluna Gideyim, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yâr yoluna gideyim",
+        "Beni aşka düşüren",
+        "Gül yüzünü göreyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman ben yandım",
+        "Bana yâr olur sandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ey dağlar ulu dağlar",
+        "Yüreciğim kan ağlar",
+        "Yâr buradan geçti mi?",
+        "Söyleyin yüce dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman ben yandım",
+        "Bana yâr olur sandım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

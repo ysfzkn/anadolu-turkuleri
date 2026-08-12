@@ -4,7 +4,53 @@
   "yore": "Balıkesir",
   "hikaye": "Güzelim Güzelim de Allı Basmalar Aldım, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelim güzelim de allı basmalar aldım",
+        "Yanıldım gönüller verdim de seni bir adam sandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Balıkesir özünden",
+        "Çıkmam yârin sözünden",
+        "Yarın asker sevk oluyor",
+        "Öpsem ela gözünden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelim güzelim de gül kurusu değil mi",
+        "Nere varsam sürmeli yârim de el kapısı değil mi?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnciyim dizilirim",
+        "Sedefim süzülürüm",
+        "Hastayım üzülürüm",
+        "Güzelim güzelim de bal koymuş balıp durur",
+        "Nazlı yârin üzerine de dünyalar dönüp durur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı",
+        "Sarı saçım yaş durur",
+        "Yel gelir karıştırır",
+        "Davulcular düğüncüler",
+        "Hasiret kavuşturur",
+        "Güzelim kibarım da ata binelim ata",
+        "Serbes yârim uzun boylum da bize gidelim bize"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

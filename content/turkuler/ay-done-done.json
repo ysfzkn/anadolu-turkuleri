@@ -4,7 +4,26 @@
   "yore": "Artvin",
   "hikaye": "Ay Döne Döne, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay döne döne döne",
+        "Gelin mi oldun yine",
+        "Gelin olduğun gice",
+        "Oynarım döne döne"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidersen yolun olum",
+        "Gitme gurbanın olum",
+        "Her nereye gidersen",
+        "Ağzında dilin olum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

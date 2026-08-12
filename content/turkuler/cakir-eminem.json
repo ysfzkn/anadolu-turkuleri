@@ -4,12 +4,85 @@
   "yore": "Ankara",
   "hikaye": "Çakır Eminem, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağda da davar güderim",
+        "Dağda da davar güderim",
+        "Emineye selam ederim",
+        "Emineye selam ederim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emine de selam vermezse",
+        "Emine de selam vermezse",
+        "Başımı da alır giderim",
+        "Başımı da alır giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem Eminem çakır Eminem",
+        "Eminem Eminem çakır Eminem",
+        "Gözlerinin altı çukur Eminem",
+        "Gözlerinin altı çukur Eminem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem Eminem çakır Eminem",
+        "Eminem Eminem çakır Eminem",
+        "Gözlerinin altı çukur Eminem",
+        "Gözlerinin altı çukur Eminem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağda da dibek olur mu?",
+        "Dağda da dibek olur mu?",
+        "İplikten elek olur mu?",
+        "İplikten elek olur mu?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "El kızının koynunda",
+        "El kızının koynunda",
+        "Uyku da dölek Uyku da dölek olur mu?",
+        "Uyku da dölek Uyku da dölek olur mu?"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem Eminem çakır Eminem",
+        "Eminem Eminem çakır Eminem",
+        "Gözlerinin altı çukur Eminem",
+        "Gözlerinin altı çukur Eminem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eminem Eminem çakır Eminem",
+        "Eminem Eminem çakır Eminem",
+        "Gözlerinin altı çukur Eminem",
+        "Gözlerinin altı çukur Eminem"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=%C3%87ak%C4%B1r%20Eminem%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=E3Ps1cdsmak",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,59 @@
   "yore": "Ankara",
   "hikaye": "Alim Gitme Bazara, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alim de gitme bazara",
+        "Uğratırlar nazara",
+        "Alimi de öldü diyenler",
+        "Kendi de girsin mezara"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım hop Çerkes",
+        "Hop Çerkes",
+        "Yanıyor herkes"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alim de arpa biçiyor",
+        "Suyunu da nerden içiyor",
+        "Dört yanı derya deniz",
+        "Alim de nerden geçiyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım hop Çerkes",
+        "Hop Çerkes",
+        "Yanıyor herkes"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alimin abası var",
+        "Sırtında libası var",
+        "Alim de çok güzel ama",
+        "Ne çirkin babası var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Hop Çerkes",
+        "Hop Çerkes",
+        "Yanıyor herkes"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

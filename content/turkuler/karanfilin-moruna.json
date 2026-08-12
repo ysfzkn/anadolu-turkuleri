@@ -4,7 +4,35 @@
   "yore": "Çanakkale",
   "hikaye": "Karanfilin Moruna, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilin moruna,",
+        "Ölüyorum yoluna.",
+        "Çifte kurban adadım,",
+        "Sevdiğimin yoluna."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilim süt beyaz,",
+        "Ayrı düştük biz bu yaz.",
+        "Hediyeni istemem,",
+        "Mektubunu sıkça yaz."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfilsin tarçınsın,",
+        "Neden böyle hırçınsın.",
+        "Ne küçüksün ne büyük,",
+        "Tamam benim harcımsın."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

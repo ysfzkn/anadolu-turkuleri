@@ -4,7 +4,57 @@
   "yore": "Çanakkale",
   "hikaye": "Evreşe Yolları, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evreşe yolları dar",
+        "Bana bakma benim yârim var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir fırın yaptırdım doldurdum ekmekleri",
+        "Gel beraber yiyelim yaptırdım börekleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evreşe yolları dar",
+        "Bana bakma benim yârim var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arkandaki yeleği ben örmedim mi yârim",
+        "Kızlarla konuşurken ben görmedim mi yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evreşe yolları dar",
+        "Bana bakma benim yârim var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yeleğinin içinde mavi boncuk nazarlık",
+        "Benim yâre hediyem bir ufacık nazarlık (gerdanlık)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evreşe yolları dar",
+        "Bana bakma benim yârim var"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

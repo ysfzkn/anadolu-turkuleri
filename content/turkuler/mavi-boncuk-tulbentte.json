@@ -4,7 +4,44 @@
   "yore": "Ağrı",
   "hikaye": "Mavi Boncuk Tülbentte, Vikikaynak'ın Ağrı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ağrı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi boncuk tülbentte",
+        "Bir yar sevdim gurbette",
+        "Eğer beni severse",
+        "Bir gün gelir elbette"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay bana vaylar bana",
+        "Su vermez çaylar bana",
+        "Gitti yarim gelmedi",
+        "Yıl oldu aylar bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yağan yağmur mu kar mı",
+        "Gönlüm ferah mı dar mı",
+        "Ben burda dert çekerken",
+        "Acep haberin var mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay bana vaylar bana",
+        "Su vermez çaylar bana",
+        "Gitti yarim gelmedi",
+        "Yıl oldu aylar bana"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

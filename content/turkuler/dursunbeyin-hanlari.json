@@ -4,7 +4,35 @@
   "yore": "Balıkesir",
   "hikaye": "Dursunbey'in Hanları, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dursunbeyin hanları",
+        "Şıngırdaklı camları",
+        "Bizim için yapılmış",
+        "Balıkesir damları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Koyunların sürüsü",
+        "Arda kalmış birisi",
+        "Çifte yengeler arıyor",
+        "Çam dibinde ölüsü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arpaların demedi",
+        "Koyunları meledi",
+        "Gidi gavur katil zeynep",
+        "Nere godun memedi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

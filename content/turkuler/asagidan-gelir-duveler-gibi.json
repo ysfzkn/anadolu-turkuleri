@@ -4,7 +4,26 @@
   "yore": "Yozgat",
   "hikaye": "Aşağıdan Gelir Düveler Gibi, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan Gelir Düveler Gibi (Düveler Gibi)",
+        "İçerim Derd Aldı Mayalar Gibi (Gelinim Güzelim)",
+        "Katardan Ayrılmış Mayalar Gibi (Mayalar Gibi)",
+        "Varın Söylen Burda Alsın Yâr Benim (Gelinim Güzelim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kır Atın Üstünde Kuş Tüyü Minder (Bir Sarı Minder)",
+        "Atıyın Yönünü Bu Yana Dönder (Gelinim Güzelim)",
+        "Kuru Mektubunan Gönül Eylenmez (Eylenmez)",
+        "Gelip Giden İlen Bir Selam Gönder (Gelinim Güzelim)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

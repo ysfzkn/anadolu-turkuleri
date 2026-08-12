@@ -4,7 +4,25 @@
   "yore": "Kayseri",
   "hikaye": "Ey Sevdiğim Artık Yeter, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{eser başlığı|başlık=Ey Sevdiğim Artık Yeter|esersahibi=Anonim|bölüm=|önceki=Kayseri türküleri|sonraki=|notlar=Kaynak:Yusuf Seyrani-Muzaffer Sarısözen",
+        "}}",
+        "{{söz|",
+        "Ey Sevdiğim Artık Yeter",
+        "Bana Yosma Bakışın Var",
+        "Ateşlerden Daha Beter",
+        "Âşıkları Yakışın Var",
+        "Erdin Güzellik Çağına",
+        "Bağladın Zülfün Yayına",
+        "Beni Hüsnün Ayağına",
+        "Nal Mıh Gibi Çakışın Var",
+        "Güzel Senin Hüsnün Sebep"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

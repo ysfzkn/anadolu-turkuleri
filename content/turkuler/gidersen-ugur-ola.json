@@ -4,7 +4,50 @@
   "yore": "Van",
   "hikaye": "Gidersen Uğur Ola, Vikikaynak'ın Van türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Van yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lal Mercanlar Mercanlar Mercanlar",
+        "Gırmızı Köynek Ağcanlar Mercanlar",
+        "Gurbandır Sana Canlar Mercanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidersen Uğur Ola Mercanlar",
+        "Gül Çimen Yolun Ola Mercanlar",
+        "Menden Başka Seversen Mercanlar",
+        "İki Gözün Kör Ola Mercanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lal Mercanlar Mercanlar Mercanlar",
+        "Gırmızı Köynek Ağcanlar Mercanlar",
+        "Gurbandır Sana Canlar Mercanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere Bağı Bahçalar Mercanlar",
+        "Yar Bahçada Saz Çalar Mercanlar",
+        "Gece Gelme Gündüz Gel Mercanlar",
+        "Findo Seni Parçalar Mercanlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lal Mercanlar Mercanlar Mercanlar",
+        "Gırmızı Köynek Ağcanlar Mercanlar",
+        "Gurbandır Sana Canlar Mercanlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

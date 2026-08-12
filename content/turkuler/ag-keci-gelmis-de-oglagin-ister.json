@@ -4,7 +4,53 @@
   "yore": "Yozgat",
   "hikaye": "Ağ Keçi Gelmiş de Oğlağın İster, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağ Keçi Gelmiş (De) Oğlağın İster",
+        "N'olur Allah N'olur Bir Oğlan Göster",
+        "Oğulsuz Gelini Kınar Mı Eller"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynalı Beşik Sallamadı Kollarım",
+        "Nen Çalmadı Çürüyesi Dillerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Elekçi Gelse Eleğin Alsam",
+        "Uğrünü Uğrünü Höllük Elesem",
+        "Aynalı Besiğe (De) Oğlan Belesem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynalı Beşik Sallamadı Kollarım",
+        "Nen Çalmadı Çürüyesi Dillerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Oğlum Olsa (Da) Versem Hocaya",
+        "Okuya Okuya Çıksa Heceye",
+        "Mücdeciler Gelse Bizim Peceye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynalı Beşik Sallamadı Kollarım",
+        "Nen Çalmadı Çürüyesi Dillerim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,42 @@
   "yore": "Aydın",
   "hikaye": "Sinanoğlu Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın bakın Türkmen kızı uyur mu",
+        "Kollarında altın bilezik durur mu",
+        "Sinanoğlu gibi yiğit bulur mu",
+        "N'olaydı n'olaydı teslim olaydım",
+        "Konak avlusuna kendin varaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konak avlusunda dikili taşım",
+        "Livaya yolladım gövdesiz başım",
+        "Ne anam var ne babam ne kardaşım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "N'olaydı n'olaydı teslim olaydım",
+        "Konak avlusuna kendin varaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu derler benim adıma",
+        "Beş yüz atlı beş yüz piyade var yanımda",
+        "Aman n'olaydım yavrum n'olaydım",
+        "Aydın İzmir Valisine teslim olaydım."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

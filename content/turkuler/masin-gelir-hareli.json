@@ -4,7 +4,59 @@
   "yore": "Kars",
   "hikaye": "Maşın Gelir Hareli, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maşın Gelir Hareli",
+        "İçi Dolu Yareli",
+        "Ele Bir Yar Sevmişem",
+        "Kars'ımızın Maralı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yazığın Gelsin Oy Ana",
+        "Kapıda Duran Oğlana",
+        "Boynunu Buran Oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maşın Gelir Başbaşa",
+        "İçinde Kazım Paşa",
+        "Paşaların Paşası",
+        "Mustafa Kemal Paşa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yazığın Gelsin Oy Ana",
+        "Kapıda Duran Oğlana",
+        "Boynunu Buran Oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maşın Gelir Yanaşır",
+        "İçi Dolu Çamaşır",
+        "Ele Bir Yar Sevmişem",
+        "Gören Gözler Kamaşır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yazığın Gelsin Oy Ana",
+        "Kapıda Duran Oğlana",
+        "Boynunu Buran Oğlana"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

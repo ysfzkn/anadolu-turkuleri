@@ -4,7 +4,26 @@
   "yore": "Aydın",
   "hikaye": "Çıksam Dağların Başına, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıksam dağların başına",
+        "Başım koysam taşına",
+        "Bu ne yaman sevda imiş",
+        "Gelmesin düşman başına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynayı almış dizine",
+        "Kakülün dökmüş yüzüne",
+        "Sürmeler çekmiş gözüne",
+        "Yaktı beni ah o güzel"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

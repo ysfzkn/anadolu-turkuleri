@@ -4,7 +4,38 @@
   "yore": "Çankırı",
   "hikaye": "Çıra Attım Yanmadı, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıra attım yanmadı da",
+        "Meyil verdim almadı da (hah ha da ha un ele hah ha da ha dönelim ha)",
+        "Ben Allah’a çok yalvardım",
+        "Duam kabul olmadı da (hah ha da ha un ele hah ha da ha dönelim hah ha da ha",
+        "Güzele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapıda gümüş firenk de",
+        "Dumanım direk direk de (hah ha da ha un ele hah ha da ha dönelim ha)",
+        "El yarine kavuştu da",
+        "Darısı bize felek de (hah ha da ha un ele hah ha da ha dönelim hah ha da ha",
+        "Güzele)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmanın kabukları da",
+        "Güzelin topukları da (hah ha da ha un ele hah ha da ha dönelim ha)",
+        "Hep mi asker oldunuz da",
+        "Mehlenin kopukları da (hah ha da ha un ele hah ha da ha dönelim hah ha da ha",
+        "Güzele)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

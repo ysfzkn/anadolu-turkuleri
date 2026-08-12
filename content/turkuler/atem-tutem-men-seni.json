@@ -4,7 +4,44 @@
   "yore": "Bitlis",
   "hikaye": "Atem Tutem Men Seni, Vikikaynak'ın Bitlis türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bitlis yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop hopun olsun oğlum",
+        "Gül topun olsun oğlum",
+        "Sıralı gavak dibinde (oy)",
+        "Toyluğun olsun oğlum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atem tutem men seni",
+        "Şekere gatem men seni",
+        "Akşam baben gelende oy",
+        "Ogüne atem men seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ev süpüre toz ede",
+        "Hemama gider naz ede",
+        "El ayağı kir içinde",
+        "Yıkamam diye naz ede"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atem tutem men seni",
+        "Şekere gatem men seni",
+        "Akşam baben gelende oy",
+        "Ogüne atem men seni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

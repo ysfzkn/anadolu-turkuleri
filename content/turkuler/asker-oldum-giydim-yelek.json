@@ -4,7 +4,42 @@
   "yore": "Adana",
   "hikaye": "Asker Oldum Giydim Yelek, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asker oldum giydim yelek",
+        "Eylen suna gelin, eylen",
+        "Üç günde ayırdı felek",
+        "Eylen suna gelin, eylen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suna gelin, suna gelin",
+        "Tez mektup yaz bana gelin",
+        "İzin alıp sana gelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Verin benim martinimi",
+        "Koy çantama tütünümü",
+        "İşte giydim potinimi",
+        "Eylen suna gelin, eylen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suna gelin, suna gelin",
+        "Tez mektup yaz bana gelin",
+        "İzin alıp sana gelim."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

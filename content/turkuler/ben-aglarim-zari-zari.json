@@ -4,7 +4,32 @@
   "yore": "Elazığ",
   "hikaye": "Ben Ağlarım Zarı Zarı, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ağlarım zarı zarı",
+        "Yakdı beni aşkın narı",
+        "Yitirmişim gül yüzlü yarı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Sor ki bana derdin nedir",
+        "Yürekdeki kurdun nedir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben ağlarım için için",
+        "Di gel de sor derdin niçin",
+        "Bir kez güldür başın için"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

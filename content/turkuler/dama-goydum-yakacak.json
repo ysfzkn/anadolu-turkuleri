@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Dama Goydum Yakacak, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama Goydum Yakacak (Ah Da Gara Gözlüm)",
+        "Şimdi Tren Kalkacak",
+        "Ben Askere Gidiyom (Ah Da Gara Gözlüm)",
+        "Sana Kimler Bakacak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop Tara Leylim Havası",
+        "Yandı Pilav Tavası",
+        "Ergen Gızlar Gaçıyo",
+        "Virmiyince Babası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom Gidemiyom (Ah Da Gara Gözlüm)",
+        "Ben Sensiz Edemiyom",
+        "Yarim Cahil Ben Cahil (Ah Da Gara Gözlüm)",
+        "Goyup Da Gidemiyom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop Tara Leylim Havası",
+        "Yandı Pilav Tavası",
+        "Ergen Gızlar Gaçıyo",
+        "Virmiyince Babası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom Sende Bende (Ah Da Gara Gözlüm)",
+        "Bir Arzum Galdı Sende",
+        "Derdinden Oldum Deli (Ah Da Gara Gözlüm)",
+        "Din İman Yok Mu Sende"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop Tara Leylim Havası",
+        "Yandı Pilav Tavası",
+        "Ergen Gızlar Gaçıyo",
+        "Virmiyince Babası"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

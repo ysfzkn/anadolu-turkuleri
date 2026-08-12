@@ -40,85 +40,19 @@ Vercel'e) girip entegrasyonu kuracağım.
      - `https://*.vercel.app/**` (Vercel önizleme dağıtımları için, isteğe bağlı)
    > Bunlar, giriş sonrası kullanıcının GERİ DÖNECEĞİ site adresleridir —
    > Spotify'daki Redirect URI'den FARKLIDIR (o Supabase callback'idir).
-5. **SQL Editor**'de aşağıdaki şemayı çalıştır (listeler + RLS):
+5. **SQL Editor**'de `supabase/migrations` klasöründeki migration dosyalarını
+   aşağıdaki sırayla çalıştır:
 
-```sql
--- Kullanıcı listeleri
-create table public.listeler (
-  id uuid primary key default gen_random_uuid(),
-  kullanici_id uuid not null references auth.users(id) on delete cascade,
-  baslik text not null,
-  aciklama text,
-  herkese_acik boolean not null default false,
-  paylasim_kodu text unique default encode(gen_random_bytes(6), 'hex'),
-  olusturulma timestamptz not null default now()
-);
+   1. `20260810_temel_sistem.sql` — profil, listeler ve repertuvar
+   2. `20260811_oyunlar.sql` — canlı oyun odaları ve skorlar
+   3. `20260812_yasayan_hafiza.sql` — kullanıcı katkıları ve dosya alanı
+   4. `20260812_admin_icerik.sql` — editör, admin ve yönetilebilir içerikler
+   5. `20260812_admin_guvenlik_duzeltmesi.sql` — admin işlevlerinin güvenlik düzeltmeleri
+   6. `20260812_spotify_playlist_links.sql` — kalıcı Spotify liste eşlemesi
 
-create table public.liste_turkuleri (
-  liste_id uuid not null references public.listeler(id) on delete cascade,
-  turku_slug text not null,
-  sira int not null default 0,
-  eklenme timestamptz not null default now(),
-  primary key (liste_id, turku_slug)
-);
-
--- Row Level Security
-alter table public.listeler enable row level security;
-alter table public.liste_turkuleri enable row level security;
-
--- Sahibi kendi listelerinde her şeyi yapabilir
-create policy "sahibi_listeler" on public.listeler
-  for all using (auth.uid() = kullanici_id)
-  with check (auth.uid() = kullanici_id);
-
--- Herkese açık listeler herkesçe okunabilir
-create policy "acik_listeler_oku" on public.listeler
-  for select using (herkese_acik = true);
-
--- Liste içeriği: sahibi yönetir
-create policy "sahibi_liste_turkuleri" on public.liste_turkuleri
-  for all using (
-    exists (select 1 from public.listeler l
-            where l.id = liste_id and l.kullanici_id = auth.uid())
-  ) with check (
-    exists (select 1 from public.listeler l
-            where l.id = liste_id and l.kullanici_id = auth.uid())
-  );
-
--- Herkese açık listelerin içeriği okunabilir
-create policy "acik_liste_turkuleri_oku" on public.liste_turkuleri
-  for select using (
-    exists (select 1 from public.listeler l
-            where l.id = liste_id and l.herkese_acik = true)
-  );
-
--- Kullanıcı profilleri (kullanıcı adı — liderlik tablosu vb. için)
-create table public.profiller (
-  id uuid primary key references auth.users(id) on delete cascade,
-  kullanici_adi text unique not null,
-  olusturulma timestamptz not null default now()
-);
-alter table public.profiller enable row level security;
--- Kullanıcı adları herkese açık (liderlik tablosu, paylaşım)
-create policy "profiller_oku" on public.profiller for select using (true);
--- Kişi yalnızca kendi profilini oluşturur/günceller
-create policy "profiller_kendi" on public.profiller
-  for all using (auth.uid() = id) with check (auth.uid() = id);
-
--- Kişisel repertuvar (bağlamada çalınan/öğrenilen türküler)
-create table public.repertuvar (
-  kullanici_id uuid not null references auth.users(id) on delete cascade,
-  turku_slug text not null,
-  durum text not null default 'calmak-istiyorum',
-    -- 'calabiliyorum' | 'ogreniyorum' | 'calmak-istiyorum'
-  eklenme timestamptz not null default now(),
-  primary key (kullanici_id, turku_slug)
-);
-alter table public.repertuvar enable row level security;
-create policy "sahibi_repertuvar" on public.repertuvar
-  for all using (auth.uid() = kullanici_id)
-  with check (auth.uid() = kullanici_id);
-```
+   Dosyalar yeni proje kurulumunda yukarıdaki sırayla uygulanmalıdır. Daha önce
+   temel tabloları bu dokümandan elle oluşturduysan `20260810_temel_sistem.sql`
+   mevcut kayıtları silmeden tablo ve politikaları güvenli biçimde tamamlar.
 
 ---
 
@@ -172,6 +106,8 @@ create policy "sahibi_repertuvar" on public.repertuvar
    isteğinde koddan istiyoruz. Kullanacaklarımız:
    - `playlist-modify-public`, `playlist-modify-private` — listeyi Spotify çalma
      listesine dönüştürmek için
+   - `playlist-read-private`, `playlist-read-collaborative` — Spotify'daki
+     listeleri göstermek, güncelliği ve yinelenen parçaları denetlemek için
    - `user-read-email` — temel profil
 
 > Not: 30 saniyelik **önizleme** (`preview_url`) için kullanıcı girişi gerekmez;
@@ -199,11 +135,54 @@ SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 SPOTIFY_CLIENT_ID=<client-id>
 SPOTIFY_CLIENT_SECRET=<client-secret>
 
+# YouTube Data API v3 — yalnızca sunucuda kullanılır
+YOUTUBE_API_KEY=<youtube-data-api-key>
+
 # Yayın filtresi (opsiyonel): 1 = yalnızca doğrulanmış türküler
 NEXT_PUBLIC_SADECE_DOGRULANMIS=0
 ```
 
 Aynı değişkenleri Vercel → Project → Settings → Environment Variables'a da ekle.
+
+### YouTube video önizlemesi
+
+1. [Google Cloud Console](https://console.cloud.google.com/) içinde mevcut projeyi
+   seç veya yeni bir proje oluştur.
+2. **APIs & Services → Library** ekranında **YouTube Data API v3** hizmetini aç.
+3. **Credentials → Create credentials → API key** ile bir anahtar oluştur.
+4. Anahtarın **API restrictions** ayarını `YouTube Data API v3` ile sınırla.
+   Bu anahtar sunucu tarafında kullanıldığı için adına `NEXT_PUBLIC_` ekleme.
+5. Anahtarı yerelde `.env.local`, Vercel'de Production/Preview/Development
+   ortamlarına `YOUTUBE_API_KEY` adıyla ekle.
+
+Arşivde doğrulanmış doğrudan bir YouTube videosu varsa o kayıt kullanılır ve API
+kotası harcanmaz. Diğer eserlerde en fazla beş sonuç taranır; sonuç 30 gün
+önbelleğe alınır. Anahtar tanımlı değilse sayfa bozulmaz, YouTube arama bağlantısı
+gösterilir.
+
+### İletişim formu ve e-posta teslimi
+
+İletişim formu, mesajları sunucu tarafından [Resend](https://resend.com) üzerinden
+belirlediğiniz posta kutusuna yollar. Gizli anahtar tarayıcıya gönderilmez.
+
+1. Resend hesabı oluşturup **Domains → Add domain** adımıyla tercihen
+   `mail.anadoluturkuleri.com` gibi bir gönderim alt alan adı ekleyin.
+2. Resend'in verdiği SPF ve DKIM kayıtlarını domain DNS paneline ekleyip alan
+   adının `verified` olmasını bekleyin.
+3. **API Keys** bölümünden yalnızca e-posta gönderme yetkili bir anahtar üretin.
+4. Aşağıdaki değişkenleri `.env.local` ve Vercel Environment Variables alanına
+   ekleyin:
+
+```bash
+RESEND_API_KEY=re_...
+ILETISIM_ALICI_EMAIL=iletisim@anadoluturkuleri.com
+ILETISIM_GONDEREN_EMAIL=Anadolu Türküleri <bildirim@mail.anadoluturkuleri.com>
+```
+
+`ILETISIM_ALICI_EMAIL`, form mesajlarının düşeceği gerçek posta kutusudur.
+`ILETISIM_GONDEREN_EMAIL` ise Resend'de doğrulanmış alan adını kullanmalıdır.
+Ziyaretçinin adresi e-postanın yanıt adresi olarak atanır; böylece posta
+kutunuzdan doğrudan yanıt verebilirsiniz.
 
 ---
 

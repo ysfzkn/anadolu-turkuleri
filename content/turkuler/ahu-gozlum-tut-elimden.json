@@ -4,7 +4,44 @@
   "yore": "Adana",
   "hikaye": "Ahu Gözlüm Tut Elimden, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahu gözlüm tut elimden,",
+        "Vazgeçmeden emelimden.",
+        "Aşkın beni temelinden,",
+        "Yıkmadan gel, yakmadan gel."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derde salmadan başımı,",
+        "Noksan etmeden işimi.",
+        "Damla damla göz yaşımı,",
+        "Dökmeden gel, akmadan gel."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Göz değmeden yapımıza",
+        "Yıkılmadan tapımıza",
+        "Kara deve kapımıza",
+        "Çökmeden gel ihmadan gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Feymani’yim, kaçma benden,",
+        "Usanmadı gönül senden.",
+        "Ecel tatlı canı telden,",
+        "Çekmeden gel çıkmadan gel."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

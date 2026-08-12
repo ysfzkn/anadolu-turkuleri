@@ -4,7 +4,35 @@
   "yore": "Niğde",
   "hikaye": "Ak Sinne'ye Vardım Koyun Yaymaya, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak Sinne'ye Vardım (Annem Annem)",
+        "Koyun Yaymaya (Ey Ey)",
+        "Koyun Değil Merem (Annem Annem)",
+        "Yârı Görmeye (Aslanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bilmem Hayal Mıdır (Annem Annem)",
+        "Bilmem Düş Müdür (Ey Ey)",
+        "Mektubun Gelmiyor (Annem Annem)",
+        "Yollar Kış Mıdır (Aslanım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yine Şelillendi (Annem Annem)",
+        "Niğde Bağları (Ey Ey)",
+        "Bize Mesken Oldu (Annem Annem)",
+        "Gurbet Elleri (Aslanım)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

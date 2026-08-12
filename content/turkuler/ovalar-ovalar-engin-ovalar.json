@@ -4,7 +4,68 @@
   "yore": "Burdur",
   "hikaye": "Ovalar Ovalar Engin Ovalar, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ovalar ovalar engin ovalar",
+        "Ovada yayılır tülü mayalar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan gel yarim dağdan",
+        "Gel geç bizim o yoldan",
+        "Sen aşıksın ben yangın",
+        "Anen bilmeyor haldan",
+        "Bahçalarda badılcan",
+        "Ben askere yazılcam",
+        "Askerden gelip bile",
+        "Ben kezben'e sarılcam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuşlar gibi biz havada uçalım",
+        "Ver elini yar dağlara kaçalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan gel yarim dağdan",
+        "Gel geç bizim o yoldan",
+        "Sen aşıksın ben yangın",
+        "Anen bilmeyor haldan",
+        "Bahçalarda badılcan",
+        "Ben askere yazılcam",
+        "Askerden gelip bile",
+        "Ben kezben'e sarılcam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gıygın(kızgın) olur yaylamızın daşı",
+        "Guduretten çekilmiş kalem kaşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan gel yarim dağdan",
+        "Gel geç bizim o yoldan",
+        "Sen aşıksın ben yangın",
+        "Anen bilmeyor haldan",
+        "Bahçalarda badılcan",
+        "Ben askere yazılcam",
+        "Askerden gelip bile",
+        "Ben kezben'e sarılcam"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

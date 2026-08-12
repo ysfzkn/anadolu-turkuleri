@@ -4,7 +4,50 @@
   "yore": "Aydın",
   "hikaye": "Atçalı Kel Mehmet Efe Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hademe-i Devlet",
+        "Vali-yi Vilayet",
+        "Atçalı Kel Mehmet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başını kaşımağa eli değmezdi",
+        "Su elin çeşme elin tekne Atçalı Kelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dururken önce erazil yürüdü",
+        "Ol vakit dağları duman bürüdü",
+        "Kahbe beyler, Atçalı Kel yürüdü",
+        "Şol beylerde yüz yalanı seyrettim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alçak yüksek tepeler",
+        "Kelin kulağında küpeler",
+        "Çam dibine yaslanmış da",
+        "Gelmiş eli mavzerli çeteler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Valiydim dağlarda",
+        "Kan döktüm hanlarda",
+        "Bir hayına kurban oldum",
+        "Şanım yürüsün kahbe dünyada."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

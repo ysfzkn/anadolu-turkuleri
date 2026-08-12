@@ -4,7 +4,34 @@
   "yore": "Elazığ",
   "hikaye": "Meteristen İneydim, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meteris'ten ineydim",
+        "Güllüm güle gideydim (Güllüm güle giderdim)",
+        "Eğer güllüm ağlarsa",
+        "Göz yaşını sileydim (Göz yaşını sileydim)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Anam gözlerin olam",
+        "Şirin sözlerin olam(Şirin sözlerin olam)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy milli saramadım",
+        "Ben muradalamadım (muradalamadım)",
+        "Cemi kuş yuva yaptı",
+        "Kuş kadar olamadım (kuş kadar olamadım)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

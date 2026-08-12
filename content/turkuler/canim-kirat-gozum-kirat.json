@@ -4,7 +4,84 @@
   "yore": "Elazığ",
   "hikaye": "Canım Kırat Gözüm Kırat, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Canım kırat gözüm kırat",
+        "Acep bağlı durur m'ola",
+        "Ismarlasam şol güzele",
+        "Yemin suyun verir m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gargıya benzer kulağı",
+        "Yaradandandır dileği",
+        "Abu zemzemden sulağı",
+        "Sarhoş sarhoş yörür m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köroğlu der cömert gani",
+        "Alan Allah verir canı",
+        "Kıratınan Eyvaz seni",
+        "Alan Allah verir m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başı pare pare dumanlı dağlar",
+        "Dilim söyler amma gözüm kan ağlar",
+        "Şol güzel yâr ilen sürdüğüm demler",
+        "Her sabah her sabah sen eğle beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına bağlamış rengi aldan",
+        "Yarısı ibrişim yarısı telden",
+        "Eller yaman olur korkarım dilden",
+        "Her sabah her saban eğle beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına bağlamış rengi sarı",
+        "Gözleri hışmeder öldürme barı",
+        "Abdal Pir Sultan'ım sevgili varı",
+        "Her sabah her sabah sen eğle beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şirin boyu dallara benzer",
+        "Dosta giden yollara benzer",
+        "Gelsin beri meydana",
+        "Meydan erenlerindir",
+        "Meydan erenlerindir",
+        "Dost dosta gidenlerindir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çark edip çarkın çalar",
+        "Ana döner aşıklar",
+        "Ana seyfem mevali",
+        "Pirim dostum mevali",
+        "Cennetin kapısında",
+        "Üç nesne var Hak'tan geldi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

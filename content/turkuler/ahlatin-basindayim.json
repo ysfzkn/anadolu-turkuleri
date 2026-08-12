@@ -4,7 +4,46 @@
   "yore": "Bitlis",
   "hikaye": "Ahlat'ın Başındayım, Vikikaynak'ın Bitlis türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bitlis yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahlat'ın başındayım",
+        "On altı yaşındayım",
+        "Kınamayın vay dostlar",
+        "Gül kızın peşindeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güley güley",
+        "Gül hanım",
+        "Gel otur benim canım",
+        "Sensin benim dermanım",
+        "He canım he malım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahlat'ın kara taşı",
+        "Yandı bağrımın başı",
+        "O yar burdan gideli",
+        "Durmaz gözümün yaşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güley güley",
+        "Gül hanım",
+        "Gel otur benim canım",
+        "Sensin benim dermanım",
+        "He canım he malım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,43 @@
   "yore": "Çanakkale",
   "hikaye": "Ayna Çaktım Yüzüne, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Versinler Versinler",
+        "Sevenleri Sevdiğine Versinler.",
+        "Ayna Çaktım Yüzüne,",
+        "Şavkı Vurdu Yüzüme.",
+        "Sana Söylüyorum Yar,",
+        "Kulak Ver Sen Sözüme."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Versinler Versinler",
+        "Sevenleri Sevdiğine Versinler.",
+        "Yar Mendili Oyaladım,",
+        "Bas Harfini Koyamadım.",
+        "Eller Aldı Yarimi,",
+        "Ben Yarime Varamadım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Versinler Versinler",
+        "Sevenleri Sevdiğine Versinler.",
+        "Karşımızda Gelibolu,",
+        "Gelibolu'da Yatır Dolu,",
+        "Sana Söylüyorum Yar,",
+        "Dualarım Kabul Oldu.",
+        "Versinler Versinler",
+        "Sevenleri Sevdiğine Versinler."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

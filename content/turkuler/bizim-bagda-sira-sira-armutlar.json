@@ -4,7 +4,26 @@
   "yore": "Bilecik",
   "hikaye": "Bizim Bağda Sıra Sıra Armutlar, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim bağda ah amman amman sıra sıra armutlar",
+        "Sen gideli amman söndü bütün umutlar",
+        "Söylen bana yarim nerde bileyim",
+        "Gökyüzünde amman bölük bölük bulutlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahar geldi ah amman amman çiçek açtı erikler",
+        "Asma oldu amman diktiğimiz çubuklar",
+        "Kuşlar gibi bizde yuva kuralım",
+        "Gel bitmesin amman yeşersin şu umutlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

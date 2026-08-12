@@ -4,7 +4,35 @@
   "yore": "Kırşehir",
   "hikaye": "Geleli Gülmedim Ben Bu Cihana, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geleli Gülmedim Ben Bu Cihana",
+        "Çektiğim Ah İle Zardır Yareden",
+        "Giriftar Olmuşum Da Bunca",
+        "Çektiğim Ah İle Zardır Yareden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benmiyim Dünyada Bir Bahtı Kara",
+        "Tabipler Derdime Bulmuyor Çare",
+        "Muhtaç Etmen Beni Zalim Kula",
+        "Kula Muhtaç Olmak Zordur Yareden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ararım Derdime Bir Çare Yoktur",
+        "Anladım Evvelden Böyledir Taktir",
+        "Ele Düğün Bayram Bana Haktır",
+        "Ne Çekilmez Kahrın Vardır Yareden"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

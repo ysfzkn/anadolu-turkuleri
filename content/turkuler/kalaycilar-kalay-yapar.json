@@ -4,12 +4,89 @@
   "yore": "Edirne",
   "hikaye": "Kalaycılar Kalay Yapar, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycılar kalay yapar",
+        "Kalaycılar kalay yapar",
+        "Gümüş yapar kalaylar(kapları)",
+        "Gümüş yapar kalaylar(kapları)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycılar kalay yapar",
+        "Kalaycılar kalay yapar",
+        "Gümüş yapar kalaylar(kapları)",
+        "Gümüş yapar kalaylar(kapları)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abe ana niye verdin beni kalayca",
+        "Abe ana niye verdin beni kalayca",
+        "Kap kalaylayamıyor yama yapmıyor vay vay",
+        "Kap kalaylayamıyor yama yapmıyor vay",
+        "Kap kalaylayamıyor yama yapmıyor vay vay",
+        "Kap kalaylayamıyor yama yapmıyor vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycının sesi yanık",
+        "Kalaycının sesi yanık",
+        "Papuçları yırtık pırtık",
+        "Papuçları yırtık pırtık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycının sesi yanık",
+        "Kalaycının sesi yanık",
+        "Papuçları yırtık pırtık",
+        "Papuçları yırtık pırtık"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Abe ana niye verdin beni kalayca",
+        "Abe ana niye verdin beni kalayca",
+        "Kap kalaylayamıyor yama yapmıyor vay vay",
+        "Kap kalaylayamıyor yama yapmıyor vay",
+        "Kap kalaylayamıyor yama yapmıyor vay vay",
+        "Kap kalaylayamıyor yama yapmıyor vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycının gözü çakır",
+        "Kalaycının gözü çakır",
+        "Kalaylıyor gönlüme bakır",
+        "Kalaylıyor gönlüme bakır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalaycının gözü çakır",
+        "Kalaycının gözü çakır",
+        "Kalaylıyor gönlüme bakır",
+        "Kalaylıyor gönlüme bakır"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Kalayc%C4%B1lar%20Kalay%20Yapar%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=r86U5fAhyEI",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

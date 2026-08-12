@@ -4,7 +4,64 @@
   "yore": "Kırşehir",
   "hikaye": "Başımda Altın Tacım, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başımda Altın Tacım Aman",
+        "Hem Susuzum Hem Acım",
+        "Yarimi Bana Verin",
+        "Gerisi Anam Bacım Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyom Elinizden Gülüm",
+        "Kurtulam Dilinizden",
+        "Yeşil Baş Ördek Olsam",
+        "Su İçmem Gölünüzden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Vay Gülüm) Deniz Dalgasız Olmaz",
+        "(Vay Gülüm) Güzel Sevdasız Olmaz",
+        "(Vay Gülüm) Yiğit Olan Yiğidin",
+        "(Vay Gülüm) Başı Sevdasız Olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay Gülüm Sen Nerdesin Nerdesin",
+        "Vay Gülüm Kaldır Camın Perdesin",
+        "Vay Gurban Alacağım Ben Seni",
+        "Vay Gülüm Galabalık Yerdesin (Deli Deli Deli...)",
+        "Galabalık Yerdesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Vay Gülüm) Denize Dalayım Mı",
+        "(Vay Gülüm) Bir Balık Alayım Mı",
+        "(Vay Gülüm) Ay Doğdu Şafak Attı",
+        "(Vay Gülüm) Daha Yalvarayım Mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay Gülüm Sen Nerdesin Nerdesin",
+        "Vay Gülüm Kaldır Camın Perdesin",
+        "Vay Gurban Alacağım Ben Seni",
+        "Vay Gülüm Galabalık Yerdesin (Deli Deli Deli...)",
+        "Galabalık Yerdesin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

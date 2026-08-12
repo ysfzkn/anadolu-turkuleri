@@ -4,7 +4,17 @@
   "yore": "Elazığ",
   "hikaye": "Değirmen Sala Benzer, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Değirmen sala benzer anan öle",
+        "Kız dilin lala benzer",
+        "Terlemiş yanakların anan öle",
+        "Erimiş bala benzer"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,26 @@
   "yore": "Ankara",
   "hikaye": "Çilli Horoz, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Horozumu kaçırdılar, damdan dama uçurdular",
+        "Suyuna da pilav pişirdiler, çilli horozum,",
+        "Mahallenin hovardası, çilli horozum,",
+        "Tavuklarımın kocası, çilli horozum,"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Horoz değil katır idi , dağdan odun indirirdi",
+        "Sırtına binsem götürürdü , çilli horozum,",
+        "Yedi köyün hovardası çilli horozum",
+        "Hindilerin korkulu rüyası, çilli horozum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,46 @@
   "yore": "Elazığ",
   "hikaye": "Dağlar Dağımdır Benim (Elazığ), Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlar dağımdır benim",
+        "Gam ortağımdır benim",
+        "Söyletme çok ağlarım",
+        "Yaman çağımdır benim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy dağlar dağlar dağlar",
+        "Başı dumanlı dağlar",
+        "Göğsü çimenli dağlar",
+        "Yol verin yârim gele",
+        "Dinsiz imansız dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağları dağlasınlar",
+        "Goy beni ağlasınlar",
+        "O yârin çevresiyle",
+        "Yaremi bağlasınlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oy dağlar dağlar dağlar",
+        "Başı dumanlı dağlar",
+        "Göğsü çimenli dağlar",
+        "Ben derdimi söylesem",
+        "Gün durur bulut ağlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

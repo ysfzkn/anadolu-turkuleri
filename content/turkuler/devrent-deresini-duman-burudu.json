@@ -4,7 +4,38 @@
   "yore": "İzmir",
   "hikaye": "Devrent Deresini Duman Bürüdü, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devrent Deresini Duman Bürüdü",
+        "Dumanın İçinde Dudu'm Yürüdü",
+        "Dudu'mu Derelere Kimler Sürüdü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaldır Dudu'm Kollarını Göster Boyunu",
+        "Dudum'un Yollarıa Kıydım Canımı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaymakçı Kahvesinde Masalar Kuruldu",
+        "Masanın Başında Süleyman Vuruldu",
+        "Saatine Varmadan Ödemiş'e Duyuldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaldır Dudu'm Kollarını Göster Boyunu",
+        "Dudum'un Yollarıa Kıydım Canımı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

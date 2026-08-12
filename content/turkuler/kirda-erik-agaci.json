@@ -4,7 +4,36 @@
   "yore": "Sinop",
   "hikaye": "Kırda Erik Ağacı, Vikikaynak'ın Sinop türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Sinop yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırda Erik Ağacı,Etrafında Alıcı",
+        "Oğluna Meyil Verdim, Darılma Zeynep Bacı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dillala Dillala, Paralar Verdim Tellala",
+        "Tellal Gözün Kör Olsun, Beni Verdin Dillere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırda Şeker Kamışı, Erken Doğmuş Güneşi",
+        "Öyle Bir Yar Sevdimki, Dünyada Yoktur Bir Eşi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırda Elma Biter Mi, Gökte Yıldız Biter Mi",
+        "Bana Yardan Geç Derler, Seven Yardan Geçer Mi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

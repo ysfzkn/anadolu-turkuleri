@@ -4,7 +4,46 @@
   "yore": "Kayseri",
   "hikaye": "Akşam Aşıp Gidiyor, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) Akşam Aşıp Gidiyor",
+        "Fikrim Şaşıp Gidiyor",
+        "Ela Gözlü Sevdiğim",
+        "Dağlar Aşıp Gidiyor (Keklik)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Keklik Yaman Keklik Çil Keklik Aman",
+        "Çık Dağların Başına Da Öt Keklik Aman",
+        "Gak Gak Gubarak Gubarak Gubarak Öt Keklik Aman",
+        "Kekliği Düz Ovada Avlarlar Aman",
+        "Güzellere Meyil Bağlarlar Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of) Akşam Harede Kaldı",
+        "Fitil Yare De Kaldı",
+        "Kara Gözlü Sevdiğim",
+        "Bilmem Nerede Kaldı (Keklik)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Keklik Yaman Keklik Çil Keklik Aman",
+        "Çık Dağların Başına Da Öt Keklik Aman",
+        "Gak Gak Gubarak Gubarak Gubarak Öt Keklik Aman",
+        "Kekliği Düz Ovada Avlarlar Aman",
+        "Güzellere Meyil Bağlarlar Aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

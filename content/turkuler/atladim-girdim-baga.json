@@ -4,7 +4,54 @@
   "yore": "Burdur",
   "hikaye": "Atladım Girdim Bağa, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atladım girdim bağa",
+        "Tek tek bastım yaprağa",
+        "O yâr benim olmazsa",
+        "Vallah girmem toprağa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amanın imanım top şeker",
+        "Aslanım neler çeker",
+        "O zalimin elinden",
+        "Mazlumum neler çeker",
+        "Civanım neler çeker"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ak üzüm ersin diye",
+        "Sepete girsin diye",
+        "Çıktım çıktım salındım",
+        "Yâr beni görsün diye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arıktan atladınmı",
+        "Yorganı kapladınmı",
+        "A benim eski dostum",
+        "Yârimi sakladınmı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karanfil uçlanır mı",
+        "Gerdan gümüşlenirmi",
+        "Bir yâr sedim gencecik",
+        "Ellere bağışlanırmı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

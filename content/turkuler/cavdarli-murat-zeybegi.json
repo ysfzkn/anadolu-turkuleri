@@ -4,7 +4,44 @@
   "yore": "Aydın",
   "hikaye": "Çavdarlı Murat Zeybeği, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çakdım çakdım manáyárıma yanmadı",
+        "Dört yanıma bakdım gızan galmadı",
+        "Gaş gādaşım gaş güççük Üsseyin",
+        "Efändän sänä ātık imdat galmadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yukādan gälän Ödemiş goludur",
+        "Manayırım häp fişäk doludur",
+        "Gaş gādaşım gaş güççük Üsseyin",
+        "Furucak sänä Ödemiş'in golu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Varın bakın Muradımın halına",
+        "Goynu dolmuş algānan gana",
+        "Varın söylän Muradımın halasına",
+        "Tokdur neynäsin manayır yarasına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sökänin gavakları",
+        "Dökülür yaprakları",
+        "Baňa dālär Väzirõlu Murat",
+        "Yakarım gonakları"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

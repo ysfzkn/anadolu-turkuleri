@@ -4,7 +4,38 @@
   "yore": "Kastamonu",
   "hikaye": "Üç Güzel Oturmuş İskambil Oynar, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üç Güzel Oturmuş İskambil Oynar (Yar Yandım Aman)",
+        "İskambil Üstüne Bülbüller Konar (Ey)",
+        "Herkes Sevdiğine Böyle Mi Yanar (Yar Yandım Aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A Benim Zülfü Siyahım Garden Beyazım",
+        "Annen Seni Südilen Mi Yoğurdu Süt Beyazım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Konaklar Yaptırdım A Yarim Yüceden Yüce (Yar Yandım Aman)",
+        "İçinde Yatmadım Üç Gün Üç Gece (Ey)",
+        "Kurbanlar Keseyim A Yarim Sardığım Gece (Yar Yandım Aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A Benim Zülfü Siyahım Garden Beyazım",
+        "Annen Seni Südilen Mi Yoğurdu Süt Beyazım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

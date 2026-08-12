@@ -4,7 +4,26 @@
   "yore": "Kırıkkale",
   "hikaye": "Yüce Dağ Başına Yağan Kar İdim, Vikikaynak'ın Kırıkkale türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırıkkale yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başına yağan kar idim",
+        "Yağdı yağmur güneş vurdu eridim",
+        "Evvel yarin sevdiğide ben idim",
+        "Şimdi uzaklardan bakan ben oldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başında yatmış uyumuş",
+        "Ela gözlerini uyku bürümüş",
+        "Evvel güçcüğüdü şimdi büyümüş",
+        "Şimdi uzaklardan bakan ben oldum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

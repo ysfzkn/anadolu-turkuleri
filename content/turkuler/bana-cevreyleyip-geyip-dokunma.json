@@ -4,7 +4,44 @@
   "yore": "Amasya",
   "hikaye": "Bana Cevreyleyip Geyip Dokunma, Vikikaynak'ın Amasya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Amasya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bana Cevreyleyip Geyip Dokunma,",
+        "Naz Ederken Hatırıma Dokunma,",
+        "Ağam Da Gel Gel, Paşam Da Gel Gel,",
+        "Gülüm De Gel, Gel, Gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül Yerine Dikenleri Sokunma,",
+        "Sana Has Bahçada Gonca Güller Var.",
+        "Ağam Da Gel Gel, Paşam Da Gel Gel,",
+        "Gülüm De Gel, Gel, Gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Neylersin De Elin Gülün Ararsın,",
+        "Sana Has Bahçada Gonca Güller Var.",
+        "Ağam Da Gel Gel, Paşam Da Gel Gel,",
+        "Gülüm De Gel, Gel, Gel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eğilip De Serçeşme Den Su İçme,",
+        "Sana Ab-I Hayat Bunca Göller Var",
+        "Ağam Da Gel Gel, Paşam Da Gel Gel,",
+        "Gülüm De Gel, Gel, Gel"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

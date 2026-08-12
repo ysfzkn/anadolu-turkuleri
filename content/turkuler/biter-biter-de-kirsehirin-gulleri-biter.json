@@ -4,7 +4,74 @@
   "yore": "Kırşehir",
   "hikaye": "Biter Biter de Kırşehir'in Gülleri Biter, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Biter Biter De Kırşehir'in Gülleri Biter",
+        "(Efendim) Şakıyıp Dalında Bülbüller Öter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Ammman Amman Aman",
+        "Sebep Amman Amman Aman",
+        "Bir Tanem Amman",
+        "Çırpınıp Dalında Bülbüller Öter"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Ammman Amman Aman",
+        "Sebep Amman Amman Aman",
+        "Efendim Amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aynam Düştü Yerlere",
+        "Karıştı Gazellere",
+        "Tabiyatım Kurusun",
+        "Düşkünüm Güzellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzelleri Çoktur Hep Yeni Yeter",
+        "(Efendim) Kaşının Üstünde Keman Görünür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Ammman Amman Aman",
+        "Sebep Amman Amman Aman",
+        "Bir Tanem Amman",
+        "Kaşının Üstünde Keman Görünür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Ammman Amman Aman",
+        "Sebep Amman Amman Aman",
+        "Efendim Amman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beylik Martin Duvarda",
+        "Bir Yar Sevdim Hovarda",
+        "Allah Bizi Kavuştur",
+        "Su Yolunda Pınarda"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

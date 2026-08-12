@@ -4,7 +4,63 @@
   "yore": "Yozgat",
   "hikaye": "Ekin Ektim Çöllere, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin Ektim Çöllere De,",
+        "Yoldurmadım Ellere.",
+        "On Beşinde Yar Sevdim De,",
+        "Sezdirmedim Ellere."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "çıt çıt çedene de,",
+        "Çıt Çıt Çıt Çıt Çetenede,",
+        "Sar Bedeni Bedene.",
+        "Dünya Dolu Yar Olsa Da,",
+        "Alacağım Bidane."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin Ektim Gül Bitti De,",
+        "Dalında Bülbül Öttü.",
+        "Ötme Ey Garip Bülbül De,",
+        "Yarim Aklıma Düştü."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıt Çıt Çıt Çıt Çetenede,",
+        "Sar Bedeni Bedene.",
+        "Dünya Dolu Yar Olsa Da,",
+        "Alacağım Bidane."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekine Firaz Derler De,",
+        "Güzele Beyaz Derler.",
+        "Her Kime Derdim Yansam Da,",
+        "Yana Yana Gez Derler."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıt Çıt Çıt Çıt Çetenede,",
+        "Sar Bedeni Bedene.",
+        "Dünya Dolu Yar Olsa Da,",
+        "Alacağım Bidane."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

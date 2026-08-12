@@ -4,12 +4,23 @@
   "yore": "Aydın",
   "hikaye": "Yörük Ali Destanı, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{Harici medya",
+        "|video1=[https://www.youtube.com/watch?v=O2pYjjyBMt8 Hasan Mutlucan - Su Dalma'dan Gectin mi (Yoruk Ali Efe)]",
+        "|video2=[https://www.youtube.com/watch?v=FuxypK8jeH4 Mefharet Yıldırım - Şu Dalma'dan geçtin mi]",
+        "|video3=[https://www.youtube.com/watch?v=WM9XeSjKL8Q Lütfi Güneri - Yörük Ali (Zeybek)]",
+        "}}"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Y%C3%B6r%C3%BCk%20Ali%20Destan%C4%B1%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=O2pYjjyBMt8",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

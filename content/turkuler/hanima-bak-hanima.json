@@ -4,12 +4,78 @@
   "yore": "İzmir",
   "hikaye": "Hanıma Bak Hanıma, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{ Harici medya",
+        "|video1=[https://www.youtube.com/watch?v=BBzFIuysdyI Χανουμάκια (Μέσα στην Πόλη βρίσκομαι) ]",
+        "|video2=[https://www.youtube.com/watch?v=h5e_aQv_V2c Dilek Koç -Mavilim Uyanda Gel ]",
+        "|video3=[https://www.youtube.com/watch?v=T2dYw__zSF4 Mete Tafracı - Oğlan Yaylı (Türkülerle Kastamonu)]",
+        "|video4=[https://www.youtube.com/watch?v=5DzKDoO-tr8 Κοντός Κώστας - Αποκριάτικο]",
+        "}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanıma bak hanıma",
+        "Hanımın fistanına",
+        "Hanıma bak hanıma",
+        "Hanımın fistanına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O al fistanını",
+        "Topla da gel yanıma",
+        "O al fistanını",
+        "Topla da gel yanıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman hanım Ayşem",
+        "Doyamadım tadına",
+        "A kız seni kaçıracam",
+        "Annene inadına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Enterisi var aldan",
+        "Bir yar sevdim yakından",
+        "Enterisi var aldan",
+        "Bir yar sevdim yakından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İstedim de vermediler",
+        "Mevlam gelsin hakkından",
+        "İstedim de vermediler",
+        "Mevlam gelsin hakkından"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman hanım Ayşem",
+        "Doyamadım tadına",
+        "A kız seni kaçıracam",
+        "Annene inadına"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Han%C4%B1ma%20Bak%20Han%C4%B1ma%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=BBzFIuysdyI",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

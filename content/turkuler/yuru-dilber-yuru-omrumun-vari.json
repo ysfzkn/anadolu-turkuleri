@@ -4,12 +4,78 @@
   "yore": "Ankara",
   "hikaye": "Yürü Dilber Yürü Ömrümün Varı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey yürü dilber yürü ömrümün varı",
+        "Eridi kalmadı dağların karı vay vay",
+        "Günde on beş kere gördüğüm yari",
+        "Aylar yıllar geçti göremez oldum vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalarda üzüm, yosmalarda gözüm",
+        "Biraz daha büyüsem, çapkınlıkta gözüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey yürü dilber yürü saçın sürünsün",
+        "Aç beyaz göğsünü sinen görünsün vay vay",
+        "Evvel benim idin şimdi kiminsin",
+        "Şimdi uzaklardan bakan ben oldum vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalarda üzüm, yosmalarda gözüm",
+        "Biraz daha büyüsem, çapkınlıkta gözüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emme iş biliyon emme ustasın",
+        "Ben biliyom yar için hastasın",
+        "Ne şirinsin ne de güzel yosmasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmalarda üzüm, yosmalarda gözüm",
+        "Biraz daha büyüsem, çapkınlıkta gözüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Arap oğlu",
+        "Fırlan bize doğru",
+        "Dabancalar dolu",
+        "Git gavurun oğlu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ela gözlerini sevdiğim dilber",
+        "Yanağın bağlardan lale getirir",
+        "Bu kaş bu göz sen de oldukça",
+        "Akıbet başına bela getirir"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Y%C3%BCr%C3%BC%20Dilber%20Y%C3%BCr%C3%BC%20%C3%96mr%C3%BCm%C3%BCn%20Var%C4%B1%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=I8coWGmRIhw",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

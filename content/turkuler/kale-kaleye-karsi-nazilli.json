@@ -4,7 +4,40 @@
   "yore": "Aydın",
   "hikaye": "Kale Kaleye Karşı (Nazilli), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye karşı",
+        "Kalenin ardı çarşı",
+        "Bir gül olsam açılsam",
+        "Dosta düşmana karşı (aman sevda)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nedir bende bu sevda sevda",
+        "Sevgilerim çok sende"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çaya vardım çayladım",
+        "Çayda balık avladım",
+        "Ben de nazlı yarimi görünce",
+        "Hüngür hüngür ağladım (aman sevda)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Nedir bende bu sevda sevda",
+        "Sevgilerim çok sende"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

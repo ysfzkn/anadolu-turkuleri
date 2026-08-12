@@ -4,7 +4,44 @@
   "yore": "Rize",
   "hikaye": "Bir Türkü Diyeceğim, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Türkü Diyeceğim",
+        "Nazmiye Uyanır Mı",
+        "Geldik Karşı Karşıya",
+        "Buna Can Dayanır Mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suyu Koydum Fincana",
+        "Aşık Oldum Ben Sana",
+        "Yanayırum Nazmiye",
+        "Yazık Değil Mi Bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sevdalıyım Duramam",
+        "Başımı Kaldıramam",
+        "Bu Sevdalı Başımnan",
+        "Nereye Gitsem Duramam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ne Sevimli Çiçeksin",
+        "Bardağa Koysam Seni",
+        "İkbalim Yok Nazmiye",
+        "Felek Ağlattı Beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

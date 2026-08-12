@@ -4,12 +4,66 @@
   "yore": "Bursa",
   "hikaye": "Şimşir Pınarın Üstüyem (Mustafa Çağlar), Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şimşir pınarı geçtin mi",
+        "Şimşir pınarı aman aman",
+        "Var aman aman geçtin mi",
+        "Düşmanlarını aman aman seçtin mi",
+        "Gel benim efendim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yere vurdum anlımı",
+        "Düşmanlarım canlı mı",
+        "Her tarafım kanlı mı",
+        "Söyle yarim gel bana",
+        "Aman aman dostumsun",
+        "İnsaf eyle gel bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şimşir pınarın üstüyüm",
+        "Şimşir pınarın aman aman",
+        "Var aman aman üstüyüm",
+        "Allar giyenin aman aman dostuyum",
+        "Gel benim efendim aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yere vurdum anlımı",
+        "Düşmanlarım canlı mı",
+        "Her tarafım kanlı mı",
+        "Söyle yarim gel bana",
+        "Aman aman dostumsun",
+        "İnsaf eyle gel bana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yere vurdum anlımı",
+        "Düşmanlarım canlı mı",
+        "Her tarafım kanlı mı",
+        "Söyle yarim gel bana",
+        "Aman aman dostumsun",
+        "İnsaf eyle gel bana"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=%C5%9Eim%C5%9Fir%20P%C4%B1nar%C4%B1n%20%C3%9Cst%C3%BCyem%20(Mustafa%20%C3%87a%C4%9Flar)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=c7vIwyiilnQ",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

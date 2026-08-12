@@ -4,7 +4,44 @@
   "yore": "Edirne",
   "hikaye": "Aman Dayler, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Dayler, Yol Verin A Beyler,",
+        "Ben Sılama Varayım.",
+        "Sılam Yeşil Yaprak Açmış,",
+        "A Ben Nasıl Dayanayım."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küp İçinde Unum Var Aman,",
+        "Allah'tan Umudum Var.",
+        "O Yar Benim Olursa,",
+        "Dedelere Mumum Var."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küp İçinde Nişasta Aman,",
+        "İşittim Yarim Hasta.",
+        "Hastamısın Be Yarim,",
+        "Yapayım Sana Muska."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küp İçinde Bulgurum Aman,",
+        "Keman Kasa Vurgunum.",
+        "Bana Sabırsız Diyorlar,",
+        "Ben Sabirli Bir Kulum."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

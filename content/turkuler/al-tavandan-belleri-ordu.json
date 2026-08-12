@@ -4,7 +4,44 @@
   "yore": "Ordu",
   "hikaye": "Al Tavandan Belleri, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al tavandan belleri",
+        "Belle bellemeleri",
+        "Kız ablana söyleme",
+        "Gezdiğimiz yerleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di nargile nargile",
+        "Kalk gidelim yar gile",
+        "Bizim şişe boşalmış",
+        "Doldurun güle güle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir taş attım sazlara",
+        "Gitti vurdu kazlara",
+        "Anne beni evlendir",
+        "İstediğim kızlarla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di nargile nargile",
+        "Kalk gidelim yar gile",
+        "Bizim şişe boşalmış",
+        "Doldurun güle güle"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

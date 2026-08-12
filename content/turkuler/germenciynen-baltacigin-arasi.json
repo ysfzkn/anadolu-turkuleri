@@ -4,7 +4,38 @@
   "yore": "Aydın",
   "hikaye": "Germenciynen Baltacığın Arası, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Germenciynen Balatcığın Arası (Aman Aman Of)",
+        "Yaktı Beni Dom Dom Kurşun Yarası",
+        "Aman Doktor Nedir Bunun Çaresi (Aman Aman Of)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitti Yarim Gitti Elden Ne Çare",
+        "Kader Kısmet Böyle Yazmış Ne Çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meyhaneye Vardım Emme İçmedim (Aman Aman Of)",
+        "Arkadaşım Düşman İmiş Bilmedim",
+        "Yedi Yerimden Kurşun Yedim Ölmedim (Aman Aman Of)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gitti Yarim Gitti Elden Ne Çare",
+        "Kader Kısmet Böyle Yazmış Ne Çare"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

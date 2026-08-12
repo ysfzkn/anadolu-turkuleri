@@ -4,7 +4,46 @@
   "yore": "Muğla",
   "hikaye": "Yüce Dağ Başında Bir Goyun Meler, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce Dağ Başında Bir Goyun Meler (Yar Aman Da) Bir Goyun Meler",
+        "Goyunun Sesleri De (Yar Aman Da) Bağrımı Deler",
+        "Ne Melersin Goyunum (Yar Yar Aman Da) Vazgeç Guzundan",
+        "Gkoyunu Güdersin Guzu Gütmezsin",
+        "Gütdüceğin Yerlerde Otlar Bitmesin",
+        "Ah Yar Yar Dost Dost Medet Yar Yar Dozt Yarim Yar Yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız Bana Geleydin Ölürmün Acından",
+        "Öğütler Mi Aldın Anandan Bacından",
+        "Kız Ben Ölüyorum (Ah Aman Aman Aman) Senin De Öcünden",
+        "Eskiden Sevdiğim Sen Değil Misin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elmanın İyisini Yüke Tutarlar",
+        "Çürük Çarığını Yabana Atarlar",
+        "Kız İlen Gelini (Ah Aman Aman Aman) Bir Mi Tutarlar",
+        "Yorma Gelin Yorma Seyran Senindir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hünkarım Beyim Aman Sultanım Canım Aman",
+        "Dönüver Usul Boylum Meydana Gelin Aman",
+        "Hünkarım Beyim Aman Sultanım Canım Aman",
+        "Dönüver Usul Boylum Meydana Gelin Yar Gelin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

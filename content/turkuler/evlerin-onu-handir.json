@@ -4,7 +4,62 @@
   "yore": "İzmir",
   "hikaye": "Evlerin Önü Handır, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü handır",
+        "Yanar yüreğim külhandır",
+        "Evlerinin önü handır",
+        "Yanar yüreğim külhandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Görmeyeli çok zamandır",
+        "Sana ben yalvarayım mı",
+        "Görmeyeli çok zamandır",
+        "Sana ben yalvarayım mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü nane",
+        "Ben kül oldum yane yane",
+        "Evlerinin önü nane",
+        "Ben kül oldum yane yane"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kafir isen gel imane",
+        "Sana ben yalvarayım mı",
+        "Kafir isen gel imane",
+        "Sana ben yalvarayım mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü mersin",
+        "Mevlam da seni bana versin",
+        "Evlerinin önü mersin",
+        "Mevlam da seni bana versin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşama kalma da gel",
+        "Sana ben yalvarayım mı",
+        "Akşama kalma da gel",
+        "Sana ben yalvarayım mı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

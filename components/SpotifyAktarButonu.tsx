@@ -4,9 +4,7 @@ import { useState } from "react";
 import { SpotifyIkon } from "./MarkaIkonlari";
 import { tarayiciSupabase } from "@/lib/supabase/client";
 import { olayKaydet } from "@/lib/analytics";
-
-const SPOTIFY_SCOPES =
-  "playlist-modify-public playlist-modify-private user-read-email";
+import { SPOTIFY_SCOPES } from "@/lib/spotify-scopes";
 
 const HATA_MESAJ: Record<string, string> = {
   "spotify-baglanti-gerekli": "Aktarmak için Spotify hesabını bağla",
@@ -18,13 +16,16 @@ const HATA_MESAJ: Record<string, string> = {
   "spotify-yetki": "Spotify çalma listesi izni eksik",
   "liste-yok": "Liste bilgisi eksik",
   "liste-bulunamadi": "Liste bulunamadı veya erişim iznin yok",
+  "spotify-esleme-tablosu-yok": "Spotify liste bağlantısı için veritabanı güncellemesi gerekli",
+  "spotify-esleme-kaydedilemedi": "Spotify liste bağlantısı kaydedilemedi",
+  "spotify-api": "Spotify listesine ulaşılamadı",
 };
 
-export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
+export function SpotifyAktarButonu({ listeId, spotifyUrl: ilkSpotifyUrl }: { listeId: string; spotifyUrl?: string | null }) {
   const [durum, setDurum] = useState<"hazir" | "calisiyor" | "bitti" | "hata">(
     "hazir",
   );
-  const [url, setUrl] = useState<string | null>(null);
+  const [url, setUrl] = useState<string | null>(ilkSpotifyUrl ?? null);
   const [mesaj, setMesaj] = useState("");
   const [baglantiGerekli, setBaglantiGerekli] = useState(false);
 
@@ -43,6 +44,7 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
       if (d.url) {
         setUrl(d.url);
         setDurum("bitti");
+        setMesaj(d.zatenGuncel ? "Spotify listen zaten güncel." : d.guncellendi ? "Spotify listen güncellendi." : "Spotify listen oluşturuldu.");
         olayKaydet("spotify_aktarim_tamamlandi", { eklenen: d.eklenen ?? 0, toplam: d.toplam ?? 0 });
       } else {
         setMesaj(HATA_MESAJ[d.hata] ?? "Aktarılamadı");
@@ -91,19 +93,6 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
     }
   }
 
-  if (durum === "bitti" && url) {
-    return (
-      <a
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#1DB954] px-4 text-sm font-semibold text-white hover:bg-[#1aa34a]"
-      >
-        <SpotifyIkon className="h-4 w-4" /> Spotify'da aç
-      </a>
-    );
-  }
-
   return (
     <div className="w-full sm:w-auto">
       <div className="flex flex-wrap items-center gap-2">
@@ -113,8 +102,9 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
         className="inline-flex min-h-11 items-center gap-2 rounded-xl border border-[#1DB954]/50 px-4 text-sm font-semibold text-[#16883f] transition-colors hover:bg-[#1DB954] hover:text-white disabled:cursor-wait disabled:opacity-60"
       >
         <SpotifyIkon className="h-4 w-4" />
-        {durum === "calisiyor" ? "Aktarılıyor…" : "Spotify'a aktar"}
+        {durum === "calisiyor" ? "Güncelleniyor…" : url ? "Spotify listesini güncelle" : "Spotify'a aktar"}
       </button>
+      {url && <a href={url} target="_blank" rel="noopener noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-[#1DB954] px-4 text-sm font-semibold text-white hover:bg-[#1aa34a]"><SpotifyIkon className="h-4 w-4" /> Spotify'da aç</a>}
       {baglantiGerekli && (
         <button
           type="button"
@@ -131,6 +121,7 @@ export function SpotifyAktarButonu({ listeId }: { listeId: string }) {
           <span>{mesaj}. {baglantiGerekli ? "Hesabını yeniden yetkilendirip tekrar deneyebilirsin." : "Lütfen biraz sonra yeniden dene."}</span>
         </div>
       )}
+      {durum === "bitti" && mesaj && <p role="status" className="mt-2 text-xs font-medium text-[#28523f]">{mesaj}</p>}
       {durum === "calisiyor" && mesaj && <p role="status" className="mt-2 text-xs text-ceviz-light">{mesaj}</p>}
     </div>
   );

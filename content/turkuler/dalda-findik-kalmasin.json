@@ -4,7 +4,56 @@
   "yore": "Ordu",
   "hikaye": "Dalda Fındık Kalmasın, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalda Fındık Kalmasın",
+        "Başakçılar Almasın",
+        "İyi Toplayın Kızlar",
+        "Mal Sahibi Saymasın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Fındığım",
+        "Çıtır Çıtır Kırdığım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalda Fındık Tekleme",
+        "Derdime Dert Ekleme",
+        "Ben Buradan Gidersem",
+        "Yar Sen Beni Bekleme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Fındığım",
+        "Çıtır Çıtır Kırdığım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Fındığın İçini",
+        "Yar Senden Ayrı Yemem",
+        "Bugün Gördüm Yarimi",
+        "Öldüğüme Gam Yemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Fındığım",
+        "Çıtır Çıtır Kırdığım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

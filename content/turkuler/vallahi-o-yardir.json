@@ -4,7 +4,53 @@
   "yore": "Diyarbakır",
   "hikaye": "Vallahi O Yârdır, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vallahi O Yardır",
+        "Billahi O Yardır",
+        "Sinemin Üstünde",
+        "Hala O Dağdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavi Yüzük Firuze",
+        "Haber Verin Horoza",
+        "Horoz Bugün Ötmesin",
+        "Var Gelmiş Hanemize"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vallahi O Yardır",
+        "Billahi O Yardır",
+        "Sinemin Üstünde",
+        "Hala O Dağdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu Dağın Ötesine",
+        "Mailem Var Sesine",
+        "Yarim Keklik Ben Doğan",
+        "Düşeydim Ensesine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vallahi O Yardır",
+        "Billahi O Yardır",
+        "Sinemin Üstünde",
+        "Hala O Dağdır"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

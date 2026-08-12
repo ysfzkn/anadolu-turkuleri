@@ -4,12 +4,61 @@
   "yore": "Burdur",
   "hikaye": "Ayağında Kundura (Burdur), Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayağında kundura",
+        "Yar gelir dura dura",
+        "A benim nazlı yarim",
+        "Geçerken bize uğra"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman çiçeğim",
+        "Sen doldur ben içeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saç üstünde kavurma",
+        "Yar saçların savurma",
+        "Bileğinden tutunca",
+        "Anne diye bağırma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman çiçeğim",
+        "Sen doldur ben içeyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kabağın kökeniyim",
+        "Dibinin dikeniyim",
+        "Ben güzeli çok severim",
+        "Çirkine tövbeliyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman aman aman aman çiçeğim",
+        "Sen doldur ben içeyim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Aya%C4%9F%C4%B1nda%20Kundura%20(Burdur)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=Tbsg5zqNReM",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

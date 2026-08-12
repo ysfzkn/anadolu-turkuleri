@@ -4,7 +4,56 @@
   "yore": "Ankara",
   "hikaye": "Ayaş Yollarından Aştım da Geldim, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayaş Yollarından Aştım Da Geldim",
+        "Boyunu Boyuma Ölçtüm De Geldim",
+        "Güzeller İçinden Seçtim De Geldim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah Yandım Yandırma Beni",
+        "Seviyorum Diyerek Gandırma Beni",
+        "Derin Uykulardan Kaldırma Beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayaş Yollarında Kervanın Mı Var",
+        "Beni Öldürmeye Fermanın Mı Var",
+        "Ağlamaya Sızlamaya Dermanın Mı Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah Yandım Yandırma Beni",
+        "Seviyorum Diyerek Gandırma Beni",
+        "Derin Uykulardan Kaldırma Beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayva Çiçek Açmış Yaz Mı Gelecek",
+        "Gönül Bu Sevdadan Vaz Mı Geçecek",
+        "Bana Ettiklerin Az Mı Gelecek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yandım Allah Yandım Yandırma Beni",
+        "Seviyorum Diyerek Gandırma Beni",
+        "Derin Uykulardan Kaldırma Beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

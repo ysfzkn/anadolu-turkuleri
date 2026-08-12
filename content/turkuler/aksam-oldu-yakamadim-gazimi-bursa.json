@@ -4,12 +4,61 @@
   "yore": "Bursa",
   "hikaye": "Akşam Oldu Yakamadım Gazımı (Bursa), Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Akşam oldu yakamadım gazımı gazımı",
+        "Kadir Mevlam böyle yazmış yazımı yazımı",
+        "Kadir Mevlam böyle yazmış yazımı yazımı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gülüm Bandırmam",
+        "Sevdiğim jandarmam ayrılmam ayrılmam",
+        "Ben ayrılmadım düşmanlar ayırdı yarimden, eşimden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Penceresi aya karşı parlıyor parlıyor",
+        "Benim yarim köşelerde ağlıyor ağlıyor",
+        "Benim yarim köşelerde ağlıyor ağlıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gülüm Bandırmam",
+        "Sevdiğim jandarmam ayrılmam ayrılmam",
+        "Ben ayrılmadım düşmanlar ayırdı yarimden, eşimden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Parmağında hartem yüzük taşları taşları",
+        "Hilal olmuş o yarimin kaşları kaşları",
+        "Hilal olmuş o yarimin kaşları kaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman gülüm Bandırmam",
+        "Sevdiğim jandarmam ayrılmam ayrılmam",
+        "Ben ayrılmadım düşmanlar ayırdı yarimden, eşimden"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Ak%C5%9Fam%20Oldu%20Yakamad%C4%B1m%20Gaz%C4%B1m%C4%B1%20(Bursa)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=Ck8cqnEm_rY",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

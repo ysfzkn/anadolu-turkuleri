@@ -4,7 +4,59 @@
   "yore": "Artvin",
   "hikaye": "Dağlar Kızı, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen Gideli Sızım Sızım Sızlarım Dağlar Kızı",
+        "Ya Sen Çıkıpta Gel Ya Ben Geleyim Dağlar Kızı",
+        "Seni Çalar Seni Söyler Sazlarım Dağlar Kızı",
+        "Ya Sen Çıkıpta Gel Ya Ben Geleyim Dağlar Kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyli Leyli Leyli Leyli Gül Leyli Gülüm Leyli",
+        "Leyli Leyli Leyli Leyli Can Leyli Canım Leyli",
+        "Leyli Leyli Leyli Leyli Güzeller Güzeli Leyli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seferdeki Gemiler Hep Döndüler Dağlar Kızı",
+        "Şehrin Işıkları Tek Tek Söndüler Dağlar Kızı",
+        "Bir Ben Uykusuzum Yangınlardayım Dağlar Kızı",
+        "Ya Sen Çıkıpta Gel Ya Ben Geleyim Dağlar Kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyli Leyli Leyli Leyli Gül Leyli Gülüm Leyli",
+        "Leyli Leyli Leyli Leyli Can Leyli Canım Leyli",
+        "Leyli Leyli Leyli Leyli Güzeller Güzeli Leyli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara Tren Dolu Gidip Boş Geldi Dağlar Kızı",
+        "Senden Gelen Sefa Geldi Hoş Geldi Dağlar Kızı",
+        "Bahar Bitti Bak Yaz Bitti Kış Geldi Dağlar Kızı",
+        "Ya Sen Çıkıpta Gel Ya Ben Geleyim Dağlar Kızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyli Leyli Leyli Leyli Gül Leyli Gülüm Leyli",
+        "Leyli Leyli Leyli Leyli Can Leyli Canım Leyli",
+        "Leyli Leyli Leyli Leyli Güzeller Güzeli Leyli"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

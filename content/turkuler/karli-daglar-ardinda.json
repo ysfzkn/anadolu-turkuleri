@@ -4,7 +4,44 @@
   "yore": "Ankara",
   "hikaye": "Karlı Dağlar Ardında, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karlı dağlar ardında",
+        "Nede güzel Eğriova",
+        "Karlı dağlar ardında",
+        "Nede güzel Eğriova"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "O güzelim yaylayı",
+        "Seyretsek doya doya",
+        "O güzelim yaylayı",
+        "Seyretsek doya doya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzel köyüm Karaşar",
+        "Yolu dağları aşar",
+        "Güzel köyüm Karaşar",
+        "Yolu dağları aşar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karaşarın içinde",
+        "Nede güzeller yaşar",
+        "Karaşarın içinde",
+        "Nede güzeller yaşar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

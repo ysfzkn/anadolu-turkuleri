@@ -4,7 +4,26 @@
   "yore": "Burdur",
   "hikaye": "Devesi Gater Gater Çilbiri Suya Batar, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devesi gater gater, çilbiri suya batar",
+        "Gız oğlanı görünce sallar çevresin atar",
+        "Ala deve mor köşek al basmadan yün döşek",
+        "Geçme güzel buradan, eller ardına düşek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devesi duzdan gelir, yükü Kıbrıs'tan gelir",
+        "Oğlan hasta olunca ilacı kızdan gelir",
+        "Mor devenin gızgını, döner döner ıssırır",
+        "Güzel kızı görünce, oğlan olur esiri"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

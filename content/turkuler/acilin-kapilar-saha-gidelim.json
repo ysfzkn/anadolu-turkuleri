@@ -5,7 +5,80 @@
   "sozYazari": "Pir Sultan Abdal",
   "hikaye": "Açılın Kapılar Şaha Gidelim, Pir Sultan Abdal'ın en bilinen deyişlerindendir. Sivas'ta tutukluyken 'Şah demeden söyle' isteğine karşılık içinde defalarca 'Şah' geçen deyişler söylediği; bunun ardından idam edildiği anlatılır.\nBuradaki 'Şah', hem inancın hem başkaldırının simgesidir. Pir Sultan Abdal kamu malı bir ozandır; deyiş, direnişin sesi olarak kuşaklar boyu yaşamıştır.",
   "ozet": "Pir Sultan Abdal'ın, 'Şah' demekten men edilmesine rağmen inatla Şah'ı andığı, direniş simgesi deyiş.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hızır Paşa bizi berdar etmeden",
+        "Açılın kapılar Şah'a gidelim",
+        "Siyaset günleri gelip çatmadan",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bunda bilmeyeni bildirirler mi",
+        "Eli bağlı namaz kıldırırlar mı",
+        "Yoksa Şah diyeni öldürürler mi",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aslımız Muhammet, kıymayın cellatlar",
+        "Üstümüzde biter davacı otlar",
+        "Ölüm Allah emri, ya eziyetler",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Her nereye baksam yolum dumandır",
+        "Pirim bana küfür etse imandır",
+        "Zincir boynum sıktı, hâlim yamandır",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sağlıklı mı ola dostun illeri",
+        "Karşıda görünen tozlu yolları",
+        "Şah'tan elçi gelmiş dem bülbülleri",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güzel Şah'ım çıktı mı ola köşküne",
+        "Can dayanmaz gayretine, müşküne",
+        "Seni beni Yaradan'ın aşkına",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapısı yok, bacasından bakarım",
+        "Gözlerimden hasret yaşı dökerim",
+        "Şah'a giden bir bezirgân tutarım",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pir Sultan Abdal'ım, güzel Şah canım",
+        "Ağlamaktır benim demim devranım",
+        "Arşta melek, yerde çeşm-i efgânım",
+        "Açılın kapılar Şah'a gidelim"
+      ]
+    }
+  ],
   "calim": {
     "notlar": "Alevî-Bektaşî deyiş formu."
   },

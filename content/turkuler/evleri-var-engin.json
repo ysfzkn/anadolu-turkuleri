@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Evleri Var Engin, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri var engin",
+        "Babası var zengin",
+        "Name benim dengim",
+        "Yandım Name Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin gelin gelin",
+        "Öldüm Name Gelin",
+        "Bir tomurcuk gül iken",
+        "Soldum Name Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşlarında rastık",
+        "Baş altında yastık",
+        "Name'm ile küstük",
+        "Yandım Name Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin gelin gelin",
+        "Öldüm Name Gelin",
+        "Bir tomurcuk gül iken",
+        "Soldum Name Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri benzer hana",
+        "Gözleri benzer cama",
+        "Mail oldum sana",
+        "Yandım Name Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin gelin gelin",
+        "Öldüm Name Gelin",
+        "Bir tomurcuk gül iken",
+        "Soldum Name Gelin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

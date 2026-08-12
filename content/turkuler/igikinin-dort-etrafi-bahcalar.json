@@ -4,7 +4,33 @@
   "yore": "Elazığ",
   "hikaye": "Iğiki'nin Dört Etrafı Bahçalar, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğiki'nin dört etrafı bahçalar",
+        "Yar oturmuş pencerede def çalar",
+        "Bohçalar havar yarim bohçalar",
+        "Hovardalar kendi kendin parçalar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Hey ağalar ben vuruldum yürekten",
+        "Benim içün tabip gelsin Hüvek'ten"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Iğıkı'nın dört etrafı Meteris",
+        "Meteristen çüfte gurşun atarız",
+        "Üç gardaşız bir âleme yeteriz"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

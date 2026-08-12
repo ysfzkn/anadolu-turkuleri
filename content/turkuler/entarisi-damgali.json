@@ -4,7 +4,38 @@
   "yore": "Balıkesir",
   "hikaye": "Entarisi Damgalı, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi damgalı",
+        "Penceresi halkalı",
+        "Alacaksan al beni",
+        "Benim başım kavgalı",
+        "Nina ninina nininina"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asılı yelek yüzü",
+        "Ayırdı felek bizi",
+        "Ayıranlar sürünsün",
+        "Kavuştur Mevla'm bizi",
+        "Nina ninina nininina"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçelerde çam fıstık",
+        "Dallerini biz kestik",
+        "Allah nasip eylesin",
+        "İkimize bir yastık",
+        "Nina ninina nininina"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

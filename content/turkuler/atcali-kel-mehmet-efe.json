@@ -4,7 +4,53 @@
   "yore": "Aydın",
   "hikaye": "Atçalı Kel Mehmet Efe, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aydın dağlarında gezerim gayri",
+        "Yazıldı fermanım okundu gayri",
+        "Aldım martinimi çıktım dağlara",
+        "Dünya bir olsa tutulmam gayri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atçalı Mehmet'im bilsinler beni",
+        "Yoksulun yanında görsünler beni",
+        "Koyarım bu yola bu tatlı canımı",
+        "Dünya bir olsa tutulmam gayri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On iki yaşımda binerdim taya",
+        "Minnet etmezdim paşaya beye",
+        "Bizi yaman bildirmişler devlete",
+        "Dünya bir olsa tutulmam gayri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dururken önce erazil yürüdü",
+        "Ol vakit dağları duman bürüdü",
+        "Kahpe beyler, atçalı kel yürüdü",
+        "Şol beylerde yüz yalanı seyrettim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devirdiler vekil-harcın dizini",
+        "Bitirdiler zaptiyenin işini",
+        "Üç beş canın da deldiler başını",
+        "Ilgıt ılgıt akan kanı seyrettim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

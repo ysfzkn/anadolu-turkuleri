@@ -4,12 +4,85 @@
   "yore": "Ankara",
   "hikaye": "Misket Geliyor (Mustafa Çağlar), Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Misket geliyor misket",
+        "Çekiyorum hep hasret",
+        "Böyle hasret çekersem aman aman",
+        "Ölürüm bir gün elbet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim aslan yârim",
+        "Dağlara yaslan yârim",
+        "Dağlar cefa götürmez",
+        "Sineme yaslan yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim aslan yârim",
+        "Dağlara yaslan yârim",
+        "Dağlar cefa götürmez",
+        "Sineme yaslan yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güvercin uçuverdi",
+        "Kanadın açıverdi",
+        "El kızı değil mi aman aman",
+        "Sevdi de kaçıverdi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim hacı yârim",
+        "Başımın tacı yârim",
+        "Eller bana acımaz",
+        "Sen bari acı yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim hacı yârim",
+        "Başımın tacı yârim",
+        "Eller bana acımaz",
+        "Sen bari acı yârim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kale kaleye karşı",
+        "Kalenin ardı çarşı",
+        "Gel seninle gezelim aman aman",
+        "Dosta düşmana karşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "A benim aslan yârim",
+        "Dağlara yaslan yârim",
+        "Dağlar cefa götürmez",
+        "Sineme yaslan yârim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Misket%20Geliyor%20(Mustafa%20%C3%87a%C4%9Flar)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=SWQaZpcqr2s",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

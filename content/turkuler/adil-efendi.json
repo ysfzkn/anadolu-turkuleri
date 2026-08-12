@@ -4,7 +4,42 @@
   "yore": "Diyarbakır",
   "hikaye": "Adil Efendi, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dedim Adil Efendi Gel Kıyma Bana",
+        "Dedi İnsaf Ettim Geldim İmana",
+        "Dedim Bir Busecik Kerem Et Bana",
+        "Dedi Kamaştırır Gözlerin Yavaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dedim Adülere Niçin Uyarsın",
+        "Dedi Bu Haberleri Kimden Duyarsın",
+        "Zalım Didelerin Kana Boyarsın",
+        "Dedi Aşık Olan Döker Kanlı Yaş"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karlı Dağlar Kalmayınca Aradan",
+        "Haber Aldım O Kaşları Karadan",
+        "Ver Muradım Yeri Göğü Yaradan",
+        "Koyma Beni Bu Hasrete Öleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gah Sefa Buldu Gönlüm Ahinesi Gahi Keder",
+        "Ali Alem Böyledir Böyle Gelir Böyle Gider"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,80 @@
   "yore": "Aydın",
   "hikaye": "Gerali Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gerali'nin boyu serviden uzun",
+        "Seyredelim dağları yaz ile güzün",
+        "İzmir'in içinde Belloz'un kızın",
+        "Sararım kara bağrıma diyen Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuyucak pınarı harlayıp akar",
+        "Gerali'nin kurşunu dağları yakar",
+        "Yığmışlar kumaşı şala kim bakar",
+        "Yolları bedesten eden Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kuyucak'tan çıktım kollarım bağlı",
+        "Aydın kasabasında urganım yağlı",
+        "Gelmeyin kardeşler çiğerim dağlı",
+        "Kıymayın gençliğime dedi Gerail"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Fağfuri fincandan içtim şarap",
+        "İnerim İzmir'e eylerim harap",
+        "Arkadaşımı sorarsan Parmaksız Arap",
+        "Yakarım İzmir'i diyen Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Adelle'den çıktım ellerim bağlı",
+        "Manisa konağında urganım yağlı",
+        "Sana ne ettim a Karaosmanoğlu",
+        "Gençlik elden gitti dedi Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İzmir'in içinde midem bulandı",
+        "Okundu fermanım kalbim inandı",
+        "Behey Kar'osmanoğlu sana kimler yarandı",
+        "Gençlik elden giti diyen Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kova kova beni Adelle'de tuttular",
+        "Ak ellerime taş kelepçe taktılar",
+        "Omuzumuzu yardılar da mumlar yaktılar",
+        "Aldırdın gençliği diyen Gerali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gerali dedikleri bir kara dana",
+        "Çekti bıçağı tüngüdü meydana",
+        "Gerali'yi doğuracak binde bir ana",
+        "İnersem İzmir'e yakarım dedi Gerali"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

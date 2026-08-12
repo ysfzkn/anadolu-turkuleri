@@ -4,7 +4,88 @@
   "yore": "Kayseri",
   "hikaye": "Gesi Bağlarını Dolanıyorum, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{Harici medya",
+        "|video1=[https://m.youtube.com/watch?si=aQiniGxYuPA_PUUk&v=2aoRw_h_8es&feature=youtu.be Selda Bagcan - Gesi Bağları]",
+        "|video2=[https://m.youtube.com/watch?si=ixkkIP6zhMkhDaCV&v=r9mWBHReBHI&feature=youtu.be Gesi Bağları - Katina Farasopoulou/Karamanlılar ve Kapadokya Rumlarının söylediği versiyon]",
+        "|video3=[https://m.youtube.com/watch?si=hoNPnJeUSPRlZvp3&v=Pn4W0OpAkk0&feature=youtu.be barış manço gesi bağları]",
+        "|video4=[https://m.youtube.com/watch?si=kmmaLtnKFSslKAdD&v=CeqdP-x757M&feature=youtu.be Aleyna Tilki - Gesi Bağları (Canlı Performans)]",
+        "|video5=[https://m.youtube.com/watch?si=BOe0yZ-ca-JiST8t&v=pEQc2R1KqpE&feature=youtu.be Aleyna Tilki - Gesi Bağları (Kral Pop Akustik)]",
+        "}}",
+        "Bir of çeksem gayri dağlar yıkılır",
+        "Bugün posta günü anam canım sıkılır",
+        "Herkesin mektubu gelir okunur",
+        "Benim ciğerime anam hançer sokulur",
+        "Atma garip anam atma şu dağların ardına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dereden akıyor bulanık seller",
+        "Derdim içerimde anam ne bilsin eller",
+        "Otursam ağlasam divane derler",
+        "Ya ben ağlamayım anam kimler ağlasın",
+        "Şu cahil göynümü anam kimler eylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi Bağlarından gelsin geçilsin",
+        "Gurulsun masalar irakılar içilsin",
+        "Herkes sevdiğini alsın seçilsin",
+        "Gel otur yanıma hallerimi söyleyim",
+        "Halimden bilmiyor ben o yari neyleyim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek vurun kampanamı gaziler",
+        "Ben cahilim gemiklerim sızılar,",
+        "Anam babam arkam sıra bozular",
+        "Atma garip anam atma şu dağların ardına",
+        "Kimseler yanmasın yansın anam derdime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül koymuslar menekşenin adinı",
+        "Dünyada almadim anam ben muradımı",
+        "Ben ölürsem dertli koyun adımı",
+        "Dertli deyi yazın mezerimin taşını",
+        "Merhamet eyleyin gözlerimin yaşını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi Bağlarını Dolanıyorum",
+        "Yitirdim Yarimi (Anam) Aranıyorum",
+        "Bir Çift Selamına Güveniyorum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atma Anam Atma Beni Dağlar Ardına",
+        "Kimseler Yanmasın Anam Yansın Derdime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gesi Bağlarının Gülleri Sarı",
+        "Ayrıldım Yarimden (Anam) Gülmeyim Gayrı",
+        "Gitti İsen Selamın Kesme Bari"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

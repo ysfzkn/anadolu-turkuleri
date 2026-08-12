@@ -4,12 +4,45 @@
   "yore": "Aydın",
   "hikaye": "On İkidir Aydın'ın Dermeni, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On ikidir amanın aman şu Aydın'ın dermeni",
+        "Dermencisi Urum değil ah Ermeni",
+        "Dermencisi Urum değil ah Ermeni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya kellesi amanın aman ya kendisi ah gelmeli",
+        "Ay karanlık Efem gece vurdular ah beni",
+        "Ölmeden mezara koydular beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur amanın aman uzun da yağmur selvisi",
+        "Bendedir bende sende garip ah al götür",
+        "Bendedir bende sende garip ah al götür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Otu koydum amanın aman incede belli ah kendisi",
+        "Ay karanlık Efem gece vurdular ah beni",
+        "Ölmeden mezara koydular beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=On%20%C4%B0kidir%20Ayd%C4%B1n'%C4%B1n%20Dermeni%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=5dEDDby3dGU",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,44 @@
   "yore": "Edirne",
   "hikaye": "Kahve Yemen'den Gelir (Edirne), Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemen'den Gelir",
+        "Bülbül Çemenden Gelir",
+        "Ak Topuk Beyaz Gerdan",
+        "Her Gün Seyrandan Gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağam Yar Paşam Yar",
+        "El Duymadan Çabuk Gel",
+        "Şıngır Gıngır Şıngırdatma Zilleri",
+        "Adam Adam Oynatır Dillere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemensiz Olmaz",
+        "Bülbül Çemensiz Olmaz",
+        "Ak Topuk Beyaz Gerdan",
+        "Her Gün Seyransız Olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağam Yar Paşam Yar",
+        "El Duymadan Çabuk Gel",
+        "Şıngır Gıngır Şıngırdatma Zilleri",
+        "Adam Adam Oynatır Dillere"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

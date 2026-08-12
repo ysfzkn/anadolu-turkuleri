@@ -4,7 +4,43 @@
   "yore": "Adana",
   "hikaye": "Gide Gide Bir Söğüde Dayandım, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gide gide bir söğüde dayandım dayandım,",
+        "O söğüdün allarına boyandım gelin boyandım.",
+        "Ben o yâre dağlar kadar güvendim güvendim,",
+        "Güvendiğim dağlar elime geldi elime geldi."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ölem ben ölem ben,",
+        "Kurban olam ağzındaki",
+        "Dile ben gelin dile ben."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağlar size var mı zararım zararım,",
+        "Yar yitirdim uğrun uğrun ararım gelin ararım.",
+        "Ben o yâri her gelenden sorarım sorarım,",
+        "Güvendiğim dağlar elime geldi elime geldi."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce dağ başına çadır açarım açarım",
+        "Çadırın içine güller saçarım gelin saçarım",
+        "Ben o yâri çalar dağa kaçarım kaçarım",
+        "Güvendiğim dağlar elime geldi elime geldi."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

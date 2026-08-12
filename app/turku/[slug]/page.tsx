@@ -9,13 +9,15 @@ import { CalimPanel } from "@/components/CalimPanel";
 import { PlatformLinks } from "@/components/PlatformLinks";
 import { ShareCard } from "@/components/ShareCard";
 import { ListeyeEkle } from "@/components/ListeyeEkle";
-import { OnizlemeCalar } from "@/components/OnizlemeCalar";
+import { TurkuMedyaVitrini } from "@/components/TurkuMedyaVitrini";
+import { SpotifyListeyeEkle } from "@/components/SpotifyListeyeEkle";
 import { RepertuvaraEkle } from "@/components/RepertuvaraEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 import { YoreVitrini } from "@/components/YoreVitrini";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 import { editorTurkusuBul } from "@/lib/editor-data";
+import { sozDurumu } from "@/lib/telif";
 
 export function generateStaticParams() {
   return tumSluglar().map((slug) => ({ slug }));
@@ -49,6 +51,8 @@ export default async function TurkuSayfasi({
   const bolge = bolgeBul(ilSlug(turku.yore));
   const url = `https://anadoluturkuleri.com/turku/${turku.slug}`;
   const yoreUrl = `https://anadoluturkuleri.com/yore/${ilSlug(turku.yore)}`;
+  const dogrudanYoutube = turku.baglantilar.find((b) => b.platform === "youtube" && b.dogrulandi)?.url;
+  const sozHaklari = sozDurumu(turku.sozYazari, turku.ozan);
 
   return (
     <article className="mx-auto max-w-3xl px-4 py-10">
@@ -108,16 +112,19 @@ export default async function TurkuSayfasi({
 
       <div className="mb-7"><YoreVitrini il={turku.yore} bolge={bolge} kompakt /></div>
 
-      {/* Dinle + Önizleme + Listeye ekle */}
+      <TurkuMedyaVitrini
+        slug={turku.slug}
+        baslik={turku.baslik}
+        yore={turku.yore}
+        ozan={turku.ozan ?? turku.sozYazari}
+        youtubeUrl={dogrudanYoutube}
+      />
+
+      {/* Platformlar + kişisel arşiv işlemleri */}
       <section className="mb-8 flex flex-wrap items-center gap-3">
         <PlatformLinks baglantilar={turku.baglantilar} />
-        <OnizlemeCalar
-          sorgu={`${turku.baslik} ${turku.ozan ?? turku.sozYazari ?? "türkü"}`}
-          baslik={turku.baslik}
-          yore={turku.yore}
-          ozan={turku.ozan ?? turku.sozYazari}
-        />
         <ListeyeEkle turkuSlug={turku.slug} />
+        <SpotifyListeyeEkle turkuSlug={turku.slug} />
         <RepertuvaraEkle turkuSlug={turku.slug} />
         <Link href={`/soy-agaci?turku=${turku.slug}`} className="inline-flex min-h-11 items-center rounded-xl border border-cini/30 bg-cini/5 px-4 text-sm font-semibold text-cini-dark hover:bg-cini hover:text-white">◇ Soy ağacında gör</Link>
       </section>
@@ -153,11 +160,18 @@ export default async function TurkuSayfasi({
                   Sözleri
                 </h2>
                 <p className="text-sm italic text-ceviz-light">
-                  {turku.sozYazari
-                    ? "Bu türkünün sözleri bilinen bir söz yazarına ait olduğundan, telif durumu netleşene dek burada paylaşılmamaktadır."
-                    : "Doğrulanmış söz metni henüz arşive eklenmemiştir."}{" "}
-                  Dinlemek için yukarıdaki bağlantıları kullanabilirsiniz.
+                  {sozHaklari === "izin-gerekli"
+                    ? "Bu eserin tam söz metnini yayımlamak için eser sahibinin veya hak sahibinin izni gerekir."
+                    : "Bu anonim ya da kamu malı eserin doğrulanmış söz metni henüz arşive eklenmemiştir."}{" "}
+                  {sozHaklari === "izin-gerekli"
+                    ? "Eseri dinlemek için yukarıdaki bağlantıları kullanabilirsiniz."
+                    : "Güvenilir bir kaynağınız varsa arşive katkı olarak gönderebilirsiniz."}
                 </p>
+                {sozHaklari !== "izin-gerekli" && (
+                  <Link href={`/katki?turku=${turku.slug}`} className="mt-4 inline-flex min-h-11 items-center rounded-xl border border-toprak/35 px-4 text-sm font-semibold text-ceviz transition hover:border-toprak hover:bg-toprak/10">
+                    Söz kaynağı öner →
+                  </Link>
+                )}
               </section>
             )}
             {turku.calim && (

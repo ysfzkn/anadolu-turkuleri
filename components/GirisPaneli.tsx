@@ -5,9 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { authHataMesaji, hashHataKodu } from "@/lib/auth-hatalari";
 import { tarayiciSupabase } from "@/lib/supabase/client";
 import { GoogleIkon, SpotifyIkon } from "./MarkaIkonlari";
-
-const SPOTIFY_SCOPES =
-  "playlist-modify-public playlist-modify-private user-read-email";
+import { SPOTIFY_SCOPES } from "@/lib/spotify-scopes";
 
 export function GirisPaneli() {
   const searchParams = useSearchParams();

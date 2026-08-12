@@ -4,7 +4,62 @@
   "yore": "Samsun",
   "hikaye": "Unuttun mu Zalim, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yıllar geçti gelmez oldu,",
+        "Mektubunu yazmaz oldu,",
+        "Yoksa başka yar mı buldu,",
+        "Hiç sılaya dönmez oldu."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Unutun mu zalim beni,",
+        "Kıymetimi bilmez oldun,",
+        "Yıllar aylar geldi geçti,",
+        "Hiç Samsun’a gelmez oldun."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek benden çok mu derdin,",
+        "Bu derdi sen bana verdin,",
+        "Nice zalimler dururken,",
+        "Dert verecek beni gördün."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Unutun mu zalim beni,",
+        "Kıymetimi bilmez oldun,",
+        "Aktı gitti gözyaşlarım",
+        "Bir kerecik dinmez oldu."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Felek seni bulamadım,",
+        "Kalemini kıramadım,",
+        "Sabit yazmışsın yazımı,",
+        "Çok uğraştım silemedim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Unutun mu zalim beni,",
+        "Kıymetimi bilmez oldun,",
+        "Aylar geçti yıllar geçti",
+        "Hiç Ferhat’ı sormaz oldun."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

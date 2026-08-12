@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Turku } from "@/lib/types";
 import { OZAN_GORSELLERI } from "@/lib/ozan-gorselleri";
+import { TurkuKapagi } from "./TurkuKapagi";
 
 /** Kart için gereken hafif alt küme (hikâye/sözler taşımaz). */
 export type KartTurku = Pick<
@@ -33,15 +34,21 @@ export function TurkuCard({ turku }: { turku: KartTurku }) {
       href={`/turku/${turku.slug}`}
       className="group relative block overflow-hidden rounded-2xl border border-toprak/30 bg-parsomen shadow-motif transition-all hover:-translate-y-0.5 hover:border-kilim/50"
     >
-      <div className="relative h-28 overflow-hidden" style={{ background: `linear-gradient(125deg, ${kimlik.renk[0]}, ${kimlik.renk[1]})` }}>
-        {ozan ? (
-          <img src={ozan.src} alt="" loading="lazy" className="h-full w-full object-cover object-[center_35%] opacity-75 transition duration-500 group-hover:scale-105 group-hover:opacity-90" />
-        ) : (
-          <>
-            <span className="absolute -right-4 -top-12 select-none font-serif text-[10rem] leading-none text-white/15 transition-transform duration-500 group-hover:rotate-6" aria-hidden>{kimlik.simge}</span>
-            <span className="absolute left-5 top-4 h-10 w-10 rotate-45 border border-white/25" aria-hidden><span className="absolute inset-2 border border-white/20" /></span>
-          </>
-        )}
+      <div className="relative h-36 overflow-hidden" style={{ background: `linear-gradient(125deg, ${kimlik.renk[0]}, ${kimlik.renk[1]})` }}>
+        <TurkuKapagi
+          slug={turku.slug}
+          baslik={turku.baslik}
+          yore={turku.yore}
+          ozan={ozanAdi ?? undefined}
+          fallback={ozan ? (
+            <img src={ozan.src} alt="" loading="lazy" className="h-full w-full object-cover object-[center_35%] opacity-75 transition duration-500 group-hover:scale-105 group-hover:opacity-90" />
+          ) : (
+            <>
+              <span className="absolute -right-4 -top-12 select-none font-serif text-[10rem] leading-none text-white/15 transition-transform duration-500 group-hover:rotate-6" aria-hidden>{kimlik.simge}</span>
+              <span className="absolute left-5 top-4 h-10 w-10 rotate-45 border border-white/25" aria-hidden><span className="absolute inset-2 border border-white/20" /></span>
+            </>
+          )}
+        />
         <div className="absolute inset-0 bg-gradient-to-t from-ceviz/75 via-transparent to-transparent" />
         <span className="absolute bottom-3 left-4 text-xs font-semibold uppercase tracking-[.18em] text-white/90">{ozan ? ozanAdi : `${il} ezgileri`}</span>
       </div>

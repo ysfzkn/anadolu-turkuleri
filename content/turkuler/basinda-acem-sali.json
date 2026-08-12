@@ -4,7 +4,44 @@
   "yore": "Ankara",
   "hikaye": "Başında Acem Şalı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başında Acem Şalı (Vay Sevdalı Sevdalı Sevdalım)",
+        "Sen Ol Başımın Tacı (Belalım)",
+        "Gözlerin Benim Olsa (Vay Sevdalı Sevdalı Sevdalım)",
+        "İstemem Dünya Malı (Belalım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay Sevdalı Sevdalı Sevdalım",
+        "Nedir Senin Hallerin Belalım",
+        "Deniz Dalgası Gibi Sevdalım",
+        "Yalpa Vurur Şalvarın Belalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına Şal Takıyo (Vay Sevdalı Sevdalı Sevdalım)",
+        "Pencereden Bakıyo (Belalım)",
+        "Ela Gözün Endamın (Vay Sevdalı Sevdalı Sevdalım)",
+        "Cümle Alemi Yakıyo (Belalım)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vay Sevdalı Sevdalı Sevdalım",
+        "Nedir Senin Hallerin Belalım",
+        "Deniz Dalgası Gibi Sevdalım",
+        "Yalpa Vurur Şalvarın Belalım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

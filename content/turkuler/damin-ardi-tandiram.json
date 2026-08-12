@@ -4,7 +4,62 @@
   "yore": "Adıyaman",
   "hikaye": "Damın Ardı Tandıram, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damın ardı tandıram",
+        "Maşa vuram yandıram",
+        "Gülüm uykuda kalmış",
+        "Kalmıyam uyandıram"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di gel di gel güllü can",
+        "Sana kurbandır bu can",
+        "Di gel di gel güllü can",
+        "Sana hayrandır bu can"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damın ardı kapkara",
+        "Gülüm gel beni ara",
+        "Şaçına kumlar dolmuş",
+        "Tarak getirem tara"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di gel di gel güllü can",
+        "Sana kurbandır bu can",
+        "Di gel di gel güllü can",
+        "Sana hayrandır bu can"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damın ardı aşhana",
+        "Nazlı yârim gel bana",
+        "Eğer seni vermezse",
+        "Kin güderim babana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Di gel di gel güllü can",
+        "Sana kurbandır bu can",
+        "Di gel di gel güllü can",
+        "Sana hayrandır bu can"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

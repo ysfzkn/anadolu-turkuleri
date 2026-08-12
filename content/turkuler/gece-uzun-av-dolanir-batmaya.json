@@ -4,7 +4,53 @@
   "yore": "Kars",
   "hikaye": "Gece Uzun Av Dolanır Batmaya, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gece Uzun Av Dolanır Batmaya",
+        "Ele Şirin Yüküm Gelir Yatmaya",
+        "Az Galıpdır Matlubuma Çatmaya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Ay Batandan Sonra Gel Ay Oğlan",
+        "Eller Yatandan Sonra Gel Ay Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim Elin Bahçası Var Bağı Var",
+        "Ne De Şirin Ayvası Var Narı Var",
+        "Bizim Evde Bir Hayırsız Garı Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Ay Batandan Sonra Gel Ay Oğlan",
+        "Eller Yatandan Sonra Gel Ay Oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Başına Döndüğüm Garsın Ceyranı",
+        "Men Olmuşam O Gözlerin Heyrani",
+        "Sen Bize Gelsen Keserem Gurbanı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Ay Batandan Sonra Gel Ay Oğlan",
+        "Eller Yatandan Sonra Gel Ay Oğlan"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

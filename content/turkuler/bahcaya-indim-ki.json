@@ -4,12 +4,61 @@
   "yore": "Elazığ",
   "hikaye": "Bahçaya İndim ki, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçaya indim ki gülleri derem",
+        "Gül değil meramım yarimi görem",
+        "Yar orda ben burda ben nere gidem",
+        "Ah yörü yörü yürü boynan dolanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen uyu ben uykulardan uyanam",
+        "Senin hasretine nasıl dayanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçaya indim ki sıradır taşlar",
+        "Al yeşil geyinmiş servi ağaçlar",
+        "İnsan sevdiğine canlar bağışlar",
+        "Ah yörü yörü yürü boynan dolanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen uyu ben uykulardan uyanam",
+        "Senin hasretine nasıl dayanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçaya indim ki taş bulamadım",
+        "Bir yüzük yaptırdım kaş bulamadım",
+        "Kendime münasip eş bulamadım",
+        "Ah yörü yörü yürü boynan dolanam"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen uyu ben uykulardan uyanam",
+        "Senin hasretine nasıl dayanam"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bah%C3%A7aya%20%C4%B0ndim%20ki%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=uzmjkKdfuIA",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

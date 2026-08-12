@@ -4,7 +4,35 @@
   "yore": "Diyarbakır",
   "hikaye": "Haram Sudan Atladım, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haram Sudan Atladım",
+        "Mantin Çarşaf Topladım",
+        "Muradım Olsun Diye",
+        "Her Derdine Katlandım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlibeden'de Kuş Var",
+        "Kanadında Gümüş Var",
+        "Yarim Getti Gelmedi",
+        "Elbet Bunda Bir İş Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlibeden Kuş Pini",
+        "Oldum Kızlar Düşküni",
+        "Yalın Ayak Baş Açık",
+        "Yola Düştüm Kış Güni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

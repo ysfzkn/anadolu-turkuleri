@@ -4,7 +4,56 @@
   "yore": "Ankara",
   "hikaye": "Vardım Baktım Süt Büşürür, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım Baktım Süt Büşürür (Oğul Oğul Ey)",
+        "Südün Gaymağun Daşurur",
+        "Geldim Deyi De El Gavşurur (Fadime'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah Gara Gaşın Eymeleri",
+        "Gönlüm Almaz Değmeleri",
+        "Çöz Göksünden Düğmeleri Fadime'm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım Baktım Bacasına (Oğul Oğul Ey)",
+        "Sut Buşurur Gocasına",
+        "Yirmilik Altın Peçesine (Fadime'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah Gara Gaşın Eymeleri",
+        "Gönlüm Almaz Değmeleri",
+        "Çöz Göksünden Düğmeleri Fadime'm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vardım Baktım Un Eler Oğul Oğul Ey",
+        "On Parmağını Kınalar",
+        "Gız Seni Doğuran Analar (Fadime'm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah Gara Gaşın Eymeleri",
+        "Gönlüm Almaz Değmeleri",
+        "Çöz Göksünden Düğmeleri Fadime'm"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

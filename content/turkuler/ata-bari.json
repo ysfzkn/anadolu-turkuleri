@@ -4,7 +4,53 @@
   "yore": "Artvin",
   "hikaye": "Ata Barı, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçası Var Bağı Var",
+        "Ayvası Var Narı Var",
+        "Atamızdan Yadigâr",
+        "Bizde Atabarı Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun Uzun Kamışlar",
+        "Ucunu Budamışlar",
+        "Benim Ela Gözlümü",
+        "Gurbete Yollamışlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben Bir Uzun Kamışım",
+        "Yoluna Dikilmişim",
+        "İster Al İster Alma",
+        "Alnına Yazılmışım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Burası Baba Evidir",
+        "Tahtaları Kevidir",
+        "Çalın Vurun Oynayın",
+        "Burası Düğün Yeridir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atabarıdır Barı",
+        "Bahçada Gördüm Yarı",
+        "Sesledim Ses Vermedi",
+        "Ağladı Zarı Zarı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

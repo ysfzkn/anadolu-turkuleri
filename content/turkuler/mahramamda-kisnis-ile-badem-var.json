@@ -4,7 +4,42 @@
   "yore": "Artvin",
   "hikaye": "Mahramamda Kişniş ile Badem Var, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mahramamda Kişniş ile Badem Var",
+        "Yavaş Vuru Köşelerde Adem Var",
+        "Ah Sent Benden Beni Senden Eden Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Güzel Yavaş Vuru Her Yana",
+        "Sallandıkça Kemer Düşer Bir Yana",
+        "Hanım Can Canım Can",
+        "Sırma Çarıda Çarı Bağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalk Gidelim Karaman'a Yukarı",
+        "Sarı Da Çekme Geymiş Altın Tokalı",
+        "Mail Oldum Yar Yüzüne Bakalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Güzel Yavaş Vuru Her Yana",
+        "Sallandıkça Kemer Düşer Bir Yana",
+        "Hanım Can Canım Can",
+        "Sırma Çarıda Çarı Bağı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,35 @@
   "yore": "Burdur",
   "hikaye": "Dereler Davşan İzi, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dereler davşan izi",
+        "Ayırdı düşman bizi",
+        "Ayıran düşman olsun",
+        "Kavuştur mevlam bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üzüm koydum sepete",
+        "Yar oturmuş tepede",
+        "Bir yar sevdim oy aman",
+        "Şan olsun memlekete"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suya gider ok gibi",
+        "Entarisi gök gibi",
+        "Hiç ardına bakmıyor",
+        "Sevdiceği yok gibi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

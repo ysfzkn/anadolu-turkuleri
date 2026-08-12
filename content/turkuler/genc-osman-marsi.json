@@ -4,7 +4,17 @@
   "yore": "Aydın",
   "hikaye": "Genç Osman Marşı, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Of, of Genç Osman dediğin bir küçük uşak",
+        "Beline bağlamış ibrişim kuşak of of!...",
+        "Aman, askerin içinde birinci uşak",
+        "Allah, Allah deyip geçer Genç Osman of, of!"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,35 @@
   "yore": "Artvin",
   "hikaye": "Bulutlar Oynar Oynaşır Felekte, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bulutlar Oynar Oynaşır Felekte",
+        "Gözüm Kaldı Hublar Şahı Melekte (Haydi Haydi Sarıkız)",
+        "Bir Eli Elimde Biri Dilekte",
+        "İçki Kurmuş Otağında Sakinin (Haydi Haydi Sarıkız)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki Engel Birbirine Atışır",
+        "Didem Yaşı Deryalara Katışır (Haydi Haydi Sarıkız)",
+        "Doğram Doğram Olmuş Meze Tutuşur",
+        "İçki Kurmuş Otağında Sakinin (Haydi Haydi Sarıkız)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derya Kenannda Olur Adeler",
+        "Yel Vurdukça Siyah Zülfün Zedeler (Haydi Haydi Sarıkız)",
+        "Dolmuş Kadehlere Tatlı Badeler",
+        "İçki Kurmuş Otağında Sakinin (Haydi Haydi Sarıkız)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

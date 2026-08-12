@@ -4,7 +4,35 @@
   "yore": "Kastamonu",
   "hikaye": "Çayırda Buldum Seni, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayırda buldum seni",
+        "Aman boyundan bildim seni",
+        "Bir gülünü kokmadım",
+        "Aman ellere vermem seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Döndüm derede durdum",
+        "Aman yedi güvercin vurdum",
+        "Güvercini ararken",
+        "Aman ben bir yare vuruldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu düz gider",
+        "Aman bir edalı kız gider",
+        "O kız yolun şaşırmış",
+        "Aman inşallah bize gider"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

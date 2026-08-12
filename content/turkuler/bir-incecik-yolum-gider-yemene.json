@@ -4,12 +4,63 @@
   "yore": "Bilecik",
   "hikaye": "Bir İncecik Yolum Gider Yemen'e, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{Harici medya",
+        "|video1=[https://www.youtube.com/watch?v=qbeAZeATyKY Santuri Recep ve Kemani Küçük Cemal Efe - Bir İncecik Yolum (Taş Plak Arşivi)]",
+        "|video2=[https://www.youtube.com/watch?v=EVToqbToz0 Gördes Türküsü - İzmirli Bedriye Hanım]",
+        "|video3=[https://www.youtube.com/watch?v=COVoJDTYwHA Bir incecik yolum gider yolum gider Yemen'e]",
+        "}}",
+        "Bir İncecik Yolum Gider Yemen'e Beyler Aman",
+        "Ilgıt Ilgıt Kanım Damlar Çemene",
+        "Çok Yalvardım Gelmedi Yar İmana Beyler Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldürün Sayidi Gıyman Ali'ye",
+        "Kellesini Bahşiş Çekin Valiye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bozuldu Mu Ertuğrul'un Alayı Beyler Aman",
+        "Silindi Mi Hamaylının Kalayı",
+        "Yok Mu Da Beyler Gurtulmanın Kolayı Beyler Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldürün Sayidi Gıyman Ali'ye",
+        "Kellesini Bahşiş Çekin Valiye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Saat Üçte Taş Gışlayı Bastılar Beyler Aman",
+        "Abdullayı Darağacına Astılar",
+        "Senemizi Yüz Seneye Kestiler Beyler Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldürün Sayidi Gıyman Ali'ye",
+        "Kellesini Bahşiş Çekin Valiye"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bir%20%C4%B0ncecik%20Yolum%20Gider%20Yemen'e%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=qbeAZeATyKY",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

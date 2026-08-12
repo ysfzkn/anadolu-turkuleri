@@ -4,7 +4,57 @@
   "yore": "Ankara",
   "hikaye": "Atım Araptır Benim, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atım araptır benim aman aman",
+        "Aman yüküm şaraptır benim aman",
+        "Haydi yüküm şaraptır benim aman",
+        "Bu yıl böyle giderse aman aman",
+        "Aman halim haraptır benim vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emişimde gümüşüm bir hoşum aman",
+        "Çokcada içtim serhoşum aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atım kara ben kara aman aman",
+        "Haydi bin gidelim Bolkara (ılgara) aman",
+        "Şu dünyada görmedim aman aman",
+        "Haydi benim gibi bahtı kara aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emişimde gümüşüm bir hoşum aman",
+        "Çokca da içtim serhoşum aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ata binmiş gidiyor aman aman",
+        "Haydi ata neler ediyor aman",
+        "Şu benim nazlı yarim aman",
+        "Haydi beni dertli ediyor aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emişimde gümüşüm bir hoşum aman",
+        "Çokca da içtim serhoşum aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

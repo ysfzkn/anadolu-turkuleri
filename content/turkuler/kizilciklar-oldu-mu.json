@@ -4,7 +4,62 @@
   "yore": "Edirne",
   "hikaye": "Kızılcıklar Oldu mu, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızılcıklar oldu mu",
+        "Selelere doldu mu hey",
+        "Gönderdiğim çoraplar",
+        "Ayağına oldu mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendili eline",
+        "Mendil verdim geline",
+        "Kara kına yollamış",
+        "Yar benim ellerime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kızılcıklar kırmızı",
+        "Alamadım şu kızı hey",
+        "Gerdanında beni var",
+        "Sandım seher yıldızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendili eline",
+        "Mendil verdim geline",
+        "Kara kına yollamış",
+        "Yar benim ellerime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabakası aynalı",
+        "Şu oğlana varmalı hey",
+        "Oğlan çok güzel ama",
+        "Anası olmamalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mendili eline",
+        "Mendil verdim geline",
+        "Kara kına yollamış",
+        "Yar benim ellerime"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

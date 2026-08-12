@@ -4,7 +4,35 @@
   "yore": "Muğla",
   "hikaye": "Karaova Düğünü, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karaova’ya Vardım Güle Oynaya,",
+        "Aziz Arkadaşımı Güvey Koymaya.",
+        "Acımadın Mı Murat Beni Vurmaya,",
+        "Al Kanlar İçinde Kabre Koymaya."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurma Murat Yakışmaz Senin Şanına,",
+        "İnsan Eniştesinin Kıyar Mı Canına.",
+        "Karaova Düğünü Gece Kuruldu,",
+        "Varır Varmaz Güveyin Adi Soruldu."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pehlivanlar Meydana Çıktı Soyundu,",
+        "O Zaman Hacı Gümüş Oğlu Vuruldu.",
+        "Vurma Murat Yakışmaz Senin Şanına,",
+        "İnsan Eniştesinin Kıyar Mi Canına"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

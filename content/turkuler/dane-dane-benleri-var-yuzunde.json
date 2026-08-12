@@ -4,7 +4,53 @@
   "yore": "Kırşehir",
   "hikaye": "Dane Dane Benleri Var Yüzünde, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dane dane benleri var yüzünde",
+        "Can alıcı bakışları yüzünde",
+        "Binbir dat var edasında nazında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünyada yardan datlı var m'ola",
+        "Sallanı sallanı giden yar m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küpeleri yar düşer kulaktan",
+        "Zülüfleri tel te1 olmuş yanaktan",
+        "Ağzı seker bal akıyo dudaktan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünyada yardan datlı var m'ola",
+        "Sallanı sallanı giden yar m'ola"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağır barhanası vardır elinde",
+        "Dallı kelam gelir yarin dilinde",
+        "Kemer olam sevdiğimin belinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dünyada yardan datlı var m'ola",
+        "Sallanı sallanı giden yar m'ola"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

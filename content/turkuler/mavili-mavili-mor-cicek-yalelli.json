@@ -4,7 +4,54 @@
   "yore": "Bilecik",
   "hikaye": "Mavili Mavili Mor Çiçek Yalelli, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mavili mavili mor çiçek",
+        "Mavili burdan geçecek",
+        "Ben bir çeşme yaptırdım",
+        "Sevdalılar içecek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Yalellim yalellim yalellellim",
+        "Aman yalel yalellel yalellim",
+        "Yalellim yalellim yalel havası",
+        "Vermiyor gızını gavur anası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gökten zembil iniyor",
+        "Fırıl fırıl dönüyor",
+        "Ateş misin be yarim",
+        "Seni gören yanıyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leblebi koydum tasa",
+        "Doldurdum basa basa",
+        "Benim yarim çok güzel",
+        "Azıcık boydan kısa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Süpürgemin telleri",
+        "Süpürmüyor yerleri",
+        "Nerde olsa bellidir",
+        "Bilecik güzelleri"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,74 @@
   "yore": "Kars",
   "hikaye": "Ay Gız Adın Amandır, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay Gız Adın Amandır",
+        "Hoş Bakışın Yamandır",
+        "Dönen Gece Söz Verdin (Balam)",
+        "Bu Gece Ki Tamamdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gaşın Gözün Şirin Sözün",
+        "Aldı Yazık Canımı",
+        "Men Sene Heyran",
+        "Sen Cana Kurban",
+        "Ay Hanım Hanım",
+        "Sen Menim Canım",
+        "Men Seni Alım",
+        "Dağlara Gaçım Bu Gece"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay Gız Adın Emine",
+        "Şeker Verdim Yemine",
+        "Nenem Seni Beğendi (Balam)",
+        "Gaç Gel Sen De Men İle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gaşın Gözün Şirin Sözün",
+        "Aldı Yazık Canımı",
+        "Men Sene Heyran",
+        "Sen Cana Kurban",
+        "Ay Hanım Hanım",
+        "Sen Menim Canım",
+        "Men Seni Alım",
+        "Dağlara Gaçım Bu Gece"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geline Bak Geline",
+        "Tefin Alıp Eline",
+        "Şirin Şirin Danışır (Balam)",
+        "Gurban Olam Diline"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gaşın Gözün Şirin Sözün",
+        "Aldı Yazık Canımı",
+        "Men Sene Heyran",
+        "Sen Cana Kurban",
+        "Ay Hanım Hanım",
+        "Sen Menim Canım",
+        "Men Seni Alım",
+        "Dağlara Gaçım Bu Gece"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

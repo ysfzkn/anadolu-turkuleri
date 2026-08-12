@@ -4,7 +4,72 @@
   "yore": "Antalya",
   "hikaye": "Kaleden İndim Düze (Antalya), Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaleden İndim Düze (Yavrum)",
+        "Su Bağladım Nergize (Yavrum)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Şaşırdın Beni",
+        "Aşka Düşürdün Beni",
+        "Aşk Adamı Öldürür",
+        "Sevdalara Saldırır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yedi Yıl Kıymet Ettim (Yavrum)",
+        "Ela Gözlü Bir Gıza"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Şaşırdın Beni",
+        "Aşka Düşürdün Beni",
+        "Aşk Adamı Öldürür",
+        "Sevdalara Saldırır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin Ardı Çarşı (Yavrum)",
+        "Dükkanlar Karşı Karşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Şaşırdın Beni",
+        "Aşka Düşürdün Beni",
+        "Aşk Adamı Öldürür",
+        "Sevdalara Saldırır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gel Beraber Gezelim (Yavrum)",
+        "Dosta Düşmana Karşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gülüm Şaşırdın Beni",
+        "Aşka Düşürdün Beni",
+        "Aşk Adamı Öldürür",
+        "Sevdalara Saldırır"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

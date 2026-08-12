@@ -4,7 +4,52 @@
   "yore": "Bursa",
   "hikaye": "Bir Su İçtim Testiden, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir su içtim testiden",
+        "(yavrum) Sensin beni mest eden (hey)",
+        "(aman) Sensin beni mest eden (hey)",
+        "Cennet mekanı olsun",
+        "(yavrum) Seni bana dost eden (hey)",
+        "(aman) Seni bana dost eden (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(hey) Bursalı mısın kadifeli gelin çaydan mı geçtin",
+        "Yanakların al al olmuş konyak mı içtin",
+        "İçtiğimiz konyak mezemiz kaymak",
+        "Sen kimin yarisin yavrum her yanın oynak",
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben ah kızını da ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir su içtim pınardan",
+        "(yavrum) Doyamadım tadından (hey)",
+        "(yavrum) Doyamadım tadından (Hey)",
+        "Bana yardan vazgeç derler",
+        "(aman) Nasıl geçem o yardan (hey)",
+        "(yavrum) Nasıl geçem o yardan (hey)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(hey) Bursalı mısın kadifeli gelin çaydan mı geçtin",
+        "Yanakların al al olmuş konyak mı içtin",
+        "İçtiğimiz konyak mezemiz kaymak",
+        "Sen kimin yarisin yavrum her yanın oynak",
+        "Arabaya sen bin faytona ben",
+        "Anasını sen al kızını da ben ah kızını da ben"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

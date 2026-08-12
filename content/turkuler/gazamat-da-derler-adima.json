@@ -4,7 +4,35 @@
   "yore": "Burdur",
   "hikaye": "Gazamat da Derler Adıma, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazamat da derler adıma",
+        "Çok düşen oldu ardıma",
+        "Beş yüz kater fişeklik kuşandım",
+        "Nazlı yarin derdine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazamat da burdan geçti mi",
+        "Tasdaki sudan içitin mi",
+        "Arifanımın yoluna",
+        "Çille de damına düştün mü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gazamat da daşda oturur",
+        "Candarmalar fermanını getirir",
+        "Kemerin gelinleri",
+        "Gazamat'a gatmer götürür"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

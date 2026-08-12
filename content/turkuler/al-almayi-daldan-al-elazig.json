@@ -4,7 +4,45 @@
   "yore": "Elazığ",
   "hikaye": "Al Almayı Daldan Al (Elazığ), Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al elmayı daldan al",
+        "Daldan alma benden al",
+        "Duydum gelin olisin",
+        "Dur ben ölem ondan al"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Oy Habip Habip Habip",
+        "Oy Habip Habip Habip",
+        "Varmı derdime tabip",
+        "Yokmu derdime tabip"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al alma dört olaydı",
+        "Yiyene dert olaydı",
+        "Bu almanın sahabı",
+        "Sözüne mert olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al alma kızıl alma",
+        "Irafa dizil alma",
+        "O yar bize gelende",
+        "Cebine süzül alma"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

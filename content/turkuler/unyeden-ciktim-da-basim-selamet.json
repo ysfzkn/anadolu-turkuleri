@@ -4,7 +4,53 @@
   "yore": "Ordu",
   "hikaye": "Ünye’den Çıktım da Başım Selamet, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ünye’den Çıktım Başım Selamet",
+        "Ceviz Deresinde Goptu Gıyamet",
+        "Gadın Gız Gardaşım Sana Emanet"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla Anam Ağla Sen Bana Ağla",
+        "Çifte Doktur Getir Yaremi Bağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yedi Garış Gelir Omzumun Eni",
+        "Genç Yaşımda Kabre Koydular Beni",
+        "Anneciğim Bana Söylesin Ninni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla Anam Ağla Sen Bana Ağla",
+        "Çifte Doktur Getir Yaremi Bağla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Martinim Duvarda Asılı Galdı",
+        "Elbisem Sandıkta Basılı Galdı",
+        "Gadın Gız Gardaşı Küsülü Galdı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağla Anam Ağla Sen Bana Ağla",
+        "Çifte Doktur Getir Yaremi Bağla"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

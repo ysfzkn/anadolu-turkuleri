@@ -4,7 +4,53 @@
   "yore": "Antalya",
   "hikaye": "Şu Maşadın Kızları, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{eser başlığı|başlık=Şu Maşadın Kızları|esersahibi=Anonim|bölüm=|önceki=Antalya türküleri|sonraki=|notlar=:Akseki Emir Aşıklar Köyü",
+        "Kaynak Kişi: Mustafa Salman",
+        "Derleyen: Muzaffer Sarıözen (26.10.1949)",
+        "Notaya Alan: Muzaffer Sarıözen}}"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şu maşadın kızları",
+        "Baygın bakar gözleri",
+        "Gözlerrine bakarken",
+        "Kaybettim öküzleri",
+        "BAĞLANTI",
+        "Böyle mi olur asmaların direği",
+        "bir oğlumu edemedim güveyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Entarisi beyazlı",
+        "Geliyor nazlı nazlı",
+        "Bakmayın çalımına",
+        "Evimin üstü sazlı",
+        "BAĞLANTI",
+        "Nerelisin kömür gözlüm nereli",
+        "Verem oldum sana gönül vereli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ocak başı düz başı",
+        "Ben ietemem yüzbaşı",
+        "Olursa paşa olsun",
+        "Dosta düşmana karşı",
+        "BAĞLANTI",
+        "Böyle molur asmaların direği",
+        "Bir oğlumu edemedim güveyi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

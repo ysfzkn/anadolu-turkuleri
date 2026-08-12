@@ -4,7 +4,38 @@
   "yore": "Burdur",
   "hikaye": "Sabah Olur Çocuk Gider Oyuna, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabah olur çocuk gider oyuna",
+        "Oynar oynar kum doldurur koynuna",
+        "Bütün günahlarım baba boynuna",
+        "Baba beni bir çocuğa verdiniz",
+        "Verdinizde günahıma girdiniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabah olur çarığını giyemez",
+        "Akşam olur bir evlek yer süremez",
+        "İki sözü bir arada diyemez",
+        "Hey bacılar buna canmı dayanır",
+        "Akşam yatar kuşluk vakti uyanır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sabah olur çorbasını içemez",
+        "Öğle olur oyunundan geçemez",
+        "Yar olupta bulup beni seçemez",
+        "Baba beni bir çocuğa verdiniz",
+        "Verdinizde günahıma girdiniz"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

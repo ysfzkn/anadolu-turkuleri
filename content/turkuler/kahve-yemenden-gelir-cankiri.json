@@ -4,7 +4,67 @@
   "yore": "Çankırı",
   "hikaye": "Kahve Yemen'den Gelir (Çankırı), Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemen’den gelir",
+        "(A canım) bülbül çimenden gelir (de)",
+        "Ak topuk beyaz gerdan",
+        "(A canım) her gün hamamdan gelir (of)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalyandan gel suna boylum dalyandan aman",
+        "Sen doldur da ben içeyim fincandan aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemensiz olmaz",
+        "(A canım) bülbül çimensiz olmaz",
+        "Yâri güzel olanın",
+        "(A canım) başı dumansız olmaz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalyandan gel suna boylum dalyandan aman",
+        "Sen doldur da ben içeyim fincandan aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve Yemen’den gelir",
+        "Bülbül çemenden gelir aman",
+        "Ak topuk beyaz gerdan",
+        "Her gün hamamdan gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kahve piştiği yerde",
+        "Telve taştığı yerde aman",
+        "Güzel çirkin aranmaz",
+        "Gönül düştüğü yerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çayır çıktı dizime",
+        "Dolaş da gel izime aman",
+        "Yarim bana darılmış",
+        "Hiç bakmıyor yüzüme"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

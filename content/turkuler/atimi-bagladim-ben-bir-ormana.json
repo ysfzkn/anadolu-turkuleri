@@ -4,7 +4,36 @@
   "yore": "Aydın",
   "hikaye": "Atımı Bağladım Ben Bir Ormana, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir ormana",
+        "Benden selam söyle de çapkın oğlana"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan gıdı gıdı da gel gel gel gel",
+        "Eller sarar ah yüreğime dert olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atımı bağladım ben bir meşeye",
+        "Benden selam söyle de çapkın Ayşe'ye"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayşe'm gıdı gıdı da gel gel gel gel",
+        "Eller sarar ah yüreğime dert olur."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

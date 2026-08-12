@@ -4,7 +4,40 @@
   "yore": "Edirne",
   "hikaye": "Pınar Başının Gülleri, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınar Başının Gülleri (Eşim Aman Amman)",
+        "Şak Şak Öter Bülbülleri",
+        "O Yarin Çıtı Pıtı Dilleri (Eşim Aman Amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elimden Aldı Ya Mendili",
+        "Kol Bastı Söndür Kandili",
+        "Öperken Soldurdun Yari"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pınara Vurdum Kazmayı (Eşim Aman Amman)",
+        "Hanımlar Bağlar Yazmayı",
+        "Nerden Öğrendin Gezmeyi (Eşim Aman Amman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elimden Aldı Ya Mendili",
+        "Kol Bastı Söndür Kandili",
+        "Öperken Soldurdun Yari"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

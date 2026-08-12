@@ -4,7 +4,35 @@
   "yore": "Yozgat",
   "hikaye": "Ağ Gelin de İndi m'ola Yayladan, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağ Gelin De İndi M'ola Yayladan (Ağ Gelin)",
+        "Kaşın Değil Gözün Beni Söyleden (Ağ Gelin)",
+        "Bu Güzellik Sana Kadir Mevla'dan (Ağ Gelin)",
+        "Alırım Ahdımı Koymam Kız Sende (Ağ Gelin)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağ Gelin De Oturmuş Daşın Üstüne (Ağ Gelin)",
+        "Daramış Zülfünü De Kaşın Üstüne (Ağ Gelin)",
+        "Bir Selamın Gelmiş Başım Üstüne (Ağ Gelin)",
+        "Ölürem (De) Ahdını Koymam Kız Sende (Ağ Gelin)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüce Dağ Basında Da Yayılır Yılan (Ağ Gelin)",
+        "Göç Etmiş Aylesi Evleri Viran (Ağ Gelin)",
+        "Var Mı Bu Dünyada Sevdiğin Alan (Ağ Gelin)",
+        "Alırım Ahdımı Koymam Ağ Gelin Sürmelim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,56 @@
   "yore": "Muğla",
   "hikaye": "Bazarda Bal Var Gelinim, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bazarda Bal Var Gelinim Bazarda Bal Var",
+        "Sende Bir Hal Var Gelinim Sende Bir Hal Var",
+        "Anana Yalvar Gelinim Paşana Yalvar Gelinim",
+        "Ah Deyle Gelin Gelmeye Kıymatlı Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim Güzelim De Kınan Kutlolsun",
+        "Hem Orda Hem Burda Dilin Tatlolsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bazarda Kuzu Gelinim Bazarda Kuzu",
+        "Tüyü De Kırmızı Gelinim Tüyü De Kırmızı",
+        "Bir Adam Kızı Gelinim Bir Adam Kızı Gelinim",
+        "Ah Deyle Gelin Gelmeye Kıymatlı Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim Güzelim De Kınan Kutlolsun",
+        "Hem Orda Hem Burda Dilin Tatlolsun"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bazarın Üstü Gelinim Bazarın Üstü",
+        "Yar Bana Küstü Gelinim Yar Bana Küstü",
+        "Güveyin Uslu Gelinim Güveyin Uslu Gelinim",
+        "Ah Deyle Gelin Gelmeye Kıymatlı Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim Güzelim De Kınan Kutlolsun",
+        "Hem Orda Hem Burda Dilin Tatlolsun"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

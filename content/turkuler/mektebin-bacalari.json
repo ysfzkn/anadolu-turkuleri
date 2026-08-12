@@ -4,7 +4,26 @@
   "yore": "Muş",
   "hikaye": "Mektebin Bacaları, Vikikaynak'ın Muş türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muş yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mektebin bacaları (vay lele lele lele)",
+        "Ders verir hocaları (uy amman can kurban)",
+        "Kim yarimi sorarsa (vay lele lele lele)",
+        "Odur birincileri vay (uy amman can kurban)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay doğar bedir allah (vay lele lele lele)",
+        "Bu sevda nedir allah (uy amman can kurban)",
+        "Ya benim muradım ver (vay lele lele lele)",
+        "Ya beni öldür allah vay (uy amman can kurban)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

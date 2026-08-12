@@ -4,7 +4,44 @@
   "yore": "Kars",
   "hikaye": "Okum Attım, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Okum Attım Yayım Nerden Asayım",
+        "Kaderim Böyleymiş Kime Küseyim",
+        "Kerbela'da Yatan İmam Hüseyin",
+        "İlahi Gözüme Derman Edersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar Daşı",
+        "Çık Dağlardan Kar Daşı",
+        "Yitirdim Yanar Yürek",
+        "Nerde Bulam Kardaşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deryanın Yüzünde Döner Üç Gemi",
+        "Yiyelim İçelim Sürelim Demi",
+        "Deryalar Bekçisi Ol Hızır Nebi",
+        "İlahi Gözüme Nazar Eylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Güvengez",
+        "Topla Dağda Güvengez",
+        "Ne Varlığa Bel Bağla",
+        "Ne Devlete Güven Gez"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

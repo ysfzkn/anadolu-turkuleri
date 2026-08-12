@@ -4,12 +4,33 @@
   "yore": "Elazığ",
   "hikaye": "Bir Şûh-i Sitemkâr Yine Saldı Beni Derde, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir şuh-i sitemkâr yine saldı beni derde",
+        "Koydu nitekim başımı bin türlü kederde",
+        "Ağlar gezerim her gece, her vakt-i seherde",
+        "Sevdim seveli terk edemem hayrile şerde",
+        "Bir misli melek, zatı peri hüsnü beşerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül bülbüle aşık mı nedir, zârını bekler",
+        "Pervane dahi yanmak için nârını bekler",
+        "Sevdalı gönül göz yorarak yarını bekler",
+        "Sevdim seveli terk edemem hayr ile şerde",
+        "Bir misli melek, zatı peri hüsnü beşerde"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bir%20%C5%9E%C3%BBh-i%20Sitemk%C3%A2r%20Yine%20Sald%C4%B1%20Beni%20Derde%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=woW3wTHjWNY",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

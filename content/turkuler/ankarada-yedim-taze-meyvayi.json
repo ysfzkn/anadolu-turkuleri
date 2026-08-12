@@ -4,7 +4,68 @@
   "yore": "Ankara",
   "hikaye": "Ankara’da Yedim Taze Meyvayı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara’da yedim taze meyvayı",
+        "Boşa çiğnemişim yalan dünyayı",
+        "Keskin’den de sildirmeyin künyeyi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söyleyin anama da anam ağlasın",
+        "Babamın oğlu var beni neylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Trene bindim de tren sallandı",
+        "Zalim doktor ciğerimi elledi",
+        "İyi oldun diye köye yolladı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söyleyin anama da anam ağlasın",
+        "Babamın oğlu var beni neylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ankara’yla şu Keskin’in arası",
+        "Arasına kara duman durası",
+        "Çok doktorlar gezdim yokmuş çaresi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söyleyin anama da anam ağlasın",
+        "Babamın oğlu var beni neylesin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mezarım başında kuşlar ötüşür",
+        "Benzim içtim ciğerlerim tutuşur",
+        "Ağlama Hatice Sefer yetişir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söyleyin anama da anam ağlasın",
+        "Babamın oğlu var beni neylesin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

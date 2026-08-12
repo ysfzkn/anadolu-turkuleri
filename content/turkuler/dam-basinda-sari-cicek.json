@@ -4,7 +4,35 @@
   "yore": "Nevşehir",
   "hikaye": "Dam Başında Sarı Çiçek, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dam Başında Sarı Çiçek (Oy Oy)",
+        "Burdan Kalkak Ürgüp'e Göçek (Nennide Feridem Nenni)",
+        "Ürgüp'e Vardığımız Gece (Oy Oy)",
+        "Hak Yoluna Gurban Kesek (Nennide Feridem Nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gidiyorum İşte Gör (Oy Oy)",
+        "Hayalde Gör Düşte Gör (Nennide Feridem Nenni)",
+        "Gıymatımı Bilmeyon (Oy Oy)",
+        "Bir Kötüye Düş De Gör (Nennide Feridem Nenni)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odaları Köşeli (Oy Oy)",
+        "Gül-Ü Reyhan Döşelide (Nennide Feridem Nenni)",
+        "Ne Ağladım Ne Güldüm (Oy Oy)",
+        "Ben Bu Aşka Düşeli (Nennide Feridem Nenni)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

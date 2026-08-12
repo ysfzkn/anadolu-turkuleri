@@ -4,12 +4,67 @@
   "yore": "Elazığ",
   "hikaye": "Bizim Bağın Kıracı, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim bağın kıracı",
+        "Çüt gezer iki bacı",
+        "Büyüğü hele mele",
+        "Küçüğü can ilacı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim bağda pıtırak",
+        "Yarim gelsin oturak",
+        "Beni sana vermezler",
+        "Bir gün kaçak kurtulak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim bağın kıracı",
+        "Bağ altına bağ altına",
+        "Bağlamış gerdan altına",
+        "Haydi yavrum ayvan altına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çift gezer iki bacı",
+        "Yar ağlarım yar ağlarım",
+        "Yavrum karalar bağlarım",
+        "Selamın gelse ağlarım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Büyüğü hele mele",
+        "Bağ altına bağ altına",
+        "Bağlamış gerdan altına",
+        "Haydi yavrum ayvan altına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Küçüğü can ilacı",
+        "Yar ağlarım yar ağlarım",
+        "Yavrum karalar bağlarım",
+        "Selamın gelse ağlarım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bizim%20Ba%C4%9F%C4%B1n%20K%C4%B1rac%C4%B1%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=kmPcrjZFbGs",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,28 @@
   "yore": "Edirne",
   "hikaye": "Kırmızı Gül Al Bayleyor, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı gül al bayleyor",
+        "Al yanağına tel bayleyor",
+        "Şimdiki kızlar kan ayleyor",
+        "Arzuylan erzediyor deli gönül",
+        "Aman aman yar seni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırmızı gülün alı var",
+        "Hergün aylersem yeri var",
+        "Al yanağında beni var (aman aman)",
+        "Arzuylan erzediyor deli gönül",
+        "Aman aman yar seni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

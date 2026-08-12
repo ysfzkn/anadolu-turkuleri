@@ -4,7 +4,44 @@
   "yore": "Balıkesir",
   "hikaye": "Asmada Salmış Filizi, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmada salmış filizi (tangom)",
+        "Bulamam evinizi",
+        "Şimdi de bildim sevdiğini (tangom)",
+        "Soldurmuşun rengini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tangolara sarıceğım gine (vay vay vay)",
+        "Gine vay gine vay hop gine (vay)",
+        "Güzellerin alıceğim gine (vay vay vay)",
+        "Gine vay gine vay yavrum gine (vay)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Asmada davşan govarım (tangom)",
+        "Düştüm dizimi ovarım",
+        "Ben bu köyü çok sevdim (tangom)",
+        "Beni de burdan everin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tangolara sarıceğım gine (vay vay vay)",
+        "Gine vay gine vay hop gine (vay)",
+        "Güzellerin alıceğim gine (vay vay vay)",
+        "Gine vay gine vay yavrum gine (vay)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

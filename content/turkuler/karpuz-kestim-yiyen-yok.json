@@ -4,7 +4,40 @@
   "yore": "Ankara",
   "hikaye": "Karpuz Kestim Yiyen Yok, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) karpuz kestim yiyen yok (aman)",
+        "(Haydi) halin nedir diyen yok",
+        "(Aman) yenile bir yar sevdim",
+        "(Haydi) gözün aydın diyen yok"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da o kız seni beni aldadır aman",
+        "Sevdalımın gözleri de yoldadır aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) karpuz kestim kırmızı",
+        "(Haydi) şu gelen kimin kızı",
+        "(Aman) gerdanında beni var",
+        "(Haydi) sandım seher yıldızı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman da o kız seni beni aldadır aman",
+        "Sevdalımın gözleri de yoldadır aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

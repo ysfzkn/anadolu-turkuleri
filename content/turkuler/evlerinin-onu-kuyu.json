@@ -4,7 +4,56 @@
   "yore": "Muğla",
   "hikaye": "Evlerinin Önü Kuyu, Vikikaynak'ın Muğla türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Muğla yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü kuyu",
+        "Kuyudan çekerler suyu",
+        "Bu gelinin böyle huyu",
+        "Sana yandım Sarı Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim gelinim Sarı gelinim",
+        "Beyazlar içinde telli gelinim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü kavak",
+        "Yağmur yağar ufak ufak",
+        "Eli kına giydi duvak",
+        "Sana yandım Sarı Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim gelinim Sarı gelinim",
+        "Beyazlar içinde telli gelinim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelin olan böyle m'olur",
+        "Yanağında al olmaz mı",
+        "Sana yandım Sarı Gelin",
+        "Seni seven del'olmaz mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gelinim gelinim Sarı gelinim",
+        "Beyazlar içinde telli gelinim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

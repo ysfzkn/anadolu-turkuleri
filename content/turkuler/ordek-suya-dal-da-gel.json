@@ -4,7 +4,34 @@
   "yore": "Balıkesir",
   "hikaye": "Ördek Suya Dal da Gel, Vikikaynak'ın Balıkesir türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Balıkesir yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ördek suya dal da gel (yâr ninna ninna ninom)",
+        "Yârdan haber al da gel (yâr ninna ninna ninom)",
+        "Eğer yârim gelmezse (yâr ninna ninna ninom)",
+        "Yalvar yakar al da gel (yâr ninna ninna ninomy)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı",
+        "Yâr ninna ninni nom yâr ninna ninna ninom",
+        "Yâr ninna ninni nom yâr ninna ninna ninom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gül dibi oyun oyun (yâr ninna ninna ninom)",
+        "Gül kadar kaldı boyun (yâr ninna ninna ninom)",
+        "Seninki sevda değil (yâr ninna ninna ninom)",
+        "Ettiğin bana oyun (yâr ninna ninna ninom)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

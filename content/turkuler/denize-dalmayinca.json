@@ -4,7 +4,59 @@
   "yore": "Ankara",
   "hikaye": "Denize Dalmayınca, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denize Dalmayınca",
+        "Bir Balık Almayınca",
+        "Bir Buradan Kalkmayız",
+        "Gök Kandil Olmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Alim Nerdesin",
+        "Aman Kaldır Camın Perdesin",
+        "Aman Benim Gibi Dertli Misin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Denize Dalayım Mı",
+        "Bir Balık Alayım Mı",
+        "Ay Battı Güneş Doğdu",
+        "Daha Yalvarayım Mı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Alim Nerdesin",
+        "Aman Kaldır Camın Perdesin",
+        "Aman Benim Gibi Dertli Misin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Söğüt Altı Serindir",
+        "Dibi Pek De Derindir",
+        "Ben Sevdim Eller Aldı",
+        "Bunun Sonu Ölümdür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Aman Alim Nerdesin",
+        "Aman Kaldır Camın Perdesin",
+        "Aman Benim Gibi Dertli Misin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

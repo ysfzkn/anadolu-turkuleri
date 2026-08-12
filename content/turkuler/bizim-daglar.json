@@ -4,12 +4,75 @@
   "yore": "Elazığ",
   "hikaye": "Bizim Dağlar, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bizim dağlar (aman) meşelidir meşeli (yar yar)",
+        "Üç gün oldu (aman) yar sevdaya düşeli (yar yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Feridem aman",
+        "Kibar Şefikam aman",
+        "Bir paytonda kaçalım yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen gidersen (aman) benim halim nic'olur (yar yar)",
+        "Altın yüzük (aman) parmağımda tunç olur (yar yar)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Feridem aman",
+        "Kibar Şefikam aman",
+        "Bir paytonda kaçalım yar yar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Meşelidir bizim dağlar meşeli vay vay",
+        "Üç gün oldu aman yar sevdaya düşeli vay vay",
+        "Kalk gidelim aman bizim oda döşeli vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Feride'm aman kibar Feride'm aman",
+        "Bin paytona da kaçalım vay vay",
+        "El duymadan aman Kanlı Çay'ı da geçelim vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sen gidersen benim halim ni'colur vay vay",
+        "Altın yüzük aman parmağımda tunc olur vay vay",
+        "Sevip sevip aman ayrılması güç olur vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Feride'm aman kibar Feride'm aman",
+        "Bin paytona da kaçalım vay vay",
+        "El duymadan aman Kanlı Çay'ı da geçelim vay vay"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Bizim%20Da%C4%9Flar%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=bQTnmRzwsmc",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

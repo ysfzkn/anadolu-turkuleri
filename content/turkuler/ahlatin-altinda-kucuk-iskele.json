@@ -4,7 +4,50 @@
   "yore": "Bitlis",
   "hikaye": "Ahlat'ın Altında Küçük İskele, Vikikaynak'ın Bitlis türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bitlis yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ahlat'ın altında küçük iskele",
+        "On sekiz yaşımda gittim askere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol ver oy yol ver oy başı dumanlı dağlar",
+        "Yol ver oy yol ver oy göğsü çimenli dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek minareden attım kendimi",
+        "Çok aradım bulamadım dengim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol ver oy yol ver oy başı dumanlı dağlar",
+        "Yol ver oy yol ver oy göğsü çimenli dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yüksek minarede kandiller yanar",
+        "Kandilin şavkına bülbüller konar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yol ver oy yol ver oy başı dumanlı dağlar",
+        "Yol ver oy yol ver oy göğsü çimenli dağlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

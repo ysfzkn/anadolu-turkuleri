@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import Link from "next/link";
 import { tarayiciSupabase } from "@/lib/supabase/client";
 import { SpotifyAktarButonu } from "@/components/SpotifyAktarButonu";
+import { SpotifyListelerim } from "@/components/SpotifyListelerim";
 
 interface Liste {
   id: string;
@@ -11,6 +12,7 @@ interface Liste {
   herkese_acik: boolean;
   paylasim_kodu: string;
   adet: number;
+  spotifyUrl?: string | null;
 }
 
 export default function ListelerimSayfasi() {
@@ -50,6 +52,10 @@ export default function ListelerimSayfasi() {
       .from("listeler")
       .select("id,baslik,herkese_acik,paylasim_kodu,liste_turkuleri(count)")
       .order("olusturulma", { ascending: false });
+    const { data: spotifyBaglantilari } = await supabase
+      .from("spotify_liste_baglantilari")
+      .select("liste_id,spotify_url");
+    const spotifyHaritasi = new Map((spotifyBaglantilari ?? []).map((satir: any) => [satir.liste_id, satir.spotify_url]));
     setListeler(
       (data ?? []).map((l: any) => ({
         id: l.id,
@@ -57,6 +63,7 @@ export default function ListelerimSayfasi() {
         herkese_acik: l.herkese_acik,
         paylasim_kodu: l.paylasim_kodu,
         adet: l.liste_turkuleri?.[0]?.count ?? 0,
+        spotifyUrl: spotifyHaritasi.get(l.id) ?? null,
       })),
     );
   }
@@ -195,7 +202,7 @@ export default function ListelerimSayfasi() {
                 <div className="text-sm text-ceviz-light">{l.adet} türkü</div>
               </div>
               <div className="flex min-w-0 flex-col gap-3 lg:items-end">
-                {l.adet > 0 && <SpotifyAktarButonu listeId={l.id} />}
+                {l.adet > 0 && <SpotifyAktarButonu listeId={l.id} spotifyUrl={l.spotifyUrl} />}
                 <div className="flex flex-wrap items-center gap-2 text-sm lg:justify-end">
                 <button
                   onClick={() => gorunurluk(l)}
@@ -241,6 +248,7 @@ export default function ListelerimSayfasi() {
           </section>
         </div>
       )}
+      <SpotifyListelerim />
     </div>
   );
 }

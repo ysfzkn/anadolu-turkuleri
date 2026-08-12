@@ -4,7 +4,53 @@
   "yore": "Samsun",
   "hikaye": "Çarşamba Beyleri, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba beylerinde,",
+        "Silahı bellerinde,",
+        "Çifte bülbül ötüyor,",
+        "Samsunun güllerinde."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba büyük ilçe,",
+        "Sarhoşum içe içe,",
+        "Sevdiğimi el aldı,",
+        "Hiçe yaşarım hiçe."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba iki geçe",
+        "İçine ırmak düşe",
+        "(senemimi) alsalar",
+        "Ferhat düşer hapise"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşambayı seller aldı,",
+        "Bafra’yı duman,",
+        "Termede sevdiğim kaldı,",
+        "Yanıyom aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşambaya karlar yağdı,",
+        "Havzaya dolu,",
+        "Bulamadım ladiği,",
+        "Kaybettim yolu."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

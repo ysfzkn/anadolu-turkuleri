@@ -4,7 +4,80 @@
   "yore": "Diyarbakır",
   "hikaye": "Bir Güzel ki On Yaşına Girince, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Güzel Ki On Yaşına Girince",
+        "Gonca Güldür De Henüz Açılır",
+        "On Birinde Gonca Diye Koklarlar",
+        "On İkide Elma Deyip Saklarlar",
+        "On Üçünde Cevr-ü Cefa Çekerler",
+        "On Dördünde Hamre Şekere Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On Beşinde Güzelliğin Çağıdır",
+        "On Altıda Gören Aklın Dağıtır",
+        "On Yedide Göğsü Cennet Bağıdır",
+        "Uzanır Kameti Selviye Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "On Sekizde Hem Artırır Zarını",
+        "On Dokuzda Terk Eylemiş Arını",
+        "Yirmisinde Gözdedir Şu Karını",
+        "Zincirlerden Kopmuş Aslana Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yirmi Beşte Bıyıkları Burulur",
+        "Otuzunda Akan Sular Durulur",
+        "Otuz Beşte Günahları Sorulur",
+        "Yalana Karışmış İrfana Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kırk Yaşında Gazel Dökülür Bağlar",
+        "Kırk Beşinde Günahlarına Ağlar",
+        "Ellisinde İnsanlara Bel Bağlar",
+        "Dağ Başına Çökmüş Dumana Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elli Beşte Sızı İner Dizine",
+        "Altmışında Duman Çöker Gözüne",
+        "Altmış Beşte Hiç Bakılmaz Yüzüne",
+        "Ahreti Gözetir Süphana Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altmış Beşten Sonra Beller Bükülür",
+        "Bütün Damarlardan Kanlar Çekilir",
+        "Gel Gel Diye Toprak Çağırır",
+        "Geldi Geçti Şimdi Yalana Benzer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beni Ağlatma Ki Sen De Gülesin (Leyli Leyli)",
+        "Hem Murada Hem Maksuda Eresin (Leyli Leyli)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

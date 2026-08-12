@@ -4,7 +4,54 @@
   "yore": "Edirne",
   "hikaye": "Dut Fidanı Boyunca, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dut fidanı boyunca vay vay",
+        "Dut yemedim doyunca vay vay",
+        "Ağzım dilim kurusun vay vay",
+        "Yar demedim doyunca vay vay"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanarım hey yanarım vay",
+        "Tirililili lom şirilli lilli yar",
+        "Tanininini nay taninni ninni nom",
+        "Bahçalarda börülce",
+        "Oynar gelin görümce",
+        "Oynasınlar bakalım",
+        "Bir araya gelince"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanarım hey yanarım vay",
+        "Tirililili lom şirilli lilli yar",
+        "Tanininini nay taninni ninni nom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda saz olur",
+        "Gül açılır yaz olur",
+        "Ben yârime gül demem",
+        "Gülün ömrü az olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yanarım hey yanarım vay",
+        "Tirililili lom şirilli lilli yar",
+        "Tanininini nay taninni ninni nom"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

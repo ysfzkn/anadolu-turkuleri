@@ -4,7 +4,44 @@
   "yore": "Rize",
   "hikaye": "Kiremite Su Düşti, Vikikaynak'ın Rize türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Rize yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kiremite Su Düşti De",
+        "Eminem Evden Uçti",
+        "Zavallı Annesinin De",
+        "Etekleri Tutuşti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ya Gidin Bakın Oni De",
+        "Belkim Çöllere Düşti",
+        "Hep Kızlar Pay Pay Oldi Da",
+        "Bana Emine Düşti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emine Guş Muyidi Da",
+        "Asdi Boynunu Düşdi",
+        "Bu Fena Sevdalıktan Da",
+        "Yandı Yürek Tutuşti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Sene Gördüm Seni De",
+        "Sen Benden Ayrı Düştün",
+        "Bir Daha Görsem Seni De",
+        "Yaşamak Bana Düşti"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

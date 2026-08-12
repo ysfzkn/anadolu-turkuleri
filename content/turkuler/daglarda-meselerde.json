@@ -4,7 +4,52 @@
   "yore": "Elazığ",
   "hikaye": "Dağlarda Meşelerde, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlarda meşelerde",
+        "Gül suyu şişelerde",
+        "Ağam eğlendi gelmedi Yolu da bağlandı gelmedi Yar uykudan uyanmadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben sevdim eller aldı",
+        "Ben kaldım köşelerde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Esmer amman amman amman",
+        "Vurulmuşum halim yaman",
+        "Çox içmişim başım duman",
+        "Ağam piyale vaktidir",
+        "Paşam piyale vaktidir",
+        "Gözünü sevdiğim saki",
+        "Doldur ver bade vaktidir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu gece uymamışım",
+        "Ben yare doymamışım",
+        "Ağam eğlendi gelmedi Yolu da bağlandı gelmedi Yar uykudan uyanmadı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keserim kirpik seni",
+        "Yar gelmiş duymamışım",
+        "Bağlantı:"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

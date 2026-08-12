@@ -4,7 +4,50 @@
   "yore": "Samsun",
   "hikaye": "Çarşamba Dedikleri, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba Dedikleri, Şekerdir Yedikleri",
+        "Hiç Aklımdan Çıkmıyor, O Yarin Dedikleri"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben Samsun’a Gidemiyom, Kâr Olmayınca",
+        "Samsun Bana Haram Olsun,Yâr Olmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba’nın Ortasından, Akıyor Irmak",
+        "Her Yiğidin Karı Değil, Sözünde Durmak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba Yazıları,Körpedir Kuzuları",
+        "Mevlam Alnıma Yazmış,Bu Kara Yazıları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ben Samsun’a Gidemiyom, Kâr Olmayınca",
+        "Samsun Bana Haram Olsun,Yâr Olmayınca"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çarşamba’nın Ortasından, Akıyor Irmak",
+        "Her Yiğidin Karı Değil, Sözünde Durmak"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

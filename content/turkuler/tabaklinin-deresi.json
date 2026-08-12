@@ -4,7 +4,34 @@
   "yore": "Sinop",
   "hikaye": "Tabaklı'nın Deresi, Vikikaynak'ın Sinop türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Sinop yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabaklı'nın Deresi (De)",
+        "Boyabat Yolu Neresi",
+        "Doktor Gelmiş Sarıyor (Da)",
+        "Sade Kurşun Yaresi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tabaklı'nın Kayası (Da)",
+        "Çayır Çayır Yanası",
+        "Oturmuş Da Ağlıyor (Da)",
+        "Muhlise'nın Anası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çay Aşağı Çay Taşlar (Da)",
+        "Gözümden Akan Y Aşlar Ben Sevdaya Tutuldum (Da)",
+        "Siz Tutulman Gardaşlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

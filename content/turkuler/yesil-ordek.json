@@ -4,7 +4,25 @@
   "yore": "Bolu",
   "hikaye": "Yeşil Ördek, Vikikaynak'ın Bolu türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bolu yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman ördek yeşil yeşil ördek",
+        "Hani senin eşin eşin ördek.",
+        "Hani senin eşin eşin ördek.",
+        "Amman amman ördek yeşil yeşil ördek.",
+        "Kanadını düşür düşür ördek.",
+        "Ördek suya dal da gel",
+        "Yardan haber al da gel",
+        "Eğer yarim gelmezse",
+        "Tut kolundan al da gel.",
+        "Akşam oldu yatar mısın ördek.",
+        "Gece oldu uyur musun ördek.",
+        "Gece oldu uyur musun ördek."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

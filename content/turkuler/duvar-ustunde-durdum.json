@@ -4,12 +4,69 @@
   "yore": "İzmir",
   "hikaye": "Duvar Üstünde Durdum, Vikikaynak'ın İzmir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "İzmir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "{{Harici medya",
+        "|video1=[https://www.youtube.com/watch?v=csirpLyKP4g Neriman Tüfekçi - Duvar Üstünde Durdum (Official Audio)]"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "}}",
+        "Duvar Üstünde Durdum,",
+        "Turalı Para Buldum.",
+        "Hemen Aldım Mavzeri,",
+        "Kendi Kendimi Vurdum."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dur Efendim Dur Dur Da,",
+        "Gel Efendim Gel."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Duvar Üstünde Kilim,",
+        "Yarimin Adı Selim,",
+        "Selim Benim Olursa,",
+        "Olurum Telli Gelin."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dur Efendim Dur Dur Da,",
+        "Gel Efendim Gel."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ali Derler Adıma,",
+        "Her Gün Gider Oduna.",
+        "Söyle Komşu Oğluna,",
+        "Doğru Gitsin Yoluna."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dur Efendim Dur Dur Da,",
+        "Gel Efendim Gel."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Duvar%20%C3%9Cst%C3%BCnde%20Durdum%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=csirpLyKP4g",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,30 @@
   "yore": "Aydın",
   "hikaye": "Uzun Olur Efelerin Bıçağı (Aydın), Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur efelerin bıçağı",
+        "Beşyüz dirhem Şam Trabulus kuşağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Serbest olur aman Anadolu uşağı",
+        "Aşırdılar karlıda dağdan keşişten",
+        "Bilmiş ol ki geçmiş oldu iş işten"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Silahı da elinde kaması da belinde",
+        "Yavrum İzmir yolunda ben bir güzele vuruldum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

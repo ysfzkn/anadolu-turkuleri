@@ -4,7 +4,56 @@
   "yore": "Adıyaman",
   "hikaye": "Dere Boyu Saz Olur, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu saz olur",
+        "Gül açılır yaz olur",
+        "Ben yârime gül demem",
+        "Gülün ömrü az olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hazal hazal sen ettin dilimi lâl",
+        "Hazal hazal gel kırık gönlümü al"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu bahçalar",
+        "Yar oturmuş saz çalar",
+        "O yârin kaşı gözü",
+        "Yüreğimi parçalar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hazal hazal sen ettin dilimi lâl",
+        "Hazal hazal gel kırık gönlümü al"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dere boyu pıtırak",
+        "Minder getir oturak",
+        "Sen beni al ben seni",
+        "Bu sevdadan kurtulak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hazal hazal sen ettin dilimi lal",
+        "Hazal hazal gel kırık gönlümü al"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

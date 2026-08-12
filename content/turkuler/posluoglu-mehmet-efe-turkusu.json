@@ -4,7 +4,53 @@
   "yore": "Aydın",
   "hikaye": "Posluoğlu Mehmet Efe Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kanlı dağdan indirdiler",
+        "Kanlı gömlek giydirdiler",
+        "Haberin olsun garip anne",
+        "Bir Poslu‟yu öldürdüler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara çadır is mi tutar",
+        "Beylik mavzer pas mı tutar",
+        "Ağlarsa garip anam ağlar",
+        "Elin kızı yas mı tutar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kır atımın nalı yoktur",
+        "Torbasında yemi yoktur",
+        "Bize derler Puslu Çetesi",
+        "Yanımızda eyer yoktur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah kahpece kalktılar",
+        "Nice canlar yaktılar",
+        "Posluoğlu Mehmed'i",
+        "Kancıklayıp yaktılar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki tahta çaktılar",
+        "Arasından baktılar",
+        "Posluoğlu Mehmed‟i",
+        "Kancıklayıp yaktılar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

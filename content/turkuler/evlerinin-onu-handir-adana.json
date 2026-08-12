@@ -4,12 +4,47 @@
   "yore": "Adana",
   "hikaye": "Evlerinin Önü Handır (Adana), Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü handır",
+        "Yanar yüreğim külhandır",
+        "Yanar yüreğim külhandır",
+        "Görmeyeli çok zamandır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman amman aman dayanamam",
+        "Seher vakti uyanamam",
+        "El kızısın güvenemem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü bakla",
+        "Güvercinler döner takla",
+        "Güvercinler döner takla",
+        "Al beni yanında sakla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman amman aman dayanamam",
+        "Seher vakti uyanamam",
+        "El kızısın güvenemem"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Evlerinin%20%C3%96n%C3%BC%20Hand%C4%B1r%20(Adana)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=XTh5pRvv8o4",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

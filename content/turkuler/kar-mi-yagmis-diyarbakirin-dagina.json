@@ -4,7 +4,27 @@
   "yore": "Diyarbakır",
   "hikaye": "Kar mı Yağmış Diyarbakır'ın Dağına, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar Mı Yağmış Diyarbakır'ın Dağına (Ey Ey)",
+        "Bülbül Konmuş Bostanına Bağına (Yar Yar)",
+        "Yeni Gelmiş Sarılmanın Çağına (Ey Ey Ey)",
+        "Reva Mıdır Yar Ben Murad Almıyayım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Ah) İkbale Zeval Erse Ne Var Sende Kemal Var",
+        "Mağruri Kemal Olma Ki Ardınca Zeval Var",
+        "Tek Başıma Kalsam Şahi Devrana Kul Olmam",
+        "Viran Olası Hanede Evlad-Ü Ayal Var",
+        "Reva Mıdır Yar Ben Murad Almıyayım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,50 @@
   "yore": "Aydın",
   "hikaye": "Cafer Efe Türküsü, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aydın'ın içinde bir kapalı çarşı",
+        "Anne ben gidiyorum düşmana karşı",
+        "Düşmanlar kaçıyor denize karşı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Germencik içinde toplar kuruldu",
+        "Cafer Efe öğle sonu vuruldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Alıverin sandığımdan kürkümü",
+        "Ben ölürsem söylesinler türkümü",
+        "Ana, benim al mintanım soldu mu",
+        "Ben vuruldum düşmanlarım duydu mu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mezarımı derin kazın, dar olsun",
+        "Etrafında mor sümbülü bağ olsun",
+        "Cafer öldü, vatan millet sağ olsun",
+        "Kader kısmet böyle imiş ağalar hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Germencik ortasında toplar kuruldu",
+        "Cafer Zeybek öğle sonu vuruldu",
+        "Anasına akşamüstü duyuldu",
+        "Kader kısmet böyle imiş efeler hey"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

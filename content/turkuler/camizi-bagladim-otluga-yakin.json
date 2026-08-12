@@ -4,7 +4,38 @@
   "yore": "Adana",
   "hikaye": "Camızı Bağladım Otluğa Yakın, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Camızı bağladım otluğa yakın",
+        "Camız beni vurdu (ana) guşluğa yakın",
+        "Nişanlım geliyor boyuna bakın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ganlı kenli gara camız öldürdün beni",
+        "Gülüm gonca iken soldurdun beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bugünkü günlerden pazardır pazar",
+        "Açma yorganımı (ana) yareler azar",
+        "Nişanlım duyunca divane gezer"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ganlı kenli gara camız öldürdün beni",
+        "Gülüm gonca iken soldurdun beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

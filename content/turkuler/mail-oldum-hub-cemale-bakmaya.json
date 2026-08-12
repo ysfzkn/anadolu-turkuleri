@@ -4,7 +4,26 @@
   "yore": "Amasya",
   "hikaye": "Mail Oldum Hub Cemale Bakmaya, Vikikaynak'ın Amasya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Amasya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mail oldum hub cemale bakmaya",
+        "Şu dertli sinemi doğrar giderim",
+        "Hasiret evleyip mihnet çekmeden",
+        "Varıp dost eline uğrar giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çok cahdettim var halimden bilmedi",
+        "Niçin arzuhalim gabul olmadı",
+        "Gusurum çok elde vadem dolmadı",
+        "Ol sebepten gülmez ağlar gezerim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

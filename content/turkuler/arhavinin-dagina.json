@@ -4,7 +4,62 @@
   "yore": "Artvin",
   "hikaye": "Arhavi'nin Dağına, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arhavi'nun dağına",
+        "Vurdum atmaca avi",
+        "Düşürdüm oni ağa",
+        "Taktum beline bağı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi Ağustos ayı",
+        "Nerdesin Ali dayı",
+        "Bildırcınlar geliyi",
+        "Hazırla atmacayı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uçurdum atmacayı",
+        "Çıngırak ayağına",
+        "Volta vurdi dağitti",
+        "Arhavi'nun dağına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi Ağustos ayı",
+        "Nerdesin Ali dayı",
+        "Bildırcınlar geliyi",
+        "Hazırla atmacayı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Arhavi'dan Hopa'ya",
+        "Giderum yali yali",
+        "Her sene güzel olur",
+        "Atmaca festivali"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Geldi ağustos ayı",
+        "Nerdesin Ali dayı",
+        "Bildırcınlar geliyi",
+        "Hazırla atmacayı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

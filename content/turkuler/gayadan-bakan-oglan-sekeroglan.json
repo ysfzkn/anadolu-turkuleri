@@ -4,7 +4,44 @@
   "yore": "Ankara",
   "hikaye": "Gayadan Bakan Oğlan (Şekeroğlan), Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gayadan bakan oğlan",
+        "Kakili sarkan oğlan",
+        "Gece gelme gündüz gel",
+        "Horuzdan korkan oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman şeker oğlan",
+        "Usdan şeker oğlan",
+        "Anasına darılmış",
+        "Damda yatan oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Elinde de nacak",
+        "Sandım bana vuracak",
+        "İrkeklerin günahı",
+        "Gızlardan sorulacak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman şeker oğlan",
+        "Usdan şeker oğlan",
+        "Anasına darılmış",
+        "Damda yatan oğlan"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

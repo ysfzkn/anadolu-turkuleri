@@ -4,7 +4,71 @@
   "yore": "Ankara",
   "hikaye": "Aslın Paktır Hiç Kin Yoktur Özünde, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aslın paktır hiç kin yoktur özünde",
+        "İnciler dizilmiş gerdana güzel",
+        "İnci mercan kemer senin aynında",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aslın belli asaletin sormadım",
+        "Destur alıp divanında durmadım",
+        "Huri midir melek midir bilmedim",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aslı pektir kibir yoktur soyunda",
+        "Dünyada türemiş bir tane güzel",
+        "İnci mercan şems ü kamer aslında",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aslı belli asaletin sormadım",
+        "Destur alıp divanına durmadım",
+        "Huri midir melek midir bilmedim",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir selâm verdim de aleyküm dedi",
+        "Bir ikrar üzere karşıma durdu",
+        "Getirdi elime bir dolu verdi",
+        "Parmaklar yakışmış fincana güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahası bin altın birlikte beşi",
+        "Lebi şeker söyler incidir dişi",
+        "Ok gibi kirpikler saniyen kaşı",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Seyyid Süleyman’ım bana bir çare",
+        "Yürü şahin gibi kaşları kare",
+        "Tavsiyeni göndereyim hünkare",
+        "Dünyada türemiş bir tane güzel"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

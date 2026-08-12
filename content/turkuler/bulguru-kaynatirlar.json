@@ -4,7 +4,62 @@
   "yore": "Kars",
   "hikaye": "Bulguru Kaynatırlar, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bulguru Kaynatırlar",
+        "Serinde Yaylatırlar",
+        "Acısu Dadaşları",
+        "Çifte Bar Oynatırlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi Kenan'ım",
+        "Üşür Her Yanım Her Yanım",
+        "Doldur İmanım İmanım",
+        "Sensin Gümanım Gümanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aralıkta Durdular",
+        "Müşavreyi Kurdular",
+        "Bir Güzelin Yüzünden",
+        "Kenan'ımı Vurdular"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi Kenan'ım",
+        "Üşür Her Yanım Her Yanım",
+        "Doldur İmanım İmanım",
+        "Sensin Gümanım Gümanım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay Çeperler Çeperler",
+        "İçine Gül Teperler",
+        "Kenan Baygın Düşünce",
+        "Yüzüne Su Seperler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Haydi Kenan'ım",
+        "Üşür Her Yanım Her Yanım",
+        "Doldur İmanım İmanım",
+        "Sensin Gümanım Gümanım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

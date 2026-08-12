@@ -4,7 +4,40 @@
   "yore": "Bayburt",
   "hikaye": "Giderim Yolum Dağdır, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderim yolum dağdır",
+        "[Vay] bu ne meyalı bağdır",
+        "Ben kazanım yar yesin",
+        "Nice ki canım sağdır"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of of) böyle kâr",
+        "Bu yıl da kaldık bekâr"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderim yolum yaya",
+        "Cemalin benzer aya",
+        "Eridim hilal oldum",
+        "Günleri saya saya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Of of) böyle kâr",
+        "Bu yıl da kaldık bekâr"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

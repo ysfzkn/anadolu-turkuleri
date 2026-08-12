@@ -4,12 +4,51 @@
   "yore": "Bursa",
   "hikaye": "Neden Geldim Amerika'ya, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Neden geldim Amerika'ya",
+        "Tutuldum kaldım avare",
+        "Şimdi bin kere pişmanım",
+        "Fakat geçti ah ne çare"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah gelmez olaydım",
+        "Ah görmez olaydım",
+        "Tek seni şirin Amerika",
+        "Görmez olaydım",
+        "Gelmez olaydım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bandırma'nın kış denizi",
+        "Gemileri dizi dizi",
+        "Merhametsiz insafın yok mu",
+        "Niçin mahzun ettin bizi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah kaçmaz olaydım",
+        "Ah aşmaz olaydım",
+        "Tek senden cilveli Bandırma",
+        "Kaçmaz olaydım",
+        "Aşmaz olaydım"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Neden%20Geldim%20Amerika'ya%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=pVyGtVfO-O0",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,12 +4,79 @@
   "yore": "Çanakkale",
   "hikaye": "Annem Entari Almış, Vikikaynak'ın Çanakkale türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çanakkale yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Annem entari almış",
+        "Siyah dalları varmış hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keşke sevmez olaydım",
+        "Yarimin yarı varmış",
+        "Beyim aman dağlarda dağlarda",
+        "Koyun güder ovalarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keşke sevmez olaydım",
+        "Yarimin yarı varmış",
+        "Beyim aman dağlarda dağlarda",
+        "Koyun güder ovalarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beyaz giyme tanırlar",
+        "Seni yolcu sanırlar hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Senin fidan boyunu",
+        "Nazar eder yolcular",
+        "Beyim aman dağlarda dağlarda",
+        "Koyun güder ovalarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Senin fidan boyunu",
+        "Nazar eder yolcular",
+        "Beyim aman dağlarda dağlarda",
+        "Koyun güder ovalarda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yatma yeşil çimene",
+        "Uyur uyanamazsın hey"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Verme beni ellere",
+        "Görür dayanamazsın",
+        "Beyim aman dağlarda dağlarda",
+        "Koyun güder ovalarda"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Annem%20Entari%20Alm%C4%B1%C5%9F%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=fFcg9K91h5g",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

@@ -4,7 +4,36 @@
   "yore": "Kars",
   "hikaye": "Mor Koyun Meler Gelir, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mor koyun meler gelir",
+        "Dağları deler gelir"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Giderim böylesine",
+        "Karagöz mehlesine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu dağlar meşe dağlar",
+        "Çiçeği teze dağlar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tutaydım yar elinden",
+        "Gezeydim sizi dağlar"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -38,4 +38,12 @@ if (sorunlar.length) {
   process.exit(1);
 }
 
+if (!process.env.YOUTUBE_API_KEY?.trim()) {
+  console.warn("Uyarı: YOUTUBE_API_KEY tanımlı değil; doğrudan kaydı olmayan türkülerde gömülü YouTube eşleşmesi yerine arama bağlantısı gösterilecek.");
+}
+
+for (const ad of ["RESEND_API_KEY", "ILETISIM_ALICI_EMAIL", "ILETISIM_GONDEREN_EMAIL"] as const) {
+  if (!process.env[ad]?.trim()) console.warn(`Uyarı: ${ad} tanımlı değil; iletişim formu e-posta gönderemez.`);
+}
+
 console.log("Vercel yayın kontrolü tamam: zorunlu değişkenler ve migration dosyaları hazır.");

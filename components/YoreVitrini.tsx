@@ -5,7 +5,7 @@ import { tamlayan } from "@/lib/turkce";
 import sehirGorselleri from "@/content/sehir-gorselleri.json";
 
 const BOLGE_DILI: Record<Bolge, { baslik: string; aciklama: string; simge: string }> = {
-  marmara: { baslik: "Göç yolları ve karşılamalar", aciklama: "Rumeli belleği, kent kültürü ve karşılamaların hareketli ritmi.", simge: "≈" },
+  marmara: { baslik: "Göç yolları ve karşılamalar", aciklama: "Rumeli’den taşınan ezgiler, şehir yaşamı ve karşılamaların hareketli ritmi.", simge: "≈" },
   ege: { baslik: "Efe tavrı ve zeybek", aciklama: "Dağların ağır adımı, özgürlük ve zeybek geleneğinin güçlü silueti.", simge: "Λ" },
   akdeniz: { baslik: "Teke ve Yörük nefesi", aciklama: "Kaşık, sipsi ve Toros yaylalarından kıyıya inen göç yolları.", simge: "△" },
   "ic-anadolu": { baslik: "Bozkırın uzun sesi", aciklama: "Abdal geleneği, bozlaklar ve bağlamanın yalın ama derin anlatısı.", simge: "◇" },
@@ -21,10 +21,10 @@ export function YoreVitrini({ il, bolge, kompakt = false }: { il: string; bolge:
   const ilAdi = il.split(/[(/]/)[0].trim();
   const sivas = slugYap(ilAdi) === "sivas";
   const gorsel = (sehirGorselleri as Record<string, SehirGorseli>)[slugYap(ilAdi)];
-  const baslik = sivas ? "Selçuklu taşından ozanların sözüne" : `${tamlayan(ilAdi)} ezgi belleği`;
+  const baslik = sivas ? "Selçuklu eserleri ve ozanlar" : `${ilAdi} türküleri ve kültürü`;
   const aciklama = sivas
-    ? "Gök Medrese'nin geometrik taş işçiliği, Pir Sultan Abdal'ın deyişleri ve Âşık Veysel'in bozkır sesi Sivas belleğinde yan yana durur."
-    : `${ilAdi} türküleri, ${tamlayan(BOLGE_ADI[bolge])} müzik belleğini yerel söyleyişler, yaşam kültürü ve kuşaktan kuşağa aktarılan ezgilerle buluşturur.`;
+    ? "Gök Medrese ve Çifte Minareli Medrese'nin taş süslemeleri, Pir Sultan Abdal'ın deyişleri ve Âşık Veysel'in türküleri Sivas kültüründe önemli bir yer tutar."
+    : `${ilAdi} türkülerini, ${tamlayan(BOLGE_ADI[bolge])} söyleyiş özellikleri, gündelik yaşamı ve kuşaktan kuşağa aktarılan müzik geleneğiyle birlikte keşfedin.`;
   if (kompakt) return <div className="relative overflow-hidden rounded-2xl border border-toprak/25 bg-ceviz p-4 text-parsomen"><span className="absolute -right-3 -top-6 text-8xl text-toprak/15" aria-hidden>{dil.simge}</span><p className="relative text-[11px] font-semibold uppercase tracking-[.18em] text-toprak-light">{il} kültür izi</p><p className="relative mt-1 font-serif text-lg font-semibold">{sivas ? "Selçuklu geometrisi ve ozanlar" : dil.baslik}</p></div>;
   return (
     <section className="mb-9 overflow-hidden rounded-[2rem] border border-toprak/25 bg-ceviz text-parsomen shadow-motif">

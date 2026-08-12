@@ -4,12 +4,59 @@
   "yore": "Elazığ",
   "hikaye": "Evleri Uçta Yârim, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri uçta yârim",
+        "Hop nanay nanay",
+        "Sırma saçlım nanay",
+        "Kalem kaşlım nanay",
+        "İnci dişlim nanay",
+        "Hoş bakışlım nanay",
+        "Nanay yâr kendi malım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ver bana müjde yârim",
+        "Digel digel yanıma",
+        "Seni saram canıma",
+        "Malım mülküm şanına",
+        "Kanım kaynar kanına",
+        "Gel yanıma yanıma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayak bastığın yere",
+        "Hop nanay nanay",
+        "Sırma saçlım nanay",
+        "Kalem kaşlım nanay",
+        "İnci dişlim nanay",
+        "Hoş bakışlım nanay",
+        "Nanay yâr kendi malım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Edeyim secde yarim",
+        "Digel digel yanıma",
+        "Seni saram canıma",
+        "Malım mülküm şanına",
+        "Kanım kaynar kanına",
+        "Gel yanıma yanıma"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Evleri%20U%C3%A7ta%20Y%C3%A2rim%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=zgX9n3I-DCM",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

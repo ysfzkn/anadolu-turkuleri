@@ -4,7 +4,53 @@
   "yore": "Gaziantep",
   "hikaye": "Atına Binmiş Elinde Dizgin, Vikikaynak'ın Gaziantep türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Gaziantep yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atına Binmiş Elinde Dizgin",
+        "Girdiği Cephede Hiç Olmaz Bozgun",
+        "Çeteler İçinde Yılan Bey Azgın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun Antepli'ler Namus Günüdür",
+        "Vurun Türk Uşağı Namus Günüdür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sürerim Sürerim Gitmez Kadana",
+        "Düşmanın Kurşunu Değmez Adama",
+        "Kara Haberimi Verin Babama"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun Antepli'ler Namus Günüdür",
+        "Vurun Türk Uşağı Namus Günüdür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Antep'in Harbine Onbir Ay Oldu",
+        "Kanımız Kurudu Benzimiz Soldu",
+        "Analar Bacılar Saçların Yoldu"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Vurun Antepliler Namus Günüdür",
+        "Vurun Türk Uşağı Namus Günüdür"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

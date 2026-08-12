@@ -4,7 +4,40 @@
   "yore": "Yozgat",
   "hikaye": "Arpa Buğday Daneler, Vikikaynak'ın Yozgat türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Yozgat yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Arpa Buğday Daneler",
+        "(Aman) Yıkılsın Meyhaneler",
+        "(Aman) Terzi Elin Kırılsın",
+        "(Aman) Dar Geliyor Düğmeler"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Döne Döne Döne Yar Geliyor",
+        "Yandım Güle Güle Güle Har Geliyor"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Aman) Arpa Buğday Seçerim",
+        "(Aman) Yolum Bulur Geçerim",
+        "(Aman) Kınamayın Ahbaplar",
+        "(Aman) Güzelleri Seçerim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Döne Döne Döne Yar Geliyor",
+        "Yandım Güle Güle Güle Har Geliyor"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

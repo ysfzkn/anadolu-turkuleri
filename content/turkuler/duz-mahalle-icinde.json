@@ -4,7 +4,62 @@
   "yore": "Ordu",
   "hikaye": "Düz Mahalle İçinde, Vikikaynak'ın Ordu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Ordu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düz Mahalle İçinde",
+        "Çıramı Yakamadım",
+        "Nice Güzeller Gördüm",
+        "Yar Senden Bıkamadım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keman Kaşı Sürmeli",
+        "Yar Seni Bana Vermeli",
+        "Anam Babam Duymalı",
+        "Yar Seni Bana Almalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düz Mahalle İçinde",
+        "Deli Gezerim Deli",
+        "Benim Yarim Vallahi De",
+        "Ordunun En Güzeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keman Kaşı Sürmeli",
+        "Yar Seni Bana Vermeli",
+        "Anam Babam Duymalı",
+        "Yar Seni Bana Almalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Düz Mahalle İçinde",
+        "Düştüm Alem Diline",
+        "Baba Darılma Bana Da",
+        "Gönül Verdim Birine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Keman Kaşı Sürmeli",
+        "Yar Seni Bana Vermeli",
+        "Anam Babam Duymalı",
+        "Yar Seni Bana Almalı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

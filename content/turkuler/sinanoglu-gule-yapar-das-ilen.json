@@ -4,7 +4,31 @@
   "yore": "Antalya",
   "hikaye": "Sinanoğlu Gule Yapar Daş İlen, Vikikaynak'ın Antalya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Antalya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu gule yapar daş ilen",
+        "Gözlerim doldu ganlı da (duman aman) yas ilen",
+        "Nerelere gideyim (de) goca Sinan",
+        "Böyle de dalgalı baş ilen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sinanoğlu gulelerin yıkılsın",
+        "Yıkılsın (da) yerin (de arpa) buğday ekilsin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yiğitlerin beli bana bükülsün",
+        "Gitme (de) Sinan gitme (de) yârim burda kal"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

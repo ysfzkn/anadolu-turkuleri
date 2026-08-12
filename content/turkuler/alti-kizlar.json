@@ -4,7 +4,35 @@
   "yore": "Aydın",
   "hikaye": "Altı Kızlar, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altı kızlar altı kızlar",
+        "Altı kızın biri fatma",
+        "Benleri var derme çatma",
+        "Kız bürüğün yana atma"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altı kızlar altı kızlar",
+        "Altı kızın biri ayşe",
+        "Benleri var köşe köşe",
+        "Dostlar şaştı hep bu işe"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altı kızlar altı kızlar",
+        "Altı kızın biri meryem",
+        "Benleri var eğrem büğrem",
+        "Zülfündeki gülü derem"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,35 @@
   "yore": "Nevşehir",
   "hikaye": "Pir Aşkına, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hudey hudey pir aşkına",
+        "Pir Hacı Bektaş aşkına",
+        "Dem bu demdir ey aşıklar",
+        "Çalalım haydar aşkına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hudey hudey yar aşkına",
+        "On iki imam aşkına",
+        "Cem bu cemdir ey aşiklar",
+        "Vuralım kırklar aşkına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İnce hudey nur aşkına",
+        "Nur-u Muhammed aşkına",
+        "Can bu candır ey aşıklar",
+        "Kurbanız mevla aşkına"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

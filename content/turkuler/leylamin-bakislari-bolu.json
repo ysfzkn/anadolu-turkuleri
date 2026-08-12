@@ -4,12 +4,75 @@
   "yore": "Bolu",
   "hikaye": "Leylam'ın Bakışları (Bolu), Vikikaynak'ın Bolu türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bolu yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam'ın bakışları",
+        "Ferman okur kaşları",
+        "Leyla'mın bakışları",
+        "Ferman okur kaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam bize gelmezse",
+        "Aksın gözün yaşları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyla, Leyla, Leyla, Leyla",
+        "Leyla, Leyla, Leyla, Leyla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Odana kireç eyle",
+        "Yüzünü güleç eyle",
+        "Odana kireç eyle",
+        "Yüzünü güleç eyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derdinden verem oldum",
+        "Gel bana ilaç eyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leyla, Leyla, Leyla, Leyla",
+        "Leyla, Leyla, Leyla, Leyla"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam senin gözlerin",
+        "Şeker midir sözlerin",
+        "Leylam senin gözlerin",
+        "Şeker midir sözlerin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Leylam bana gelmezsen",
+        "Kör olaydı gözlerin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=Leylam'%C4%B1n%20Bak%C4%B1%C5%9Flar%C4%B1%20(Bolu)%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=zdPAd7SPCgs",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

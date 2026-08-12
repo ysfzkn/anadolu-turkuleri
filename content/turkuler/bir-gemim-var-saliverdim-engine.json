@@ -4,7 +4,34 @@
   "yore": "Edirne",
   "hikaye": "Bir Gemim Var Salıverdim Engine, Vikikaynak'ın Edirne türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Edirne yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir gemim var salıverdim engine (aman)",
+        "Bezirgânlar damga (da) vurur zengine",
+        "Kaderim yok varamadım dengime (aman)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Aman aman",
+        "Saadet ben mail oldum kaşına",
+        "Kaşına da değil gözüne de değil",
+        "Akan da çeşmin yaşına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Demirciler demir döğer tunç olur",
+        "Sevip sevip ayrılması güç olur",
+        "Sen gidersen benim hâlim nic’olur"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

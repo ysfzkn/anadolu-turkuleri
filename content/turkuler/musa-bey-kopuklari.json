@@ -4,7 +4,26 @@
   "yore": "Aydın",
   "hikaye": "Musa Bey Kopukları, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ayakkabım var benim",
+        "Bir karış topukları",
+        "Hep arkamdan koşuyor",
+        "Musa bey kopukları"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Pamuk toplarım pamuk",
+        "Keletirin içine",
+        "Annem gitse ben gitmem",
+        "Musa Bey’in işine"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

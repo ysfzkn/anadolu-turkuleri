@@ -4,7 +4,35 @@
   "yore": "Malatya",
   "hikaye": "Dağlarınan Taşlarınan, Vikikaynak'ın Malatya türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Malatya yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağlarınan taşlarınan",
+        "Uçam gidem kuşlarınan",
+        "Eller sevdiğini almış",
+        "Ben galdım göz yaşlarınan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kapınıza kapınıza",
+        "Hallik koyam yapınıza",
+        "Bir güzelin hatrı için",
+        "Kurban olam hepinize"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evlerinin önü direk",
+        "Suyuda nerden indirek",
+        "Yağdı yağmur yol kapandı",
+        "Selamı kimle gönderek"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

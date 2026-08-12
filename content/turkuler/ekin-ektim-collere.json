@@ -4,7 +4,62 @@
   "yore": "Niğde",
   "hikaye": "Ekin Ektim Çöllere, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin Ektim Çöllere",
+        "Yoldurmadım Ellere",
+        "On Beşinde Yar Sevdim",
+        "Ondan Düştüm Dillere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damdan Dama Sekmeli",
+        "Karabiber Ekmeli",
+        "Bacın İnek Sağarken",
+        "Çekip Çekip Öpmeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin Ektim Gül Bitti",
+        "Dalında Bülbül Öttü",
+        "Ötme Garip Bülbülüm",
+        "Yarim Elimden Gitti"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Damdan Dama Aşalım",
+        "Çifte Camış Koşalım",
+        "Yarim Askere Gitti",
+        "Kiminle Konuşalım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağda Davar Güderim",
+        "Eve Haber Ederim",
+        "Emmim Kızı Vermezse",
+        "Başım Alır Giderim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ekin Ektim Bir Kucak",
+        "Derdin Beni Alacak",
+        "İkimizin Sevdası",
+        "Kıyamete Kalacak"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

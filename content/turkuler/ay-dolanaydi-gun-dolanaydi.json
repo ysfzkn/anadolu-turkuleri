@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Ay Dolanaydı Gün Dolanaydı, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay dolanaydı",
+        "Gün dolanaydı",
+        "Sendeki gaşlar",
+        "Bende olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Gaşları senden",
+        "Sürmesi benden",
+        "Var git ey yiğit",
+        "Dargınım senden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay dolanaydı",
+        "Gün dolanaydı",
+        "Sendeki parmaklar",
+        "Bende olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Parmağı senden",
+        "Yüzüğü benden",
+        "Var git ey oğlan",
+        "Dargınım senden"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ay dolanaydı",
+        "Gün dolanaydı",
+        "Sendeki dişler",
+        "Bende olaydı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dişleri senden",
+        "Fıstığı benden",
+        "Var git ey oğlan",
+        "Dargınım senden"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

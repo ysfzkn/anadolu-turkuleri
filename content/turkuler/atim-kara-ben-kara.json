@@ -4,7 +4,40 @@
   "yore": "Ankara",
   "hikaye": "Atım Kara Ben Kara, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Atım Kara Ben Kara Aman Aman",
+        "Haydi Bin Gidelim Bolkara Aman",
+        "Bu Dünyada Görmedim Aman Aman",
+        "Hadi Benim Gibi Bahtı Kara Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emişimde Gümüşüm Bir Hoşum Aman",
+        "Çokcada İçtim Serhoşum Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ata Binmiş Gidiyor Aman Aman",
+        "Haydi Ata Neler Ediyor Aman",
+        "Şu Benim Nazlı Yarim Aman",
+        "Haydi Beni Dertli Ediyor Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Emişimde Gümüşüm Bir Hoşum Aman",
+        "Çokcada İçtim Serhoşum Aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -44,8 +44,8 @@ async function rotaBul(slug: string): Promise<Rota | undefined> {
       slug: data.slug,
       baslik: data.baslik,
       il: data.il || "Anadolu",
-      tema: typeof meta.tema === "string" ? meta.tema : "Kültür ve hafıza",
-      sure: typeof meta.sure === "string" ? meta.sure : "Kendi ritminizde",
+      tema: typeof meta.tema === "string" ? meta.tema : "Şehir kültürü",
+      sure: typeof meta.sure === "string" ? meta.sure : "Serbest program",
       ozet: data.ozet,
       icerik: data.icerik,
       duraklar,
@@ -83,16 +83,16 @@ export default async function RotaSayfasi({ params }: SayfaProps) {
       </header>
       <section className="mt-10 grid gap-8 md:grid-cols-[1fr_280px]">
         <div>
-          <h2 className="font-serif text-3xl font-semibold text-ceviz">Şehrin hikâyesine açılan duraklar</h2>
+          <h2 className="font-serif text-3xl font-semibold text-ceviz">Rotanın durakları</h2>
           <p className="mt-3 whitespace-pre-line leading-7 text-ceviz-light">
-            {rota.icerik || `${rota.il}, müziğin gündelik hayat, inanç, göç, üretim ve kent belleğiyle iç içe geçtiği katmanlı bir kültür alanıdır. Bu rota, türküleri onları yaşatan mekânlar, ustalar ve toplumsal hafıza üzerinden okumayı önerir.`}
+            {rota.icerik || `${rota.il} türkülerini yalnızca dinlemekle kalmayın; eserlerin söylendiği çevreyi, onları yaşatan ustaları ve şehrin tarihî yapılarını da yerinde tanıyın. Aşağıdaki durakları güncel ziyaret saatlerine ve kendi programınıza göre sıralayabilirsiniz.`}
           </p>
           {rota.duraklar.length > 0 && (
             <ol className="mt-7 space-y-4">
               {rota.duraklar.map((durak, sira) => (
                 <li key={durak} className="flex gap-4 rounded-2xl border border-toprak/20 bg-white/45 p-4">
                   <span className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-kilim font-serif font-bold text-white">{sira + 1}</span>
-                  <div><strong className="text-ceviz">{durak}</strong><p className="mt-1 text-sm leading-6 text-ceviz-light">Bu durakta çevrenin yerel müzik belleğiyle ilişkisini gözlemleyin; sözlü anlatıları mümkünse kaynak kişisiyle not edin.</p></div>
+                  <div><strong className="text-ceviz">{durak}</strong><p className="mt-1 text-sm leading-6 text-ceviz-light">Ziyaret öncesinde güncel açılış saatlerini kontrol edin; yöre kültürüyle ilgili sergi, arşiv ve etkinlikleri inceleyin.</p></div>
                 </li>
               ))}
             </ol>

@@ -4,7 +4,78 @@
   "yore": "Nevşehir",
   "hikaye": "Harman Yeri Yaş Yeri, Vikikaynak'ın Nevşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Nevşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yaş yeri",
+        "Harman yeri yaş yeri",
+        "Harman yeri yaş yeri",
+        "Usul bas yavaş yürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri pıtırak",
+        "Harman yeri pıtırak",
+        "Harman yeri pıtırak",
+        "Gelin kızlar oturak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri ot olur",
+        "Harman yeri ot olur",
+        "Harman yeri ot olur",
+        "Erkek koynunda korur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yaş yeri",
+        "Harman yeri yaş yeri",
+        "Harman yeri yaş yeri",
+        "Usul bas yavaş yürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Usul bas yavaş yürü",
+        "Usul bas yavaş yürü",
+        "Usul bas yavaş yürü",
+        "Harman yeri ot olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erkek koynunda korur",
+        "Erkek koynunda korur",
+        "Erkek koynunda korur",
+        "Harman yeri yaş olur"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri pıtırak",
+        "Harman yeri pıtırak",
+        "Harman yeri pıtırak",
+        "Gelin kızlar oturak"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Χάρμαν γερί γιας γερί χάρμαν γερί γιας γερί",
+        "χάρμαν γερί γιας γερί ουσούλ μπας γιαβάς γιορού."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

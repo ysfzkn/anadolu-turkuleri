@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Potinimin Bağına, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey potinimin bağına",
+        "Düştüm gönül ağına",
+        "Yenile bir yar sevdim",
+        "O da gelmiş çağına"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalları bastı kiraz",
+        "Gel bize biraz biraz",
+        "Ben Senin Aşığın oldum",
+        "Kalbime (gönlüme)gel gir biraz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey yanarım ben halime",
+        "Senedim yok yarime",
+        "Ne dedin de aldandım",
+        "Senin gibi zalime"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalları bastı kiraz",
+        "Gel bize biraz biraz",
+        "Ben senin âşığın oldum",
+        "Kalbime (gönlüme) gel gir biraz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey hey giderim ben de ben de",
+        "Bir arzum kaldı sende",
+        "Dilerim ben Allah'tan",
+        "Gelin de olasın sen de"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dalları bastı kiraz",
+        "Gel bize biraz biraz",
+        "Ben senin âşığın oldum",
+        "Kalbime (gönlüme) gel gir biraz"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

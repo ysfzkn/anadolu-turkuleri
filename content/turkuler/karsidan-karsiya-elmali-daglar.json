@@ -4,7 +4,26 @@
   "yore": "Kırşehir",
   "hikaye": "Karşıdan Karşıya Elmalı Dağlar, Vikikaynak'ın Kırşehir türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kırşehir yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşıdan karşıya elmalı dağlar (oy anam)",
+        "Elması yetmiş suları çağlar",
+        "Onbeş yaşında bir güzel ağlar",
+        "Kaş kaldırıp gözlerim süzerek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Mestine de deli gönül mestine (oy anam)",
+        "Deste deste gül yolluyor dostuna",
+        "Sallanıp sallanıp gelir üstüme",
+        "Ölmüş urufumu söyletir gelin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

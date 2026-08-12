@@ -4,7 +4,50 @@
   "yore": "Burdur",
   "hikaye": "Ardıçtandır Kuyuların Kovası, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardıçtandır kuyuların (aman) kovası",
+        "(ah) suya koyvermiyor gızın (aman) anası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hopbah tininom tinay da tini nay nom",
+        "Tinanini tininom tinay da tini nay nom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardıçtandır kuyuların (aman) sereni",
+        "Ben severim gel demeden (aman) geleni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hopbah tininom tinay da tini nay nom",
+        "Tinanini tininom tinay da tini nay nom"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Uzun olur kuyuların (aman) zenciri",
+        "Ben severim güzellerin (aman) gencini"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hopbah tininom tinay da tini nay nom",
+        "Tinanini tininom tinay da tini nay nom"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

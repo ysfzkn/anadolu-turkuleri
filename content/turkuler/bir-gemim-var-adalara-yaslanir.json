@@ -4,7 +4,53 @@
   "yore": "Ankara",
   "hikaye": "Bir Gemim Var Adalara Yaslanır, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Gemim Var (Aman) Adalara Yaslanır",
+        "Yağmur Yağar Yelkenleri(Efem) Islanır.",
+        "Bir Gün Olur(Aman) Deli Gönül Uslanır."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama Fidan Boylum, Yoldan Geldim Efem Yorgunum",
+        "Ben O Yarin Edasına Efem Vurgunum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Gemim Var(aman) Salıverdim Engine",
+        "Kaderim Yok Düşemedim(Aman)Dengime",
+        "Şimdi Rağbet (Aman) Güzel İle Zengine"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama Fidan Boylum, Yoldan Geldim Efem Yorgunum",
+        "Ben O Yarin Edasına Efem Vurgunum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çıkabilsem (Aman) Şu Hapisten Saraya",
+        "Davacılar Dizilmişler (Efem) Sıraya",
+        "Kimsem Yoktur (Aman) Gelsin Girsin Araya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ağlama Fidan Boylum, Yoldan Geldim Efem Yorgunum",
+        "Ben O Yarin Edasına Efem Vurgunum"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

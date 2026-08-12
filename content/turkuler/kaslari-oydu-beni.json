@@ -4,7 +4,46 @@
   "yore": "Elazığ",
   "hikaye": "Kaşları Oydu Beni, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşları oydu beni",
+        "Bir güzel vurdu beni",
+        "Vurdu öldüremedi",
+        "Yaralı koydu beni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Hani mendilim hani",
+        "Durmaz parmağım kanı",
+        "Benim sevdiğim sensin",
+        "Senin sevdiğin hani"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşların mildir yarim",
+        "Gel beni güldür yarim",
+        "Aramız derya deniz",
+        "Gönlümüz birdir yarim",
+        "Bağlantı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kaşların karadandır",
+        "Hak bizi yaradandır",
+        "Arif olanlar bilir",
+        "Bu sözler neredendir"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

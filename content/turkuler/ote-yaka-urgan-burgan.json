@@ -4,7 +4,77 @@
   "yore": "Bilecik",
   "hikaye": "Öte Yaka Urgan Burgan, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öte yaka urgan burgan",
+        "Üstümüzde telli yorgan",
+        "Alevlim aman aman",
+        "Saracaksan işte de gerdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan ninni aman amman",
+        "Çakırım nenni",
+        "Amanın var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Topukta şalvar aman",
+        "Elinde gül var aman",
+        "Gelirse al gel aman",
+        "Gelmezse dön gine yalvar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öte vakanın buludu",
+        "Beni yakayı bürüdü",
+        "Aleylim aman aman",
+        "Güzeller aldı yürüdü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan nenni aman amman",
+        "Çakırım nenni",
+        "Amanın var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Topukta şalvar aman",
+        "Elinde gül var aman",
+        "Gelirse al gel aman",
+        "Gelmezse dön gine yalvar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öte yakaya geçelim",
+        "Atlara yonca biçelim",
+        "Aleylim aman aman",
+        "Biz bu yargan vaz geçelim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan nenni aman aman",
+        "Çakırım nenni",
+        "Amanın var"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

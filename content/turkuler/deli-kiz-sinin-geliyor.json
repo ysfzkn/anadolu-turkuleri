@@ -4,7 +4,50 @@
   "yore": "Bayburt",
   "hikaye": "Deli Kız Sinin Geliyor, Vikikaynak'ın Bayburt türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Bayburt yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Kız Sinin Geliyor",
+        "Sinide Neler Geliyor",
+        "Sinide fındık Geliyor",
+        "Hani Ya Niye Gelmedi",
+        "Geldi De Geri Döndüler",
+        "Ne Kusurimi Gördüler",
+        "Ayagın topal Dediler",
+        "Haniya bunun topalı",
+        "Kız Anam Bacım Hani Ya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Kız Sinin Geliyor",
+        "Sinide Neler Geliyor",
+        "Sinide çerez Geliyor",
+        "Hani Ya Niye Gelmedi",
+        "Geldi De Geri Dönüyor",
+        "Ne Kusurumu Gördüler",
+        "Kolun sakat Dediler",
+        "Haniya bunun topal",
+        "Kız Anam Bacım Hani Ya"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deli Kız Sinin Geliyor",
+        "Sinide Neler Geliyor",
+        "Sinide Beşlik Geliyor",
+        "Hani Ya Niye Gelmedi",
+        "Geldi De Geri Dönüyor",
+        "Ne Kusurumu Gördüler",
+        "Gözüne kör dediler Dediler",
+        "Haniya bunun körü",
+        "Kız Anam Bacım Hani Ya"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

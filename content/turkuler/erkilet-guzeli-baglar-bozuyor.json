@@ -4,7 +4,72 @@
   "yore": "Kayseri",
   "hikaye": "Erkilet Güzeli Bağlar Bozuyor, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erkilet güzeli bağlar bozuyor, amanın aman, ben yandım aman",
+        "Kirpikleri kalem olmuş yazıyor, canım, canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tek tek basaraktan",
+        "Bade süzerekten",
+        "İnci dizerekten",
+        "Gel canım gel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cevizin yaprağı dal arasında, amanın aman, ben yandım aman",
+        "Severler güzeli bağ arasında, canım, canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tek tek basaraktan",
+        "Bade süzerekten",
+        "İnci dizerekten",
+        "Gel canım gel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey ağalar ben bir hata işledim, amanın aman, ben yandim aman",
+        "Elma sanıp al yanağı dişledim, canım, canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tek tek basaraktan",
+        "Bade süzerekten",
+        "İnci dizerekten",
+        "Gel canım gel aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Erkilet güneydir gölge basma mı, amanın aman, ben yandım aman",
+        "Suç olan yiğidi beyler asma mı, canım canım"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Tek tek basaraktan",
+        "Bade süzerekten",
+        "İnci dizerekten",
+        "Gel canım gel aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

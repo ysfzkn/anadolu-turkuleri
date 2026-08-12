@@ -4,7 +4,44 @@
   "yore": "Amasya",
   "hikaye": "Kız Pınar Başında Testi Doldurur (Amasya), Vikikaynak'ın Amasya türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Amasya yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız pınar başında testi de doldurur",
+        "Testinin kulpuna",
+        "Şahin kondurur",
+        "Kız senin yan bakışın insanı öldürür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lengo lengo lengo",
+        "Dayanamıyom gayrı",
+        "Geceleri yalınız",
+        "Yatamıyorum gayrı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kız pınar başında harmanın mı var",
+        "Sırmanın telinden",
+        "Yorganın mı var",
+        "Beni öldürmeye fermanın mı var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Lengo lengo lengo",
+        "Dayanamıyom gayrı",
+        "Geceleri yalınız",
+        "Yatamıyorum gayrı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

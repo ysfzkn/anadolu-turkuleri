@@ -4,7 +4,35 @@
   "yore": "Ankara",
   "hikaye": "Bahçelerde Gün Döndü, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Gabah) Bahçelerde Gün Döndü",
+        "(Yar Yar)Gölgesin Sana Döndü",
+        "(Gabah) Yar Selamım Almazsa",
+        "(Yar Yar)Beni Derdinden Öldür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Gabah) Bahçalarda Bir Dane",
+        "(Yar Yar)Açılır Dane Dane",
+        "(Gabah) Yar Buradan Geçerse",
+        "(Yar Yar)Benden Selamlar Söyle"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Gabah)Gabağın Kökenisin",
+        "(Yar Yar)Üstüne Dikenisin",
+        "(Gabah)Seni Güzeller Yesin",
+        "(Yar Yar)Çirkinlere Bitesin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Bir Elinde Kantar, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Elinde Kantar",
+        "Neler De Alır Tartar",
+        "Aşka Gelmiş Benim De Yarim",
+        "Entarisin Yırtar"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dirim Name Dirim",
+        "Satın Alır Yerim",
+        "Bir Gün Olur Namem",
+        "Ben Sana Neler Dirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bahçalarda İğde",
+        "Hep Dalları Yerde",
+        "Benim De Yarim Nerde",
+        "Çeşmeler De Suda"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dirim Name Dirim",
+        "Satın Alır Yerim",
+        "Bir Gün Olur Namem",
+        "Ben Sana Neler Dirim"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Suda Oynar Balık",
+        "Ne Zamanda Yanık",
+        "Arzedeyim Gelin Namem",
+        "Benzim Neden Soluk"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dirim Name Dirim",
+        "Satın Alır Yerim",
+        "Bir Gün Olur Namem",
+        "Ben Sana Neler Dirim"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

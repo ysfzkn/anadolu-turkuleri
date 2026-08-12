@@ -4,7 +4,35 @@
   "yore": "Ankara",
   "hikaye": "Kezban'ın Alt Odası Sekili, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kezban’ın alt odası sekili",
+        "Sekisinde gül karanfil ekili",
+        "Kimler osun Kezban’ın vekili",
+        "Biri lale biri sümbül Kezban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kezban’ın gerdanlığı mercandan",
+        "Sen doldur da ben içeyim fincandan",
+        "Çek hançeri kurtulayım bu candan",
+        "Biri lale biri sümbül Kezban"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kezban’ın gerdanlığı sedeften",
+        "Sen doldur da ben içeyim kadehten",
+        "Vur hançeri kurtulayım bu dertten",
+        "Biri lale biri sümbül Kezban"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

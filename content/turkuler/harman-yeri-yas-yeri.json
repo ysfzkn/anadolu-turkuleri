@@ -4,7 +4,26 @@
   "yore": "Ankara",
   "hikaye": "Harman Yeri Yaş Yeri, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yaş yeri",
+        "Usul bas yavaş yürü",
+        "Şimdi buradan geçti",
+        "Güzellerden bir sürü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Harman yeri yarıldı",
+        "Kaynanam bana darıldı",
+        "Ne darıldın kaynana",
+        "Kızın bana sarıldı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

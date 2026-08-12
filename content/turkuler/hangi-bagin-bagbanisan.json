@@ -4,7 +4,59 @@
   "yore": "Diyarbakır",
   "hikaye": "Hangi Bağın Bağbanısan, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hangi Bağın Bağbanısan Gülüsen... Gülüsen,",
+        "Aldın Aklım Ettin Beni Deli Sen Aman.",
+        "Yüz Yıl Geçse Gene Benim Malımsan... Malımsan,",
+        "İsterem Ki Bir Gün Evvel Gelesen Aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldüm Bittim Eridim Tutuştum Amman",
+        "O Senin Aşkın Elinden Bayıldım Amman",
+        "Sesin Aldım Yüzünde Gördüm Ayıldım Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Diyarbakır Etrafında Bağlar Var... Bağlar Var,",
+        "Fitil İşler Yüreğimde Yara Var Aman.",
+        "Sen Gidersen Benim Başka Kimim Var... Kimim Var,",
+        "İsterem Ki Bir Gün Evvel Gelesen Aman."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldüm Bittim Eridim Tutuştum Amman",
+        "O Senin Aşkın Elinden Bayıldım Amman",
+        "Sesin Aldım Yüzünde Gördüm Ayıldım Aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Karşı Dağın Kumruları Seslenir",
+        "Yaylasında Türlü Ceylan Beslenir",
+        "Koy Başım Dizine Yatım Uzanım",
+        "İsterem Ki Bir Gün Evvel Gelesen"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öldüm Bittim Eridim Tutuştum Amman",
+        "O Senin Aşkın Elinden Bayıldım Amman",
+        "Sesin Aldım Yüzünde Gördüm Ayıldım Aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

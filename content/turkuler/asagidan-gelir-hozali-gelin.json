@@ -4,7 +4,35 @@
   "yore": "Kayseri",
   "hikaye": "Aşağıdan Gelir Hozalı Gelin, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan Gelir Hozalı Gelin",
+        "Topla Fistanını Toz Olur Gelin",
+        "Kaldırsam Peçeni Baksam Yüzüne",
+        "Eller Arif Olmuş Söz Olur Gelin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aşağıdan Gelir O Yarin Göçü",
+        "Nere Koyam Gidem Canımın İçi",
+        "Ölünce Kabrime Gelmezsen Eğer",
+        "Yanıma Koysunlar Verdiğin Saçı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Genemi Yürüdü Bu Yarin Göçü",
+        "Nereleri Gezdin Canımın İçi",
+        "Koynumda Sakladım Verdiğin Saçı",
+        "Hatırdan Gönülden Çıkarma Beni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

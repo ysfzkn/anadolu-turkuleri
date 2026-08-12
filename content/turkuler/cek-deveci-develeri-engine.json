@@ -4,7 +4,58 @@
   "yore": "Burdur",
   "hikaye": "Çek Deveci Develeri Engine, Vikikaynak'ın Burdur türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Burdur yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çek deveci (aman) develeri engine (canım engine gülüm)",
+        "Şimdi rağbet güzel ile zengine zengine canım (yar zengine canım zengine gülüm)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devesi var densiz",
+        "Gerdanı var bensiz",
+        "Ben olamam sensiz (güzel)",
+        "Sen de durma bensiz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Öpmelere yazık",
+        "Sıkmalara nazik",
+        "Sıktırmış kollarını",
+        "Altın gümüş bilezik"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çek deveci (aman) develeri sulansın (aman yar yar amman)",
+        "Sevip sevip ayrı düşen dolansın (yar dolansın canım dolansın güzel)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Köye varasım geldi",
+        "Yari göresim geldi",
+        "Pencereden görünce",
+        "Camı gırasım geldi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Devesi çanına",
+        "Gerdanında benine",
+        "Al yanağın gülüne",
+        "Saçlarının teline"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,44 @@
   "yore": "Kars",
   "hikaye": "Ardahan'ın Yollarında, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ardahan'ın Yollarında",
+        "Güller Açıp Bağlarında",
+        "Eyle Bir Yar Sevmişemki",
+        "Onüç Ondört Çağlarında"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvah Dimme Dimme",
+        "Nazlı Yar Dimme",
+        "Men Özüm Sarhoş",
+        "Sen Şerap Verme"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dimme'yi Ben Çayda Gördüm",
+        "Elinde Bir Bayda Gördüm",
+        "İki Öptüm Bir De Sevdim",
+        "Ondan Ne Fayida Gördüm"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Eyvah Dimme Dimme",
+        "Nazlı Yar Dimme",
+        "Men Özüm Sarhoş",
+        "Sen Şerap Verme"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

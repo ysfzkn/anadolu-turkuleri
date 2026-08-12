@@ -4,7 +4,44 @@
   "yore": "Niğde",
   "hikaye": "Cimdallı Çarşısında, Vikikaynak'ın Niğde türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Niğde yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Cimdallı Çarşısında (Ali'm Amman Aman Gülüm Amman Aman)",
+        "Mum Yanar Karşısında",
+        "Adam Kemlik Mı Umar (Ali'm Amman Aman Güiüm Amman Aman)",
+        "Kapı Bir Komşusuna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop Sındellı Sındellı",
+        "Bir Kız Verin Dundallı",
+        "Kürkçüden Bakıyorlar",
+        "Onun Al Tında Bir Köy Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çık Daldan Kiraz Devşir (Ali'm Amman Aman Gülüm Amman Aman)",
+        "Al Tında Kahve Pişir",
+        "Her Kahveyi İçtikçe (Ali'm Amman Aman Gülüm Amman Aman)",
+        "Beni Aklına Düşür"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hop Sındellı Sındellı",
+        "Bir Kız Verin Dundallı",
+        "Kürkçüden Bakıyorlar",
+        "Onun Al Tında Bir Köy Var"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

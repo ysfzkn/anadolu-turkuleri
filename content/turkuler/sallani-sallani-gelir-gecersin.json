@@ -4,7 +4,32 @@
   "yore": "Artvin",
   "hikaye": "Sallanı Sallanı Gelir Geçersin, Vikikaynak'ın Artvin türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Artvin yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Sallanı sallanı (sona can) gelir geçersin",
+        "Yar bana nisbeten (sona can) göğsün açarsın",
+        "Ne candan seversin (sona can)ne vazgeçersin"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Bir yana halların vay canım bir yana beni",
+        "Uyhun da gelirse güzelim de nenni nenni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Maral sen güzelsin (sona can) alı neylersin",
+        "İnce bel üstüne (sona can) şalı neylersin",
+        "Al dudak üstüne (sona can) balı neylersin ”"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

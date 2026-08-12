@@ -4,7 +4,44 @@
   "yore": "Kastamonu",
   "hikaye": "Birini de Yavrum Birini, Vikikaynak'ın Kastamonu türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kastamonu yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Birini de yavrum birini",
+        "Harmana serdim kilimi aman",
+        "Takıver de zillerin birini",
+        "Dönüver de meydan senindir aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çiftini de yavrum çiftini",
+        "Geliver de çifteli çifteli aman",
+        "Takıver de zillerin çiftini",
+        "Dönüver de meydan senindir aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Üçünü de yavrum üçünü",
+        "Yaylada gördüm göçünü aman",
+        "Takıver de zillerin üçünü",
+        "Dönüver de meydan senindir aman"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Merdini de yavrum merdini",
+        "Kim bilir kimin derdini aman",
+        "Takıver de zillerin dördünü",
+        "Dönüver de meydan senindir aman"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

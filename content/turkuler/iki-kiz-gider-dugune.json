@@ -4,7 +4,35 @@
   "yore": "Adıyaman",
   "hikaye": "İki Kız Gider Düğüne, Vikikaynak'ın Adıyaman türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adıyaman yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İki kız gider düğüne (boylarına kurban)",
+        "Ben vurgunam büyüğüne (huylarına hayran)",
+        "Kör olası anaları (boylarına kurban",
+        "Vermiyor ki sevdiğine (huylarına hayran)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Halay başında güzeller (boylarına kurban)",
+        "Yârime bakıyor eller (huylarına hayran)",
+        "Bir güzelin hatırına (boylarına kurban)",
+        "Başa geldi türlü haller (huylarına hayran)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bu yıl da geçirdik yazı (boylarına kurban)",
+        "Zalım anan vermez kızı (huylarına hayran)",
+        "Her bir dert çekilir (boylarına kurban)",
+        "Çekilmiyor ana nazı (huylarına hayran)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

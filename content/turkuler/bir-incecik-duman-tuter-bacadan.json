@@ -4,7 +4,34 @@
   "yore": "Bilecik",
   "hikaye": "Bir İncecik Duman Tüter Bacadan, Vikikaynak'ın Bilecik türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bilecik yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir incecik (aman) duman (da) tüter (aman) bacadan",
+        "Ah oku derler (aman) böyle (de) serhoş (algın yarim) hocadan",
+        "Yar yollamış (aman) selam geldi (aman aman) yüceden",
+        "Ah gınalıdır (aman aman) on parmağı (algın yarim) gınalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Ah alamadım (aman aman) dertli (de) başım (algın yarim) belalı",
+        "Yeşil olur (aman) odasının (aman aman) boyası",
+        "Ah mercanlıdır (aman aman) yazmasının (algın yarim) oyası",
+        "N'ettim sana (aman) bir Mevla'dan (aman aman) bulası"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Yar yollamış (aman) selam geldi (aman aman) yüceden",
+        "Ah gınalıdır (aman aman) on parmağı (algın yarim) gınalı",
+        "Ah alamadım (aman aman) dertli (de) başım (algın yarim) belalı"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,34 @@
   "yore": "Elazığ",
   "hikaye": "Bebeğin Beşiği Çamdan (Elazığ), Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bebeğin beşiği çamdan",
+        "Yuvarlandı düştü damdan",
+        "Ben bebeği çok severdim",
+        "Hem anamdan hem babamdan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bağlantı:",
+        "Oy şirin oy narin oy",
+        "Bebek oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bebek beni haleyledi",
+        "Esiretti mal eyledi",
+        "Bir kapıya kuleyledi",
+        "Aldı aklım deleyledi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

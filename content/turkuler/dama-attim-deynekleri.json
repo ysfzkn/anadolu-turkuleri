@@ -4,7 +4,29 @@
   "yore": "Kayseri",
   "hikaye": "Dama Attım Deynekleri, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dama attım deynekleri (yar döne döne döne)",
+        "Kız ürküttün leylekleri (ağam çelebi çelebi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Taşlı bayır bağ olur mu (yar döne döne döne)",
+        "Kara üzüm ağ olur mu (ağam çelebi çelebi)"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Komşu kızı sevenin (yar döne döne döne)",
+        "Yüreğinde yağ olur mu (ağam çelebi çelebi)"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

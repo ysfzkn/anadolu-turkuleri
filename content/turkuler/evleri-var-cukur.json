@@ -4,7 +4,35 @@
   "yore": "Çankırı",
   "hikaye": "Evleri Var Çukur, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri var çukur",
+        "Gözleri var çakır",
+        "Biraderim fakir",
+        "Yandım şeker oğlan"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evleri var hurda",
+        "Benim yarim nerde",
+        "Aman kıyma gelin",
+        "Bir güldüm idim soldum"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hep güzeller burada",
+        "Yandım kıyma gelin",
+        "Hayatıma kıyma gelin",
+        "Canıma kıyma gelin"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

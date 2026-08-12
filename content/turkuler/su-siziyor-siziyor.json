@@ -4,7 +4,62 @@
   "yore": "Ankara",
   "hikaye": "Su Sızıyor Sızıyor, Vikikaynak'ın Ankara türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Ankara yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Su Sızıyor Sızıyor,",
+        "Taşların Arasından.",
+        "Eğil Bir Yol Öpeyim,",
+        "Kaşların Arasından."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan Mavilim Oğlan,",
+        "Sözüne De Kavilim Oğlan.",
+        "Enişte Bana Hişt Demiş,",
+        "Yalan Sevdiğim Yalan."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Derenin Kenarında,",
+        "Kalayladım Kazanı.",
+        "Kız Ben Senin Yüzünden,",
+        "Tutmadım Ramazan’ı."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan Mavilim Oğlan,",
+        "Sözüne De Kavilim Oğlan.",
+        "Enişte Bana Hişt Demiş,",
+        "Yalan Sevdiğim Yalan."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kar Yağıyor Yağıyor,",
+        "Abamı Giyeceğim.",
+        "Sakallıya Varıp Da,",
+        "Baba Mı Diyeceğim."
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Oğlan Mavilim Oğlan,",
+        "Sözüne De Kavilim Oğlan.",
+        "Enişte Bana Hişt Demiş,",
+        "Yalan Sevdiğim Yalan."
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,49 @@
   "yore": "Samsun",
   "hikaye": "Cebinde Çakısı Var, Vikikaynak'ın Samsun türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Samsun yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey Hey) Cebinde Çakısı Var Ne Güzel Uykusu Var",
+        "Vardım Yarın Yanına",
+        "Menekşe Kokusu Var"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Hey",
+        "Annoş",
+        "Minnoş",
+        "Meyhoş",
+        "Sevgilim",
+        "Ninnoy Aslanım Ninnoy",
+        "Ninnoy Hayranım Ninnoy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "(Hey Hey) Aynam Düştü Cebimden",
+        "Karıştı Gazellere",
+        "Şu Benim Kötü Göynüm",
+        "Bakarım Güzellere"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hey Hey",
+        "Annoş",
+        "Minnoş",
+        "Meyhoş",
+        "Sevgilim",
+        "Ninnoy Aslanım Ninnoy",
+        "Ninnoy Hayranım Ninnoy"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

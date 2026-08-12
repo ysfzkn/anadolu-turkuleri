@@ -4,12 +4,49 @@
   "yore": "Adana",
   "hikaye": "İbrişim Örmüyorlar, Vikikaynak'ın Adana türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Adana yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "İbrişim örmüyorlar oy oy",
+        "Sevmişim vermiyorlar dayanamam ben",
+        "Tanrının zalimleri oy oy",
+        "Münasip görmüyorlar sabredem ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük hoş bilezik",
+        "Kollar nazik oy oy",
+        "Ben yarimden ayrı düştüm",
+        "Bana yazık oy"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kara dut parmak gibi oy oy",
+        "Kız yüzün kaymak gibi dayanamam ben",
+        "Beni yardan ayıran oy oy",
+        "Kurusun yaprak gibi sabredemem ben"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Altın yüzük hoş bilezik",
+        "Kollar nazik oy oy",
+        "Ben yarimden ayrı düştüm",
+        "Bana yazık oy"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=%C4%B0bri%C5%9Fim%20%C3%96rm%C3%BCyorlar%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=iINsMqjRrOU",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

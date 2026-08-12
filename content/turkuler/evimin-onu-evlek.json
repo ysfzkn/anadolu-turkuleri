@@ -4,7 +4,38 @@
   "yore": "Elazığ",
   "hikaye": "Evimin Önü Evlek, Vikikaynak'ın Elazığ türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Elazığ yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Evimin önü evlek",
+        "Evleğe diktim tevek",
+        "Artık sabrım kalmadı",
+        "Güz ayında evlenek",
+        "Güz ayında evlenek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan kestim değenek",
+        "Boylu boyunca benek",
+        "Gelin kızlar oynayın",
+        "Bizler sizi beğenek",
+        "Bizler sizi beğenek"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Dağdan kestim kereste",
+        "Kuş besledim kafeste",
+        "Dediler yarin hasta",
+        "Yetiştim son nefeste",
+        "Yetiştim son nefeste"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

@@ -4,7 +4,59 @@
   "yore": "Kayseri",
   "hikaye": "Deve Yüksek Atamadım Urganı, Vikikaynak'ın Kayseri türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kayseri yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Deve Yüksek Atamadım Urganı",
+        "Üşüdükçe Çek Başına Yorganı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Amman Develi",
+        "Sordum Aslı Nereli",
+        "Portukal Çeneli",
+        "Ah Nerelerde Bulursan",
+        "Oralarda Yemeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çek Deveci Develeri Yokuşa",
+        "Siyah Perçem Ak Gerdana Yakışa"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Amman Develi",
+        "Sordum Aslı Nereli",
+        "Portukal Çeneli",
+        "Ah Nerelerde Bulursan",
+        "Oralarda Yemeli"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çek Deveci Develeri Sulansın",
+        "Sulansın Da Akan Çaylar Bulansın"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Amman Amman Develi",
+        "Sordum Aslı Nereli",
+        "Portukal Çeneli",
+        "Ah Nerelerde Bulursan",
+        "Oralarda Yemeli"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

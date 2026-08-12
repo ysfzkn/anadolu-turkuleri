@@ -4,7 +4,47 @@
   "yore": "Aydın",
   "hikaye": "Çavdarlı Murat Efe, Vikikaynak'ın Aydın türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Aydın yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Havada uçan guşları gaz mı sandın",
+        "Elimdeki manayırı saz mı sandın, of!",
+        "Gelme üstüme gelme Ödemiş golu",
+        "Çavdarlı Murat Efe’yi az mı sandın, of!",
+        "Beşparmak’ta gezerim",
+        "Hani benim güzelim",
+        "Güzelimi alanı",
+        "Kurşunlara dizerim, of of!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Çek kayıkçı çek ırbalığı geçeyim",
+        "Şahin de değilim havadan nasıl uçayım, of!",
+        "Alıverin gümüşlü manayırımı",
+        "Gızanlarıma yeni yollar açayım, of!",
+        "Saz damların saçağı",
+        "Efelerin kuşağı",
+        "Murat için yaptırdım",
+        "Gümüş saplı bıçağı, of of!"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Beşparmak dağlarından gece geçerim",
+        "Anadan bubadan yârdan vazgeçerim, of!",
+        "Dön git üstüme varma Ödemiş golu",
+        "Çok zaptiyeni kurşunlara dizerim, of!",
+        "Kara yazma başında",
+        "Sürmeleri kaşında",
+        "Yetmedi mi gezdiğin",
+        "Beşparmağın başında, of of!"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

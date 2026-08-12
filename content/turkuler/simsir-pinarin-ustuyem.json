@@ -4,12 +4,35 @@
   "yore": "Bursa",
   "hikaye": "Şimşir Pınarın Üstüyem, Vikikaynak'ın Bursa türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Bursa yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şimşir pınarın üstüyem",
+        "Şimşir pınarın aman aman üstüyem",
+        "Al giyenlerin dostuyam efendim aman",
+        "İlişmen bana hastayam",
+        "İlişmen bana aman aman hastayam",
+        "Doldur a şişeyi şişeyi özledim Ayşe’yi"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Şimşir pınarın kilidi",
+        "Şimşir pınarın aman aman kilidi",
+        "Bu gece gelen kim idi efendim aman",
+        "Sensin gönlümün kilidi",
+        "Sensin gönlümün aman aman kilidi",
+        "Doldur a şişeyi şişeyi özledim Ayşe’yi"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
-      "url": "https://www.youtube.com/results?search_query=%C5%9Eim%C5%9Fir%20P%C4%B1nar%C4%B1n%20%C3%9Cst%C3%BCyem%20t%C3%BCrk%C3%BC",
-      "dogrulandi": false
+      "url": "https://www.youtube.com/watch?v=-wx8TeU8y24",
+      "dogrulandi": true
     },
     {
       "platform": "spotify",

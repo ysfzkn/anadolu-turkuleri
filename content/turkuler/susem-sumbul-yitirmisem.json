@@ -4,7 +4,53 @@
   "yore": "Kars",
   "hikaye": "Süsem Sümbül Yitirmişem, Vikikaynak'ın Kars türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Kars yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Süsem Sümbül (Ay Balam) Yitirmişem",
+        "Ömrü Sona (Ay Anam) Yetirmişem",
+        "Men Yarimi (Ay Balam) Yitirmişem"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Kızlar",
+        "Yar Muhanet",
+        "Gök Yüzüde Hali",
+        "O Mehi Cemali",
+        "Öldürür Meni Ay Balam",
+        "Soldurur Meni",
+        "Ağ Yüzüde Hali",
+        "O Mehi Cemali",
+        "Öldürür Meni Ay Balam",
+        "Soldurur Meni"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al Çiçekler (Ay Balam) Dört Yanımı (Ay) Bürüdü",
+        "Civan Ömrüm (Ay Balam) Gurbet Elde (Ay) Çürüdü"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Aman Kızlar",
+        "Yar Muhanet",
+        "Gök Yüzüde Hali",
+        "O Mehi Cemali",
+        "Öldürür Meni Ay Balam",
+        "Soldurur Meni",
+        "Ağ Yüzüde Hali",
+        "O Mehi Cemali",
+        "Öldürür Meni Ay Balam",
+        "Soldurur Meni"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

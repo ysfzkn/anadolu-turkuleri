@@ -4,7 +4,84 @@
   "yore": "Diyarbakır",
   "hikaye": "Hani Davulunuz Hani, Vikikaynak'ın Diyarbakır türküleri kategorisinde belgelenen geleneksel repertuvar kayıtlarından biridir. Açık arşiv sayfası eserin söz varyantını ve yöre sınıflandırmasını korur.\nBelirli bir olaya dayanan hikâye kurumsal veya akademik ikinci bir kaynakla doğrulanmadıkça bu temel kayda rivayet eklenmez. Kayıt, kaynak kişi, derleyen, makam, usul ve nota bilgileriyle editoryal olarak genişletilmek üzere taslak durumundadır.",
   "ozet": "Diyarbakır yöresinden, açık arşiv kaynağıyla belgelenen geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hani Davulunuz Lo Hani Ya Davulunuz",
+        "Hani Düğününüz Lo Hani Ya Düğününüz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Mumdur İki Mumdur Üç Mumdur",
+        "Dört Mumdur Ondört Mumdur",
+        "Bahan Bir Bade Doldur",
+        "Bu Ne Güzel Düğündür Ha Ninna",
+        "Ha Ninna Heyran Ninna",
+        "Ha Ninna Kurban Ninna",
+        "Ha Ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Hanı Gelininiz Lo Haniya Gelininiz",
+        "Hani Kaşmeriniz Lo Hani Ya Kaşmeriniz"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Mumdur İki Mumdur Üç Mumdur",
+        "Dört Mumdur Ondört Mumdur",
+        "Bahan Bir Bade Doldur",
+        "Bu Ne Güzel Düğündür Ha Ninna",
+        "Ha Ninna Heyran Ninna",
+        "Ha Ninna Kurban Ninna",
+        "Ha Ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Kalenin Bedeninde Halay Çekah Dibinde",
+        "Evselin Uşakları Çifte Liver Belinde"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Mumdur İki Mumdur Üç Mumdur",
+        "Dört Mumdur Ondört Mumdur",
+        "Bahan Bir Bade Doldur",
+        "Bu Ne Güzel Düğündür Ha Ninna",
+        "Ha Ninna Heyran Ninna",
+        "Ha Ninna Kurban Ninna",
+        "Ha Ninna"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Acem Kuşak Beline Heyran Şirin Diline",
+        "Mumlar Yakın Çevirin Kına Yakah Eline"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Bir Mumdur İki Mumdur Üç Mumdur",
+        "Dört Mumdur Ondört Mumdur",
+        "Bahan Bir Bade Doldur",
+        "Bu Ne Güzel Düğündür Ha Ninna",
+        "Ha Ninna Heyran Ninna",
+        "Ha Ninna Kurban Ninna",
+        "Ha Ninna"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",

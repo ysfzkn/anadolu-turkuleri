@@ -4,7 +4,50 @@
   "yore": "Çankırı",
   "hikaye": "Urganları Ulam Ulam Ulalı, Vikikaynak'ın Çankırı türküleri kategorisinde yer alan geleneksel repertuvar kayıtlarından biridir. Eserin yöre bilgisi ve arşiv künyesi, açık kaynak sayfası üzerinden kataloğa alınmıştır.\nBu temel kayıt, türkünün arşivde bulunmasını ve araştırılmasını sağlar. Hikâye, icra ve nota bilgileri güvenilir kurumsal kaynaklarla doğrulandıkça editoryal olarak genişletilecektir.",
   "ozet": "Çankırı yöresinden, açık arşiv kaynağıyla kataloglanan geleneksel türkü kaydı.",
-  "sozler": [],
+  "sozler": [
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Urganları ulam ulam ulalı",
+        "Erkeçleri baş pınardan sulalı"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al çiçeğim dimdah dimdah",
+        "Mor çiçeğim yallah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Topla varım avlunuzun taşını",
+        "Gurban olam sil gözünün yaşını"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al çiçeğim dimdah dimdah",
+        "Mor çiçeğim yallah"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Benim yâre gönderdiğim bir kutu",
+        "Kutunun içinde üç türlü koku"
+      ]
+    },
+    {
+      "tur": "kita",
+      "satirlar": [
+        "Al çiçeğim dimdah dimdah",
+        "Mor çiçeğim yallah"
+      ]
+    }
+  ],
   "baglantilar": [
     {
       "platform": "youtube",
