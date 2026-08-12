@@ -191,8 +191,9 @@ Proje kökünde `.env.local` (Git'e girmez — `.gitignore`'da):
 # Supabase
 NEXT_PUBLIC_SUPABASE_URL=https://<proje>.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon-public-key>
-# Opsiyonel; mevcut uygulama akışlarında kullanılmıyor:
-# SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
+# Yalnızca sunucuda kullanılır; NEXT_PUBLIC_ öneki eklemeyin ve tarayıcıya vermeyin.
+# Editör Masası, özel katkı dosyaları ve Spotify liste aktarımı için gereklidir.
+SUPABASE_SERVICE_ROLE_KEY=<service-role-key>
 
 # Spotify
 SPOTIFY_CLIENT_ID=<client-id>
@@ -222,3 +223,24 @@ Supabase Dashboard → **SQL Editor** ekranında ayrıca
 Bu migration davet kodlu iki kişilik odaları, Realtime yayınını ve kullanıcı
 adıyla görünen liderlik tablosunu kurar. Tek kişilik oyunlar bu migration
 olmadan da çalışır; yalnızca “Canlı Meydan Okuma” veritabanını bekler.
+
+## 5) Editör Masası ve katkı yönetimi
+
+Supabase Dashboard → **SQL Editor** ekranında şu dosyaları sırayla çalıştır:
+
+1. `supabase/migrations/20260812_admin_icerik.sql`
+2. `supabase/migrations/20260812_admin_guvenlik_duzeltmesi.sql`
+
+İkinci dosya, yönetim migration'ını daha önce çalıştırmış projelerde de yetki
+ve özel dosya politikalarını günceller. Ardından ilk admin hesabını kullanıcı
+adı üzerinden yetkilendir:
+
+```sql
+update public.profiller
+set rol = 'admin'
+where kullanici_adi = 'KULLANICI_ADINIZ';
+```
+
+`SUPABASE_SERVICE_ROLE_KEY` yalnızca Vercel Environment Variables ve yerel
+`.env.local` içinde bulunmalıdır. Git'e eklemeyin, ekran görüntüsünde
+paylaşmayın ve hiçbir `NEXT_PUBLIC_` değişkenine koymayın.

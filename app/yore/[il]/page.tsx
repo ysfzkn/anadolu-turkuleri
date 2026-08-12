@@ -38,7 +38,14 @@ export default async function YoreSayfasi({ params }: YoreSayfasiProps) {
   const il = iller().find((i) => i.slug === ilSlugu);
   if (!il) notFound();
   const editorTurkuleri = await yayinlananEditorTurkuleri();
-  const turkuler = [...ilTurkuleri(ilSlugu), ...editorTurkuleri.filter((t) => ilSlug(t.yore) === ilSlugu && !ilTurkuleri(ilSlugu).some((yerel) => yerel.slug === t.slug))];
+  const yerelTurkuler = ilTurkuleri(ilSlugu);
+  const yerelSluglar = new Set(yerelTurkuler.map((turku) => turku.slug));
+  const turkuler = [
+    ...yerelTurkuler,
+    ...editorTurkuleri.filter(
+      (turku) => ilSlug(turku.yore) === ilSlugu && !yerelSluglar.has(turku.slug),
+    ),
+  ];
   const bolge = bolgeBul(ilSlugu);
 
   return (
