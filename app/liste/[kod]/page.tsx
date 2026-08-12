@@ -8,29 +8,28 @@ import { MotifBorder, StarMotif } from "@/components/Motif";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 
 export const dynamic = "force-dynamic";
+type ListeSayfasiProps = { params: Promise<{ kod: string }> };
 
 export async function generateMetadata({
   params,
-}: {
-  params: { kod: string };
-}): Promise<Metadata> {
-  const liste = await herkeseAcikListe(params.kod);
+}: ListeSayfasiProps): Promise<Metadata> {
+  const { kod } = await params;
+  const liste = await herkeseAcikListe(kod);
   if (!liste) return { title: "Liste bulunamadı" };
   return {
     title: `${liste.baslik} — Türkü Listesi`,
     description:
       liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`,
-    alternates: { canonical: `/liste/${params.kod}` },
-    openGraph: { type: "website", url: `/liste/${params.kod}`, title: `${liste.baslik} — Türkü Listesi`, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: liste.baslik }] },
+    alternates: { canonical: `/liste/${kod}` },
+    openGraph: { type: "website", url: `/liste/${kod}`, title: `${liste.baslik} — Türkü Listesi`, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: liste.baslik }] },
   };
 }
 
 export default async function ListeSayfasi({
   params,
-}: {
-  params: { kod: string };
-}) {
-  const liste = await herkeseAcikListe(params.kod);
+}: ListeSayfasiProps) {
+  const { kod } = await params;
+  const liste = await herkeseAcikListe(kod);
   if (!liste) notFound();
 
   const sirali = [...(liste.liste_turkuleri ?? [])].sort(
@@ -42,7 +41,7 @@ export default async function ListeSayfasi({
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
-      <YapilandirilmisVeri veri={{ "@context": "https://schema.org", "@type": "ItemList", name: liste.baslik, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, url: `https://anadoluturkuleri.com/liste/${params.kod}`, numberOfItems: turkuler.length, itemListElement: turkuler.map((turku, indeks) => ({ "@type": "ListItem", position: indeks + 1, name: turku.baslik, url: `https://anadoluturkuleri.com/turku/${turku.slug}` })) }} />
+      <YapilandirilmisVeri veri={{ "@context": "https://schema.org", "@type": "ItemList", name: liste.baslik, description: liste.aciklama ?? `${liste.baslik} adlı paylaşılan türkü listesi.`, url: `https://anadoluturkuleri.com/liste/${kod}`, numberOfItems: turkuler.length, itemListElement: turkuler.map((turku, indeks) => ({ "@type": "ListItem", position: indeks + 1, name: turku.baslik, url: `https://anadoluturkuleri.com/turku/${turku.slug}` })) }} />
       {/* Başlık kartı — Anadolu desenli */}
       <div className="relative overflow-hidden rounded-3xl border border-toprak/40 bg-parsomen p-8 text-center shadow-motif">
         <div className="kilim-strip absolute inset-x-0 top-0" />

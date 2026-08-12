@@ -20,12 +20,13 @@ export function generateStaticParams() {
   return tumSluglar().map((slug) => ({ slug }));
 }
 
-export function generateMetadata({
+type TurkuSayfasiProps = { params: Promise<{ slug: string }> };
+
+export async function generateMetadata({
   params,
-}: {
-  params: { slug: string };
-}): Metadata {
-  const turku = turkuBul(params.slug);
+}: TurkuSayfasiProps): Promise<Metadata> {
+  const { slug } = await params;
+  const turku = turkuBul(slug);
   if (!turku) return { title: "Türkü bulunamadı" };
   return {
     title: `${turku.baslik} Türküsü: Hikâyesi ve Yöresi`,
@@ -38,12 +39,11 @@ export function generateMetadata({
   };
 }
 
-export default function TurkuSayfasi({
+export default async function TurkuSayfasi({
   params,
-}: {
-  params: { slug: string };
-}) {
-  const turku = turkuBul(params.slug);
+}: TurkuSayfasiProps) {
+  const { slug } = await params;
+  const turku = turkuBul(slug);
   if (!turku) notFound();
   const bolge = bolgeBul(ilSlug(turku.yore));
   const url = `https://anadoluturkuleri.com/turku/${turku.slug}`;

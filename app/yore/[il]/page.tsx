@@ -13,12 +13,13 @@ export function generateStaticParams() {
   return iller().map((il) => ({ il: il.slug }));
 }
 
-export function generateMetadata({
+type YoreSayfasiProps = { params: Promise<{ il: string }> };
+
+export async function generateMetadata({
   params,
-}: {
-  params: { il: string };
-}): Metadata {
-  const il = iller().find((i) => i.slug === params.il);
+}: YoreSayfasiProps): Promise<Metadata> {
+  const { il: ilSlugu } = await params;
+  const il = iller().find((i) => i.slug === ilSlugu);
   if (!il) return { title: "Yöre bulunamadı" };
   return {
     title: `${il.ad} Türküleri ve Hikâyeleri`,
@@ -30,11 +31,12 @@ export function generateMetadata({
   };
 }
 
-export default function YoreSayfasi({ params }: { params: { il: string } }) {
-  const il = iller().find((i) => i.slug === params.il);
+export default async function YoreSayfasi({ params }: YoreSayfasiProps) {
+  const { il: ilSlugu } = await params;
+  const il = iller().find((i) => i.slug === ilSlugu);
   if (!il) notFound();
-  const turkuler = ilTurkuleri(params.il);
-  const bolge = bolgeBul(params.il);
+  const turkuler = ilTurkuleri(ilSlugu);
+  const bolge = bolgeBul(ilSlugu);
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-10">
