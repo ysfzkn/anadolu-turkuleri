@@ -3,6 +3,7 @@
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { turkuBul } from "@/lib/data";
+import { kulturRotalari } from "@/lib/kultur";
 import { servisSupabase, yoneticiDogrula } from "@/lib/supabase/admin";
 import { slugYap } from "@/lib/slug";
 
@@ -164,6 +165,9 @@ export async function kulturIcerigiKaydet(form: FormData): Promise<never> {
   const slug = slugYap(metin(form, "slug", 180) || baslik);
   if (!KULTUR_TURLERI.includes(tur as typeof KULTUR_TURLERI[number]) || !baslik || ozet.length < 20 || icerik.length < 40 || !ICERIK_DURUMLARI.includes(durum as typeof ICERIK_DURUMLARI[number])) {
     adminSonucu("hata", "İçerik türü, başlık, özet, metin veya yayın durumu eksik/geçersiz.", "kultur");
+  }
+  if (tur === "kultur-rotasi" && kulturRotalari.some((rota) => rota.slug === slug)) {
+    adminSonucu("hata", "Bu slug sabit kültür rotalarında kullanılıyor. Mevcut rotayı gölgelememek için farklı bir slug seçin.", "kultur");
   }
   const gorselDegeri = metin(form, "gorsel_url", 600);
   const disDegeri = metin(form, "dis_url", 600);

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { tumTurkuler, iller, ilSlug, ilAdi, kartlar, tumEtiketler } from "@/lib/data";
+import { tumTurkuler, iller, ilSlug, ilAdi } from "@/lib/data";
+import { yayinlananEditorTurkuleri } from "@/lib/editor-data";
 import { TurkuArsivi } from "@/components/TurkuArsivi";
 import { GununTurkusu } from "@/components/GununTurkusu";
 import { TurkiyeHaritasi, type HaritaIl } from "@/components/TurkiyeHaritasi";
@@ -10,21 +11,45 @@ import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 
 export const metadata: Metadata = {
   title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv",
-  description: "500'ü aşkın Anadolu türküsünü hikâyeleri, yöreleri, ozanları, sözleri ve çalım bilgileriyle keşfedin. Şehre, temaya ve sözlere göre arayın.",
+  description: "1.900'ü aşkın Anadolu türküsünü hikâyeleri, yöreleri, ozanları, sözleri ve çalım bilgileriyle keşfedin. Şehre, temaya ve sözlere göre arayın.",
   alternates: { canonical: "/" },
-  openGraph: { type: "website", url: "/", title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv", description: "500'ü aşkın türküyü hikâyeleri, yöreleri, ozanları ve sözleriyle keşfedin.", images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Anadolu Türküleri arşivi" }] },
+  openGraph: { type: "website", url: "/", title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv", description: "1.900'ü aşkın türküyü hikâyeleri, yöreleri, ozanları ve sözleriyle keşfedin.", images: [{ url: "/opengraph-image.png", width: 1200, height: 630, alt: "Anadolu Türküleri arşivi" }] },
 };
 
-export default function AnaSayfa() {
-  const turkuler = tumTurkuler();
-  const ilListesi = iller();
-  const kartVerisi = kartlar();
+export default async function AnaSayfa() {
+  const dosyaTurkuleri = tumTurkuler();
+  const dosyaSluglari = new Set(dosyaTurkuleri.map((turku) => turku.slug));
+  const editorTurkuleri = (await yayinlananEditorTurkuleri()).filter(
+    (turku) => !dosyaSluglari.has(turku.slug),
+  );
+  const turkuler = [...dosyaTurkuleri, ...editorTurkuleri];
+  const kartVerisi = turkuler.map((turku) => ({
+    slug: turku.slug,
+    baslik: turku.baslik,
+    yore: turku.yore,
+    ozet: turku.ozet,
+    etiketler: turku.etiketler,
+    ozan: turku.ozan,
+    sozYazari: turku.sozYazari,
+    sozMetni: (turku.sozler ?? []).flatMap((kita) => kita.satirlar).join(" ").toLowerCase(),
+  }));
+  const ilListesi = iller().map((il) => ({
+    ...il,
+    adet: turkuler.filter((turku) => ilSlug(turku.yore) === il.slug).length,
+  }));
   const yoreAdlari = Array.from(
     new Set(turkuler.map((t) => ilAdi(t.yore))),
   ).sort((a, b) => a.localeCompare(b, "tr"));
-  const enCokEtiket = tumEtiketler()
+  const etiketSayilari = new Map<string, number>();
+  for (const turku of turkuler) {
+    for (const etiket of turku.etiketler ?? []) {
+      etiketSayilari.set(etiket, (etiketSayilari.get(etiket) ?? 0) + 1);
+    }
+  }
+  const enCokEtiket = [...etiketSayilari]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "tr"))
     .slice(0, 14)
-    .map((e) => e.etiket);
+    .map(([etiket]) => etiket);
 
   // Harita için: her ile ait başlıklar
   const haritaIller: HaritaIl[] = ilListesi.map((il) => ({

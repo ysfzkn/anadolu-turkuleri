@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import { iller, tumTurkuler } from "@/lib/data";
 import { yayinlananEditorTurkuleri } from "@/lib/editor-data";
+import { kulturRotalari } from "@/lib/kultur";
+import { sunucuSupabase } from "@/lib/supabase/server";
 
 const KOK = "https://anadoluturkuleri.com";
 
@@ -25,5 +27,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const turkuler = [...dosyaTurkuleri, ...editorTurkuleri]
     .filter((turku) => turku.dogrulama !== "taslak")
     .map((turku) => ({ url: `${KOK}/turku/${turku.slug}`, changeFrequency: "monthly" as const, priority: turku.dogrulama === "dogrulandi" ? 0.9 : 0.65 }));
-  return [...sabit, ...yoreler, ...turkuler];
+  const sabitRotaSluglari = new Set(kulturRotalari.map((rota) => rota.slug));
+  let editorRotaSluglari: string[] = [];
+  try {
+    const db = await sunucuSupabase();
+    const { data } = await db.from("kultur_icerikleri").select("slug").eq("tur", "kultur-rotasi").eq("durum", "yayinda");
+    editorRotaSluglari = (data ?? []).map((kayit) => kayit.slug).filter((slug) => !sabitRotaSluglari.has(slug));
+  } catch {
+    editorRotaSluglari = [];
+  }
+  const rotalar: MetadataRoute.Sitemap = [...kulturRotalari.map((rota) => rota.slug), ...editorRotaSluglari].map((slug) => ({
+    url: `${KOK}/kultur-rotalari/${slug}`,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+  return [...sabit, ...yoreler, ...turkuler, ...rotalar];
 }
