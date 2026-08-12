@@ -20,6 +20,12 @@ const ILLER = JSON.parse(
   fs.readFileSync(path.join(KOK, "scripts", "assets", "iller-plaka.json"), "utf8"),
 ) as Il[];
 const UA = "AnadoluTurkuleriBot/0.1 (city image attribution; anadoluturkuleri.com)";
+const TERCIH_EDILEN_DOSYALAR: Record<string, string> = {
+  Erzurum: "Erzurum Çifte Minareli Medrese 2016.jpg",
+};
+const ilArgumani = process.argv.indexOf("--il");
+const yalnizIl = ilArgumani >= 0 ? process.argv[ilArgumani + 1] : undefined;
+const zorla = process.argv.includes("--force");
 
 function temizle(html?: string): string | undefined {
   return html?.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
@@ -43,33 +49,45 @@ async function json(url: string, deneme = 0): Promise<any> {
 const bekle = (ms: number) => new Promise((coz) => setTimeout(coz, ms));
 
 async function commonsAra(il: string): Promise<{ dosya: string; ii: any } | undefined> {
-  const sorgu = new URLSearchParams({
-    action: "query",
-    generator: "search",
-    gsrnamespace: "6",
-    gsrlimit: "8",
-    gsrsearch: `${il} Türkiye şehir`,
-    prop: "imageinfo",
-    iiprop: "url|extmetadata|mime",
-    iiurlwidth: "1400",
-    format: "json",
-    formatversion: "2",
-  });
-  await bekle(400);
-  const sonuc = await json(`https://commons.wikimedia.org/w/api.php?${sorgu}`);
-  for (const sayfa of sonuc.query?.pages ?? []) {
-    const ii = sayfa.imageinfo?.[0];
-    const lisans = ii?.extmetadata?.LicenseShortName?.value ?? "";
-    if (ii?.mime?.startsWith("image/") && ii.thumburl && /^(CC|Public domain|PD)/i.test(lisans)) {
-      return { dosya: sayfa.title.replace(/^File:/, ""), ii };
+  const aramalar = [`${il} Turkey city`, `${il} Türkiye`, `${il} city view`];
+  for (const arama of aramalar) {
+    const sorgu = new URLSearchParams({
+      action: "query",
+      generator: "search",
+      gsrnamespace: "6",
+      gsrlimit: "15",
+      gsrsearch: arama,
+      prop: "imageinfo",
+      iiprop: "url|extmetadata|mime",
+      iiurlwidth: "1400",
+      format: "json",
+      formatversion: "2",
+    });
+    await bekle(800);
+    const sonuc = await json(`https://commons.wikimedia.org/w/api.php?${sorgu}`);
+    for (const sayfa of sonuc.query?.pages ?? []) {
+      const ii = sayfa.imageinfo?.[0];
+      const lisans = ii?.extmetadata?.LicenseShortName?.value ?? "";
+      if (ii?.mime?.startsWith("image/") && (ii.thumburl || ii.url) && /^(CC|Public domain|PD)/i.test(lisans)) {
+        return { dosya: sayfa.title.replace(/^File:/, ""), ii };
+      }
     }
   }
 }
 
 async function gorselIndir(url: string, deneme = 0): Promise<Buffer | undefined> {
-  await bekle(700 + deneme * 900);
-  const yanit = await fetch(url, { headers: { "User-Agent": UA, Accept: "image/avif,image/webp,image/*" } });
-  if ((yanit.status === 429 || yanit.status >= 500) && deneme < 4) return gorselIndir(url, deneme + 1);
+  await bekle(1200 + deneme * 1800);
+  const yanit = await fetch(url, {
+    headers: { "User-Agent": UA, Accept: "image/avif,image/webp,image/*" },
+    signal: AbortSignal.timeout(30_000),
+  }).catch(() => undefined);
+  if (!yanit && deneme < 2) return gorselIndir(url, deneme + 1);
+  if (!yanit) return undefined;
+  if ((yanit.status === 429 || yanit.status >= 500) && deneme < 2) {
+    const yenidenDene = Number(yanit.headers.get("retry-after") ?? "0") * 1000;
+    await bekle(Math.max(yenidenDene, 2500 * 2 ** deneme));
+    return gorselIndir(url, deneme + 1);
+  }
   if (!yanit.ok) return undefined;
   return Buffer.from(await yanit.arrayBuffer());
 }
@@ -132,29 +150,34 @@ async function main() {
   const manifest: Record<string, Gorsel> = fs.existsSync(MANIFEST)
     ? JSON.parse(fs.readFileSync(MANIFEST, "utf8"))
     : {};
-  for (const il of ILLER) {
+  for (const il of ILLER.filter((kayit) => !yalnizIl || adAnahtari(kayit.ad) === adAnahtari(yalnizIl))) {
     const slug = slugYap(il.ad);
     const mevcut = manifest[slug];
-    if (mevcut && fs.existsSync(path.join(KOK, "public", mevcut.src.replace(/^\//, "")))) {
+    if (!zorla && mevcut && fs.existsSync(path.join(KOK, "public", mevcut.src.replace(/^\//, "")))) {
       console.log(`• ${il.ad} zaten hazır`);
       continue;
     }
     const q = basliktanQ.get(adAnahtari(il.ad));
-    let dosya = q ? qdanDosya.get(q) : undefined;
+    let dosya: string | undefined = TERCIH_EDILEN_DOSYALAR[il.ad] ?? (q ? qdanDosya.get(q) : undefined);
     let ii = dosya ? bilgi.get(dosya) : undefined;
-    if (!dosya || !ii?.thumburl || !/^(CC|Public domain|PD)/i.test(ii?.extmetadata?.LicenseShortName?.value ?? "")) {
+    if (dosya && !ii) {
+      const ozel = await json(`https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=url|extmetadata|mime&iiurlwidth=1400&titles=${encodeURIComponent(`File:${dosya}`)}&format=json&formatversion=2`);
+      ii = ozel.query?.pages?.[0]?.imageinfo?.[0];
+    }
+    if (!dosya || !(ii?.thumburl || ii?.url) || !/^(CC|Public domain|PD)/i.test(ii?.extmetadata?.LicenseShortName?.value ?? "")) {
       const bulunan = await commonsAra(il.ad);
       dosya = bulunan?.dosya;
       ii = bulunan?.ii;
     }
     const lisans = ii?.extmetadata?.LicenseShortName?.value ?? "";
     const izinli = /^(CC|Public domain|PD)/i.test(lisans);
-    if (!dosya || !ii?.thumburl || !izinli) {
+    if (!dosya || !(ii?.thumburl || ii?.url) || !izinli) {
       console.warn(`Görsel bulunamadı veya lisansı uygun değil: ${il.ad}`);
       continue;
     }
     const hedef = path.join(HEDEF, `${slug}.webp`);
-    const hamGorsel = await gorselIndir(ii.thumburl);
+    let hamGorsel = await gorselIndir(ii.thumburl || ii.url);
+    if (!hamGorsel && ii.url && ii.url !== ii.thumburl) hamGorsel = await gorselIndir(ii.url);
     if (!hamGorsel) {
       console.warn(`Görsel indirilemedi: ${il.ad}`);
       continue;
@@ -172,6 +195,8 @@ async function main() {
       lisans,
       sanatci: temizle(ii.extmetadata?.Artist?.value),
     };
+    // Uzun taramalar yarıda kesilse de doğrulanmış kayıtları koru.
+    fs.writeFileSync(MANIFEST, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
     console.log(`✓ ${il.ad}`);
   }
   fs.writeFileSync(MANIFEST, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");

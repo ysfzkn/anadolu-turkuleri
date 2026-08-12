@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { kulturRotalari } from "@/lib/kultur";
 import { ilSlug } from "@/lib/data";
 import { sunucuSupabase } from "@/lib/supabase/server";
+import { sehirGorseliBul } from "@/components/SehirFotografi";
 
 type SayfaProps = { params: Promise<{ slug: string }> };
 type Rota = {
@@ -66,14 +67,19 @@ export default async function RotaSayfasi({ params }: SayfaProps) {
   const { slug } = await params;
   const rota = await rotaBul(slug);
   if (!rota) notFound();
+  const gorsel = sehirGorseliBul(rota.il);
 
   return (
     <main className="mx-auto max-w-4xl px-4 py-10">
       <Link href="/kultur-rotalari" className="text-sm text-cini-dark">← Tüm rotalar</Link>
-      <header className="mt-6 rounded-[2rem] bg-ceviz p-7 text-parsomen sm:p-10">
+      <header className="relative mt-6 min-h-[420px] overflow-hidden rounded-[2rem] bg-ceviz p-7 text-parsomen sm:p-10">
+        {gorsel && <><img src={gorsel.src} alt={gorsel.alt} fetchPriority="high" className="absolute inset-0 h-full w-full object-cover" /><div className="absolute inset-0 bg-gradient-to-r from-ceviz via-ceviz/80 to-ceviz/20" /></>}
+        <div className="relative z-10 max-w-2xl">
         <p className="text-xs font-bold uppercase tracking-[.2em] text-toprak-light">{rota.il} · {rota.tema} · {rota.sure}</p>
         <h1 className="mt-3 font-serif text-4xl font-semibold sm:text-5xl">{rota.baslik}</h1>
         <p className="mt-4 max-w-2xl text-lg leading-8 text-parsomen/70">{rota.ozet}</p>
+        {gorsel && <a href={gorsel.kaynakUrl} target="_blank" rel="license noopener noreferrer" className="mt-8 inline-block text-[10px] text-white/65 underline decoration-white/30 underline-offset-2">Fotoğraf: {gorsel.sanatci || "Wikimedia Commons"} · {gorsel.lisans}</a>}
+        </div>
       </header>
       <section className="mt-10 grid gap-8 md:grid-cols-[1fr_280px]">
         <div>

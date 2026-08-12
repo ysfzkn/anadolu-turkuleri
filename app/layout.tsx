@@ -122,6 +122,7 @@ export default function RootLayout({
                 <Link href="/kurslar" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Bağlama ve ney</Link>
                 <Link href="/destek" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Arşivi destekle</Link>
                 <Link href="/gizlilik" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Gizlilik</Link>
+                <Link href="/gorsel-kaynaklari" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Görsel kaynakları</Link>
                 <Link href="/hakkinda" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Yöntem ve kaynaklar</Link>
               </nav>
             </div>

@@ -382,5 +382,77 @@
     "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Kilis_city_center.jpg",
     "lisans": "Public domain",
     "sanatci": "Brian Dell"
+  },
+  "corum": {
+    "src": "/yoreler/corum.webp",
+    "alt": "Çorum kent ve kültür görünümü",
+    "baslik": "Çorum",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:CorumMuseum1.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Klaus-Peter Simon"
+  },
+  "edirne": {
+    "src": "/yoreler/edirne.webp",
+    "alt": "Edirne kent ve kültür görünümü",
+    "baslik": "Edirne",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Edirne_at_sunrise_21_52_30_274000.jpeg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Robot8A"
+  },
+  "elazig": {
+    "src": "/yoreler/elazig.webp",
+    "alt": "Elazığ kent ve kültür görünümü",
+    "baslik": "Elazığ",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Elaz%C4%B1%C4%9F_City_Center.jpg",
+    "lisans": "CC BY 2.0",
+    "sanatci": "Taha Koçak"
+  },
+  "erzurum": {
+    "src": "/yoreler/erzurum.webp",
+    "alt": "Erzurum kent ve kültür görünümü",
+    "baslik": "Erzurum",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Erzurum_%C3%87ifte_Minareli_Medrese_2016.jpg",
+    "lisans": "CC BY-SA 4.0",
+    "sanatci": "Engin Mutlu 58"
+  },
+  "eskisehir": {
+    "src": "/yoreler/eskisehir.webp",
+    "alt": "Eskişehir kent ve kültür görünümü",
+    "baslik": "Eskişehir",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Eski%C5%9Fehirdetekne.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Vikiçizer"
+  },
+  "giresun": {
+    "src": "/yoreler/giresun.webp",
+    "alt": "Giresun kent ve kültür görünümü",
+    "baslik": "Giresun",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Giresun_Turkey.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Dr. Zeynel Cebeci"
+  },
+  "yozgat": {
+    "src": "/yoreler/yozgat.webp",
+    "alt": "Yozgat kent ve kültür görünümü",
+    "baslik": "Yozgat",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Yozgat_resim_birle%C5%9Fik.JPG",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Tacirci"
+  },
+  "ardahan": {
+    "src": "/yoreler/ardahan.webp",
+    "alt": "Ardahan kent ve kültür görünümü",
+    "baslik": "Ardahan",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Ardahan_-_panoramio_-_G%C3%BCrsoy_Tokg%C3%B6z_(1).jpg",
+    "lisans": "CC BY 3.0",
+    "sanatci": "Gürsoy Tokgöz"
+  },
+  "bolu": {
+    "src": "/yoreler/bolu.webp",
+    "alt": "Bolu kent ve kültür görünümü",
+    "baslik": "Bolu",
+    "kaynakUrl": "https://commons.wikimedia.org/wiki/File:Bolu-08523_nevit.jpg",
+    "lisans": "CC BY-SA 3.0",
+    "sanatci": "Nevit Dilmen"
   }
 }

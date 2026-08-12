@@ -8,6 +8,7 @@ import { TurkiyeHaritasi, type HaritaIl } from "@/components/TurkiyeHaritasi";
 import { RastgeleButon } from "@/components/RastgeleButon";
 import { MotifBorder, StarMotif } from "@/components/Motif";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { SehirFotografi } from "@/components/SehirFotografi";
 
 export const metadata: Metadata = {
   title: "Anadolu Türküleri: Türkü Hikâyeleri ve Yöresel Arşiv",
@@ -104,6 +105,14 @@ export default async function AnaSayfa() {
       </section>
 
       <MotifBorder className="mt-12 opacity-80" />
+
+      <section className="mx-auto max-w-5xl px-4 pt-12">
+        <div className="flex flex-wrap items-end justify-between gap-3"><div><p className="text-xs font-bold uppercase tracking-[.2em] text-kilim">Fotoğraflarla kültür atlası</p><h2 className="mt-2 font-serif text-3xl font-semibold text-ceviz">Ezginin doğduğu yere yaklaşın</h2></div><Link href="/kultur-rotalari" className="text-sm font-semibold text-cini-dark underline underline-offset-4">Tüm kültür rotaları →</Link></div>
+        <div className="mt-6 grid gap-4 md:grid-cols-3">
+          <SehirFotografi il="Sivas" href="/kultur-rotalari/sivas-ozanlar-yolu" baslik="Ozanların İzinde Sivas" aciklama="Selçuklu taş işçiliğinden âşık meclislerine uzanan sözlü bellek." className="min-h-80 md:col-span-2" />
+          <div className="grid gap-4"><SehirFotografi il="Şanlıurfa" href="/kultur-rotalari/sanliurfa-sira-gecesi" baslik="Sıra Gecesinin Hafızası" className="min-h-[152px]" /><SehirFotografi il="İzmir" href="/kultur-rotalari/izmir-zeybek-yolu" baslik="Efelerin ve Zeybeklerin Yolu" className="min-h-[152px]" /></div>
+        </div>
+      </section>
 
       {/* Arşiv — arama + filtre */}
       <section className="mx-auto max-w-5xl px-4 py-12">

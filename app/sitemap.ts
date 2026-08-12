@@ -17,6 +17,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${KOK}/kurslar`, changeFrequency: "monthly", priority: 0.65 },
     { url: `${KOK}/destek`, changeFrequency: "monthly", priority: 0.35 },
     { url: `${KOK}/is-birligi`, changeFrequency: "monthly", priority: 0.35 },
+    { url: `${KOK}/gorsel-kaynaklari`, changeFrequency: "monthly", priority: 0.35 },
   ];
   const yoreler = iller().map((il) => ({ url: `${KOK}/yore/${il.slug}`, changeFrequency: "weekly" as const, priority: 0.75 }));
   const dosyaTurkuleri = tumTurkuler();

@@ -3,6 +3,7 @@ import Link from "next/link";
 import { kulturRotalari, type KulturRotasi } from "@/lib/kultur";
 import { sunucuSupabase } from "@/lib/supabase/server";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { SehirFotografi } from "@/components/SehirFotografi";
 
 export const metadata: Metadata = {
   title: "Anadolu Kültür Rotaları",
@@ -53,7 +54,7 @@ export default async function RotalarSayfasi() {
       <YapilandirilmisVeri veri={{ "@context": "https://schema.org", "@type": "ItemList", name: "Anadolu Kültür Rotaları", itemListElement: tumRotalar.map((rota, sira) => ({ "@type": "ListItem", position: sira + 1, name: rota.baslik, url: `https://anadoluturkuleri.com/kultur-rotalari/${rota.slug}` })) }} />
       <header className="max-w-3xl"><p className="text-xs font-bold uppercase tracking-[.22em] text-kilim">Ezginin izinde yolculuk</p><h1 className="mt-2 font-serif text-4xl font-semibold text-ceviz sm:text-5xl">Türküyü doğduğu coğrafyada okuyun.</h1><p className="mt-4 text-lg leading-8 text-ceviz-light">Şehir tarihi, mimari, ozanlar ve yerel icra gelenekleri tek bir yürüyüşte buluşuyor. Rotalar kültürel bağlam sunar; açılış saatlerini ve erişim koşullarını yola çıkmadan önce resmî kaynaklardan doğrulayın.</p></header>
       <div className="mt-9 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
-        {tumRotalar.map((rota, sira) => <Link key={rota.slug} href={`/kultur-rotalari/${rota.slug}`} className="group relative min-h-72 overflow-hidden rounded-3xl border border-toprak/25 bg-gradient-to-br from-ceviz to-cini-dark p-6 text-parsomen shadow-motif transition hover:-translate-y-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-kilim"><span className="absolute -right-10 -top-10 grid h-36 w-36 rotate-45 place-items-center border border-toprak/25 text-5xl text-toprak/30">{sira + 1}</span><p className="text-xs font-bold uppercase tracking-[.18em] text-toprak-light">{rota.il} · {rota.sure}</p><h2 className="mt-5 max-w-xs font-serif text-3xl font-semibold">{rota.baslik}</h2><p className="mt-3 max-w-sm text-sm leading-6 text-parsomen/65">{rota.ozet}</p><span className="absolute bottom-6 left-6 text-sm font-semibold text-toprak-light">Rotayı aç →</span></Link>)}
+        {tumRotalar.map((rota, sira) => <SehirFotografi key={rota.slug} il={rota.il} href={`/kultur-rotalari/${rota.slug}`} baslik={rota.baslik} aciklama={`${rota.sure} · ${rota.ozet}`} className={`min-h-80 ${sira === 0 ? "md:col-span-2 lg:col-span-2" : ""}`} oncelikli={sira === 0} />)}
       </div>
     </main>
   );
