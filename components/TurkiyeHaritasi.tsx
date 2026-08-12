@@ -24,7 +24,15 @@ interface TooltipDurum {
  * istemci tarafında enjekte edilir; türküsü olan iller vurgulanır, üzerine
  * gelince bilgi kartı çıkar, tıklanınca ilin türkülerine gidilir.
  */
-export function TurkiyeHaritasi({ iller }: { iller: HaritaIl[] }) {
+export function TurkiyeHaritasi({
+  iller,
+  birimEtiketi = "türkü",
+  bosEtiketi = "Yakında",
+}: {
+  iller: HaritaIl[];
+  birimEtiketi?: string;
+  bosEtiketi?: string;
+}) {
   const kapsayici = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const [yuklendi, setYuklendi] = useState(false);
@@ -135,10 +143,10 @@ export function TurkiyeHaritasi({ iller }: { iller: HaritaIl[] }) {
           <div className="font-serif font-semibold text-ceviz">{tooltip.ad}</div>
           {tooltip.adet > 0 ? (
             <div className="text-xs text-kilim-dark">
-              {tooltip.adet} türkü{tooltip.baslik ? ` · ${tooltip.baslik}` : ""}
+              {tooltip.adet} {birimEtiketi}{tooltip.baslik ? ` · ${tooltip.baslik}` : ""}
             </div>
           ) : (
-            <div className="text-xs text-ceviz-light">Yakında</div>
+            <div className="text-xs text-ceviz-light">{bosEtiketi}</div>
           )}
         </div>
       )}

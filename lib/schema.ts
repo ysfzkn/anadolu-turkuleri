@@ -42,6 +42,32 @@ export const kitaSchema = z.object({
   satirlar: z.array(z.string().min(1)).min(1),
 });
 
+/**
+ * Editör tarafından belirlenebilen kaynak güveni (opsiyonel override).
+ * Verilmezse durum, mevcut doğrulama + kaynaklardan ŞEFFAFÇA türetilir
+ * (bkz. lib/kaynak-guveni.ts). Otomatik olarak "sözlü gelenek"/"rivayet"
+ * ATANMAZ — bunlar yalnızca editör bilgisiyle işaretlenir.
+ */
+export const kaynakGuveniSchema = z.enum([
+  "belgelenmis",
+  "birden-fazla-kaynak",
+  "sozlu-gelenek",
+  "rivayet",
+  "dogrulanmamis",
+  "editoryal-inceleme",
+]);
+
+/** Bir türkünün bilinen bir varyantı (editör tarafından doldurulur). */
+export const varyantSchema = z.object({
+  baslik: z.string().optional(),
+  yore: z.string().optional(),
+  kaynakKisi: z.string().optional(),
+  derleyen: z.string().optional(),
+  kayit: z.string().url().optional(),
+  farklar: z.string().optional(),
+  notlar: z.string().optional(),
+});
+
 export const turkuSchema = z.object({
   slug: z
     .string()
@@ -62,6 +88,8 @@ export const turkuSchema = z.object({
   kaynaklar: z.array(kaynakSchema),
   dogrulama: dogrulamaDurumuSchema,
   etiketler: z.array(z.string()).optional(),
+  kaynakGuveni: kaynakGuveniSchema.optional(),
+  varyantlar: z.array(varyantSchema).optional(),
 });
 
 export type Turku = z.infer<typeof turkuSchema>;
@@ -70,3 +98,5 @@ export type PlatformBaglantisi = z.infer<typeof platformBaglantisiSchema>;
 export type CalimBilgisi = z.infer<typeof calimBilgisiSchema>;
 export type Kita = z.infer<typeof kitaSchema>;
 export type DogrulamaDurumu = z.infer<typeof dogrulamaDurumuSchema>;
+export type KaynakGuveni = z.infer<typeof kaynakGuveniSchema>;
+export type Varyant = z.infer<typeof varyantSchema>;

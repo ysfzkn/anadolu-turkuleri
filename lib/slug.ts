@@ -16,6 +16,9 @@ export function slugYap(metin: string): string {
     â: "a",
     î: "i",
     û: "u",
+    Â: "a",
+    Î: "i",
+    Û: "u",
   };
   return metin
     .split("")

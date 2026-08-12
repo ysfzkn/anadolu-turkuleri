@@ -162,6 +162,7 @@ export function KullaniciMenusu() {
           </div>
 
           <div className="p-2 text-sm">
+            <MenuLink href="/pasaport" ikon="🧭" baslik="Kültür Pasaportum" aciklama="Keşiflerim, şehirler ve rozetler" onClick={() => setAcik(false)} />
             <MenuLink href="/repertuvar" ikon="🪕" baslik="Repertuvarım" aciklama="Çaldığım ve öğrendiğim türküler" onClick={() => setAcik(false)} />
             <MenuLink href="/listelerim" ikon="♫" baslik="Listelerim" aciklama="Kaydettiğim türkü seçkileri" onClick={() => setAcik(false)} />
             <MenuLink href="/katkilarim" ikon="✦" baslik="Katkılarım" aciklama="Arşive gönderdiğim anlatılar" onClick={() => setAcik(false)} />

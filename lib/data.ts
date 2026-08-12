@@ -118,6 +118,28 @@ export function kartlar() {
   }));
 }
 
+/** Başlık eşleştirme için normalize eder (küçük harf, noktalama/boşluk atılır). */
+function baslikAnahtari(baslik: string): string {
+  return baslik
+    .toLocaleLowerCase("tr")
+    .replace(/['’]/g, "")
+    .replace(/[^\p{L}0-9]+/gu, " ")
+    .trim();
+}
+
+/**
+ * Arşivde aynı adı taşıyan diğer türküler (kendisi hariç). Aynı başlığın
+ * farklı yörelerdeki kayıtları çoğu zaman aynı türkünün yöresel varyantlarıdır;
+ * bu ilişki uydurulmaz, yalnızca gerçek kayıtlardan türetilir.
+ */
+export function ayniAdliKayitlar(turku: Turku): Turku[] {
+  const anahtar = baslikAnahtari(turku.baslik);
+  if (!anahtar) return [];
+  return tumTurkuler()
+    .filter((t) => t.slug !== turku.slug && baslikAnahtari(t.baslik) === anahtar)
+    .sort((a, b) => a.yore.localeCompare(b.yore, "tr"));
+}
+
 /** Tüm etiketleri (tema) sıklığa göre azalan sırada döndürür. */
 export function tumEtiketler(): { etiket: string; adet: number }[] {
   const sayac = new Map<string, number>();

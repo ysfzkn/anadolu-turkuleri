@@ -1,3 +1,5 @@
+"use client";
+
 import type { PlatformBaglantisi } from "@/lib/types";
 import {
   SpotifyIkon,

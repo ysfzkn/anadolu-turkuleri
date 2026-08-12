@@ -11,4 +11,6 @@ export type {
   CalimBilgisi,
   Kita,
   DogrulamaDurumu,
+  KaynakGuveni,
+  Varyant,
 } from "./schema";

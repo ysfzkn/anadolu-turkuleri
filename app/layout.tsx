@@ -6,6 +6,7 @@ import { KullaniciMenusu } from "@/components/KullaniciMenusu";
 import { AnaNavigasyon } from "@/components/AnaNavigasyon";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 import { AnalitikIzni } from "@/components/AnalitikIzni";
+import { RehberWidget } from "@/components/RehberWidget";
 
 const serif = Lora({
   subsets: ["latin", "latin-ext"],
@@ -146,6 +147,7 @@ export default function RootLayout({
           </div>
         </footer>
         <AnalitikIzni />
+        <RehberWidget />
       </body>
     </html>
   );

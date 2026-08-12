@@ -63,6 +63,15 @@ export function HafizaKatkiFormu({ turkuSlug, varsayilanIl = "" }: { turkuSlug?:
   if (!userId) return <div className="rounded-3xl border border-toprak/25 bg-white/45 p-6 text-center"><h2 className="font-serif text-2xl font-semibold text-ceviz">Hafızaya katkı ver</h2><p className="mt-2 text-sm text-ceviz-light">Kaynak güvenliği ve katkını takip edebilmen için giriş yapmalısın.</p><Link href="/giris" className="mt-5 inline-flex min-h-11 items-center rounded-xl bg-kilim px-5 font-semibold text-white">Giriş yap</Link></div>;
 
   return <form onSubmit={gonder} className="rounded-3xl border border-toprak/25 bg-white/55 p-5 shadow-motif sm:p-7">
+    <div className="mb-5 rounded-2xl border border-toprak/20 bg-parsomen-dark/30 p-4">
+      <p className="text-xs font-semibold uppercase tracking-wide text-kilim">Neler paylaşabilirsin?</p>
+      <ul className="mt-2 space-y-1 text-sm leading-6 text-ceviz-light">
+        <li>• Bu türkü sizin köyünüzde/yörenizde nasıl söylenirdi?</li>
+        <li>• Ailenizde bu türküyle ilgili anlatılan farklı bir hikâye var mı?</li>
+        <li>• Bildiğiniz farklı sözler, farklı bir söyleyiş var mı?</li>
+        <li>• Kimden, ne zaman öğrendiniz?</li>
+      </ul>
+    </div>
     <div className="grid gap-4 sm:grid-cols-2">
       <label className="text-sm font-semibold text-ceviz">Katkı türü<select value={tur} onChange={(e) => setTur(e.target.value)} className="mt-2 min-h-12 w-full rounded-xl border border-toprak/30 bg-parsomen px-3 font-normal"><>{TURLER.map(([v,l]) => <option key={v} value={v}>{l}</option>)}</></select></label>
       <label className="text-sm font-semibold text-ceviz">İl<input required value={il} onChange={(e) => setIl(e.target.value)} className="mt-2 min-h-12 w-full rounded-xl border border-toprak/30 bg-parsomen px-3 font-normal" placeholder="Sivas" /></label>
