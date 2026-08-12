@@ -72,6 +72,21 @@ export default function Hakkinda() {
           {[{ baslik: "Kaynak ve doğrulama", metin: "Her kayıt kaynakları ve editoryal durumuyla birlikte sunulur. Rivayet, tarihsel olgu ve tartışmalı atıf birbirinden ayrılır." }, { baslik: "Telif duyarlılığı", metin: "Telifli ses kayıtlarını barındırmayız. Platform içerikleri resmi oynatıcı veya bağlantılarla sunulur; sözler yalnızca uygun hak durumunda yayımlanır." }, { baslik: "Topluluk ve düzeltme", metin: "Yerel bilgi değerlidir; ancak katkılar otomatik yayımlanmaz. Kaynak, izin, kişisel veri ve arşiv bütünlüğü açısından editoryal incelemeden geçer." }].map((ilke) => <article key={ilke.baslik} className="rounded-3xl bg-parsomen-dark/55 p-6"><h2 className="font-serif text-2xl font-semibold text-ceviz">{ilke.baslik}</h2><p className="mt-3 text-sm leading-7 text-ceviz-light">{ilke.metin}</p></article>)}
         </section>
 
+        <section className="mt-14">
+          <div className="overflow-hidden rounded-3xl border border-toprak/25 bg-gradient-to-br from-white/70 to-parsomen-dark/45 p-7 sm:p-9">
+            <div className="grid gap-6 sm:grid-cols-[1fr_auto] sm:items-center">
+              <div>
+                <p className="text-xs font-bold uppercase tracking-[.2em] text-kilim">Projeyi geliştiren</p>
+                <h2 className="mt-3 font-serif text-3xl font-semibold text-ceviz">Yusuf Özkan</h2>
+                <p className="mt-3 max-w-2xl leading-7 text-ceviz-light">Anadolu Türküleri; halk müziği mirasını çağdaş bir dijital deneyime dönüştürmek amacıyla Yusuf Özkan tarafından tasarlanıp geliştirildi. Yeni fikirler, iş birlikleri veya yazılım projeleri için doğrudan ulaşabilirsiniz.</p>
+              </div>
+              <a href="https://ozkanyusuf.com" target="_blank" rel="noopener" className="inline-flex min-h-12 items-center justify-center gap-2 rounded-xl bg-ceviz px-6 font-semibold text-parsomen transition hover:bg-kilim-dark">
+                ozkanyusuf.com ↗
+              </a>
+            </div>
+          </div>
+        </section>
+
         <section id="iletisim" className="scroll-mt-28 pt-16">
           <div className="grid gap-8 lg:grid-cols-[.72fr_1.28fr]">
             <div><p className="text-xs font-bold uppercase tracking-[.2em] text-kilim">Bize ulaşın</p><h2 className="mt-3 font-serif text-4xl font-semibold text-ceviz">Önerinizi dinliyoruz.</h2><p className="mt-4 leading-7 text-ceviz-light">Bir özellik fikri, bilgi düzeltmesi, teknik sorun veya iş birliği önerisi paylaşabilirsiniz. Türküye özel belge, fotoğraf ya da anlatılar için <Link href="/katki" className="font-semibold text-cini-dark underline underline-offset-2">Yaşayan Hafıza katkı formunu</Link> kullanın.</p><div className="mt-6 rounded-2xl border border-toprak/25 bg-toprak/8 p-4 text-sm leading-6 text-ceviz-light"><strong className="text-ceviz">Doğrudan e-posta</strong><br /><a href={`mailto:${eposta}`} className="text-cini-dark underline underline-offset-2">{eposta}</a></div><p className="mt-5 text-xs leading-5 text-ceviz-light">Form mesajları yalnızca iletişim ve talep takibi amacıyla kullanılır; pazarlama listesine eklenmez.</p></div>

@@ -36,6 +36,7 @@ Tüm ortamlar (Production + Preview) için ekle:
 |---|---|
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase → Settings → API |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase → Settings → API (anon public) |
+| `SUPABASE_SERVICE_ROLE_KEY` | Supabase → Settings → API (**service_role**, GİZLİ) — `/admin` için zorunlu |
 | `SPOTIFY_CLIENT_ID` | Spotify Developer Dashboard |
 | `SPOTIFY_CLIENT_SECRET` | Spotify Developer Dashboard (GİZLİ) |
 | `YOUTUBE_API_KEY` | Google Cloud → YouTube Data API |

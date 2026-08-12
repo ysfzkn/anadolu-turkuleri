@@ -128,6 +128,22 @@ export default function RootLayout({
               </nav>
             </div>
           </div>
+          <div className="border-t border-parsomen/12">
+            <div className="mx-auto flex max-w-5xl flex-col gap-2 px-4 py-5 text-xs text-parsomen/55 sm:flex-row sm:items-center sm:justify-between">
+              <p>© {new Date().getFullYear()} Anadolu Türküleri · Anadolu'nun türkü mirasını yaşatmak için bağımsız bir kültür girişimi.</p>
+              <p>
+                Tasarım &amp; geliştirme:{" "}
+                <a
+                  href="https://ozkanyusuf.com"
+                  target="_blank"
+                  rel="noopener"
+                  className="font-semibold text-parsomen/85 underline decoration-parsomen/30 underline-offset-4 hover:text-white"
+                >
+                  Yusuf Özkan
+                </a>
+              </p>
+            </div>
+          </div>
         </footer>
         <AnalitikIzni />
       </body>
