@@ -27,19 +27,19 @@ function OneCikan({
   return (
     <Link
       href={`/turku/${turku.slug}`}
-      className={`group flex items-center gap-4 rounded-2xl border p-4 shadow-motif transition-all hover:-translate-y-0.5 ${sinif} bg-parsomen`}
+      className={`group flex min-w-0 items-center gap-4 overflow-hidden rounded-2xl border p-4 shadow-motif transition-all hover:-translate-y-0.5 ${sinif} bg-parsomen`}
     >
-      <span className={renk === "kilim" ? "text-kilim" : "text-cini"}>
+      <span className={`shrink-0 ${renk === "kilim" ? "text-kilim" : "text-cini"}`}>
         <StarMotif size={40} />
       </span>
-      <div className="min-w-0">
+      <div className="min-w-0 flex-1">
         <div className="text-xs font-medium uppercase tracking-wide opacity-80">
           {etiket}
         </div>
         <div className="truncate font-serif text-lg font-semibold text-ceviz">
           {turku.baslik}
         </div>
-        <div className="truncate text-sm text-ceviz-light">
+        <div className="line-clamp-2 text-sm text-ceviz-light">
           {turku.yore} · {turku.ozet}
         </div>
       </div>

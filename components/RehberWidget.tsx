@@ -46,12 +46,12 @@ export function RehberWidget() {
           type="button"
           onClick={() => { setAcik(true); olayKaydet("ai_guide_open", { kaynak: "yuzen-panel" }); }}
           aria-label="Anadolu Rehberi'ne sor"
-          className="group fixed right-5 z-40 flex items-center gap-2 rounded-full bg-gradient-to-br from-kilim to-toprak px-4 py-3.5 font-semibold text-white shadow-[0_10px_30px_rgba(75,45,25,0.35)] transition hover:-translate-y-0.5 hover:shadow-[0_16px_40px_rgba(75,45,25,0.45)]"
+          className="group fixed right-4 z-40 flex h-14 w-14 items-center justify-center gap-2 rounded-full bg-gradient-to-br from-kilim to-toprak font-semibold text-white shadow-[0_10px_30px_rgba(75,45,25,0.35)] transition hover:-translate-y-0.5 hover:shadow-[0_16px_40px_rgba(75,45,25,0.45)] sm:right-5 sm:h-auto sm:w-auto sm:px-5 sm:py-3.5"
           style={{ bottom: "calc(1.25rem + env(safe-area-inset-bottom))" }}
         >
-          <span aria-hidden className="text-xl leading-none transition-transform group-hover:rotate-12">🧭</span>
+          <span aria-hidden className="text-2xl leading-none transition-transform group-hover:rotate-12 sm:text-xl">🧭</span>
           <span className="hidden text-sm sm:inline">Rehber&apos;e sor</span>
-          <span aria-hidden className="absolute right-1 top-1 h-2.5 w-2.5 rounded-full bg-parsomen ring-2 ring-kilim" />
+          <span aria-hidden className="absolute right-1.5 top-1.5 h-2.5 w-2.5 rounded-full bg-parsomen ring-2 ring-kilim sm:right-1 sm:top-1" />
         </button>
       )}
 
