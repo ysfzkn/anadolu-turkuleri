@@ -118,6 +118,10 @@ export default function RootLayout({
                 <Link href="/quiz" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Anadolu oyunları</Link>
                 <Link href="/soy-agaci" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Türkü soy ağacı</Link>
                 <Link href="/katki" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Arşive katkı ver</Link>
+                <Link href="/kultur-rotalari" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Kültür rotaları</Link>
+                <Link href="/kurslar" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Bağlama ve ney</Link>
+                <Link href="/destek" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Arşivi destekle</Link>
+                <Link href="/gizlilik" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Gizlilik</Link>
                 <Link href="/hakkinda" className="underline decoration-parsomen/25 underline-offset-4 hover:text-white">Yöntem ve kaynaklar</Link>
               </nav>
             </div>

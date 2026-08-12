@@ -15,6 +15,7 @@ import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
 import { YoreVitrini } from "@/components/YoreVitrini";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { editorTurkusuBul } from "@/lib/editor-data";
 
 export function generateStaticParams() {
   return tumSluglar().map((slug) => ({ slug }));
@@ -26,7 +27,7 @@ export async function generateMetadata({
   params,
 }: TurkuSayfasiProps): Promise<Metadata> {
   const { slug } = await params;
-  const turku = turkuBul(slug);
+  const turku = turkuBul(slug) ?? await editorTurkusuBul(slug);
   if (!turku) return { title: "Türkü bulunamadı" };
   return {
     title: `${turku.baslik} Türküsü: Hikâyesi ve Yöresi`,
@@ -43,7 +44,7 @@ export default async function TurkuSayfasi({
   params,
 }: TurkuSayfasiProps) {
   const { slug } = await params;
-  const turku = turkuBul(slug);
+  const turku = turkuBul(slug) ?? await editorTurkusuBul(slug);
   if (!turku) notFound();
   const bolge = bolgeBul(ilSlug(turku.yore));
   const url = `https://anadoluturkuleri.com/turku/${turku.slug}`;

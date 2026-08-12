@@ -8,6 +8,7 @@ const BAGLANTILAR = [
   { href: "/", etiket: "Türküler" },
   { href: "/quiz", etiket: "Oyunlar" },
   { href: "/soy-agaci", etiket: "Soy Ağacı" },
+  { href: "/kultur-rotalari", etiket: "Rotalar" },
   { href: "/hakkinda", etiket: "Hakkında" },
 ];
 

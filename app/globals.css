@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  .admin-input { @apply min-h-11 w-full rounded-xl border border-toprak/30 bg-parsomen px-3 py-2 text-sm text-ceviz outline-none transition focus:border-kilim focus:ring-2 focus:ring-kilim/10; }
+  .admin-button { @apply min-h-11 rounded-xl bg-kilim px-5 font-semibold text-white transition hover:bg-kilim-dark disabled:opacity-50; }
+  .admin-form { @apply grid gap-3 rounded-3xl border border-toprak/25 bg-white/55 p-5 shadow-sm sm:grid-cols-2 sm:p-6; }
+}
+
 :root {
   color-scheme: light;
 }

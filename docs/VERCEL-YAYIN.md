@@ -18,6 +18,9 @@ SQL Editor'de sırasıyla şu dosyaları çalıştır:
 1. `docs/KURULUM.md` içindeki temel liste, profil ve repertuvar şeması
 2. `supabase/migrations/20260811_oyunlar.sql`
 3. `supabase/migrations/20260812_yasayan_hafiza.sql`
+4. `supabase/migrations/20260812_admin_icerik.sql`
+
+İlk admin ataması ve rol ayrıntıları için `docs/ADMIN-KURULUM.md` dosyasını izleyin.
 
 Authentication → URL Configuration:
 

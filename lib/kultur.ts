@@ -1,0 +1,18 @@
+export type KulturRotasi = { slug:string; il:string; baslik:string; sure:string; ozet:string; duraklar:string[]; tema:string; gorsel?:string };
+export type Kurs = { slug:string; baslik:string; alan:"Bağlama"|"Ney"|"Kabak kemane"|"Halk müziği"; seviye:string; format:string; ozet:string; kazanimlar:string[] };
+
+export const kulturRotalari: KulturRotasi[] = [
+  { slug:"sivas-ozanlar-yolu", il:"Sivas", baslik:"Ozanların İzinde Sivas", sure:"1 gün", tema:"Ozanlık geleneği", ozet:"Selçuklu taş işçiliğinden âşık meclislerine uzanan, Sivas’ın sözlü belleğini kent dokusuyla buluşturan rota.", duraklar:["Çifte Minareli Medrese","Âşık Veysel Müzesi ve Sivrialan","Şarkışla Âşıklar Kültür Evi","Kent müzesi halk müziği arşivi"] },
+  { slug:"kirsehir-bozlak-rotasi", il:"Kırşehir", baslik:"Bozkırın Tezenesi Rotası", sure:"1 gün", tema:"Abdal ve bozlak", ozet:"Kırşehir’in abdal müziğini, bozlak tavrını ve Neşet Ertaş belleğini yerinde keşfedin.", duraklar:["Neşet Ertaş Gönül Sultanları Kültür Evi","Kaman abdallık geleneği durakları","Kırşehir Müzesi","Yerel bağlama atölyeleri"] },
+  { slug:"sanliurfa-sira-gecesi", il:"Şanlıurfa", baslik:"Sıra Gecesinin Hafızası", sure:"Akşamüstü", tema:"Makam ve meclis", ozet:"Urfa makam geleneğinin yalnızca bir eğlence değil, kuşaklar arası aktarım biçimi olduğunu anlatan yürüyüş.", duraklar:["Şanlıurfa Müzik Müzesi","Gümrük Hanı","Balıklıgöl çevresi","Geleneksel sıra gecesi meclisi"] },
+  { slug:"izmir-zeybek-yolu", il:"İzmir", baslik:"Efelerin ve Zeybeklerin Yolu", sure:"1 gün", tema:"Zeybek kültürü", ozet:"Ege’nin efe anlatılarını, zeybek ritmini ve tarihî kent dokusunu birlikte okuyan kültür rotası.", duraklar:["Ödemiş Yıldız Kent Arşivi","Birgi tarihî dokusu","Bademli ve yöresel oyun geleneği","İzmir Etnografya Müzesi"] },
+  { slug:"elazig-harput-kursusu", il:"Elazığ", baslik:"Harput Kürsübaşı Rotası", sure:"Yarım gün", tema:"Harput musikisi", ozet:"Harput’un makam, hoyrat ve kürsübaşı geleneğini tarihî yapılarla birlikte ele alan rota.", duraklar:["Harput Kalesi","Harput Musiki Müzesi","Sarahatun Camii çevresi","Kürsübaşı meclisi"] },
+  { slug:"trabzon-kemence-hatti", il:"Trabzon", baslik:"Kemençenin Karadeniz Hattı", sure:"1 gün", tema:"Kemençe ve horon", ozet:"Kıyı kültüründen yayla yaşamına, kemençenin toplumsal işlevini izleyen canlı rota.", duraklar:["Trabzon Kent Müzesi","Akçaabat Orta Mahalle","Maçka vadisi","Yerel kemençe yapım atölyesi"] },
+];
+
+export const kurslar: Kurs[] = [
+  { slug:"baglamaya-ilk-adim", baslik:"Bağlamaya İlk Adım", alan:"Bağlama", seviye:"Başlangıç", format:"8 haftalık program", ozet:"Tutuş, tezene, temel düzenler ve seçilmiş anonim türkülerle güvenli bir başlangıç.", kazanimlar:["Temel tezene vuruşları","Bozuk düzen giriş","Ritim ve usul farkındalığı"] },
+  { slug:"yoresel-baglama-tavirlari", baslik:"Yöresel Bağlama Tavırları", alan:"Bağlama", seviye:"Orta", format:"12 haftalık program", ozet:"Zeybek, Konya, Yozgat, Teke ve Karadeniz tavırlarını repertuvar üzerinden çalışın.", kazanimlar:["Tavırları ayırt etme","Yöresel süslemeler","Repertuvar analizi"] },
+  { slug:"ney-nefes-ve-perde", baslik:"Ney: Nefes ve Perde", alan:"Ney", seviye:"Başlangıç", format:"10 haftalık program", ozet:"Doğru nefes, ses çıkarma, perde hâkimiyeti ve temel makam yürüyüşleri.", kazanimlar:["Diyafram nefesi","Temiz ses üretimi","Rast ve Hüseyni girişleri"] },
+  { slug:"halk-muzigi-repertuvar-okumasi", baslik:"Türküyü Kaynağıyla Okumak", alan:"Halk müziği", seviye:"Her seviye", format:"6 çevrim içi buluşma", ozet:"Bir türkünün varyantlarını, derleme künyesini ve tarihsel bağlamını eleştirel biçimde okuyun.", kazanimlar:["Kaynak değerlendirme","Varyant karşılaştırma","Telif farkındalığı"] },
+];

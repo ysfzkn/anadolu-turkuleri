@@ -8,6 +8,7 @@ const zorunlu = [
   "NEXT_PUBLIC_SUPABASE_ANON_KEY",
   "SPOTIFY_CLIENT_ID",
   "SPOTIFY_CLIENT_SECRET",
+  "SUPABASE_SERVICE_ROLE_KEY",
 ] as const;
 
 const sorunlar: string[] = [];
@@ -27,7 +28,7 @@ if (supabaseUrl) {
 const yayinFiltresi = process.env.NEXT_PUBLIC_SADECE_DOGRULANMIS;
 if (yayinFiltresi && !["0", "1"].includes(yayinFiltresi)) sorunlar.push("NEXT_PUBLIC_SADECE_DOGRULANMIS yalnızca 0 veya 1 olabilir.");
 
-for (const migration of ["20260811_oyunlar.sql", "20260812_yasayan_hafiza.sql"]) {
+for (const migration of ["20260811_oyunlar.sql", "20260812_yasayan_hafiza.sql", "20260812_admin_icerik.sql"]) {
   if (!existsSync(`supabase/migrations/${migration}`)) sorunlar.push(`Migration bulunamadı: ${migration}`);
 }
 

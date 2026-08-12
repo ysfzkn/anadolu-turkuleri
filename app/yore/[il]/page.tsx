@@ -8,6 +8,8 @@ import { YoreMotifi } from "@/components/YoreMotifi";
 import { KonserAra } from "@/components/KonserAra";
 import { YoreVitrini } from "@/components/YoreVitrini";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { yayinlananEditorTurkuleri } from "@/lib/editor-data";
+import { ilSlug } from "@/lib/data";
 
 export function generateStaticParams() {
   return iller().map((il) => ({ il: il.slug }));
@@ -35,7 +37,8 @@ export default async function YoreSayfasi({ params }: YoreSayfasiProps) {
   const { il: ilSlugu } = await params;
   const il = iller().find((i) => i.slug === ilSlugu);
   if (!il) notFound();
-  const turkuler = ilTurkuleri(ilSlugu);
+  const editorTurkuleri = await yayinlananEditorTurkuleri();
+  const turkuler = [...ilTurkuleri(ilSlugu), ...editorTurkuleri.filter((t) => ilSlug(t.yore) === ilSlugu && !ilTurkuleri(ilSlugu).some((yerel) => yerel.slug === t.slug))];
   const bolge = bolgeBul(ilSlugu);
 
   return (
@@ -58,7 +61,7 @@ export default async function YoreSayfasi({ params }: YoreSayfasiProps) {
         <h1 className="font-serif text-4xl font-semibold text-ceviz">
           {il.ad} Türküleri
         </h1>
-        <p className="mt-2 text-ceviz-light">{il.ad} arşivinde {il.adet} türkü bulunuyor.</p>
+        <p className="mt-2 text-ceviz-light">{il.ad} arşivinde {turkuler.length} türkü bulunuyor.</p>
       </header>
 
       <YoreMotifi bolge={bolge} il={il.ad} className="mb-8 opacity-80" />

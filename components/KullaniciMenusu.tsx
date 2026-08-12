@@ -10,6 +10,7 @@ interface Hesap {
   kullaniciAdi: string | null;
   ad: string | null;
   avatar: string | null;
+  rol: string;
 }
 
 function BasHarfAvatar({ hesap, buyuk = false }: { hesap: Hesap; buyuk?: boolean }) {
@@ -65,7 +66,7 @@ export function KullaniciMenusu() {
       const meta = user.user_metadata ?? {};
       const { data } = await supabase
         .from("profiller")
-        .select("kullanici_adi")
+        .select("kullanici_adi,rol")
         .eq("id", user.id)
         .maybeSingle();
 
@@ -74,6 +75,7 @@ export function KullaniciMenusu() {
         kullaniciAdi: data?.kullanici_adi ?? null,
         ad: (meta.full_name || meta.name || meta.display_name || null) as string | null,
         avatar: (meta.avatar_url || meta.picture || null) as string | null,
+        rol: data?.rol ?? "uye",
       });
       setHazir(true);
     }
@@ -162,7 +164,9 @@ export function KullaniciMenusu() {
           <div className="p-2 text-sm">
             <MenuLink href="/repertuvar" ikon="🪕" baslik="Repertuvarım" aciklama="Çaldığım ve öğrendiğim türküler" onClick={() => setAcik(false)} />
             <MenuLink href="/listelerim" ikon="♫" baslik="Listelerim" aciklama="Kaydettiğim türkü seçkileri" onClick={() => setAcik(false)} />
+            <MenuLink href="/katkilarim" ikon="✦" baslik="Katkılarım" aciklama="Arşive gönderdiğim anlatılar" onClick={() => setAcik(false)} />
             <MenuLink href="/quiz" ikon="🏆" baslik="Oyun ve rozetler" aciklama="Bilgini ölç, serini geliştir" onClick={() => setAcik(false)} />
+            {(hesap.rol === "admin" || hesap.rol === "editor") && <MenuLink href="/admin" ikon="◆" baslik="Editör Masası" aciklama="Katkı ve içerik yönetimi" onClick={() => setAcik(false)} />}
           </div>
 
           <div className="border-t border-toprak/20 p-2">
