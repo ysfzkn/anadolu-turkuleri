@@ -8,18 +8,17 @@ Kod GitHub'da (`ysfzkn/anadolu-turkuleri`, `main`), production build doğruland�
 
 ## 1) Supabase (production) — önce veritabanı
 
-Uygulama Supabase'e bağlı; migration'lar production projesine uygulanmalı.
+Uygulama Supabase'e bağlı; şema production projesine uygulanmalı.
 
-- `supabase/migrations/` altındaki SQL dosyalarını **sırasıyla** çalıştır:
-  1. `20260810_temel_sistem.sql`
-  2. `20260811_oyunlar.sql`
-  3. `20260812_admin_icerik.sql`
-  4. `20260812_admin_guvenlik_duzeltmesi.sql`
-  5. `20260812_spotify_playlist_links.sql`
-  6. `20260812_yasayan_hafiza.sql`
-- Yöntem: Supabase CLI ile `supabase db push`, **ya da** Supabase Dashboard →
-  SQL Editor'de her dosyanın içeriğini sırayla yapıştırıp çalıştır.
+- **İlk kurulum:** `supabase/migrations/20260810_initial.sql` dosyasının
+  tamamını, yeni Supabase projesinde **Dashboard → SQL Editor**'de baştan sona
+  bir kez çalıştır. (Tüm tablolar, RLS politikaları ve fonksiyonlar doğru
+  bağımlılık sırasında tek dosyada.)
+- İlk admini atamak için (kullanıcı adını seçtikten sonra):
+  `update public.profiller set rol='admin' where kullanici_adi='KULLANICI_ADIN';`
 - (Zaten dev'de uyguladıysan ve prod = aynı proje ise atla.)
+- Bundan sonraki şema değişiklikleri ayrı, tarihli dosyalarda tutulur
+  (ör. `20260901_yeni_ozellik.sql`) ve yalnızca o dosyayı çalıştırırsın.
 
 ## 2) Vercel projesi oluştur
 
