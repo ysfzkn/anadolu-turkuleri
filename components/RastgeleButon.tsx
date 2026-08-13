@@ -15,7 +15,7 @@ export function RastgeleButon({ sluglar }: { sluglar: string[] }) {
   return (
     <button
       onClick={git}
-      className="inline-flex items-center gap-1.5 rounded-full border border-cini/40 bg-cini/5 px-3 py-1 text-sm font-medium text-cini-dark transition-colors hover:bg-cini hover:text-parsomen"
+      className="inline-flex min-h-10 items-center gap-1.5 rounded-full border border-cini/40 bg-cini/5 px-4 py-2 text-sm font-medium text-cini-dark transition-colors hover:bg-cini hover:text-parsomen"
     >
       🎲 Rastgele türkü
     </button>

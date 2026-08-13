@@ -89,7 +89,7 @@ export default async function AnaSayfa() {
           <RastgeleButon sluglar={turkuler.map((t) => t.slug)} />
           <Link
             href="/quiz"
-            className="inline-flex items-center gap-1.5 rounded-full border border-toprak/40 bg-toprak/5 px-3 py-1 text-sm font-medium text-toprak-dark transition-colors hover:bg-toprak hover:text-parsomen"
+            className="inline-flex min-h-10 items-center gap-1.5 rounded-full border border-toprak/40 bg-toprak/5 px-4 py-2 text-sm font-medium text-toprak-dark transition-colors hover:bg-toprak hover:text-parsomen"
           >
             🪕 Bilgi oyunu
           </Link>
