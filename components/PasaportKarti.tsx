@@ -19,8 +19,15 @@ export function PasaportKarti({
   const [durum, setDurum] = useState<"hazir" | "uretiliyor">("hazir");
 
   async function pngUret(): Promise<Blob | null> {
-    if (!kartRef.current) return null;
-    const dataUrl = await toPng(kartRef.current, { pixelRatio: 2, cacheBust: true });
+    const el = kartRef.current;
+    if (!el) return null;
+    const dataUrl = await toPng(el, {
+      pixelRatio: 2,
+      cacheBust: true,
+      width: el.offsetWidth,
+      height: el.offsetHeight,
+      style: { margin: "0" },
+    });
     const res = await fetch(dataUrl);
     return await res.blob();
   }

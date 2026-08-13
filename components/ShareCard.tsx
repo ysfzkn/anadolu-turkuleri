@@ -13,10 +13,16 @@ export function ShareCard({ turku }: { turku: Turku }) {
   const [durum, setDurum] = useState<"hazir" | "uretiliyor">("hazir");
 
   async function pngUret(): Promise<Blob | null> {
-    if (!kartRef.current) return null;
-    const dataUrl = await toPng(kartRef.current, {
+    const el = kartRef.current;
+    if (!el) return null;
+    // Kartı tam ve ofsetsiz yakala: mx-auto kaynaklı auto margin'i (html-to-image'da
+    // sağa kayma/kırpılmaya yol açar) sıfırla ve genişlik/yüksekliği açıkça ver.
+    const dataUrl = await toPng(el, {
       pixelRatio: 2,
       cacheBust: true,
+      width: el.offsetWidth,
+      height: el.offsetHeight,
+      style: { margin: "0" },
     });
     const res = await fetch(dataUrl);
     return await res.blob();

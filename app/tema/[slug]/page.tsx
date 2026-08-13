@@ -6,6 +6,8 @@ import { TEMA_ACIKLAMALARI } from "@/lib/tema-aciklamalari";
 import { YoreTurkuListesi } from "@/components/YoreTurkuListesi";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 import { KesifKaydedici } from "@/components/KesifKaydedici";
+import { YolculuklardaGecer } from "@/components/YolculuklardaGecer";
+import { yolculuklardaGecen } from "@/lib/yolculuklar-veri";
 import { MotifBorder } from "@/components/Motif";
 
 export function generateStaticParams() {
@@ -98,6 +100,8 @@ export default async function TemaSayfasi({ params }: TemaSayfasiProps) {
           )}
         </section>
       )}
+
+      <YolculuklardaGecer baslik="Bu tema şu yolculuklarda geçiyor" rozetler={yolculuklardaGecen("tema", tema.slug)} />
 
       <MotifBorder className="my-8 opacity-70" />
 

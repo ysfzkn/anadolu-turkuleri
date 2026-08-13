@@ -6,6 +6,8 @@ import { OZAN_GORSELLERI } from "@/lib/ozan-gorselleri";
 import { YoreTurkuListesi } from "@/components/YoreTurkuListesi";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 import { KesifKaydedici } from "@/components/KesifKaydedici";
+import { YolculuklardaGecer } from "@/components/YolculuklardaGecer";
+import { yolculuklardaGecen } from "@/lib/yolculuklar-veri";
 import { MotifBorder } from "@/components/Motif";
 
 export function generateStaticParams() {
@@ -112,6 +114,8 @@ export default async function KisiSayfasi({ params }: KisiSayfasiProps) {
           )}
         </section>
       )}
+
+      <YolculuklardaGecer baslik="Bu ozan şu yolculuklarda geçiyor" rozetler={yolculuklardaGecen("kisi", kisi.slug)} />
 
       <MotifBorder className="my-8 opacity-70" />
 

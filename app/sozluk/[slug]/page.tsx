@@ -5,6 +5,8 @@ import { terimDetay, tumTerimSluglari } from "@/lib/sozluk";
 import { YoreTurkuListesi } from "@/components/YoreTurkuListesi";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
 import { KesifKaydedici } from "@/components/KesifKaydedici";
+import { YolculuklardaGecer } from "@/components/YolculuklardaGecer";
+import { yolculuklardaGecen } from "@/lib/yolculuklar-veri";
 import { MotifBorder } from "@/components/Motif";
 
 export function generateStaticParams() {
@@ -95,6 +97,8 @@ export default async function TerimSayfasi({ params }: TerimSayfasiProps) {
           </div>
         </section>
       )}
+
+      <YolculuklardaGecer baslik="Bu terim şu yolculuklarda geçiyor" rozetler={yolculuklardaGecen("terim", terim.slug)} />
 
       {terim.turkuler.length > 0 && (
         <>

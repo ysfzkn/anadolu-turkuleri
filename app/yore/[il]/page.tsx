@@ -8,6 +8,8 @@ import { YoreMotifi } from "@/components/YoreMotifi";
 import { KonserAra } from "@/components/KonserAra";
 import { YoreVitrini } from "@/components/YoreVitrini";
 import { YapilandirilmisVeri } from "@/components/YapilandirilmisVeri";
+import { YolculuklardaGecer } from "@/components/YolculuklardaGecer";
+import { yolculuklardaGecen } from "@/lib/yolculuklar-veri";
 import { yayinlananEditorTurkuleri } from "@/lib/editor-data";
 import { ilSlug } from "@/lib/data";
 
@@ -74,6 +76,10 @@ export default async function YoreSayfasi({ params }: YoreSayfasiProps) {
       <YoreMotifi bolge={bolge} il={il.ad} className="mb-8 opacity-80" />
 
       <YoreVitrini il={il.ad} bolge={bolge} />
+
+      <div className="mt-8">
+        <YolculuklardaGecer baslik="Bu yöre şu yolculuklarda geçiyor" rozetler={yolculuklardaGecen("yore", il.slug)} />
+      </div>
 
       <YoreTurkuListesi turkuler={turkuler} />
 

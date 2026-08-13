@@ -23,6 +23,8 @@ import { BuradanNereye } from "@/components/BuradanNereye";
 import { KaynakDurumu } from "@/components/KaynakDurumu";
 import { Varyantlar } from "@/components/Varyantlar";
 import { ToplulukKatkilari } from "@/components/ToplulukKatkilari";
+import { YolculuklardaGecer } from "@/components/YolculuklardaGecer";
+import { yolculuklardaGecen } from "@/lib/yolculuklar-veri";
 import { editorTurkusuBul } from "@/lib/editor-data";
 import { benzerTurkuler } from "@/lib/varliklar";
 import { turkudeGecenTerimler } from "@/lib/sozluk";
@@ -221,6 +223,8 @@ export default async function TurkuSayfasi({
       )}
 
       <Varyantlar turku={turku} digerKayitlar={digerKayitlar} />
+
+      <YolculuklardaGecer baslik="Bu türkü şu yolculuklarda geçiyor" rozetler={yolculuklardaGecen("turku", turku.slug)} />
 
       <MotifBorder className="my-8 opacity-70" />
 
