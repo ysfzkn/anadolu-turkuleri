@@ -97,11 +97,6 @@ export function TurkuMedyaVitrini({
   const youtubeMusicUrl = youtube
     ? `https://music.youtube.com/watch?v=${youtube.videoId}`
     : `https://music.youtube.com/search?q=${encodeURIComponent(aramaSorgusu)}`;
-  const youtubeMusicKapak = youtube?.thumbnail ?? spotify?.gorsel ?? null;
-  const youtubeMusicBaslik = youtube ? htmlCoz(youtube.baslik) : spotify?.ad ?? baslik;
-  const youtubeMusicAltBilgi = youtube
-    ? (youtube.kanal ?? "YouTube Music")
-    : (spotify?.sanatci ?? "YouTube Music'te ara");
   const spotifyIframeMevcut = Boolean(spotify?.id) && !spotify?.onizlemeUrl;
 
   return (
@@ -120,13 +115,12 @@ export function TurkuMedyaVitrini({
       </div>
 
       {durum === "yukleniyor" ? (
-        <div className="grid gap-3 p-3 sm:gap-4 sm:p-6 sm:grid-cols-2 xl:grid-cols-3">
-          <div className="h-64 animate-pulse rounded-2xl bg-toprak/15" />
-          <div className="h-64 animate-pulse rounded-2xl bg-ceviz/10" />
-          <div className="h-64 animate-pulse rounded-2xl bg-kilim/10" />
+        <div className="grid gap-3 p-3 sm:gap-4 sm:p-6 md:grid-cols-2">
+          <div className="h-72 animate-pulse rounded-2xl bg-toprak/15" />
+          <div className="h-72 animate-pulse rounded-2xl bg-ceviz/10" />
         </div>
       ) : (
-        <div className="grid items-stretch gap-3 p-3 sm:gap-4 sm:p-6 sm:grid-cols-2 xl:grid-cols-3">
+        <div className="grid items-stretch gap-3 p-3 sm:gap-4 sm:p-6 md:grid-cols-2">
           {/* Spotify */}
           <article className="group/card flex min-w-0 flex-col overflow-hidden rounded-2xl border border-[#1DB954]/25 bg-[#0f1712] text-white shadow-sm transition hover:border-[#1DB954]/45">
             <div className="relative aspect-video min-w-0 overflow-hidden bg-gradient-to-br from-[#193b25] to-black">
@@ -160,7 +154,7 @@ export function TurkuMedyaVitrini({
                   <div>
                     <SpotifyIkon className="mx-auto h-10 w-10 text-[#1DB954]" />
                     <p className="mt-3 text-sm text-white/60">
-                      {spotify ? "Albüm kapağı yok — Spotify'da aç" : "Spotify'da ara"}
+                      {spotify ? "Kapak yok — Spotify'da aç" : "Spotify'da ara"}
                     </p>
                   </div>
                 </a>
@@ -233,7 +227,7 @@ export function TurkuMedyaVitrini({
             )}
           </article>
 
-          {/* YouTube */}
+          {/* YouTube (YouTube Music inline chip ile) */}
           <article className="group/card flex min-w-0 flex-col overflow-hidden rounded-2xl border border-[#FF0000]/20 bg-[#151111] text-white shadow-sm transition hover:border-[#FF0000]/45">
             <div className="relative aspect-video min-w-0 overflow-hidden bg-black">
               {youtube && youtubeAcik ? (
@@ -303,60 +297,17 @@ export function TurkuMedyaVitrini({
                 Aç
               </a>
             </div>
-          </article>
-
-          {/* YouTube Music */}
-          <article className="group/card flex min-w-0 flex-col overflow-hidden rounded-2xl border border-[#FF0000]/20 bg-gradient-to-br from-[#1a0e10] via-[#150a0d] to-black text-white shadow-sm transition hover:border-[#FF0000]/45 sm:col-span-2 xl:col-span-1">
-            <a
-              href={youtubeMusicUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label={`${youtubeMusicBaslik} eserini YouTube Music'te aç`}
-              className="group relative block aspect-video min-w-0 overflow-hidden"
-            >
-              {youtubeMusicKapak ? (
-                <>
-                  <img
-                    src={youtubeMusicKapak}
-                    alt=""
-                    aria-hidden
-                    className="absolute inset-0 h-full w-full scale-110 object-cover opacity-40 blur-2xl"
-                  />
-                  <img
-                    src={youtubeMusicKapak}
-                    alt={`${baslik} YouTube Music kapağı`}
-                    className="relative z-[1] h-full w-full object-cover transition duration-500 group-hover/card:scale-[1.03]"
-                  />
-                  <span className="absolute inset-0 z-[2] bg-gradient-to-t from-black/75 via-transparent to-black/10" />
-                </>
-              ) : (
-                <div className="grid h-full place-items-center px-6 text-center">
-                  <div>
-                    <YouTubeMusicIkon className="mx-auto h-10 w-10 text-[#FF0000]" />
-                    <p className="mt-3 text-sm text-white/60">YouTube Music'te ara</p>
-                  </div>
-                </div>
-              )}
-              <span className="absolute left-1/2 top-1/2 z-[3] grid h-14 w-14 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-[#FF0000] shadow-2xl transition group-hover/card:scale-110">
-                <YouTubeMusicIkon className="h-8 w-8 text-white" />
-              </span>
-              <span className="absolute bottom-3 left-3 right-3 z-[3] text-xs font-semibold text-white/95 drop-shadow">
-                YouTube Music'te aç
-              </span>
-            </a>
-            <div className="flex min-h-[88px] items-start gap-3 border-t border-white/5 p-4">
-              <YouTubeMusicIkon className="mt-0.5 h-5 w-5 shrink-0 text-[#FF0000]" />
-              <div className="min-w-0 flex-1">
-                <p className="line-clamp-1 text-sm font-semibold">{youtubeMusicBaslik}</p>
-                <p className="mt-0.5 line-clamp-1 text-xs text-white/55">{youtubeMusicAltBilgi}</p>
-              </div>
+            {/* İkincil çıkış: YouTube Music (aynı videoId, farklı uygulama) */}
+            <div className="border-t border-white/5 bg-black/25 p-3">
               <a
                 href={youtubeMusicUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="shrink-0 rounded-full border border-white/15 px-3 py-1.5 text-xs font-semibold transition hover:bg-white hover:text-black"
+                className="flex w-full items-center justify-center gap-2 rounded-lg border border-white/10 px-3 py-2 text-xs font-medium text-white/70 transition hover:border-[#FF0000]/50 hover:text-white"
+                aria-label={`${youtube ? htmlCoz(youtube.baslik) : baslik} eserini YouTube Music'te aç`}
               >
-                Aç
+                <YouTubeMusicIkon className="h-3.5 w-3.5 text-[#FF0000]" />
+                YouTube Music'te aç
               </a>
             </div>
           </article>
