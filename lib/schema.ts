@@ -23,7 +23,7 @@ export const kaynakSchema = z.object({
 });
 
 export const platformBaglantisiSchema = z.object({
-  platform: z.enum(["youtube", "spotify", "apple-music", "diger"]),
+  platform: z.enum(["youtube", "youtube-music", "spotify", "apple-music", "diger"]),
   url: z.string().url(),
   icra: z.string().optional(),
   dogrulandi: z.boolean().optional(),

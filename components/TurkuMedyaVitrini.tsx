@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { SpotifyIkon, YouTubeIkon } from "@/components/MarkaIkonlari";
+import { SpotifyIkon, YouTubeIkon, YouTubeMusicIkon } from "@/components/MarkaIkonlari";
 
 interface SpotifyMedya {
   id: string | null;
@@ -90,7 +90,16 @@ export function TurkuMedyaVitrini({
 
   const spotify = medya.spotify;
   const youtube = medya.youtube;
-  const youtubeArama = `https://www.youtube.com/results?search_query=${encodeURIComponent(`${baslik} ${ozan || yore} türkü`)}`;
+  const aramaSorgusu = `${baslik} ${ozan || yore} türkü`;
+  const youtubeArama = `https://www.youtube.com/results?search_query=${encodeURIComponent(aramaSorgusu)}`;
+  const youtubeMusicUrl = youtube
+    ? `https://music.youtube.com/watch?v=${youtube.videoId}`
+    : `https://music.youtube.com/search?q=${encodeURIComponent(aramaSorgusu)}`;
+  const youtubeMusicKapak = youtube ? youtube.thumbnail : spotify?.gorsel ?? null;
+  const youtubeMusicBaslik = youtube ? htmlCoz(youtube.baslik) : spotify?.ad ?? baslik;
+  const youtubeMusicAltBilgi = youtube
+    ? youtube.kanal ?? "YouTube Music"
+    : spotify?.sanatci ?? "YouTube Music'te ara";
 
   return (
     <section aria-labelledby="dinle-izle-baslik" className="mb-8 overflow-hidden rounded-[28px] border border-toprak/30 bg-white/55 shadow-motif">
@@ -103,12 +112,13 @@ export function TurkuMedyaVitrini({
       </div>
 
       {durum === "yukleniyor" ? (
-        <div className="grid gap-4 p-4 sm:p-6 md:grid-cols-2">
+        <div className="grid gap-4 p-4 sm:p-6 md:grid-cols-2 lg:grid-cols-3">
           <div className="h-[240px] animate-pulse rounded-2xl bg-toprak/15" />
           <div className="h-[240px] animate-pulse rounded-2xl bg-ceviz/10" />
+          <div className="h-[240px] animate-pulse rounded-2xl bg-kilim/10" />
         </div>
       ) : (
-        <div className="grid items-stretch gap-4 p-4 sm:p-6 md:grid-cols-2">
+        <div className="grid items-stretch gap-4 p-4 sm:p-6 md:grid-cols-2 lg:grid-cols-3">
           {/* Spotify */}
           <article className="flex flex-col overflow-hidden rounded-2xl border border-[#1DB954]/25 bg-[#0f1712] text-white">
             {spotify?.id && !spotify.onizlemeUrl ? (
@@ -184,6 +194,52 @@ export function TurkuMedyaVitrini({
               <YouTubeIkon className="mt-0.5 h-6 w-6 shrink-0 text-[#FF0000]" />
               <div className="min-w-0 flex-1"><p className="line-clamp-1 font-semibold">{youtube ? htmlCoz(youtube.baslik) : `${baslik} · YouTube araması`}</p><p className="mt-0.5 truncate text-sm text-white/55">{youtube?.kanal ?? (youtube?.kaynak === "arsiv" ? "Arşivde doğrulanan video" : "YouTube")}</p></div>
               <a href={youtube?.youtubeUrl ?? youtubeArama} target="_blank" rel="noopener noreferrer" className="shrink-0 rounded-full border border-white/15 px-3 py-1.5 text-xs font-semibold transition hover:bg-white hover:text-black">YouTube’da aç</a>
+            </div>
+          </article>
+
+          {/* YouTube Music */}
+          <article className="flex flex-col overflow-hidden rounded-2xl border border-[#FF0000]/20 bg-gradient-to-br from-[#1a0e10] via-[#150a0d] to-black text-white">
+            <a
+              href={youtubeMusicUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`${youtubeMusicBaslik} eserini YouTube Music’te aç`}
+              className="group relative flex aspect-square items-center justify-center overflow-hidden"
+            >
+              {youtubeMusicKapak ? (
+                <>
+                  <img src={youtubeMusicKapak} alt="" aria-hidden className="absolute inset-0 h-full w-full scale-110 object-cover opacity-30 blur-2xl" />
+                  <img src={youtubeMusicKapak} alt={`${baslik} YouTube Music kapağı`} className="relative z-[1] h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]" />
+                  <span className="absolute inset-0 z-[2] bg-gradient-to-t from-black/75 via-transparent to-black/10" />
+                </>
+              ) : (
+                <div className="grid h-full place-items-center px-8 text-center">
+                  <div>
+                    <YouTubeMusicIkon className="mx-auto h-12 w-12 text-[#FF0000]" />
+                    <p className="mt-4 font-serif text-2xl">{baslik}</p>
+                    <p className="mt-2 text-sm text-white/55">YouTube Music’te ara</p>
+                  </div>
+                </div>
+              )}
+              <span className="absolute left-1/2 top-1/2 z-[3] grid h-16 w-16 -translate-x-1/2 -translate-y-1/2 place-items-center rounded-full bg-[#FF0000] shadow-2xl transition group-hover:scale-110">
+                <YouTubeMusicIkon className="h-9 w-9 text-white" />
+              </span>
+              <span className="absolute bottom-4 left-4 right-4 z-[3] text-sm font-semibold text-white drop-shadow">YouTube Music’te aç</span>
+            </a>
+            <div className="mt-auto flex items-start gap-3 p-4">
+              <YouTubeMusicIkon className="mt-0.5 h-6 w-6 shrink-0 text-[#FF0000]" />
+              <div className="min-w-0 flex-1">
+                <p className="line-clamp-1 font-semibold">{youtubeMusicBaslik}</p>
+                <p className="mt-0.5 truncate text-sm text-white/55">{youtubeMusicAltBilgi}</p>
+              </div>
+              <a
+                href={youtubeMusicUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="shrink-0 rounded-full border border-white/15 px-3 py-1.5 text-xs font-semibold transition hover:bg-white hover:text-black"
+              >
+                Music
+              </a>
             </div>
           </article>
         </div>

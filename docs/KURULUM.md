@@ -49,6 +49,7 @@ Vercel'e) girip entegrasyonu kuracağım.
    4. `20260812_admin_icerik.sql` — editör, admin ve yönetilebilir içerikler
    5. `20260812_admin_guvenlik_duzeltmesi.sql` — admin işlevlerinin güvenlik düzeltmeleri
    6. `20260812_spotify_playlist_links.sql` — kalıcı Spotify liste eşlemesi
+   7. `20260813_youtube_liste.sql` — kalıcı YouTube (Music) liste eşlemesi
 
    Dosyalar yeni proje kurulumunda yukarıdaki sırayla uygulanmalıdır. Daha önce
    temel tabloları bu dokümandan elle oluşturduysan `20260810_temel_sistem.sql`
@@ -60,11 +61,35 @@ Vercel'e) girip entegrasyonu kuracağım.
 
 1. https://console.cloud.google.com → üstten bir **proje oluştur** (ör.
    `anadolu-turkuleri`).
-2. **APIs & Services → OAuth consent screen**:
-   - User Type: **External** → Create
-   - App name, User support email, Developer contact email doldur → Save
-   - (Yayına almadan test edeceksen "Test users"a kendi Gmail'ini ekle.)
-3. **APIs & Services → Credentials → Create Credentials → OAuth client ID**:
+2. **Google Auth Platform** (yeni ad — eski "OAuth consent screen" menü linki
+   artık buraya yönlendirir). Sol menüde `APIs & Services` altında değil,
+   arama çubuğuna **"Google Auth Platform"** yazarak veya doğrudan
+   `https://console.cloud.google.com/auth/overview` adresine giderek açabilirsin.
+   İlk kez giriyorsan **"Get started"**'e tıkla:
+   - **App information**: App name (`Anadolu Türküleri`), User support email
+   - **Audience**: **External** seç
+   - **Contact information**: Developer contact email
+   - **Finish** → Google Auth Platform artık bu proje için etkin.
+3. Aynı **Google Auth Platform** sol menüsünde şunları yap:
+   - **Branding** — logo, uygulama alanı vb. (kaydettiğin bilgilerin
+     görüntülendiği ekran; opsiyonel düzenlemeler).
+   - **Audience** — sağ üstteki **+ Add users** ile kendi Gmail'ini
+     **Test users** olarak ekle (uygulama "Testing" modundayken zorunlu).
+   - **Data access** — **Add or remove scopes** düğmesine bas, açılan sağ
+     panelde en alttaki "Manually add scopes" kutusuna şunu yaz ve **Add to
+     table** de:
+     ```
+     https://www.googleapis.com/auth/youtube
+     ```
+     Sonra alttan **Update** → **Save**. Bu, kullanıcı onay ekranında YouTube
+     playlist okuma/yazma iznini net göstermek içindir. `openid`, `email`,
+     `profile` zaten temel scope'lar olarak kabul edilir.
+4. **APIs & Services → Library → YouTube Data API v3**'ü aç (bu, giriş için
+   kullanılan API-key'den bağımsız olarak kullanıcı OAuth çağrılarında da
+   gereklidir).
+5. **APIs & Services → Credentials → Create Credentials → OAuth client ID**
+   (aynı işleve Google Auth Platform → **Clients** menüsünden de
+   ulaşabilirsin):
    - Application type: **Web application**
    - **Authorized redirect URIs** → şunu ekle (Spotify'daki ile AYNI Supabase
      callback'i):
@@ -72,15 +97,39 @@ Vercel'e) girip entegrasyonu kuracağım.
      https://<proje>.supabase.co/auth/v1/callback
      ```
    - Create → çıkan **Client ID** ve **Client Secret**'ı kopyala.
-4. **Supabase → Authentication → Providers → Google**'ı aç → bu Client ID /
-   Secret'ı yapıştır, kaydet.
-5. Google ile açılmış bir hesabın sonradan Spotify'a bağlanabilmesi için
+6. **Supabase → Authentication → Providers → Google**'ı aç:
+   - Client ID / Client Secret'ı yapıştır ve kaydet.
+   - Not: Bu ekranda Spotify'daki gibi bir **"Scopes"** alanı **yoktur**. Google
+     için ek scope'lar Supabase Dashboard'dan değil, uygulama kodundan
+     istenir — projede `YouTubeMusicBaglaButonu` bileşeni her giriş isteğinde
+     `openid email profile https://www.googleapis.com/auth/youtube` scope'unu
+     otomatik gönderir. Yani izin akışı için yapman gereken tek şey (a) Google
+     Auth Platform → Data access ekranına YouTube scope'unu eklemek (yukarıda
+     3. adım) ve (b) YouTube Data API v3'ü etkinleştirmek (4. adım).
+7. Google ile açılmış bir hesabın sonradan Spotify'a bağlanabilmesi için
    **Supabase → Authentication → Settings → Manual Linking** seçeneğini aç.
    Bu ayar kapalıysa kullanıcı giriş yapabilir; ancak listesini Spotify'a
    aktarırken mevcut hesabına Spotify yetkisi ekleyemez.
 
 > Yani hem Google hem Spotify aynı Supabase callback adresine döner; her iki
 > sağlayıcının kendi panelinde de aynı redirect URI kullanılır.
+
+### 1b.1) YouTube Music'e liste aktarımı
+
+`https://www.googleapis.com/auth/youtube` kapsamı; **YouTube Music'e liste
+aktarımı** ve "YouTube Music listeme ekle" özelliği için gereklidir. YouTube
+Music'in ayrı bir public API'si olmadığı için playlist'ler YouTube Data API v3
+üzerinden oluşturulur ve YouTube ile YouTube Music aynı hesap altında olduğu
+için sonuç `music.youtube.com` üzerinde de görünür.
+
+- Bu kapsam **hesap bağlanırken** onay ekranında istenir. Daha önce Google ile
+  giriş yapmış kullanıcılar `YouTube Music'e aktar` butonuna bastığında
+  "Google'ı bağla" adımına yönlendirilir; onay ekranından yeni izni verirler.
+- Uygulama, OAuth çağrısını `access_type=offline` ve `prompt=consent` ile
+  yaptığı için hem refresh token'a hem de eksik izinlerin görünmesine güvenir.
+- Ek DB adımı: `supabase/migrations/20260813_youtube_liste.sql` dosyasını da
+  SQL Editor'de çalıştır. Bu migration `youtube_liste_baglantilari` tablosunu
+  ve RLS politikasını oluşturur (Spotify eşleme tablosuyla aynı kalıp).
 
 ---
 

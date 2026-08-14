@@ -19,6 +19,19 @@ export function YouTubeIkon({ className = "" }: { className?: string }) {
   );
 }
 
+/**
+ * YouTube Music resmî işareti — dış çember, iç halka ve ortadaki oynatma
+ * üçgeninden oluşur. Tek renk (currentColor) çizilir; marka kırmızısı
+ * (#FF0000) çağrı yerinde uygulanır.
+ */
+export function YouTubeMusicIkon({ className = "" }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" className={className} aria-hidden fill="currentColor">
+      <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 2.4c5.302 0 9.6 4.298 9.6 9.6s-4.298 9.6-9.6 9.6S2.4 17.302 2.4 12 6.698 2.4 12 2.4zm0 3.6a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm-1.5 3.2 4.2 2.8-4.2 2.8V9.2z" />
+    </svg>
+  );
+}
+
 /** Google "G" — resmî 4 renkli. */
 export function GoogleIkon({ className = "" }: { className?: string }) {
   return (

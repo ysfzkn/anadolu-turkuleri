@@ -5,6 +5,8 @@ import Link from "next/link";
 import { tarayiciSupabase } from "@/lib/supabase/client";
 import { SpotifyAktarButonu } from "@/components/SpotifyAktarButonu";
 import { SpotifyListelerim } from "@/components/SpotifyListelerim";
+import { YouTubeMusicAktarButonu } from "@/components/YouTubeMusicAktarButonu";
+import { YouTubeMusicListelerim } from "@/components/YouTubeMusicListelerim";
 
 interface Liste {
   id: string;
@@ -13,6 +15,8 @@ interface Liste {
   paylasim_kodu: string;
   adet: number;
   spotifyUrl?: string | null;
+  youtubeUrl?: string | null;
+  youtubeMusicUrl?: string | null;
 }
 
 export default function ListelerimSayfasi() {
@@ -56,15 +60,29 @@ export default function ListelerimSayfasi() {
       .from("spotify_liste_baglantilari")
       .select("liste_id,spotify_url");
     const spotifyHaritasi = new Map((spotifyBaglantilari ?? []).map((satir: any) => [satir.liste_id, satir.spotify_url]));
+    const { data: youtubeBaglantilari } = await supabase
+      .from("youtube_liste_baglantilari")
+      .select("liste_id,youtube_url,music_url");
+    const youtubeHaritasi = new Map(
+      (youtubeBaglantilari ?? []).map((satir: any) => [
+        satir.liste_id,
+        { youtube_url: satir.youtube_url as string | null, music_url: satir.music_url as string | null },
+      ]),
+    );
     setListeler(
-      (data ?? []).map((l: any) => ({
-        id: l.id,
-        baslik: l.baslik,
-        herkese_acik: l.herkese_acik,
-        paylasim_kodu: l.paylasim_kodu,
-        adet: l.liste_turkuleri?.[0]?.count ?? 0,
-        spotifyUrl: spotifyHaritasi.get(l.id) ?? null,
-      })),
+      (data ?? []).map((l: any) => {
+        const youtubeKaydi = youtubeHaritasi.get(l.id);
+        return {
+          id: l.id,
+          baslik: l.baslik,
+          herkese_acik: l.herkese_acik,
+          paylasim_kodu: l.paylasim_kodu,
+          adet: l.liste_turkuleri?.[0]?.count ?? 0,
+          spotifyUrl: spotifyHaritasi.get(l.id) ?? null,
+          youtubeUrl: youtubeKaydi?.youtube_url ?? null,
+          youtubeMusicUrl: youtubeKaydi?.music_url ?? null,
+        };
+      }),
     );
   }
 
@@ -203,6 +221,13 @@ export default function ListelerimSayfasi() {
               </div>
               <div className="flex min-w-0 flex-col gap-3 lg:items-end">
                 {l.adet > 0 && <SpotifyAktarButonu listeId={l.id} spotifyUrl={l.spotifyUrl} />}
+                {l.adet > 0 && (
+                  <YouTubeMusicAktarButonu
+                    listeId={l.id}
+                    youtubeUrl={l.youtubeUrl}
+                    musicUrl={l.youtubeMusicUrl}
+                  />
+                )}
                 <div className="flex flex-wrap items-center gap-2 text-sm lg:justify-end">
                 <button
                   onClick={() => gorunurluk(l)}
@@ -249,6 +274,7 @@ export default function ListelerimSayfasi() {
         </div>
       )}
       <SpotifyListelerim />
+      <YouTubeMusicListelerim />
     </div>
   );
 }

@@ -12,6 +12,7 @@ import { ShareCard } from "@/components/ShareCard";
 import { ListeyeEkle } from "@/components/ListeyeEkle";
 import { TurkuMedyaVitrini } from "@/components/TurkuMedyaVitrini";
 import { SpotifyListeyeEkle } from "@/components/SpotifyListeyeEkle";
+import { YouTubeMusicListeyeEkle } from "@/components/YouTubeMusicListeyeEkle";
 import { RepertuvaraEkle } from "@/components/RepertuvaraEkle";
 import { DurumRozeti } from "@/components/DurumRozeti";
 import { MotifBorder } from "@/components/Motif";
@@ -140,6 +141,7 @@ export default async function TurkuSayfasi({
         <DinlemeAlani baglantilar={turku.baglantilar} turkuSlug={turku.slug} il={ilSlug(turku.yore)} />
         <ListeyeEkle turkuSlug={turku.slug} />
         <SpotifyListeyeEkle turkuSlug={turku.slug} />
+        <YouTubeMusicListeyeEkle turkuSlug={turku.slug} />
         <RepertuvaraEkle turkuSlug={turku.slug} />
         <Link href={`/soy-agaci?turku=${turku.slug}`} className="inline-flex min-h-11 items-center rounded-xl border border-cini/30 bg-cini/5 px-4 text-sm font-semibold text-cini-dark hover:bg-cini hover:text-white">◇ Soy ağacında gör</Link>
       </section>

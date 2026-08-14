@@ -4,11 +4,13 @@ import type { PlatformBaglantisi } from "@/lib/types";
 import {
   SpotifyIkon,
   YouTubeIkon,
+  YouTubeMusicIkon,
   AppleMusicIkon,
 } from "./MarkaIkonlari";
 
 const ETIKET: Record<PlatformBaglantisi["platform"], string> = {
   youtube: "YouTube",
+  "youtube-music": "YouTube Music",
   spotify: "Spotify",
   "apple-music": "Apple Music",
   diger: "Dinle",
@@ -16,6 +18,7 @@ const ETIKET: Record<PlatformBaglantisi["platform"], string> = {
 
 const RENK: Record<PlatformBaglantisi["platform"], string> = {
   youtube: "border-[#FF0000]/30 text-[#c4302b] hover:bg-[#FF0000] hover:text-white",
+  "youtube-music": "border-[#FF0000]/30 text-[#c4302b] hover:bg-[#FF0000] hover:text-white",
   spotify: "border-[#1DB954]/40 text-[#1a9e49] hover:bg-[#1DB954] hover:text-white",
   "apple-music": "border-[#FA243C]/30 text-[#d81f34] hover:bg-[#FA243C] hover:text-white",
   diger: "border-toprak/40 text-toprak-dark hover:bg-toprak hover:text-parsomen",
@@ -24,6 +27,7 @@ const RENK: Record<PlatformBaglantisi["platform"], string> = {
 function Ikon({ platform }: { platform: PlatformBaglantisi["platform"] }) {
   const c = "h-4 w-4 shrink-0";
   if (platform === "youtube") return <YouTubeIkon className={c} />;
+  if (platform === "youtube-music") return <YouTubeMusicIkon className={c} />;
   if (platform === "spotify") return <SpotifyIkon className={c} />;
   if (platform === "apple-music") return <AppleMusicIkon className={c} />;
   return null;
